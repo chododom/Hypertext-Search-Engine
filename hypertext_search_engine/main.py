@@ -1,13 +1,11 @@
 import threading
-from queue import Queue
 import collections
 from domain import *
 from spider import Spider
 
-HOMEPAGE = 'https://www.fit.cvut.cz/'
+HOMEPAGE = 'https://fit.cvut.cz'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 THREAD_CNT = 8
-# queue = Queue()  -> synchronized queue for later work with threads
 queue = collections.deque()
 queue.appendleft(HOMEPAGE)
 crawled = set()
@@ -22,13 +20,11 @@ def create_spiders():
 
 
 def crawl():
-    while True:
-        url = queue.pop()
-        Spider.crawl_page(url)
-        # Spider.crawl_page(threading.current_thread().name, url)
-        # queue.task_done()
+    while True:     # uspat pavouka (milisekunda napr.), pridat omezeni hloubky + poctu stranek
+        if len(queue) != 0:
+            url = queue.pop()
+            Spider.crawl_page(url)
 
 
-# create_spiders()  -> will be used once multithreaded solution is needed
-
+create_spiders()
 crawl()
