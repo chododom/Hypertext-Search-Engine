@@ -23,3 +23,4 @@ class LinkFinder(HTMLParser):
     def page_links(self):
         return self.links
 
+

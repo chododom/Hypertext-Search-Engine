@@ -1,6 +1,5 @@
 import urllib.request
 from link_finder import LinkFinder
-from queue import Queue
 import collections
 from domain import *
 
