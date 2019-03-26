@@ -1,7 +1,10 @@
 import urllib.request
 from link_finder import LinkFinder
 import collections
+
+from page import *
 from domain import *
+from bs4 import BeautifulSoup
 
 
 class Spider:
@@ -11,12 +14,14 @@ class Spider:
     domain_name = ''
     queue = collections.deque()
     crawled = set()
+    pages = []
 
-    def __init__(self, base_url, domain_name, queue, crawled):
+    def __init__(self, base_url, domain_name, queue, crawled, pages):
         Spider.base_url = base_url
         Spider.domain_name = domain_name
         Spider.queue = queue
         Spider.crawled = crawled
+        Spider.pages = pages
 
     @staticmethod
     def crawl_page(page_url):
@@ -38,10 +43,25 @@ class Spider:
                 html_string = html_bytes.decode("utf-8")
             finder = LinkFinder(Spider.base_url, page_url)
             finder.feed(html_string)
+
+            # extract visible text
+            soup = BeautifulSoup(html_string, "html.parser")
+            for str in soup(['style', 'script', '[document]', 'head', 'title']):
+                str.extract() # removes tag
+
+            visible_text = soup.getText()
+            # print('#################################################################################################')
+            # print(visible_text)
+            # print('#################################################################################################')
+
+            outlinks = finder.page_links()
+
+            page = Page(len(Spider.pages), page_url, visible_text, outlinks)
+            Spider.pages.append(page)
+            return outlinks
         except:
             print('Error: could not crawl page')
             return set()
-        return finder.page_links()
 
     @staticmethod
     def enqueue_links(links):

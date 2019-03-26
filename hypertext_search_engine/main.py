@@ -1,17 +1,19 @@
 import threading
 import collections
+
 from domain import *
 from spider import Spider
 import time
 
 HOMEPAGE = 'https://fit.cvut.cz'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
+pages = []
 THREAD_CNT = 10
 threads = set()
 queue = collections.deque()
 queue.appendleft(HOMEPAGE)
 crawled = set()
-Spider(HOMEPAGE, DOMAIN_NAME, queue, crawled)
+Spider(HOMEPAGE, DOMAIN_NAME, queue, crawled, pages)
 
 
 def create_spiders():
@@ -23,11 +25,16 @@ def create_spiders():
 
 
 def crawl():
-    while len(queue) < 1000:
+    while len(crawled) < 1000:
         if len(queue) != 0:
             url = queue.pop()
             Spider.crawl_page(url)
-            time.sleep(0.1)
+
 
 create_spiders()
+
 crawl()
+
+for thread in threads:
+    thread.join()
+
