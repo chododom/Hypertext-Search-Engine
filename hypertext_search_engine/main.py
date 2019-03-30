@@ -9,6 +9,7 @@ from page_rank import PageRank
 HOMEPAGE = 'https://fit.cvut.cz'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 pages = {}
+pages_lock = threading.RLock()
 THREAD_CNT = 30
 threads = set()
 queue = collections.deque()
@@ -41,7 +42,7 @@ for thread in threads:
     thread.join()
 
 PR = PageRank(pages)
-# PR.create_matrix()
+PR.create_matrix()
 
 # for a in PR.matrix:
 #     for b in PR.matrix[a]:

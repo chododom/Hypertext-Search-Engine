@@ -8,16 +8,15 @@ class PageRank:
         self.pages_cnt = len(pages)
 
         # init all page ranks to 1/n
-        for page in pages:
-            page.rank = 1 / self.pages_cnt
+        for url in self.pages:
+            pages[url].rank = 1 / self.pages_cnt
 
     def create_matrix(self):
-        for page in self.pages:
-            for link in page.outlinks:
-                if link.page_url in self.pages:
-                    self.matrix[link.page_url][page.page_url] = page.rank
+        print('Creating matrix...')
 
+        for url in self.pages:
+            for link in self.pages[url].outlinks:
+                if link in self.pages.keys():
+                    self.matrix[self.pages[link].page_url][url] = self.pages[url].rank
 
     # def iterative_formula_calculation(self):
-    #    for page in self.pages:
-    #        return

@@ -35,6 +35,7 @@ class Spider:
         if page_url not in Spider.crawled:
             Spider.enqueue_links(Spider.gather_links(page_url), page_url)
             Spider.crawled.add(page_url)
+        return Spider.pages
 
     @staticmethod
     def gather_links(page_url):
@@ -49,8 +50,9 @@ class Spider:
 
             # extract visible text
             soup = BeautifulSoup(html_string, "html.parser")
-            for str in soup(['style', 'script', '[document]', 'head', 'title']):
-               str.extract() # removes tag
+            for s in soup(['style', 'script', '[document]', 'head', 'title']):
+                # removes tag
+                s.extract()
 
             visible_text = soup.getText()
             outlinks = finder.page_links()
@@ -65,9 +67,9 @@ class Spider:
     @staticmethod
     def enqueue_links(links, page_url):
         for url in links:
+            Spider.pages[page_url].outlinks.add(url)
             if (url in Spider.queue) or (url in Spider.crawled):
                 continue
             if Spider.domain_name != get_domain_name(url):
                 continue
-            Spider.pages[page_url].outlinks.add(url)
             Spider.queue.appendleft(url)
