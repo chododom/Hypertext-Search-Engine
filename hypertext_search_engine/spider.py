@@ -47,13 +47,9 @@ class Spider:
             # extract visible text
             soup = BeautifulSoup(html_string, "html.parser")
             for str in soup(['style', 'script', '[document]', 'head', 'title']):
-                str.extract() # removes tag
+               str.extract() # removes tag
 
             visible_text = soup.getText()
-            # print('#################################################################################################')
-            # print(visible_text)
-            # print('#################################################################################################')
-
             outlinks = finder.page_links()
 
             page = Page(len(Spider.pages), page_url, visible_text, outlinks)

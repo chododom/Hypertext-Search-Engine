@@ -8,7 +8,7 @@ import time
 HOMEPAGE = 'https://fit.cvut.cz'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 pages = []
-THREAD_CNT = 10
+THREAD_CNT = 30
 threads = set()
 queue = collections.deque()
 queue.appendleft(HOMEPAGE)
@@ -29,6 +29,7 @@ def crawl():
         if len(queue) != 0:
             url = queue.pop()
             Spider.crawl_page(url)
+            time.sleep(0.05)
 
 
 create_spiders()
@@ -37,4 +38,6 @@ crawl()
 
 for thread in threads:
     thread.join()
+
+
 
