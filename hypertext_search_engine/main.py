@@ -44,10 +44,6 @@ for thread in threads:
 PR = PageRank(pages)
 PR.create_matrix()
 
-# for a in PR.matrix:
-#     for b in PR.matrix[a]:
-#         print(b)
-
 # for page in pages:
 #    print(str(page.id) + ": " + page.page_url)
 
