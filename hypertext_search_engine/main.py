@@ -1,13 +1,14 @@
 import threading
 import collections
+import time
 
 from domain import *
 from spider import Spider
-import time
+from page_rank import PageRank
 
 HOMEPAGE = 'https://fit.cvut.cz'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
-pages = []
+pages = {}
 THREAD_CNT = 30
 threads = set()
 queue = collections.deque()
@@ -25,7 +26,7 @@ def create_spiders():
 
 
 def crawl():
-    while len(crawled) < 1000:
+    while len(crawled) < 10:
         if len(queue) != 0:
             url = queue.pop()
             Spider.crawl_page(url)
@@ -38,6 +39,18 @@ crawl()
 
 for thread in threads:
     thread.join()
+
+PR = PageRank(pages)
+# PR.create_matrix()
+
+# for a in PR.matrix:
+#     for b in PR.matrix[a]:
+#         print(b)
+
+# for page in pages:
+#    print(str(page.id) + ": " + page.page_url)
+
+
 
 
 
