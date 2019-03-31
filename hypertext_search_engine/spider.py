@@ -1,10 +1,10 @@
 import urllib.request
-from .link_finder import LinkFinder
 import collections
-
-from .page import *
-from .domain import *
 from bs4 import BeautifulSoup
+
+from link_finder import LinkFinder
+from page import *
+from domain import *
 
 
 class Spider:

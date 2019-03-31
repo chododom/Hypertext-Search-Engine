@@ -2,10 +2,10 @@ import threading
 import collections
 import time
 
-from .domain import *
-from .spider import Spider
-from .page_rank import PageRank
-from .google_matrix import GoogleMatrix
+from domain import *
+from spider import Spider
+from page_rank import PageRank
+from google_matrix import GoogleMatrix
 
 
 HOMEPAGE = 'https://fit.cvut.cz'

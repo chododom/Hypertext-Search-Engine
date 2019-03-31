@@ -3,9 +3,10 @@ from fractions import Fraction
 
 def getMatrixS(_pages, alpha):
     matrix = []
-    urls = {x.page_url for x in _pages}
+    urls = {page_url for page_url in _pages} ###
 
-    for pg in _pages:
+    for purl in _pages:
+        pg = _pages[purl] ###
         matrix.append([])
 
         # if no outlinks at page
