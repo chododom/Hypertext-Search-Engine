@@ -61,7 +61,7 @@ class Spider:
             Spider.pages[page_url] = page
             return outlinks
         except:
-            print('Error: could not crawl page')
+            # print('Error: could not crawl page')
             return set()
 
     @staticmethod

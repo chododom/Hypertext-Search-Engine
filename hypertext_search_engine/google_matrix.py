@@ -13,12 +13,12 @@ def getMatrixS(_pages, alpha):
         # if no outlinks at page
         if not pg.outlinks:
             for j in range(len(_pages)):
-                matrix[len(matrix) - 1].append(Fraction(alpha, len(_pages)))
+                matrix[len(matrix) - 1].append(alpha * Fraction(1, len(_pages)))
         # else otherwise
         else:
             for link in urls:  # for all pages
                 if link in pg.outlinks:  # if pg has outlink to link append alpha*(1 / (count of pg' outlinks))
-                    matrix[len(matrix) - 1].append(Fraction(alpha, len(pg.outlinks)))
+                    matrix[len(matrix) - 1].append(alpha * Fraction(1, len(pg.outlinks)))
                 else:  # append 0 otherwise
                     matrix[len(matrix) - 1].append(Fraction(0))
     return matrix
@@ -30,7 +30,7 @@ def getMatrixE(length, alpha):
     for i in range(length):
         matrix.append([])
         for j in range(length):
-            matrix[i].append(Fraction(1 - alpha, length))
+            matrix[i].append((1 - alpha) * Fraction(1, length))
     return matrix
 
 
@@ -51,8 +51,10 @@ class GoogleMatrix:
         self.data = getMatrixG(getMatrixS(pages, alpha), getMatrixE(len(pages), alpha))
 
     def __str__(self):
+        ret_string = ''
         for row in self.data:
             for elem in row:
-                print(elem, end="\t")
-            print()
+                ret_string += str(elem) + '\t'
+            ret_string += '\n'
+        return ret_string
 
