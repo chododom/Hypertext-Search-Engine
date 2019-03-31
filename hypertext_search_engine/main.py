@@ -2,9 +2,11 @@ import threading
 import collections
 import time
 
-from domain import *
-from spider import Spider
-from page_rank import PageRank
+from .domain import *
+from .spider import Spider
+from .page_rank import PageRank
+from .google_matrix import GoogleMatrix
+
 
 HOMEPAGE = 'https://fit.cvut.cz'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
@@ -44,6 +46,8 @@ for thread in threads:
 PR = PageRank(pages)
 PR.create_matrix()
 
+GM = GoogleMatrix(pages, 0.85)
+print(str(GM))
 # for page in pages:
 #    print(str(page.id) + ": " + page.page_url)
 

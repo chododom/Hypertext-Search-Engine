@@ -1,9 +1,9 @@
 import urllib.request
-from link_finder import LinkFinder
+from .link_finder import LinkFinder
 import collections
 
-from page import *
-from domain import *
+from .page import *
+from .domain import *
 from bs4 import BeautifulSoup
 
 
