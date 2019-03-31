@@ -51,10 +51,18 @@ class GoogleMatrix:
         self.data = getMatrixG(getMatrixS(pages, alpha), getMatrixE(len(pages), alpha))
 
     def __str__(self):
-        ret_string = ''
+        ret_string = 'GoogleMatrix:\n'
+
+        row_count = 0
+        col_count = 0
         for row in self.data:
+            row_count += 1
+            ret_string += str(row_count)+'.row> '
             for elem in row:
-                ret_string += str(elem) + '\t'
+                col_count += 1
+                ret_string += str(Fraction(elem).limit_denominator()) + '\t'
             ret_string += '\n'
+        ret_string += '\n'+str(row_count)+' x '+str(int(col_count/row_count))+'\n'
+
         return ret_string
 
