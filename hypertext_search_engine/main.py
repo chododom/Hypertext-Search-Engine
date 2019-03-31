@@ -29,7 +29,7 @@ def create_spiders():
 
 
 def crawl():
-    while len(crawled) < 1000:
+    while len(crawled) < 10:
         if len(queue) != 0:
             url = queue.pop()
             Spider.crawl_page(url)
@@ -43,13 +43,11 @@ crawl()
 for thread in threads:
     thread.join()
 
-print('\n\nVisited pages: ' + str(len(pages)))
+# print('\n\nVisited pages: ' + str(len(pages)))
 print('Creating matrix...')
 GM = GoogleMatrix(pages, 0.85)
 PR = PageRank(GM)
-print(str(GM))
-# for page in pages:
-#    print(str(page.id) + ": " + page.page_url)
+print('Google matrix created')
 
 
 
