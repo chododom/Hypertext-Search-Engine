@@ -1,6 +1,29 @@
 from fractions import Fraction
 
 
+# return basic matrix H multiplied by parameter alpha
+def getMatrixH(_pages, alpha):
+    matrix = []
+    urls = {page_url for page_url in _pages}  # list of all URLs
+
+    for purl in _pages:
+        pg = _pages[purl]  # iterated page
+        matrix.append([])
+
+        # if no outlinks at page
+        if not pg.outlinks:
+            for j in range(len(_pages)):
+                matrix[len(matrix) - 1].append(0)
+        # else otherwise
+        else:
+            for link in urls:  # for all pages
+                if link in pg.outlinks:  # if pg has outlink to link append alpha*(1 / (count of pg' outlinks))
+                    matrix[len(matrix) - 1].append(alpha * Fraction(1, len(pg.outlinks)))
+                else:  # append 0 otherwise
+                    matrix[len(matrix) - 1].append(Fraction(0))
+    return matrix
+
+
 # return stochastic matrix S multiplied by parameter alpha
 def getMatrixS(_pages, alpha):
     matrix = []
