@@ -5,7 +5,6 @@ import time
 from domain import *
 from spider import Spider
 from page_rank import PageRank
-from google_matrix import GoogleMatrix
 
 
 HOMEPAGE = 'https://fit.cvut.cz'
@@ -44,10 +43,18 @@ for thread in threads:
     thread.join()
 
 # print('\n\nVisited pages: ' + str(len(pages)))
-print('Creating matrix...')
-GM = GoogleMatrix(pages, 0.85)
-PR = PageRank(GM)
-print('Google matrix created')
+PR = PageRank(pages, 0.85)
+
+print("Result")
+pi = PR.do_page_rank()
+print(pi.toarray()[0])
+for pg in pages:
+    pages[pg].rank = pi.toarray()[0][int(pages[pg].id) - 1]
+# sort by Page Rank
+result = list(pages.values())
+result.sort(key=lambda x: x.rank, reverse=True)
+for page in result:
+    print(page)
 
 
 

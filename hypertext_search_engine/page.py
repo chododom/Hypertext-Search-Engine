@@ -14,3 +14,23 @@ class Page:
         self.text_content = text_content
         self.outlinks = outlinks
 
+    def __str__(self):
+        return self.page_url+", PR = "+str(self.rank)
+
+    def __lt__(self, other):
+        return self.id < other.id
+
+    def __le__(self, other):
+        return self.id <= other.id
+
+    def __eq__(self, other):
+        return self.id == other.id
+
+    def __ge__(self, other):
+        return self.id >= other.id
+
+    def __gt__(self, other):
+        return self.id > other.id
+
+    def __ne__(self, other):
+        return self.id != other.id
