@@ -19,8 +19,36 @@ class PageRank:
         a = self.matfact.get_dangling_node_vector()
         pi = self.matfact.get_default_page_rank_vector()
         e = self.matfact.get_unit_vector()
+        print("H matrix")
+        print(H.todense())
+        print("a vector")
+        print(a.todense())
+        print("PI vector")
+        print(pi.todense())
+        print("e vector")
+        print(e.todense())
+        print("pi * a")
+        print(pi.dot(a).todense())
+        print("pi * H")
+        print(pi.dot(H).todense())
+        print("pi * H * alpha")
+        print(pi.dot(H).multiply(self.alpha).todense())
 
-        for i in range(100):
-            pi = pi.dot(H).multiply(self.alpha) + e.multiply(float(pi.dot(a).toarray()[0][0]) * self.alpha + 1 - self.alpha)
+        for i in range(50):
+            pi = pi.dot(H).multiply(self.alpha) + e.multiply((float(pi.dot(a).toarray()[0][0]) * self.alpha + 1 - self.alpha)/self.length)
+
+        return pi
+
+    def do_page_rank_matrix(self):
+        H = self.matfact.get_matrix_H()
+        a = self.matfact.get_dangling_node_vector()
+        pi = self.matfact.get_default_page_rank_vector()
+        e = self.matfact.get_unit_vector()
+        S = self.matfact.get_matrix_S()
+
+        print(S.todense())
+
+        for i in range(50):
+            pi = pi.dot(H).multiply(self.alpha) + e.multiply((float(pi.dot(a).toarray()[0][0]) * self.alpha + 1 - self.alpha)/self.length)
 
         return pi

@@ -1,4 +1,4 @@
-from scipy.sparse import bsr_matrix
+from scipy import sparse
 
 
 class MatrixFactory:
@@ -31,7 +31,7 @@ class MatrixFactory:
                         col_indexes.append(self.pages[link].id)
                         data.append(1 / len(pg.outlinks))
 
-        return bsr_matrix((data, (row_indexes, col_indexes)), shape=(self.length, self.length), dtype='double')
+        return sparse.bsr_matrix((data, (row_indexes, col_indexes)), shape=(self.length, self.length), dtype='double')
 
     # return row vector of 1/n (n - number of pages)
     def get_default_page_rank_vector(self):
@@ -43,9 +43,10 @@ class MatrixFactory:
             col_indexes.append(i)
             data.append(1 / self.length)
 
-        return bsr_matrix((data, (row_indexes, col_indexes)), shape=(1, self.length), dtype='double')
+        return sparse.bsr_matrix((data, (row_indexes, col_indexes)), shape=(1, self.length), dtype='double')
 
     # returns row vector of 1
+
     def get_unit_vector(self):
         row_indexes = []
         col_indexes = []
@@ -55,7 +56,7 @@ class MatrixFactory:
             col_indexes.append(i)
             data.append(1)
 
-        return bsr_matrix((data, (row_indexes, col_indexes)), shape=(1, self.length), dtype='double')
+        return sparse.bsr_matrix((data, (row_indexes, col_indexes)), shape=(1, self.length), dtype='int32')
 
     # returns column vector of binary values (1 - page has no out-links, 0 - otherwise)
     def get_dangling_node_vector(self):
@@ -69,4 +70,23 @@ class MatrixFactory:
                 col_indexes.append(self.pages[page].id)
                 data.append(1)
 
-        return bsr_matrix((data, (row_indexes, col_indexes)), shape=(1, self.length), dtype='double').transpose(copy=True)
+        return sparse.bsr_matrix((data, (row_indexes, col_indexes)), shape=(1, self.length), dtype='int32').transpose()
+
+    # return basic sparse matrix S
+    def get_matrix_S(self):
+        row_indexes = []
+        col_indexes = []
+        data = []
+
+        h_matrix = self.get_matrix_H()
+        dangling_node = self.get_dangling_node_vector()
+        print(dangling_node.toarray()[0][0])
+        for i in range(self.length):
+            if dangling_node.toarray()[i][0] == 1:
+                for j in range(self.length):
+                    row_indexes.append(i)
+                    col_indexes.append(j)
+                    data.append(1 / self.length)
+
+        return h_matrix + sparse.bsr_matrix((data, (row_indexes, col_indexes)), shape=(self.length, self.length),
+                                            dtype='double')
