@@ -15,7 +15,7 @@ class Page:
         self.outlinks = outlinks
 
     def __str__(self):
-        return "PR = "+str(self.rank)+" | "+self.page_url
+        return "PR = "+str(self.rank)+"\t| "+self.page_url
 
     def __lt__(self, other):
         return self.id < other.id

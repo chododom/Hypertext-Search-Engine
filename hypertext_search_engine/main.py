@@ -17,7 +17,7 @@ queue = collections.deque()
 queue.appendleft(HOMEPAGE)
 crawled = set()
 Spider(HOMEPAGE, DOMAIN_NAME, queue, crawled, pages)
-'''
+
 
 def create_spiders():
     for x in range(THREAD_CNT):
@@ -50,31 +50,34 @@ pages = {
         "5": Page(id=4, page_url="5", text_content='', outlinks=["4", "6"]),
         "6": Page(id=5, page_url="6", text_content='', outlinks=["4"])
     }
+'''
 # print('\n\nVisited pages: ' + str(len(pages)))
-PR = PageRank(pages, 0.85)
+PR = PageRank(pages, 0.85, 50, False)
+
+
+def printPagesPR(pgs):
+    res = list(pgs.values())
+    res.sort(key=lambda x: x.rank, reverse=True)
+    for pg in res:
+        print(pg)
+
 
 print("Result - matrix method")
 pi_matrix = PR.do_page_rank_matrix()
-pi_power = PR.do_page_rank()
 
 for pg in pages:
-    pages[pg].rank = pi_matrix.toarray()[0][int(pages[pg].id) - 1]
+    pages[pg].rank = pi_matrix.toarray()[0][int(pages[pg].id)]
 # sort by Page Rank
-
-result = list(pages.values())
-result.sort(key=lambda x: x.rank, reverse=True)
-for page in result:
-    print(page)
+print("PR sum: "+str(pi_matrix.sum()))
+printPagesPR(pages)
 
 print("\nResult - power method")
+pi_power = PR.do_page_rank()
 for pg in pages:
-    pages[pg].rank = pi_power.toarray()[0][int(pages[pg].id) - 1]
+    pages[pg].rank = pi_power.toarray()[0][int(pages[pg].id)]
 # sort by Page Rank
-
-result = list(pages.values())
-result.sort(key=lambda x: x.rank, reverse=True)
-for page in result:
-    print(page)
+print("PR sum: "+str(pi_power.sum()))
+printPagesPR(pages)
 
 
 
