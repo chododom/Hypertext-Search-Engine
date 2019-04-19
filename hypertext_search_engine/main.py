@@ -53,11 +53,12 @@ pages = {
 # print('\n\nVisited pages: ' + str(len(pages)))
 PR = PageRank(pages, 0.85)
 
-print("Result")
-pi = PR.do_page_rank()
-print(pi.toarray())
+print("Result - matrix method")
+pi_matrix = PR.do_page_rank_matrix()
+pi_power = PR.do_page_rank()
+
 for pg in pages:
-    pages[pg].rank = pi.toarray()[0][int(pages[pg].id) - 1]
+    pages[pg].rank = pi_matrix.toarray()[0][int(pages[pg].id) - 1]
 # sort by Page Rank
 
 result = list(pages.values())
@@ -65,7 +66,15 @@ result.sort(key=lambda x: x.rank, reverse=True)
 for page in result:
     print(page)
 
+print("\nResult - power method")
+for pg in pages:
+    pages[pg].rank = pi_power.toarray()[0][int(pages[pg].id) - 1]
+# sort by Page Rank
 
+result = list(pages.values())
+result.sort(key=lambda x: x.rank, reverse=True)
+for page in result:
+    print(page)
 
 
 

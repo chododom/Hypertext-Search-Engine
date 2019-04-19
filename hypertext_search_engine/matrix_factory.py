@@ -1,5 +1,5 @@
 from scipy import sparse
-
+import numpy as np
 
 class MatrixFactory:
     pages = dict()
@@ -78,15 +78,19 @@ class MatrixFactory:
         col_indexes = []
         data = []
 
-        h_matrix = self.get_matrix_H()
+        h_matrix = self.get_matrix_H().todense().tolist()
         dangling_node = self.get_dangling_node_vector()
-        print(dangling_node.toarray()[0][0])
+
         for i in range(self.length):
             if dangling_node.toarray()[i][0] == 1:
                 for j in range(self.length):
                     row_indexes.append(i)
                     col_indexes.append(j)
                     data.append(1 / self.length)
+            else:
+                for j in range(self.length):
+                    row_indexes.append(i)
+                    col_indexes.append(j)
+                    data.append(h_matrix[i][j])
 
-        return h_matrix + sparse.bsr_matrix((data, (row_indexes, col_indexes)), shape=(self.length, self.length),
-                                            dtype='double')
+        return sparse.bsr_matrix((data, (row_indexes, col_indexes)), shape=(self.length, self.length), dtype='double')
