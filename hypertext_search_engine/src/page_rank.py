@@ -1,4 +1,4 @@
-from matrix_factory import MatrixFactory
+from hypertext_search_engine.src.matrix_factory import MatrixFactory
 
 
 class PageRank:

@@ -2,9 +2,9 @@ import urllib.request
 import collections
 from bs4 import BeautifulSoup
 
-from link_finder import LinkFinder
-from page import *
-from domain import *
+from hypertext_search_engine.src.link_finder import LinkFinder
+from hypertext_search_engine.src.page import *
+from hypertext_search_engine.src.domain import *
 
 
 class Spider:

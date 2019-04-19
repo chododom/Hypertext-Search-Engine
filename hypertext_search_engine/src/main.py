@@ -2,10 +2,9 @@ import threading
 import collections
 import time
 
-from domain import *
-from spider import Spider
-from page_rank import PageRank
-from page import Page
+from hypertext_search_engine.src.domain import *
+from hypertext_search_engine.src.spider import Spider
+from hypertext_search_engine.src.page_rank import PageRank
 
 HOMEPAGE = 'https://fit.cvut.cz'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
@@ -28,7 +27,7 @@ def create_spiders():
 
 
 def crawl():
-    while len(crawled) < 10:
+    while len(crawled) < 1000:
         if len(queue) != 0:
             url = queue.pop()
             Spider.crawl_page(url)
