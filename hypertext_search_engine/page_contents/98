@@ -1,0 +1,229 @@
+http://bilakniha.cvut.cz/cs/predmet4651506.html
+
+
+
+
+
+Loading...
+ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
+Výběr období:
+Následující ak. rok
+Aktuální období
+Fakulty |
+         Celoškolská nabídka volitelných předmětů |
+         Katalog předmětů ECTS
+         | Nastavení
+         | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English version
+Úvodní stránka >
+         Fakulta informačních technologií >
+         katedra softwarového inženýrství >
+         Dolování dat z webu
+
+
+Dolování dat z webu
+Přihlášení do KOSu pro zápis předmětu Zobrazit rozvrh
+
+
+Kód
+Zakončení
+Kredity
+Rozsah
+Jazyk výuky
+
+
+MI-DDW.16
+Z,ZK
+5
+2+1
+česky
+
+
+
+Přednášející:
+Jaroslav Kuchař (gar.), Milan Dojčinovski (gar.)
+            
+Cvičící:
+Jaroslav Kuchař (gar.), Milan Dojčinovski (gar.)
+            
+Předmět zajišťuje:
+katedra softwarového inženýrství
+Anotace:
+
+
+Studenti se v předmětu seznámí s metodami a technologiemi pro získávání dat z webu, jejich zpracování a praktické využití
+                  v reálných aplikacích. Získají přehled a znalosti z oblastí analýzy webového obsahu, analýzy chování uživatelů, sociálního
+                  webu a doporučovacích systémů.
+               
+
+
+Požadavky:
+
+
+Znalost architektury webu (HTTP, HTML, URI), znalosti programování (např. Java, JavaScript), teorie grafů a znalosti základních
+                  algoritmů.
+               
+
+
+Osnova přednášek:
+
+
+1. Motivace a úvod do předmětu
+2. Metody přístupu k datům a jejich získávání
+3. Indexace a vyhledávání dokumentů
+4. Dolování z textových dat
+5. Využití dolování z textových dat
+6. Analýza sociálních sítí
+7. PageRank a HITS
+8. Dolování dat ze sociálního webu
+9. Webová analytika
+10. (2) Dolování proudu dat
+11. (2) Doporučovací systémy
+
+
+Osnova cvičení:
+
+
+1. Základní metody pro získávání dat a jejich zpracování
+2. Předzpracování textu, aplikace metod text miningu
+3. Prezentace projektů, konzultace
+4. Analýza dat generovaných uživateli
+5. Základní metody doporučovacích systémů
+6. Prezentace projektů a zápočet
+
+
+Cíle studia:
+
+
+Vybavit studenty přehledem o technologiích dolování z webu a schopností některé z nich aplikovat v praxi.
+
+
+Studijní materiály:
+
+
+1. Liu, B. „Web Data Mining“, Springer-Verlag Berlin Heidelberg, 2011. ISBN 978-3-642-19459-7.
+2. Easley, D., Kleinberg, J. „Networks, Crowds, and Markets: Reasoning About a Highly Connected World“, Cambridge University
+                  Press, 2010. ISBN 978-0521195331.
+               
+3. Ricci, F., Rokach, L., Shapira, B., B. Kantor, P. „Recommender Systems Handbook“, Springer, 2010. ISBN 978-0387858197.
+4. Kaushik, A. „Web Analytics 2.0: The Art of Online Accountability and Science of Customer Centricity“, Sybex, 2009. ISBN
+                  978-0470529393.
+               
+5. Marmanis, H., Babenko, D. „Algorithms of the Intelligent Web“, Manning Publications, 2009. ISBN 978-1933988665.
+6. A. Russel, M. „Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More“, O'Reilly Media,
+                  2013. ISBN 978-1449367619.
+               
+7. Chakrabarti, S. „Mining the Web: Discovering Knowledge from Hypertext Data“, Morgan Kaufmann, 2002. ISBN 1558607544.
+
+
+Poznámka:
+
+
+Rozsah: 2p+1c
+
+Rozvrh na zimní semestr 2018/2019:
+Rozvrh není připraven
+Rozvrh na letní semestr 2018/2019:
+
+
+
+
+
+
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
+
+
+
+Po
+
+místnost T9:303Kuchař J.11:00–12:30LICHÝ TÝDEN(přednášková par. 1paralelka 101)DejviceNBFIT PC ucebnamístnost TH:A-s135Kuchař J.16:15–17:45(přednášková par. 1)Thákurova 7 (FSv-budova A)As135
+místnost T9:303Kuchař J.12:45–14:15LICHÝ TÝDEN(přednášková par. 1paralelka 102)DejviceNBFIT PC ucebna
+
+
+
+Út
+
+
+
+
+
+St
+
+
+
+
+
+Čt
+
+
+
+
+
+Pá
+
+
+
+
+
+
+
+Předmět je součástí následujících studijních plánů:
+
+
+Znalostní inženýrství, verze 2016 a 2017 (povinný předmět oboru)
+                  
+Počítačová bezpečnost, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Počítačové systémy a sítě, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Návrh a programování vestavných systémů, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Informační systémy a management, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Softwarové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Webové inženýrství, verze 2016, 2017 a 2018 (povinný předmět zaměření)
+                  
+Společný magisterský plán před přiřazením do oboru, verze 2016, 2017 a 2018 (VO)
+                  
+Zaměření Systémové programování, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Teoretická informatika, verze 2016-2017 (volitelný předmět)
+                  
+Specializace Teoretická informatika, verze 2018 (volitelný předmět)
+                  
+Znalostní inženýrství, verze 2018 (povinný předmět oboru)
+                  
+
+
+
+
+
+Platnost dat k 21. 4. 2019
+
+
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Provozuje Výpočetní a informační centrum ČVUT
+Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
+
+
+Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet4651506.html
+
+ Zobrazovat kódy skupin předmětů
+         
+

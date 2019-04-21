@@ -57,6 +57,10 @@ class Spider:
             visible_text = soup.getText()
             outlinks = finder.page_links()
 
+            f = open("../page_contents/" + str(len(Spider.pages)), mode="w+", encoding="utf-8")
+            f.write(page_url + "\n" + visible_text)
+            f.close()
+
             page = Page(len(Spider.pages), page_url, visible_text, outlinks)
             Spider.pages[page_url] = page
             return outlinks

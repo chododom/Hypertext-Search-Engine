@@ -3,6 +3,7 @@ import collections
 import time
 
 from hypertext_search_engine.src.domain import *
+from hypertext_search_engine.src.search_engine import *
 from hypertext_search_engine.src.spider import Spider
 from hypertext_search_engine.src.page_rank import PageRank
 
@@ -27,7 +28,7 @@ def create_spiders():
 
 
 def crawl():
-    while len(crawled) < 1000:
+    while len(crawled) < 100:
         if len(queue) != 0:
             url = queue.pop()
             Spider.crawl_page(url)
@@ -61,6 +62,7 @@ def printPagesPR(pgs):
         print(pg)
 
 
+'''
 print("Result - matrix method")
 pi_matrix = PR.do_page_rank_matrix()
 
@@ -69,7 +71,9 @@ for pg in pages:
 # sort by Page Rank
 print("PR sum: "+str(pi_matrix.sum()))
 printPagesPR(pages)
+'''
 
+'''
 print("\nResult - power method")
 pi_power = PR.do_page_rank()
 for pg in pages:
@@ -77,6 +81,9 @@ for pg in pages:
 # sort by Page Rank
 print("PR sum: "+str(pi_power.sum()))
 printPagesPR(pages)
+'''
 
-
+createSearchableData("../page_contents")
+print("Created searchable data schema")
+search("Software", 5)
 
