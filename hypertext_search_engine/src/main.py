@@ -85,5 +85,5 @@ printPagesPR(pages)
 
 createSearchableData("../page_contents")
 print("Created searchable data schema")
-search("Software", 5)
+search("english", 5)
 

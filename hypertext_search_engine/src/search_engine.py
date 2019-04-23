@@ -32,5 +32,8 @@ def search(query_str, topN):
     with ix.searcher(weighting=scoring.Frequency) as searcher:
         query = QueryParser("textcontent", ix.schema).parse(query_str)
         results = searcher.search(query, limit=None)
-        for i in range(topN):
-            print(results[i]['title'], str(results[i].score), results[i]['id'])
+        if results.is_empty():
+            print("No results for query '"+query_str+"'.")
+        else:
+            for i in range(topN if len(results) > topN else len(results)):
+                print(results[i]['title'], str(results[i].score), results[i]['id'])
