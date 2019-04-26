@@ -1,4 +1,4 @@
-https://fit.cvut.cz/fakulta/pravidelne-akce/jsdevmeetups/2017-04-18
+http://cs.fel.cvut.cz/en/publications/aic
 
 
 
@@ -6,25 +6,20 @@ https://fit.cvut.cz/fakulta/pravidelne-akce/jsdevmeetups/2017-04-18
 
 
 
-česky
-english
 
 
 
-České vysoké učení technické v Praze
 
-
-
-Fakulta informačních technologií
+Search 
 
 
 
 
 
 
-Hledání
 
-Hledání: 
+
+Toggle navigation
 
 
 
@@ -37,24 +32,115 @@ Hledání:
 
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
+About 
+
+About
+Department structure
+Advisory board
+History
+Documents and Policies
+Awards
+Department in media
+
+
+
+Study 
+
+Study
+PHD
+Bachelors and Masters
+Courses
+U3A
+Workshops
+
+
+
+Research 
+
+Research
+Research teams
+Projects
+Completed projects
+Publications
+
+
+People
+News & Events
+
+Jobs 
+
+Jobs
+Open positions
+Teaching assistants wanted
+
+
+
+Partnership 
+
+Partnership
+Membership in organizations
+Partners
 
 
 
 
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
 
 
 
+
+
+About
+
+Department structure
+Advisory board
+History
+Documents and Policies
+Awards
+Department in media
+
+
+
+Study
+
+PHD
+Bachelors and Masters
+Courses
+U3A
+Workshops
+
+
+
+Research
+
+Research teams
+Projects
+Completed projects
+Publications
+
+
+
+People
+
+
+
+
+News & Events
+
+
+
+
+Jobs
+
+Open positions
+Teaching assistants wanted
+
+
+
+Partnership
+
+Membership in organizations
+Partners
 
 
 
@@ -62,110 +148,169 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » jsDev Meetups » Výlet do funkcionálního světa Elmu Novinky    News
-
-
-
-
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
-
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
 
 
 
 
 
-Výlet do funkcionálního světa Elmu 
-Představte si svět, kde neexistuje pád webové aplikace na „Undefined is not a function“. Svět, kde se těšíte na refaktoring aplikace a zásahy do kódu děláte s klidem a jistotou. To vše s možností používat stávající JS knihovny a infrastrukturu. Chci vám ukázat, že takový svět může existovat – chci vám ukázat Elm.
-Elm mě nadchl svou jednoduchostí s jakou představuje možnosti funkcionálního programování i těm, kterým pojmy jako currying, monády a funktory neříkají vůbec nic. Rád vás na chvilku vezmu do tohoto světa, ze kterého se už nebudete chtít vrátit zpět.
-O akci
-Akce je zdarma, ale je nutné se zaregistrovat na . Přednáška je primárně určena posluchačům s pokročilou znalostí JavaScriptu.
 
 
-Typ akce
-Přednáška
-Přednášející
-Tomáš Látal
-Termín
-18. dubna 2017, 18:00–20:00
-Místo
-posluchárna T9:111, Nová budova ČVUT
-Thákurova 9, Praha 6
-Jazyk
-čeština
-Záznam
-YouTube
 
 
-O přednášejícím
-Tomáš Látal – Kolem počítačů se pohybuji více než 20 let. Od programování webů jsem na chvilku utekl k desktopovým aplikacím a hardwaru, abych se pak znovu vrátil zpět a zažil boom JS frameworků a Single Page aplikací.
-Pracuji ve firmě GMC Software Technology a denním chlebem jsou mi TypeScript a C#. Ve volném čase objevuji nové jazyky a přístupy, pořádám akce a přednášky pro IT komunitu v Olomouci pod hlavičkou WebDev a jsem spolupořadatel olomouckých Coderetreatů a Coding Doja. Zajímá mě vše kolem počítačů a programování od 3D tisku, jednočipů až po počítačovou grafiku, kterou jsem vystudoval na FEL ČVUT.
-Související obsah
-
-Témata
-Cyklus přednášek: JavaScript Developer Meetups
-Předchozí přednáška: JavaScriptové mapy a jejich API
-Následující přednáška: REST API je mrtvé, ať žije GraphQL a Relay
-Lidé
-Přednášející: Tomáš Látal
-Záznam akce: Audiovizuální centrum studentů ČVUT
-Místa
-T9:111
 
 
-Osoba zodpovědná za obsah této stránky
-
-Lukáš Janeček, lukas.janecek@fit.cvut.cz
 
 
+
+
+
+            Home
+        
+
+
+
+
+Research
+
+
+
+Publications
+
+
+
+
+
+
+
+
+
+Department of
+                Computer Science
+            
+
+
+
+
+
+
+
+
+>
+                KBSS
+
+
+Research Team
+
+
+
+
+
+
+>
+                STILL
+
+
+Research Team
+
+
+
+
+
+
+>
+                IDA
+
+
+Research Team
+
+
+
+
+
+
+>
+                AIC
+
+
+Research Team
+
+
+
+
+
+Publications
+
+All research teams |
+                AIC, 
+                IDA, 
+                STILL, 
+                KBSS, 
+                Teachers
+
+
+all |
+                2019, 
+                2018, 
+                2017, 
+                2016, 
+                2015
+ ... older
+
+
+
+Drchal, J., Čertický, M., Jakob, M. 2019 Data-driven Activity Scheduler for Agent-based Mobility Models, detail
+Čertický, M., Čertický, M., Sinčák, P., Magyar, G., Vaščák, J., Cavallo, F. 2019 Psychophysiological Indicators for Modeling User Experience in Interactive Digital Entertainment, detail
+Faigl, J., Váňa, P., Pěnička, R., Saska, M. 2019 Unsupervised learning‐based flexible framework for surveillance planning with aerial vehicles, detail
+Faigl, J. 2019 Data collection path planning with spatially correlated measurements using growing self-organizing array, detail
+Pěnička, R., Faigl, J., Saska, M. 2019 Variable Neighborhood Search for the Set Orienteering Problem and its application to other Orienteering Problem variants, detail
+Pěnička, R., Faigl, J., Saska, M., Váňa, P. 2019 Data Collection Planning with Non-zero Sensing Distance for a Budget and Curvature Constrained Unmanned Aerial Vehicle, detail
+Cuchý, M., Štolba, M., Jakob, M. 2019 Integrated Route, Charging and Activity Planning for Whole Day Mobility with Electric Vehicles, detail
+Komárek, T., Somol, P. 2019 Multiple Instance Learning with Bag-Level Randomized Trees, detail
+
+
+
+
+
+
+
+
+
+Dept. of Computer Science, FEE, CTU in PragueKarlovo náměstí 13, 121 35 Praha 2tel: +420 224 357 337, office@cs.felk.cvut.cz
+
+                            Copyright © 2019 | Send us your feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×Close
+Search
 
 
  
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
 
 
 
-Facebook
-Twitter
-Instagram
-YouTube
 
 
 
-Připomínky a náměty
-webmaster@fit.cvut.cz
 
-
-
- 
-
- 
-
-
-
-      Poslední změna: 23.4.2019, 12:54      
-           
-                          
-       
 
 
 

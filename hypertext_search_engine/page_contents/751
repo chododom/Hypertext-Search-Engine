@@ -1,4 +1,4 @@
-https://fit.cvut.cz/prl_prg_1968
+http://www.fit.cvut.cz/en/modules/bie-jpo
 
 
 
@@ -11,24 +11,20 @@ english
 
 
 
-České vysoké učení technické v Praze
+Czech Technical University in Prague
 
 
 
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
+Faculty of Information Technology
 
 
 
 
+
+
+Search this site
+
+Search this site: 
 
 
 
@@ -37,25 +33,16 @@ Hledání:
 
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
+
+
+
+
+Faculty
+Prospective Students
+Partners
 Student
-Zaměstnanec
-Média
-
-
-
-
-
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Employees
+Media
 
 
 
@@ -66,90 +53,154 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Kontakty » Katedry » Laboratoř výzkumu programování Novinky    News
+ › CTU » FIT  » BIE-JPO – Computer Units Novinky    News
+
+
+BIE-JPO – Computer Units 
+Annotation
+Students know the internal structure and organization of computer or processor components and their interfacing with the environment. They understand the organization of main memory and other internal memories (addressable, LIFO, FIFO and CAM). They know the organization of an arithmetic unit. They learn the design methodology for control units and controllers, as well as basic principles of communication with peripheral devices and buses. They understand the architecture of a bus system.
+Lectures Program
+
+Organization and structure of von Neumann computers.
+Binary adders, subtractors, and shifters.
+Arithmetic and logic unit of a simple processor.
+Control unit and controllers; microprogrammed control unit.
+Wired control unit.
+Binary multiplication and division and their implementation.
+Floating point representation.
+Basic principles of error detection and correction.
+Linear and cyclic codes.
+Main memory - possible organizations and interfaces.
+Other internal memories, their organization and use - addressable memories, LIFO, FIFO, CAM.
+I/O units and their control - DMA, channels and I/O processors.
+Buses - types, modes, arbitration.
+
+Labs Program
+
+Number systems, conversions and operations.
+Representations of negative numbers.
+Simple processor - instructions, machine code, data part.
+Simple processor - instruction cycle, interface.
+Simple processor - microprogramming.
+Simple processor - demonstration of a microprogram.
+Wired controller design.
+Multipliers and dividers.
+Floating point representation.
+[2] Design of a processor component on FPGA.
+Demonstration of the designed processor component.
+Error detection codes.
+
+
+
+ 
+
+
+Important Links
+Sitemap
+Contacts
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Questions and comments
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Last modified: 7.9.2010, 11:08      
+           
+                          
+       
 
 
 
 
-Fakturační údaje
-Zaměstnanci
-Úřední hodiny podatelny
-Děkanát
-KatedryKatedra teoretické informatiky
-Katedra softwarového inženýrství
-Katedra číslicového návrhu
-Katedra počítačových systémů
-Katedra aplikované matematiky
-Katedra informační bezpečnosti
-Laboratoř výzkumu programování
 
-Vedení FIT
-Webmaster
-Helpdesk
-Vyhledávání
+
+áme se tedy za nepohodlí a děkujeme za trpělivost a konstruktivní přístup.
 
 
 
 
 
-Laboratoř výzkumu programování 
 
 
+To nejlepší z NTK
 
-Laboratoř výzkumu programování (PRL@PRG) se zabývá hlubším pochopením programovacích jazyků a jejich využitím. V laboratoři se uskutečňuje ERC projekt prof. Jana Viteka s názvem Evolving Language Ecosystems (ELE). Cílem projektu je najít postupy, které zlevní vývoj programovacích jazyků. Laboratoř nabízí spolupráci studentům bakalářského, magisterského i doktorského studia.
-O laboratoři
-Laboratoř výzkumu programování se snaží o hlubší pochopení programovacích jazyků a jejich využití. Dále usiluje o použití  tohoto chápání v procesu navrhování programů i v nových neobvyklých aplikacích. Laboratoř používá víceúrovňový přístup ke studiu programovacích jazyků a metodologii programování – zahrnující prvky designu, matematiky, experimentální vědy a inženýrství.
-
-Laboratoř provádí výzkum všech aspektů programování, včetně:
-
-Vývoje malých a velkých programů
-Návrhu, implementace a analýzy programovacích jazyků
-Návrhu vývojových prostředí
-
-Laboratoř vznikla v roce 2016 z prestižního grantu Evropské výzkumné rady. Prof. Jan Vitek získal na projekt Evolving Language Ecosystems (ELE) prestižní Advanced grant v hodnotě 3 milionů eur. Tento projekt se rozhodl řešit na Fakultě informačních technologií ČVUT.
-Laboratoř spolupracuje s několika významnými univerzitami i společnostmi. Spolupracuje zejména s univerzitním týmem prof. Jana Viteka v Bostonu, ale také s dalšími světovými univerzitami. Mezi další partnery patří také lídři na trhu v oblasti IT, jako jsou:
-
-Northeastern University v Bostonu
-French National Institute for computer science and applied mathematics (INRIA)
-École Polytechnique Fédérale de Lausanne (EPFL)
-Imperial College London
-University of California, Irvine
-Společnosti Google, Oracle, Apple a Mozilla
-
-Výzkumná činnost
-Laboratoř se zabývá projektem Evolving Language Ecosystems (ELE). Cílem projektu je najít postupy, které zlevní evoluci programovacích jazyků, konkrétně se zaměřuje na jazyk R. Vědecký tým chce dokázat, že je možno vyvíjet jazyk R tak, aby uměl analyzovat daleko větší objemy dat. K tomu chtějí využít statistickou analýzu i strojové učení.
-Projekt zkoumá základní techniky a algoritmy pro vývoj celých jazykových ekosystémů. Cílem je snížit náklady na rozsáhlé změny v programovacích jazycích, vyhnout se nutnosti vytvářet zcela nové jazyky a umožnit dlouhodobější používání těch stávajících. Skupina pracuje v otevřeném kódu, vše je tedy reprodukovatelné.
-Pedagogická činnost
-Laboratoř nabízí spolupráci studentům bakalářského, magisterského i doktorského studia. Doktorandům nabízí možnost zaměstnání a podporu při jejich výzkumu. Balakářští a magisterští studenti mají možnost zvolit si některý z projektů laboratoře jako téma své závěrečné práce. Dále laboratoř organizuje letní školu Programming Language Implementation Summer School (PLISS), kde přednáší i prof. Jan Vitek.
-Kontakt
-Laboratoř vede prof. Jan Vitek. Administrativu zajišťuje Ing. Lucie Lerch. Laboratoř dále zaštiťuje seniorní vědce, postdoktorandy a doktorandy. Laboratoř sídlí ve 12. patře Budovy A. Další informace jsou také na oficiálním webu laboratoře.
+       -   
+  
+07.02.2019
 
 
-prof. MSc. Jan Vitek, PhD.
-Vedoucí Laboratoře výzkumu programování
-Profesor informatiky na Northeastern University v Bostonu
-
- jan.vitek@fit.cvut.cz, j.vitek@neu.edu
- +420 22435 9734
- TH:A-1250
+Od 7. 2. do 14. 3. pořádá Národní technická knihovna každý čtvrtek od 13:00 prohlídky nazvané To nejlepší z NTK za 30 minut. Dozvíte se, kde je klid na učení, kam jít řešit týmový projekt a další užitečné tipy. Začíná se u turniketu před vstupem do NTK. Setkání je zdarma bez nutnosti registrace.
 
 
 
 
-Ing. Lucie Lerch
-Projektová manažerka
-
- lucie.lerch@fit.cvut.cz
- +420 22435 9735
- TH:A-1250
 
 
 
-Osoba zodpovědná za obsah této stránky
+Souboj fakult – Fotbal
 
-Ing. Lucie Lerch, lucie.lerch@fit.cvut.czProjektová manažerka
+       -   
+  
+16.03.2019
 
 
+Čtvrtý turnaj Souboje fakult, tentokrát ve fotbale, se uskuteční 16. 3. v areálu Kolejí Strahov. Přihlaste se a přijďte podpořit Fakultu informačních technologií, která je v průběžných výsledcích celé soutěže na druhém místě.
+
+
+
+
+
+
+ stránka 4 / 163
+
+ 
+
+
+
+
+                Časopis Buď FIT   Anketa ČVUT
+Letní IT kurz pro studenty středních škol
+
+
+Ve spolupráci se Stanford University pořádáme 8.–19. července intenzivní 14denní kurz programování. Kurz určený středoškolákům s názvem Introduction to Computer Science je jedinou takovou akcí v Evropě. Cílem je vzbudit u studentů zájem o programování a naučit je základy zábavnou formou. Výuka bude probíhat na naší fakultě a povedou ji profesoři a studentští lektoři z obou institucí. Kurz bude v anglickém jazyce a přihlášky je možné podávat do 15. května. Účastníci kurzu platí pouze zápisné 1 000 Kč.
+Celý článek o kurzu ICS 2019
+Tisková zpráva o kurzu ICS 2019
+
+Nejvýkonnější superpočítač pro výzkum AI v ČR
+
+
+V rámci projektu Výzkumného centra informatiky (Research Center for Informatics – RCI) Fakulty informačních technologií a Fakulty elektrotechnické byl vybudován nejvýkonnější počítačový klastr pro výzkum umělé inteligence v ČR. Tento superpočítač v hodnotě 41,6 milionu korun se nachází v podzemí budovy FEL na Karlově náměstí. Vědci díky jeho výkonu 6 PetaFLOPS budou moci provádět výzkum metod hlubokého učení, např. pro aplikace v robotice či bioinformatice, vývoj aplikací pro počítačovou bezpečnost nebo řízení autonomních aut.
+Tisková zpráva o novém počítačovém klastru
+
+Robot Pepper předával diplomy
+
+
+Humanoidní robot Pepper se stal 22. března součástí slavnostního ceremoniálu v Betlémské kapli, kde se aktivně zapojil do promocí bakalářských a magisterských absolventů. Robota pro tuto událost naprogramovali přímo studenti FIT v moderně vybavené Laboratoři inteligentních vestavných systémů. Fakulta je jediná v České republice, která robota Pepper využívá také právě pro výuku.
+Tisková zpráva o předávání diplomů robotem Pepper
+
+LAW FIT 2019: Digitální realita
+
+
+Konference o právu a IT LAW FIT se uskuteční 20. května. Sedmý ročník s tématem Digitální realita se zaměří na stále rostoucí digitální svět. Konference se bude zabývat mj. tématy, jak v tomto virtuálním světe budeme v budoucnosti fungovat nebo zda má tato realita také nějaká pravidla. Pro účast je požadována registrace. Akce se koná na Fakultě informačních technologií od 9:00 v posluchárně T9:105.
+Celý článek o konferenci LAW FIT 2019
+
+ 
+Archiv článků
 
 
  
@@ -181,7 +232,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 17.12.2018, 10:44      
+      Poslední změna: 24.4.2019, 14:40      
            
                           
        

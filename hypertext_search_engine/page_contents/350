@@ -1,30 +1,11 @@
-https://fit.cvut.cz/phd_skolitel_starosta
+http://sum.fel.cvut.cz/
+ 
 
 
 
 
 
-
-
-česky
-english
-
-
-
-České vysoké učení technické v Praze
-
-
-
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
+  
 
 
 
@@ -35,27 +16,349 @@ Hledání:
 
 
 
+Smart Urban Mobility
 
-
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
+                Research Cluster @ Artificial Intelligence Center,
+                CTU in Prague
 
 
 
 
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+
+
+On-demand Mobility
+
+
+
+
+Electromobility
+
+
+
+
+Urban Mobility Simulator
+
+
+
+
+
+
+Demand Modeling
+
+
+
+
+Multi-modal Route Planning
+
+
+
+
+Light Personal Transport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+                    We are a group of researchers from Artificial Intelligence Center at CTU in Prague working on algorithms enabling more efficient and more sustainable future urban mobility. 
+
+                        See below for an non-exhaustive list of research themes related to smart urban mobility that are pursued within the center.
+                
+
+
+Contact us
+
+                We are looking for partners in academia, industry, and public sector. If you are interested in our work, please contact either one of us:  
+                
+
+
+
+On-demand Mobility, Urban Mobility Simulator
+
+
+Michal  Čáp
+
+
+
+
+
+
+
+
+                                Electromobility, Demand Modeling, Multi-modal Route Planning, Light Personal Transport
+                            
+
+
+Michal  Jakob
+
+
+
+
+
+
+
+
+
+
+Research Themes
+
+
+
+
+
+
+
+On-Demand Mobility
+
+
+
+
+
+
+
+
+
+						We are developing models that provide insights into the performance of on-demand transportation 
+                        systems and use them to estimate the impact of their large-scale deployment. Further, we are 
+                        looking in the potential of advanced optimization techniques, automation, ride-sharing and 
+                        market-based mechanisms to achieve affordable, efficient, and congestion-free urban traffic.
+                        
+						
+Learn more...
+
+
+People involved:
+
+
+
+Michal  Čáp
+
+
+
+Martin Schaefer
+
+
+
+David Fiedler
+
+
+
+
+
+
+
+
+
+
+
+Electromobility
+
+
+
+
+
+
+
+
+						We work on novel route planning and fleet management algorithms improving the experience 
+                        electric mobility users. At the level of users of electric vehicles, we provide intelligent 
+                        navigation systems that suggest adaptations in the travel plan to allow more efficient charging.
+                        At the fleet level, we develop management tools that help optimising fleet operations, 
+                        maximising battery lifetime and minimising charging costs.
+                        Learn more...
+
+People involved:
+
+
+
+Michal  Jakob
+
+
+
+Antonín Komenda
+
+
+
+Michal Štolba
+
+
+
+
+
+
+
+
+
+
+
+
+AgentPolis: Urban Mobility Simulator
+
+
+
+
+
+
+
+
+						We are developing and maintaining an agent-based micro-simulator of urban traffic called 
+                        AgentPolis. The simulator can be used to perform large-scale "what-if" simulation studies 
+                        involving different modes of transport such as private cars, on-demand cars, public transport 
+                        etc. Agentpolis is particularly useful for evaluation of different fleet management strategies
+                        in on-demand systems. 
+                        
+Learn more...
+
+People involved:
+
+
+
+Michal  Čáp
+
+
+
+Martin Schaefer
+
+
+
+David Fiedler
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transportation Demand Modeling
+
+
+
+
+
+
+
+
+						We are developing a model of transportation demand for the agglomeration of Prague, Czech 
+                        Republic and Brno, Czech Republic. We use activity-based models trained on data from various 
+                        sources. The resulting model is able to generate large, highly-granular synthetic trip data 
+                        covering the entire population of the city agglomeration.
+					
+People involved:
+
+
+
+Michal  Jakob
+
+
+
+Michal Čertický
+
+
+
+Jan Drchal
+
+
+
+
+
+
+
+
+
+
+
+Multi-modal Route Planning
+
+
+
+
+
+
+
+
+						We are extending routing and journey planning algorithms to support the full spectrum of 
+                        mobility services available in modern cities, combining individual and collective, 
+                        fixed-schedule as well on-demand means of transport while taking into account individual 
+                        user preferences and availability of transport services and resources.
+                        Try demo
+
+People involved:
+
+
+
+Michal  Jakob
+
+
+
+Jan Hrnčíř
+
+
+
+
+
+
+
+
+
+
+
+
+Light Personal Transport
+
+
+
+
+
+
+
+
+						Bicycles and other light transportation modes represent a sustainable alternative to private 
+                        automobiles. We are developing specialized, multi-criteria route planner for cyclist that 
+                        considers aspects such as elevation, surface quality, or traffic intensity along the route.
+                        Try demo
+
+People involved:
+
+
+
+Michal  Jakob
+
+
+
+Jan Hrnčíř
+
+
+
+Pavol Žilecký
+
+
+
+Jan Nykl
+
+
+
 
 
 
@@ -66,94 +369,33 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Věda » Doktorandi » Témata dizertačních prací » Štěpán Starosta Novinky    News
 
 
+Office Location
 
 
-AktualityObhajoby DP
-
-Kontakt
-Granty
-Patenty
-DoktorandiZájemce o studium
-Harmonogram
-DSP Informatika Základní informace
-Informace pro nové doktorandy
-Legislativa a formuláře
-Oborová rada - ORP
-Studijní předměty
-Státní doktorská zkouška
-Témata dizertačních prací
-Obhájené dizertační práce
-Zápis do DSP Informatika
-
-Habilitační a jmenovací řízeníObhájené habilitační práce
-
-Vědecká rada
-Výzkumné skupiny a laboratoře
+                    FEL, CTU in Prague
+					Karlovo nam. 13,   
+                    160 00 Prague,  
+                    Czech Republic
 
 
 
 
 
-doc. Ing. Štěpán Starosta, Ph.D. 
-
-Pracoviště
-ČVUT FIT, Katedra aplikované matematiky
-Osobní stránky
-https://usermap.cvut.cz/profile/staroste
-E-mail
-stepan.starosta@fit.cvut.cz
-Telefon
-+420 22435 9886
-
-
-Efektivní algoritmy pro symbolické dynamické systémy
-
-Efektivní algoritmy pro symbolické dynamické systémy
-Effective algorithms for symbolic dynamical systems
-
-Symbolické dynamické systémy jsou dynamické systémy nad množinami nekonečných posloupností (slov) s velmi jednoduchou operací posunutí (shift). Speciální podmnožinou jsou systémy vzniklé z S-adických systémů nebo systémů vícerozměrných řetězových zlomků. Mnoho algoritmů, které se zabývají zkoumáním kombinatorických vlastností těchto systémů a jejich prvků, má exponenciální složitost v délce analyzované konečné části slova (faktoru). Práce by se zabývala navrhováním efektivních datových struktur a algoritmů sloužících pro analýzu vlastností těchto systémů: například vypisování prvků konečné délky, vykreslování přidruženého dláždění, testování rozpoznatelnosti (recognizability) a souvisejích vlastností, modelování souvisejícího numeračního systému, rychlost konvergence vícerozměrného řetězového zlomku atd.
-
-
-Symbolic dynamical systems are dynamical systems over sets of infinite sequences (words) with a simple mapping - the shift. A special subset of these systems are systems generated by S-adic systems or by multidimensional continued fractions. Many algorithms dealing with the combinatorial properties of such systems are exponential in the length of the analyzed finite word (factor). The goal of the thesis is to design effective data structures and algorithms analyzing such systems and their properties, such as: enumeration factors of given length, recognizability related properties, modelling of the related numeration system, testing the speed convergence of the multidimensional continued fraction algorithm etc.
 
 
 
- 
-
-
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
 
 
 
-Facebook
-Twitter
-Instagram
-YouTube
 
 
 
-Připomínky a náměty
-webmaster@fit.cvut.cz
 
 
 
- 
 
- 
-
-
-
-      Poslední změna: 26.4.2019, 15:16      
-           
-                          
-       
 
 
 

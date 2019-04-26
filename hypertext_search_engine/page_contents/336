@@ -1,4 +1,4 @@
-https://fit.cvut.cz/fakulta/veda/patenty/306787
+https://fit.cvut.cz/vyzkum/anc
 
 
 
@@ -66,7 +66,7 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Věda » Patenty » Systém pro realizaci rozptylovací tabulky Novinky    News
+ › ČVUT » FIT  » Fakulta » Věda » Výzkumné skupiny a laboratoře » Aplikovaná numerika a kryptologie Novinky    News
 
 
 
@@ -75,12 +75,7 @@ AktualityObhajoby DP
 
 Kontakt
 Granty
-PatentyZařízení pro řízení a správu inteligentních budov a bytů
-Systém pro realizaci rozptylovací tabulky
-Zapojení pro řízení a správu inteligentních budov
-Generování multiplikativní inverze
-Zapojenie procesorovej jednotky
-
+Patenty
 DoktorandiZájemce o studium
 Harmonogram
 DSP Informatika Základní informace
@@ -96,46 +91,79 @@ Zápis do DSP Informatika
 Habilitační a jmenovací řízeníObhájené habilitační práce
 
 Vědecká rada
-Výzkumné skupiny a laboratoře
+Výzkumné skupiny a laboratořeAplikovaná numerika a kryptologie
+Arbologie
+Centrum pro konceptuální modelování a implementace
+Číslicový návrh a spolehlivost
+Inteligentní web
+Počítačové sítě
+Paralelní a distribuované výpočty
+Pražský stringologický klub
+Výpočetní inteligence a strojové učení
+Laboratoř 3D tisku
+Laboratoř etického hackování
+Laboratoř inteligentních vestavných systémů
+Laboratoř otevřených dat
+Laboratoř zpracování obrazu
+GPU laboratoř
+Síťová a multimediální laboratoř
+Laboratoř s firmou UNICO.AI
 
 
 
 
 
-Systém pro realizaci rozptylovací tabulky 
-V roce 2017 získali Ing. Matěj Bartík, z Katedry číslicového návrhu, a Dr. Ing. Sven Ubik, ze sdružení CESNET, patent na systém pro realizaci rozptylovací tabulky. Předkládané řešení umožňuje realizovat rozptylovací tabulku, například pro činnost kompresních algoritmů, s rychlou inicializací a současně s malými nároky na systémové prostředky. Majitelem patentu je Fakulta informačních technologií ČVUT a CESNET, z. s. p. o.
 
-Autor
-Ing. Matěj Bartík
-Dr. Ing. Sven Ubik
-Přihlašovatel/Majitel
-CESNET, z. s. p. o.
-České vysoké učení technické v Praze, Fakulta informačních technologií
-Druh PV
-Český národní patent
-Evropský patent
-Informace
-ÚPV: Systém pro realizaci rozptylovací tabulky
-Espacenet: System for Implementation of a Hash Table
-Dokumentace
-Patentový spis č. 306 787
-Číslo přihlášky
-2016-272
-Číslo dokumentu
-306 787
-Datum podání přihlášky
-10. 5. 2016
-Datum udělení patentu
-24. 5. 2017
-Datum publikace patentu
-7. 7. 2017
+Aplikovaná numerika a kryptologie 
 
-Anotace
-Předkládané řešení umožňuje realizovat rozptylovací tabulku, například pro činnost kompresních algoritmů, s rychlou inicializací a současně s malými nároky na systémové prostředky. Hlavními částmi řešení jsou jeden nebo více základních bloků (1), odpovídající počet maskovacích bloků (20), čítač (14), adresní rozdělovač (15), demultiplexor (18) a multiplexor (22). Každý základní blok (1) obsahuje paměť (4) příznakového registru implementovaného jako tabulka LUT. V normálním provozním režimu je adresa celého systému příznaků rozdělena adresním rozdělovačem (15) na část připojenou současně do všech základních bloků (1) a na část, kterou demultiplexor (18) využije pro povolení zápisu do jednoho ze základních bloků (1). Maskovací bloky (20) spolu s multiplexorem (22) vybírají obsah adresovaného základního bloku (1). V režimu inicializace vytváří čítač (14) postupně všechny adresy na vstupech základních bloků (1) pro nastavení pamětí (4) příznakových registrů.
+
+Výzkumná skupina Aplikovaná numerika a kryptologie (ANC) se zaměřuje na aplikovanou kryptologii, bezpečné kryptosystémy a alternativní aritmetiky. Jejím cílem je mimo jiné tvorba efektivních algoritmů pro kryptografické systémy nebo monitorování síťového provozu. Skupinu vede prof. Róbert Lórencz.
+O výzkumné skupině
+Výzkumná skupina vznikla v roce 2003 na Fakultě elektrotechnické ČVUT. Nyní spadá pod Fakultu informačních technologií ČVUT a její Katedru informační bezpečnosti. Skupina se zaměřuje na část jejích výzkumných témat – kryptologii a alternativní aritmetiky.
+Výzkumná činnost
+Stěžejní oblastí výzkumu skupiny je aplikovaná kryptologie a jsou to rovněž také metody, algoritmy a hardware pro bezpečnější kryptosystémy. Dalšími výzkumnými zájmy jsou vybrané numerické metody využívající speciální aritmetiky.
+
+Kryptologie
+Tvorba efektivních algoritmů pro kryptografické systémy, kryptoanalýza šifer, reverzní inženýrství
+Bezpečný hardware
+Výzkum fyzicky neklonovatelných funkcí a výzkum skutečně náhodných generátorů a návrh hardwarových akcelerátorů, metody útoků postranními kanály
+Síťová a systémová bezpečnost
+Etické hackování, monitorování síťového provozu, bezpečnost IoT, digitální forenzní analýza
+Alternativní aritmetiky
+Výzkum aritmetik, které nevytvářejí chyby v průběhu, a jejich použití pro vybrané numerické metody
+
+Kontakt
+Výzkumnou skupinu Aplikovaná numerika a kryptologie vede prof. Róbert Lórencz. Skupina sídlí v 11. patře Budovy A a spadá pod Katedru informační bezpečnosti. Další informace jsou dostupné také na oficiálním webu výzkumné skupiny.
+
+
+
+prof. Ing. Róbert Lórencz, CSc.
+Vedoucí výzkumné skupiny Aplikovaná numerika a kryptologie
+Vedoucí Katedry informační bezpečnosti
+
+ robert.lorencz@fit.cvut.cz
+ +420 22435 9812
+ TH:A-1122
+
+
+
+
+
+
+Ing. Jiří Buček, Ph.D.
+Zástupce vedoucího výzkumné skupiny Aplikovaná numerika a kryptologie
+Odborný asistent na Katedře informační bezpečnosti
+
+ jiri.bucek@fit.cvut.cz
+ +420 22435 9852
+ TH:A-1135
+
+
+
 
 Osoba zodpovědná za obsah této stránky
 
-doc. Ing. Štěpán Starosta, Ph.D., stepan.starosta@fit.cvut.czProděkan pro vědu a výzkum
+prof. Ing. Róbert Lórencz, CSc., robert.lorencz@fit.cvut.czVedoucí výzkumné skupiny Aplikovaná numerika a kryptologie
 
 
 
@@ -169,7 +197,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 18.2.2019, 12:10      
+      Poslední změna: 21.1.2019, 16:11      
            
                           
        

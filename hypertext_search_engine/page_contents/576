@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2013-11-04
+https://fit.cvut.cz/en/mi-pb
 
 
 
@@ -11,24 +11,20 @@ english
 
 
 
-České vysoké učení technické v Praze
+Czech Technical University in Prague
 
 
 
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
+Faculty of Information Technology
 
 
 
 
+
+
+Search this site
+
+Search this site: 
 
 
 
@@ -37,21 +33,26 @@ Hledání:
 
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
+
+
+
+
+Faculty
+Prospective Students
+Partners
 Student
-Zaměstnanec
-Média
+Employees
+Media
 
 
 
 
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
+Office of Study
+Bachelor Programme
+Master Programme
+Timetable
+Offers for students
 
 
 
@@ -62,93 +63,76 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2013/2014 » Tajemství SSD – aneb co se děje s mými daty? Novinky    News
+ › CTU » FIT  » Student » Master Programme » Computer Security Novinky    News
 
 
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
-
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+Software Engineering
+Computer Security
+Computer Systems and Networks
+Design and Programming of Emebedded Systems
+Master thesis and State Final Examination
 
 
 
 
 
-Tajemství SSD – aneb co se děje s mými daty? 
+Computer Security Master Branch 
+
+
+The study branch is focused on the research and development of secure information and communication systems. Graduates gain professional knowledge in cryptanalysis principles, detection, and prevention of attacks on computer networks, secure management of information systems, and secure hardware and software design. The guaranteeing department of the branch is the Department of Information Security. The branch is taught both in the Czech and English language.
+This branch is directly connected to the current Bachelor Degree Study Programme Informatics, especially Computer Security and Information Technology bachelor branch. However, the branch is also suitable for graduates of similar bachelor informatics programmes. Applicants attend the admission procedure to the Study Program Informatics, they choose the specialization/branch during the study.
+Acquired Skills and Knowledge
+The aim of the branch is to acquaint students with issues of the cryptology, mathematics, design, implementation, and verification of secure hardware and software, at both theoretical and application level. Students of this branch obtain the knowledge especially about these issues:
+
+Cryptology, cryptography, and cryptanalysis
+Mathematical principles of computer safety
+Design and implementation of secure hardware and software
+Reverse engineering of computer software
+Safe usage and integration of hardware components into information systems
+Verification of resistance of hardware components against attacks
+
+Professional Profile
+Graduates of the Computer Security branch can take positions in companies dealing with the design, implementation, and operation of ICT security solutions and the creation of secure hardware and software. Graduates can ensure secure operation of networks, servers, and data centers. They can work as security analysts, security solutions developers, administrators, and consultants at all levels of ICT security.
+Branch Courses
+This branch has a balanced ratio of application and general topics, considering an adequate and correct understanding of the security principles of modern ICT systems. The study plan and the recommended study pathway are available in the White Book. The compulsory courses of the branch are:
+
+Advanced Cryptology (MIE-KRY.16)
+Hardware Security (MIE-HWB.16)
+Mathematics for Cryptology (MIE-MKY.16)
+Modern Internet Technologies (MIE-MTI.16)
+Network Security (MIE-SIB.16)
+Reverse Engineering (MIE-REV.16)
+System security (MIE-SYB.16) 
+
+Contact
+The guaranteeing department of the branch is the  Department of Information Security. Prof. Róbert Lórencz is the branch guarantor. If you have any questions about the admission procedure, please contact the Office of Study.
+
+
+prof. Ing. Róbert Lórencz, CSc.
+Guarantor of the Computer Security Master Branch
+Head of the Department of Information Security
+
+ robert.lorencz@fit.cvut.cz
+ +420 22435 9812
+ TH:A-1122
 
 
 
+Person responsible for the content of this page
 
-Přednáška:
-
-				Tajemství SSD – aneb co se děje s mými daty?
-
+prof. Ing. Róbert Lórencz, CSc., robert.lorencz@fit.cvut.czGuarantor of the Computer Security Master Branch
 
 
-Přednášející:
-
-				Ing. Aleš Padrta, Ph.D., a Bc. Karel Nykles
-
-
-
-Datum a čas:
-
-				4. listopadu 2013, 18–19:30 hodin
-
-
-
-Místo:
-
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
-
-
-
-Jazyk:
-
-				Čeština
-
-
-
-Obsah přednášky:
-Moderní paměťová média typu Solid State Drive (SSD) mohla dosáhnout svých skvělých vlastností pouze přechodem na jinou technologii než klasické pevné disky (HDD). Nová technologie však pochopitelně vykazuje jiné chování k ukládaným a mazaným datům, což má přímý vliv na objem smazaných dat dohledatelných v obrazu média. Přednáška mapuje interní mechanismy SSD, které ovlivňují zacházení s daty, od tranzistoru s plovoucím hradlem až po softwarové vlastnosti řadiče jako FTL, garbage collector a deduplikace/komprese dat. Také je rozebrána komunikace s OS pomocí protokolu TRIM a ovladače zařízení. Na závěr budou ukázány výsledky praktických experimentů.
- 
-Stručný životopis přednášejícího:
-Ing. Aleš Padrta, Ph.D.: Po magisterském a doktorském studiu na Fakultě aplikovaných věd Západočeské univerzity (ZČU) začal v roce 2005 pracovat pro Centrum informatizace a výpočetní techniky jako administrátor počítačových systémů se zaměřením na bezpečnost. Od roku 2006 je zakládajícím členem bezpečnostního týmu typu CSIRT pro ZČU. Dále, od roku 2007 pracuje pro sdružení CESNET, z.s.p.o., kde se zabývá vzděláváním uživatelů v oblasti bezpečnosti a od roku 2011 také pracuje na projektu forenzní laboratoře FLAB.
-Bc. Karel Nykles: Po studiu na Fakultě aplikovaných věd Západočeské univerzity v Plzni začal v roce 2007 pracovat pro zdejší Centrum informatizace a výpočetní techniky jako systémový administrátor. Od roku 2011 pak pracuje také pro sdružení CESNET, z.s.p.o., v rámci projektu forenzní laboratoře FLAB.
- 
-Záznam:
-
-
-avc.fit.cvut.cz (po přihlášení ČVUT údaji)
-
-YouTube kanál FIT
-
-
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
 
 
  
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
+Important Links
+Sitemap
+Contacts
 
 
 
@@ -159,7 +143,7 @@ YouTube
 
 
 
-Připomínky a náměty
+Questions and comments
 webmaster@fit.cvut.cz
 
 
@@ -170,7 +154,78 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 31.1.2019, 13:08      
+      Last modified: 19.10.2018, 17:03      
+           
+                          
+       
+
+
+
+
+
+
+islava Smítková JankůPh.D. studentladislava.smitkova@fit.cvut.cz+420-22435-8715A-1033
+Bc. Tomáš Jánskýexternal associatejanskto1@fit.cvut.cz  
+Ing. Stanislav JeřábekPh.D. studentstanislav.jerabek@fit.cvut.cz A-1051
+Bc. Radek Jirešexternal associatejiresrad@fit.cvut.cz  
+Ing. Miroslav Kalinaexternal associatekalinmi2@fit.cvut.cz  
+Bc. Zdeněk Kasnerexternal associatekasnezde@fit.cvut.cz  
+Ing. Filip KodýtekPh.D. studentkodytfil@fit.cvut.cz A-1149
+Ing. Martin Kohlík, Ph.D.assistant lecturermartin.kohlik@fit.cvut.cz+420-22435-9845A-1035
+Ing. Pavel Kubalík, Ph.D.assistant lecturerpavel.kubalik@fit.cvut.cz+420-22435-9841A-1037
+doc. Ing. Hana Kubátová, CSc.associate professorhana.kubatova@fit.cvut.cz+420-22435-9840A-1024
+ Ladislav Macounexternal associatemacoulad@fit.cvut.cz  
+Ing. Vojtěch MiškovskýPh.D. studentvojtech.miskovsky@fit.cvut.cz+420-22435-9847A-1051
+ Vojtěch Nevřelaexternal associatenevrevoj@fit.cvut.cz  
+Dr.-Ing. Martin Novotnýassistant lecturermartin.novotny@fit.cvut.cz+420-22435-8715A-1033
+Ing. Petr Petroušexternal associatepetr.petrous@fit.cvut.cz  
+Ing. Adam Plánskýexternal associateplansada@fit.cvut.cz  
+doc. Ing. Alois Pluháček, CSc.associate professoralois.pluhacek@fit.cvut.cz+420-22435-9843A-1031
+Ing. Jan PospíšilPh.D. studentjan.pospisil@fit.cvut.cz+420-22435-9847A-1051
+doc. Dipl.-Ing. Dr. techn. Stefan Ratschanassociate professorstefan.ratschan@fit.cvut.cz+420-22435-9846A-1029
+Bc. Jan Řezníčekexternal associatereznija5@fit.cvut.cz  
+doc. Ing. Jan Schmidt, Ph.D.associate professorjan.schmidt@fit.cvut.cz+420-22435-9842A-1022
+Ing. Miroslav Skrbek, Ph.D.assistant lecturermiroslav.skrbek@fit.cvut.cz+420-22435-9856A-1029
+Bc. Petr Sochaexternal associatesochapet@fit.cvut.cz  
+Bc. Dominik Soukupexternal associatesoukudom@fit.cvut.cz  
+Ing. Filip Štěpánekexternal associatefilip.stepanek@fit.cvut.cz+420-22435-9847A-1054
+Ing. Marek Švepešexternal associatemarek.svepes@fit.cvut.cz  
+Bc. Jakub Tauchmanexternal associatetauchja1@fit.cvut.cz  
+Ing. Pavel VítPh.D. studentpavel.vit@fit.cvut.cz  
+Bc. Tomáš Zimmerhaklexternal associatezimmeto1@fit.cvut.cz  
+Bc. Matěj Židekexternal associatezidekmat@fit.cvut.cz  
+
+
+
+
+ 
+
+
+Important Links
+Sitemap
+Contacts
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Questions and comments
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Last modified: 19.10.2018, 16:36      
            
                           
        

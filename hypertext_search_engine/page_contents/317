@@ -1,4 +1,30 @@
-http://cmp.felk.cvut.cz/~kybic/proposed.html
+https://fit.cvut.cz/fakulta/pravidelne-akce/konference/stringmasters
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
 
 
 
@@ -11,123 +37,139 @@ http://cmp.felk.cvut.cz/~kybic/proposed.html
 
 
 
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
 
-Jan Kybic
-Available positions
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Konference pořádané a spolupořádané FIT » StringMasters Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FITEuromicro DSD/SEAA 2018
+Human-Level AI 2018
+InstallFest
+LAW FIT
+LinuxDays
+P2D2
+PESW
+Prague Stringology Conference
+StringMasters
+
+Přednášky a semináře
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+StringMasters 
+
+
+StringMasters je workshop, který se koná několikrát ročně v různých světových městech. Některé workshopy pořádá i The Prague Stringology Club (Pražský stringologický klub) z Katedry teoretické informatiky. Tématem jsou každoročně různé stringologické disciplíny jako indexování, komprese dat nebo bioinformatika.
+Setkání je neformální, bez pevně daného programu, kdy účastníci tvoří skupinky dle svých zájmů. Hlavním cílem akce je spojit výzkumníky v této oblasti, a to seniorní vědce, doktorandy, ale i absolventy.
+Současný ročník
+Ve dnech 29. až 31. srpna se na Fakultě informačních technologií ČVUT uskuteční 35. mezinárodní vědecké setkání Summer StringMasters Prague 2018. Tématem jsou různé stringologické disciplíny. Účast je bezplatná, avšak je nutné se registrovat. Letos proběhla již dvě setkání na univerzitách v Singapuru a Lisabonu.
+Summer StringMasters Prague 2018
+Minulé ročníky
+Historie StringMasters sahá do roku 2007, kdy se konalo první setkání na kanadské McMaster University. StringMasters mají za sebou již více než třicet setkání na různých mezinárodních univerzitách. Naše fakulta hostí setkání v roce 2017 již počtvrté.
+
+Summer StringMasters Prague 2017
+Ve dnech 31. srpna až 2. září se uskuteční 31. mezinárodní vědecké setkání Summer StringMasters Prague 2017. Tento rok proběhlo již šest setkání na univerzitách ve Francii, Jižní Africe, Mauriciu, Kanadě, Polsku a USA.
+Minulé ročníky konané na FIT ČVUT
+Summer Stringmasters 2015
+Summer Stringmasters 2014
+Summer StringMasters 2013
+
+Kontakt
+Workshop se koná každoročně v Kampusu Dejvice, Praha 6. Hlavními organizátory jsou prof. Jan Holub a Ing. Regina Šmídová, oba z Katedry teoretické informatiky. Prof. Jan Holub je navíc i člen vědecké komise workshopu.
+
+
+prof. Ing. Jan Holub, Ph.D.
+Hlavní organizátor StringMasters Prague
+Profesor na Katedře teoretické informatiky
+
+ jan.holub@fit.cvut.cz
+ +420 22435 9814
+ TH:A-1235
+
+
+
+
+Ing. Regina Šmídová
+Organizátorka StringMasters Prague
+Sekretářka Katedry teoretické informatiky
+
+ regina.smidova@fit.cvut.cz
+ +420 22435 9876
+ TH:A-1226
+
+
+
+Osoba zodpovědná za obsah této stránky
+
+prof. Ing. Jan Holub, PhD., jan.holub@fit.cvut.czHlavní organizátor StringMasters Prague
+
+
 
 
  
 
 
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
 
 
-Home
-Available positions
-CV
-Contacts & agenda
-Funding
-Personal
-Publications
-Research
-Students & Collaborators
-Teaching
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
 
  
 
 
 
-
-If you are interested by any of the positions advertised below, please send me your CV, recommendation letters, sample publications, study result reports and other relevant documents.
-Here are examples
-of semestral, bachelor, and master thesis projects I am offering.
-
-
-Multimodal digital pathology
-The current methods in digital pathology try to model the human expert
-approach for understanding the histopathology images and to propose a number
-of quantitative descriptors of the images. However, this approach provides a
-limited view on the underlying biology and will likely lag behind the human
-expertise in interpreting the histopathology image data for the foreseeable
-future.
-On the other hand, nowadays a biological sample is characterized by a richer
-set of features raging from clinical to molecular information. It is not
-uncommon to have whole-genome expression data, mutational and clinical data
-available for analysis.
-In this context, the present project aims at combining gene expression,
-clinical and imaging features to provide a more comprehensive description of
-the pathology slides, description that will rather complement than replace
-the usual pathologist assessment. This represents a paradigm shift in
-digital pathology and is expected to advance the current state of the art.
-Using gene expression data to guide the development, the project will create
-and implement novel software tools for histopathology image analysis. The
-utility of the resulting methods will be evaluated in collaboration with an
-expert pathologist. In collaboration with  Vlad Popovici
-Requirements: image processing; Java/Python; pattern recognition
-
-
-Identification of tumor cells in microscope images
-(PhD or master thesis topic) A typical histopathology slide contains not only tumor cells but also normal
-tissue cells and other regions of less interest from a diagnostic
-perspective. Thus, one of the tasks a pathologists performs routinely is the
-identification of tumor regions in the microscope slide (if there are any)
-and eventually delineating them for further analysis.
-The purpose of the project is to produce the software tools that would
-automate the identification of tumor cells in digital images of H&E-stained
-microscope slides. These tools will be applied to high resolution images of
-colon cancer samples and they will need to demonstrate high performance
-(detection rate and computation time) in order to be accepted by the
-pathologists. In collaboration with  Vlad Popovici
-Requirements: image processing; Java/Python; pattern recognition
-
-
-Nuclear morphology in digital pathology
-(Part of a PhD thesis or a master thesis topic) The type of cells and the morphology of their nuclei are key variables
-that are considered by the pathologist when assessing a tissue
-sample. The standard staining of the histopathology slides reveals the
-regions containing nuclei, but precisely segmenting their contours
-remains a non-trivial task.
-The purpose of the project is to produce the software tools that would
-automatically segment and identify the nuclei in digital pathology images.
-The identified nuclei will be then characterized in terms of shape,
-orientation, budding, etc, to help the human expert in assessing the tumor
-sample. These tools will be applied to high resolution images of colon
-cancer samples and they will need to demonstrate high performance (detection
-rate and computation time) in order to be accepted by the
-pathologists. In collaboration with  Vlad Popovici.
-Requirements: image processing; Java/Python; pattern recognition
-
-
-Fast and precise motion estimation
-We are looking for a PhD or postdoc candidate for a joint project  with Prof. Rudolf Mester.
-
-
-Analysis of images in biology and medicine
-I am constantly looking for new PhD students, post-docs, or
-experienced independent programmers for various projects
-concerning analysis of images in biology and medicine, for example
-histology slice registration or perfusion CT data processing. The
-candidates should have excellent knowledge of programming, mathematics, and
-image processing.
-
-
- 
- 
-
-
-
-                Page last modified Tue May 29 00:40:32 2018.
-                
-
-                Created by rest2web.
-Website
-                    template
-                  by Arcsin (modified)
-
- 
- 
- 
-
-
+      Poslední změna: 24.8.2018, 15:07      
+           
+                          
+       
 
 
 

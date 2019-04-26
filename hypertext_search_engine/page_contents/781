@@ -1,4 +1,4 @@
-https://fit.cvut.cz/phd_skolitel_janousek
+http://www.fit.cvut.cz/en/modules/bie-vwm
 
 
 
@@ -11,24 +11,20 @@ english
 
 
 
-České vysoké učení technické v Praze
+Czech Technical University in Prague
 
 
 
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
+Faculty of Information Technology
 
 
 
 
+
+
+Search this site
+
+Search this site: 
 
 
 
@@ -37,25 +33,16 @@ Hledání:
 
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
+
+
+
+
+Faculty
+Prospective Students
+Partners
 Student
-Zaměstnanec
-Média
-
-
-
-
-
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Employees
+Media
 
 
 
@@ -66,69 +53,46 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Věda » Doktorandi » Témata dizertačních prací » Jan Janoušek Novinky    News
+ › CTU » FIT  » BIE-VWM – Searching Web and Multimedia Databases Novinky    News
 
 
+BIE-VWM – Searching Web and Multimedia Databases 
+Annotation
+Students gain basic knowledge concerning retrieval techniques on the web, where the web environment is viewed as a large distributed and heterogenous data repository. In particular, the students will understand the techniques for retrieving text and hypertext documents (the web pages). Moreover, they will be aware of similarity retrieval methods focused on heterogenous multimedia databases (unstructured data collections, respectively).
+Lecture Program
 
+Introduction. Web infrastructure. Data distribution on the web. Web document types. Web retrieval modalities.
+Text retrieval - Boolean model. Implementation.
+Text retrieval - Vector model. Implementation.
+Hypertext retrieval. Hypertext ranking.
+Search engine optimization.
+Semantic web. Implementation.
+Recommender systems. Collaborative filtering.
+Multimedia databases. Text-based multimedia retrieval.
+Similarity as a model for content-based retrieval. Feature extraction from multimedia documents.
+Similarity queries and their integration into SQL.
+Indexing metric similarity for efficient multimedia retrieval.
+Approximate similarity retrieval.
+Advanced models - nonmetric similarities, dynamic similarities & queries, etc.
 
-AktualityObhajoby DP
+Labs Program 
 
-Kontakt
-Granty
-Patenty
-DoktorandiZájemce o studium
-Harmonogram
-DSP Informatika Základní informace
-Informace pro nové doktorandy
-Legislativa a formuláře
-Oborová rada - ORP
-Studijní předměty
-Státní doktorská zkouška
-Témata dizertačních prací
-Obhájené dizertační práce
-Zápis do DSP Informatika
-
-Habilitační a jmenovací řízeníObhájené habilitační práce
-
-Vědecká rada
-Výzkumné skupiny a laboratoře
-
-
-
-
-
-doc. Ing. Jan Janoušek, Ph.D. 
-
-Pracoviště
-ČVUT FIT, Katedra teoretické informatiky
-Výzkumná skupina
-The Prague Stringology Club
-Osobní stránky
-https://users.fit.cvut.cz/~janousej/
-E-mail
-janousej@fit.cvut.cz
-
-
-Zpracování stromových struktur
-
-Zpracování stromových struktur
-Processing Tree Data Structures
-
-Seřazené a neseřazené stromy. Vyhledávání, indexování, další typy zpracování. Přesné a přibližné.
-
-
-Ordered and unordered trees. Pattern matching, indexing and other types of processing. Processing exactly and approximately.
+Boolean model.
+Vector model.
+Hypertext search.
+Recommender systems.
+Similarity queries.
+Metric indexing.
+Approximate retrieval.
 
 
 
  
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
+Important Links
+Sitemap
+Contacts
 
 
 
@@ -139,7 +103,7 @@ YouTube
 
 
 
-Připomínky a náměty
+Questions and comments
 webmaster@fit.cvut.cz
 
 
@@ -150,60 +114,11 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 26.4.2019, 10:27      
+      Last modified: 7.9.2010, 11:06      
            
                           
        
 
-
-
-
-
-
-for EducationPoznámky ke Google Apps for Education
-Fakultní VPNVPN pro přístup do vnitřních sítí fakulty
-Webserver users.fit.cvut.czOsobní webové stránky zaměstnanců a doktorandů
-
-Prostory fakulty
-Informace o prostorech fakulty
-Hlášení problémů
-Problémy či chyby hlašte e-mailem na adresu helpdesk@fit.cvut.cz. Stručně a
-výstižně popište problém a nezapomeňte uvést URL, kde se problém objevil.
-
-Další >
-
-
-
-
-
-
-V tomto dokumentu
-
-
-Návody dle kategorií
-
-
-Identita a uživatelské účty
-
-
-E-mail
-
-
-Počítačová síť
-
-
-Učebny
-
-
-Služby počítačové sítě
-
-
-Prostory fakulty
-
-
-
-
-Hlášení problémů
 
 
 

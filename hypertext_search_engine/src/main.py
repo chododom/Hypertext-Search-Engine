@@ -1,3 +1,4 @@
+import shutil
 import threading
 import collections
 import time
@@ -34,6 +35,11 @@ def crawl():
 
 
 if CRAWL:
+    try:
+        shutil.rmtree("../page_contents")
+    except:
+        print("Page_contents folder couldn't be removed as it doesn't exist")
+    os.mkdir("../page_contents")
     create_spiders()
     crawl()
     for thread in threads:

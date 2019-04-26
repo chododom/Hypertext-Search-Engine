@@ -1,178 +1,199 @@
-https://fit.cvut.cz/linuxdays
+http://bilakniha.cvut.cz/en/predmet1450806.html
 
 
 
 
 
+Loading...
+CZECH TECHNICAL UNIVERSITY IN PRAGUESTUDY PLANS2018/2019 
+Select period:
+Next period
+Actual period
+Faculties |
+         School elective courses |
+         ECTS courses catalogue
+         | Settings
+         | 
 
 
-česky
-english
 
 
 
-České vysoké učení technické v Praze
 
 
 
-Fakulta informačních technologií
 
 
 
+Česká verze
+Welcome page >
+         Faculty of Information Technology >
+         Department of Information Security >
+         Security
 
 
+Security
+Login to KOS for course enrollment Display time-table
 
-Hledání
 
-Hledání: 
+Code
+Completion
+Credits
+Range
+Language 
 
 
+BIE-BEZ
+Z,ZK
+6
+2P+1R+1C
 
 
 
 
+Lecturer:
+Róbert Lórencz (guarantor), Jiří Buček
+Tutor:
+Róbert Lórencz (guarantor), Jiří Buček
+Supervisor:
+Department of Information Security
+Synopsis:
 
 
+Students understand the mathematical fundamentals of cryptography and have an overview of current cryptographic algorithms
+                  and applications: symmetric and asymmetric cryptosystems, and hash functions. They also learn the fundamentals of secure programming
+                  and IT security, the fundamentals of designing and using modern cryptosystems for computer systems. They are able to properly
+                  and securely use cryptographic primitives and systems that are based on these primitives. Students are introduced to legal
+                  aspects of information security, security standards, social engineering, and basic principles of security management.
+               
 
 
+Requirements:
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
+Fundamentals of linear algebra and discrete mathematics. Basics of number theory, elementary programming techniques. Knowledge
+                  of runtime and memory complexities.
+               
 
 
+Syllabus of lectures:
 
 
+1. Fundamentals of modular arithmetic and number theory. Fundamental theorem of arithmetic.
+2. Properties of prime numbers. Exponentiation in modular arithmetic, fundamental concepts in cryptography, substitution ciphers.
+3. Block ciphers, transposition ciphers, exponential ciphers. Establishment of a shared key.
+4. Information theory, algorithm complexity theory.
+5. Hash functions, MD5, SHA-x, HMAC.
+6. Chinese remainder theorem, primality tests.
+7. Stream ciphers, RC4. Block ciphers, DES, 3DES, AES. Modes of operation of block ciphers.
+8. [2] Asymmetric cryptography, RSA, RSA-CRT, digital signature, certificates.
+9. Secret sharing.
+10. Principles of secure programming.
+11. IT security. Perimeter security, firewall, antivirus, antispam.
+12. Social engineering. Legal aspects of information security, standards.
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
 
+Syllabus of tutorials:
 
 
+1. Fundamentals of modular arithmetic, substitution cipher, affine ciphers.
+2. Transposition, Vigenere cipher, block ciphers, exponential ciphers. Diffie-Hellman algorithm.
+3. Hash functions, stream ciphers.
+4. Primality tests, block ciphers.
+5. Certificates, asymmetric cryptography.
+6. SSL encryption.
 
 
+Study Objective:
 
 
+The module provides the fundamental theoretical knowledge and practical skills concerning cryptographic systems and their
+                  use. Students will understand the principles of basic crypto algorithms and the basics of secure programming and IT security.
+                  A key point is the understanding of the concept of security in the context of mathematical principles of cryptographic primitives,
+                  as well as their use in complex systems. In the labs, students gain practical skills in using standard cryptographic methods
+                  with emphasis on security and learn elementary cryptanalysis methods. Students are also introduced to the basic rules of security
+                  management, security standards and legal aspects of security.
+               
 
 
- 
- › ČVUT » FIT  » Aktuálně » Akce a události » Konference pořádané a spolupořádané FIT » LinuxDays Novinky    News
+Study materials:
 
 
+1. Menezes, A. J., Oorschot, P. C., Vanstone, S. A. ''Handbook of Applied Cryptography''. CRC Press, 2001. ISBN 0849385237.
+2. Rosen, K. H. ''Elementary Number Theory (5th Edition)''. Addison Wesley, 2004. ISBN 0321237072.
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FITEuromicro DSD/SEAA 2018
-Human-Level AI 2018
-InstallFest
-LAW FIT
-LinuxDays
-P2D2
-PESW
-Prague Stringology Conference
-StringMasters
+Note:
+Time-table for winter semester 2018/2019:
+Time-table is not available yet
+Time-table for summer semester 2018/2019:
 
-Přednášky a semináře
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
 
 
 
 
 
-LinuxDays 
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
 
 
 
+Mon
 
 
 
 
 
-LinuxDays
-LinuxDays je česká linuxová konference, která se odehrává každoročně v Praze. Víkendová akce, která je určena pro linuxové a open-source nadšence, nabízí přednášky pro začátečníky i profesionály. Tato konference vznikla v roce 2012, aby nahradila zrušenou konferenci LinuxExpo. Po několika letech se z LinuxDays stala největší akce svého druhu v Česku.
-Současný ročník
-První víkend v říjnu, 6.–7. října, se na Fakultě informačních technologií uskuteční již sedmý ročník konference LinuxDays. Program konference nabídne opět odborné přednášky, praktické workshopy a stánky zajímavých projektů. Pozvání na akci přijalo i několik zahraničních odborníků. Přednášet budou také lektoři z FIT Lukáš Bařinka, Jan Buriánek a Ondřej Guth. Vstup je zdarma, ale je nutné se zaregistrovat.
-LinuxDays 2018
-Minulé ročníky
-Konference se koná od roku 2012, můžete si prohlédnout videozáznamy, prezentace a programy z minulých let:
+Tue
 
+roomT9:349Lórencz R.12:45–14:15(lecture parallel1)DejviceNBFIT PC učebna
 
-LinuxDays 2017
-Šestý ročník největší české linuxové konference LinuxDays se uskuteční 7. a 8. října na Fakultě informačních technologií ČVUT. Dozvíte se novinky z oblasti IoT, bezpečnosti, sítí, šifrování i vývoje. Letos dostanou více prostoru přednášky v angličtině a také komunita kolem hackerspaces. V programu konference nechybí ani několik přednášek našich zaměstnanců, včetně workshopu Bash za 50 min.
-LinuxDays 2016
-V termínu 8.–9. října se na Fakultě informačních technologií ČVUT uskuteční pátý ročník konference LinuxDays. Program konference nabídne novinky týkající se linuxových kontejnerů a trendy v architekturách CPU. Dozvíte se například, jak monitorovat svou síť pomocí OpenWRT nebo jak programovat populární wifi čip ESP8266.
-LinuxDays 2015
-Již čtvrtý ročník konference LinuxDays nabídne o víkendu 10. a 11. října milovníkům linuxových technologií mnoho zajímavého. V programu konference je i workshop, kde si můžete postavit vlastní 3D tiskárnu. Workshop povedou členové Laboratoře 3D tisku, kteří vás kromě samotné stavby provedou i obsluhou tiskárny a její kalibrací.
-Ročníky v období 2012–2014
-LinuxDays 2014
-LinuxDays 2013
-LinuxDays 2012
 
-Kontakt
-Akci pořádá Petr Hodač za podpory Fakulty informačních technologií ČVUT a Fondu studentských projektů ČVUT. Dále se na akci podílí zpravodajský server Root.cz nebo zástupci linuxových distribucí Fedora, Gentoo a openSUSE. Konference se každoročně koná v Kampusu Dejvice v prostorách Nové budovy ČVUT – Thákurova 9, Praha 6.
 
+Fri
 
-Bc. Petr Hodač
-Hlavní organizátor LinuxDays
-Systémový administrátor na Oddělení ICT
 
- orgs@linuxdays.cz, petr.hodac@fit.cvut.cz
- +420 22435 9839
- TH:A-1329
 
 
 
-Osoba zodpovědná za obsah této stránky
+Thu
 
-Bc. Petr Hodač, petr.hodac@fit.cvut.czHlavní organizátor LinuxDays
+roomT9:303Buček J.11:00–12:30(lecture parallel1parallel nr.101)DejviceNBFIT PC ucebnaroomT9:303Buček J.12:45–14:15(lecture parallel1parallel nr.102)DejviceNBFIT PC ucebna
 
 
 
+Fri
 
- 
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
 
 
 
-Facebook
-Twitter
-Instagram
-YouTube
 
+The course is a part of the following study plans:
 
 
-Připomínky a náměty
-webmaster@fit.cvut.cz
+Bc Branch Security and Information Technology, Presented in English, Version  2015, 16, 17 and 18 (compulsory course in the program)
+                  
+Bc. Branch WSI, Specialization Software Engineering, Presented in English, Version 2015, 16, 17, 18 (compulsory course in the program)
+                  
+Bc. Branch Computer Science, Presented in English, Version 2015, 2016, 2017 and 2018 (compulsory course in the program)
+                  
 
 
 
- 
 
- 
 
+Data valid to 2019-04-26
 
 
-      Poslední změna: 6.10.2018, 11:43      
-           
-                          
-       
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Hosted by Výpočetní a informační centrum ČVUT
+Send your questions and comments to  HelpDesk ČVUT or to spravcekos@cvut.cz
 
 
+For updated information see http://bilakniha.cvut.cz/en/predmet1450806.html
 
-
-
+ Show course group codes
+         
 

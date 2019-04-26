@@ -1,62 +1,4 @@
-https://fit.cvut.cz/vyzkum/anc
-
-
-
-
-
-
-
-česky
-english
-
-
-
-České vysoké učení technické v Praze
-
-
-
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
-
-
-
-
-
-
-
-
-
-
-
-
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
-
-
-
-
-
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
-
+http://akce.cvut.cz/?node=cal_item&idevent=5155&lang=cz
 
 
 
@@ -66,144 +8,118 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Věda » Výzkumné skupiny a laboratoře » Aplikovaná numerika a kryptologie Novinky    News
+
+Česky | English | Editace | RSS
+
+
+
+Akce ČVUT
+
+
+ Dnes
+
+
+«
+ duben  2019 
+»
+
+
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+
+
+1
+2
+3
+4
+5
+6
+7
+
+
+8
+9
+10
+11
+12
+13
+14
+
+
+15
+16
+17
+18
+19
+20
+21
+
+
+22
+23
+24
+25
+26
+27
+28
+
+
+29
+30
+ 
+ 
+ 
+ 
+ 
 
 
 
 
-AktualityObhajoby DP
+Zpět na kalendář
 
-Kontakt
-Granty
-Patenty
-DoktorandiZájemce o studium
-Harmonogram
-DSP Informatika Základní informace
-Informace pro nové doktorandy
-Legislativa a formuláře
-Oborová rada - ORP
-Studijní předměty
-Státní doktorská zkouška
-Témata dizertačních prací
-Obhájené dizertační práce
-Zápis do DSP Informatika
+Prof. Minoru Asada, University of Osaka: Emergence of Human-Robot Interaction
 
-Habilitační a jmenovací řízeníObhájené habilitační práce
+          29.04.2019           
+          13:00-14:30
+        
 
-Vědecká rada
-Výzkumné skupiny a laboratořeAplikovaná numerika a kryptologie
-Arbologie
-Centrum pro konceptuální modelování a implementace
-Číslicový návrh a spolehlivost
-Inteligentní web
-Počítačové sítě
-Paralelní a distribuované výpočty
-Pražský stringologický klub
-Výpočetní inteligence a strojové učení
-Laboratoř 3D tisku
-Laboratoř etického hackování
-Laboratoř inteligentních vestavných systémů
-Laboratoř otevřených dat
-Laboratoř zpracování obrazu
-GPU laboratoř
-Síťová a multimediální laboratoř
-Laboratoř s firmou UNICO.AI
+          Speaker: Prof. Minoru Asada, University of Osaka  
+Title: Emergence of Human-Robot Interaction: Altruistic Behavior Through Minimization of Prediction Error
+
+The emergence of altruistic behavior in infants fosters their social development and supports their involvement in our society. Altruistic tendencies, intended to benefit others with no apparent rewards, are also very useful for social robots that are designed to be used in our households. Yet, to make robots capable of learning how to help others as infants do, it is important to understand the mechanisms and motives responsible for the development of altruistic behavior. Further, understanding the mechanisms behind
+the early development of pro-social behavior would be a great contribution to the field of developmental psychology. To these ends, we hypothesize that infants from 14 months of age help others to minimize the differences between predicted actions and observations, that is, to minimize prediction errors. To evaluate our hypothesis, we created a computational model based on psychological studies and
+implemented it in real and simulated robots. Our system first acquires its own sensory-motor representation by interacting with its environment. Then, using its experience, the system recognizes and predicts others’ actions and uses this prediction to estimate a
+prediction error. Our experiments demonstrated that our robots could
+spontaneously generate helping behaviors by being motivated by the minimization of prediction errors.
+        
+
+Místo konání
+E-112 (Vyčichlova knihovna), FEL ČVUT, Karlovo náměstí 13, Praha 2
+Pořadatel
+Katedra kybernetiky FEL ČVUT
+Kontaktní osoba
+Mgr. Matěj Hoffmann, Ph.D., matej.hoffmann@fel.cvut.cz, +420-22435-7387
+Podrobnější informace
+http://cyber.felk.cvut.cz/seminars/?event=1302
+Příloha
+Stáhnout
 
 
 
 
 
 
-Aplikovaná numerika a kryptologie 
-
-
-Výzkumná skupina Aplikovaná numerika a kryptologie (ANC) se zaměřuje na aplikovanou kryptologii, bezpečné kryptosystémy a alternativní aritmetiky. Jejím cílem je mimo jiné tvorba efektivních algoritmů pro kryptografické systémy nebo monitorování síťového provozu. Skupinu vede prof. Róbert Lórencz.
-O výzkumné skupině
-Výzkumná skupina vznikla v roce 2003 na Fakultě elektrotechnické ČVUT. Nyní spadá pod Fakultu informačních technologií ČVUT a její Katedru informační bezpečnosti. Skupina se zaměřuje na část jejích výzkumných témat – kryptologii a alternativní aritmetiky.
-Výzkumná činnost
-Stěžejní oblastí výzkumu skupiny je aplikovaná kryptologie a jsou to rovněž také metody, algoritmy a hardware pro bezpečnější kryptosystémy. Dalšími výzkumnými zájmy jsou vybrané numerické metody využívající speciální aritmetiky.
-
-Kryptologie
-Tvorba efektivních algoritmů pro kryptografické systémy, kryptoanalýza šifer, reverzní inženýrství
-Bezpečný hardware
-Výzkum fyzicky neklonovatelných funkcí a výzkum skutečně náhodných generátorů a návrh hardwarových akcelerátorů, metody útoků postranními kanály
-Síťová a systémová bezpečnost
-Etické hackování, monitorování síťového provozu, bezpečnost IoT, digitální forenzní analýza
-Alternativní aritmetiky
-Výzkum aritmetik, které nevytvářejí chyby v průběhu, a jejich použití pro vybrané numerické metody
-
-Kontakt
-Výzkumnou skupinu Aplikovaná numerika a kryptologie vede prof. Róbert Lórencz. Skupina sídlí v 11. patře Budovy A a spadá pod Katedru informační bezpečnosti. Další informace jsou dostupné také na oficiálním webu výzkumné skupiny.
-
-
-
-prof. Ing. Róbert Lórencz, CSc.
-Vedoucí výzkumné skupiny Aplikovaná numerika a kryptologie
-Vedoucí Katedry informační bezpečnosti
-
- robert.lorencz@fit.cvut.cz
- +420 22435 9812
- TH:A-1122
 
 
 
 
-
-
-Ing. Jiří Buček, Ph.D.
-Zástupce vedoucího výzkumné skupiny Aplikovaná numerika a kryptologie
-Odborný asistent na Katedře informační bezpečnosti
-
- jiri.bucek@fit.cvut.cz
- +420 22435 9852
- TH:A-1135
-
-
-
-
-Osoba zodpovědná za obsah této stránky
-
-prof. Ing. Róbert Lórencz, CSc., robert.lorencz@fit.cvut.czVedoucí výzkumné skupiny Aplikovaná numerika a kryptologie
-
-
-
-
- 
-
-
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
-
-
-
-Facebook
-Twitter
-Instagram
-YouTube
-
-
-
-Připomínky a náměty
-webmaster@fit.cvut.cz
-
-
+Provozuje Výpočetní a informační centrum
+© 2005 České vysoké učení technické v Praze
 
  
-
- 
-
-
-
-      Poslední změna: 21.1.2019, 16:11      
-           
-                          
-       
-
-
-
-
-
 

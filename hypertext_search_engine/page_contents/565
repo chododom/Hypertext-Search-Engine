@@ -1,176 +1,301 @@
-https://fit.cvut.cz/fakulta/pravidelne_akce/prednaskovy-cyklus-prof-svobody/gaudiot/EHA
+http://bilakniha.cvut.cz/en/predmet5083506.html
 
 
 
 
 
+Loading...
+CZECH TECHNICAL UNIVERSITY IN PRAGUESTUDY PLANS2018/2019 
+Select period:
+Next period
+Actual period
+Faculties |
+         School elective courses |
+         ECTS courses catalogue
+         | Settings
+         | 
 
 
-česky
-english
 
 
 
-České vysoké učení technické v Praze
 
 
 
-Fakulta informačních technologií
 
 
 
+Česká verze
+Welcome page >
+         Faculty of Information Technology >
+         Department of Information Security >
+         Ethical Hacking
 
 
+Ethical Hacking
+Login to KOS for course enrollment Display time-table
 
-Hledání
 
-Hledání: 
+Code
+Completion
+Credits
+Range
+Language 
 
 
+BI-EHA
+Z,ZK
+5
+2P+2C
 
 
 
 
+Lecturer:
+Jakub Růžička (guarantor), Jiří Dostál, Jan Kuběna
+Tutor:
+Jakub Růžička (guarantor), Jakub Ács, Simona Buchovecká, Jiří Dostál, Tomáš Dvořáček, Martin Kolárik, Jan Kuběna, Tomáš Stefan
+Supervisor:
+Department of Information Security
+Synopsis:
 
 
+The course gives a professional and academic introduction to computer and information security using the ethical hacking approach,
+                  which enables improved defence thanks to adopting an attacker mindset when discovering vulnerabilities, hands-on experience
+                  with different attacks, facilitates linking theory and practice in significant areas of one's digital literacy, and can therefore
+                  be utilized by (future) security professionals, (informed) decision-makers, (savvy) users and developers alike.
+               
+This course is taught in English.
 
 
+Requirements:
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
+Please see slides 08 to 13 of bit.ly/ethhacking.
 
 
+Syllabus of lectures:
 
 
+1. INTRODUCTION &amp; PREREQUISITES: Introduction to Computer &amp; Information Security; Introduction to Ethical Hacking
+                  &amp; Penetration Testing; Law &amp; Ethics of Offensive Security; Computer Science &amp; Computer Fundamentals; Communication
+                  Protocols; Networking Technologies; Web Technologies; Introduction to Kali Linux; Introduction to Linux Command Line; Introduction
+                  to Python Programming
+               
+2. FOOTPRINTING, INTELLIGENCE GATHERING &amp; THREAT MODELING: Active &amp; Passive Reconnaissance; Physical Security; Social
+                  Engineering; Network Analysis; Intrusion Detection, Firewalls &amp; Antiviruses
+               
+3. Software, Database, Wireless, Web Application, OS &amp; Mobile Security; Architecture &amp; Security of Popular Operating
+                  Systems: Linux, Windows, OS X, Android, iOS, Chrome OS, BSD; Viruses, Worms, Rootkits, Trojans, Backdoors, Bots, Ransomware,
+                  Spyware, Adware &amp; Other Malware; Host Attacks, Network Attacks, Spoofing, Denial of Service (Part 01)
+               
+4. VULNERABILITY ANALYSIS, EXPLOITATION, POST EXPLOITATION: Active &amp; Passive Attacks; Software, Database, Wireless, Web
+                  Application, OS &amp; Mobile Security; Architecture &amp; Security of Popular Operating Systems: Linux, Windows, OS X, Android,
+                  iOS, Chrome OS, BSD; Viruses, Worms, Rootkits, Trojans, Backdoors, Bots, Ransomware, Spyware, Adware &amp; Other Malware;
+                  Host Attacks, Network Attacks, Spoofing, Denial of Service (Part 02)
+               
+5. VULNERABILITY ANALYSIS, EXPLOITATION, POST EXPLOITATION: Active &amp; Passive Attacks; Software, Database, Wireless, Web
+                  Application, OS &amp; Mobile Security; Architecture &amp; Security of Popular Operating Systems: Linux, Windows, OS X, Android,
+                  iOS, Chrome OS, BSD; Viruses, Worms, Rootkits, Trojans, Backdoors, Bots, Ransomware, Spyware, Adware &amp; Other Malware;
+                  Host Attacks, Network Attacks, Spoofing, Denial of Service (Part 03)
+               
+6. VULNERABILITY ANALYSIS, EXPLOITATION, POST EXPLOITATION: Active &amp; Passive Attacks; Software, Database, Wireless, Web
+                  Application, OS &amp; Mobile Security; Architecture &amp; Security of Popular Operating Systems: Linux, Windows, OS X, Android,
+                  iOS, Chrome OS, BSD; Viruses, Worms, Rootkits, Trojans, Backdoors, Bots, Ransomware, Spyware, Adware &amp; Other Malware;
+                  Host Attacks, Network Attacks, Spoofing, Denial of Service (Part 04)
+               
+7. VULNERABILITY ANALYSIS, EXPLOITATION, POST EXPLOITATION: Applied Cryptography, Password Cracking; Black Box &amp; White
+                  Box Testing; Source Code Auditing, Fuzzing; Digital &amp; Computer Forensics; Steganography
+               
+8. VULNERABILITY ANALYSIS, EXPLOITATION, POST EXPLOITATION: Hardware Security, Firmware, Booting; Malware Analysis, C/C++,
+                  Assembly; Debugging, Disassembly, Reverse Engineering
+               
+9. REPORTING &amp; MEASURES, BUSINESS, MACRO &amp; MICRO-LEVEL CYBERSECURITY: Writing a Penetration Testing Report; Disaster
+                  Recovery, Incident Response; Standards (and Their Shortcomings), Regulatory Compliance, Security Policies, Security Management
+                  and Security Metrics; History of Computer Security, Milestones and Famous Hacks, Attacks &amp; Malware, Economics of Cybercrime,
+                  Cyberwarfare, Critical Infrastructure Security, Privacy &amp; Surveillance
+               
+10. APPLICATIONS &amp; GETTING OUT OF YOUR COMFORT ZONE: Cloud Computing Security; Peer-to-Peer Network Security; Programming
+                  Languages Security; Embedded Device &amp; Internet of Things Security; Augmented Reality &amp; Virtual Reality Security; Point
+                  of Sale Security; E-commerce Payment Systems Security; Cryptocurrencies Security Deep Web &amp; Dark Web; Hacking Satellites;
+                  Hacking Cars, Drones, Planes, Trains, ...; Hacking Washing Machines, Fridges, ...; Quantum Computing; Artificial Intelligence;
+                  Big Data; Bioengineering &amp; Biohacking; 3D Printing; Game Hacking; GPU malware; (...)
+               
+11. COURSE REVIEW &amp; FINAL PROJECT CONSULTATION: research around the infrastructure of an organization and possible attack
+                  vectors (background and theory); vulnerability analysis and exploitation (analyses, assessment, documentation, methodology,
+                  tools used, program code, raw data); suggested measures (technical as well as regulatory /policies); executive summary, presentation,
+                  answers to questions
+               
+12. RESERVE: very likely needed because of guest lectures /workshops /trips 'into the field' /holidays /...
+Disclaimer: In spite of the fact that we'll try to fit our sessions' continuity with a typical sequence of steps in a penetration
+                  test (pentest-standard.org), the content of the course and the order of its sections /teaching blocks might be subject to
+                  change based on pace, level of proficiency, and other requirements of the course group.
+               
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
 
+Syllabus of tutorials:
 
 
+Lectures are intertwined with exercises /tutorials.
 
 
+Study Objective:
 
 
+Upon completion of the course, the students will:
+* be introduced to (both theory and practice of) common computer and information security vulnerabilities in their interdisciplinary
+                  nature
+               
+* be able to perform basic penetration testing tasks (as defined by pentest-standard.org) using software tools and their own
+                  program code
+               
+* understand the broader context of cybersecurity (macro level), the wide range of related topics for further self-driven
+                  education and/or professional /academic specialization, and become savvier ICT users and developers (micro level)
+               
+* perceive ethical hacking as a 'problem-discovery' and 'problem-solving' tool (as opposed to 'problem-creating' tool)
 
 
- 
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Přednáškový cyklus prof. Svobody » Jean-Luc Gaudiot » EHA: The Extremely Heterogeneous Architecture Novinky    News
+Study materials:
 
 
+[1] P. Engebretson, The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy, 2nd
+                  edition. Amsterdam; Boston: Syngress, 2013.
+               
+[2] G. Weidman, Penetration Testing: A Hands-On Introduction to Hacking, 1st edition. San Francisco: No Starch Press, 2014.
+[3] D. Regalado et al., Gray Hat Hacking The Ethical Hacker's Handbook, 4th edition. McGraw-Hill Education, 2015.
+[4] P. Kim, The Hacker Playbook 2: Practical Guide To Penetration Testing. CreateSpace Independent Publishing Platform, 2015.
+[5] T. J. O'Connor, Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers,
+                  1st edition. Amsterdam; Boston: Syngress, 2012.
+               
+[6] J. Seitz, Black Hat Python: Python Programming for Hackers and Pentesters, 1st edition. San Francisco: No Starch Press,
+                  2014.
+               
+[7] J. Seitz, Gray Hat Python: Python Programming for Hackers and Reverse Engineers, 1st edition. San Francisco: No Starch
+                  Press, 2009.
+               
+[8] D. Kennedy et al., Metasploit: The Penetration Tester's Guide, 1st edition. San Francisco: No Starch Press, 2011.
+[9] C. P. Paulino, Nmap 6: Network Exploration and Security Auditing Cookbook. Birmingham, UK: Packt Publishing, 2012.
+[10] C. Sanders, Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems, 2nd edition. San Francisco,
+                  CA: No Starch Press, 2011.
+               
+[11] T. Heriyanto et al., Kali Linux: Assuring Security By Penetration Testing. Birmingham, UK: Packt Publishing, 2014
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+Note:
 
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+Further information:
+bit.ly/ethhackingTime-table for winter semester 2018/2019:
+Time-table is not available yet
+Time-table for summer semester 2018/2019:
 
 
 
 
 
-EHA: The Extremely Heterogeneous Architecture 
 
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
 
 
 
+Mon
 
-Přednášející:    
 
-					Jean-Luc Gaudiot, University of California, Irvine, CA, U.S.A. (více informací)
 
 
 
-Datum a čas:
+Tue
 
-					12. listopadu 2013, 18:30, posluchárna T9:155 (1. část)
 
 
 
-					 
 
-					14. listopadu 2013, 18:30, posluchárna T9:105 (2. část)
+Fri
 
 
 
-Místo:      
 
-					FIT ČVUT v Praze, Thákurova 9, NB ČVUT
 
+Thu
 
 
-Jazyk:
 
-					Angličtina
 
 
+Fri
 
+roomT9:107Dostál J.09:15–10:45(lecture parallel1)DejvicePosluchárnaroomT9:349Dostál J.Dvořáček T.11:00–12:30(lecture parallel1parallel nr.101)DejviceNBFIT PC učebnaroomT9:349Dostál J.Kolárik M.12:45–14:15(lecture parallel1parallel nr.102)DejviceNBFIT PC učebna
 
 
-	 
 
-	The computer industry is moving towards two extremes: extremely high-performance high-throughput cloud computing, and low-power mobile computing. Cloud computing, while providing high performance, is very costly. Google and Microsoft Bing spend billions of dollars each year to maintain their server farms, mainly due to the high power bills. On the other hand, mobile computing is under a very tight energy budget, but yet the end users demand ever increasing performance on these devices. This trend indicates that conventional architectures are not able to deliver high-performance and low power consumption at the same time, and we need a new architecture model to address the needs of both extremes. In this series of talks, we thus introduce our Extremely Heterogeneous Architecture (EHA) project: EHA is a novel architecture that incorporates both general-purpose and specialized cores on the same chip. The general-purpose cores take care of generic control and computation. On the other hand, the specialized cores, including GPU, hard accelerators (ASIC accelerators), and soft accelerators (FPGAs), are designed for accelerating frequently used or heavy weight applications. When acceleration is not needed, the specialized cores are turned off to reduce power consumption. We demonstrate that EHA is able to improve performance through acceleration, and at the same time reduce power consumption. Since EHA is a heterogeneous architecture, it is suitable for accelerating heterogeneous workloads on the same chip. For example, data centers and clouds provide many services, including media streaming, searching, indexing, scientific computations. The ultimate goal of the EHA project is two-fold: first, to design a chip that is able to run different cloud services on it, and through this design, we would be able to greatly reduce the cost, both recurring and non-recurring, of data centers\clouds; second, to design a light-weight EHA that runs on mobile devices, providing end users with improved experience even under  tight battery budget constraints.
 
-	 
 
-Vstup je zdarma, registrace není nutná.
+The course is a part of the following study plans:
 
 
- 
+Information Technology - Version for those who Enrolled in  2012 (in Czech) (elective course)
+                  
+Informatics (Bachelor)- Version for those who Enrolled in  2013 (in Czech) (elective course)
+                  
+Web and Multimedia- Version for those who Enrolled in 2013 (in Czech) (elective course)
+                  
+Computer Science - Version for those who Enrolled in 2013 (in Czech) (elective course)
+                  
+Information Technology - Version for those who Enrolled in  2013 (in Czech) (elective course)
+                  
+Software Engineering- Version for those who Enrolled in 2013 (in Czech) (elective course)
+                  
+Information Systems and Management - Version for those who Enrolled in 2013 (in Czech) (elective course)
+                  
+Informatics (Bachelor)- Version for those who Enrolled in  2014 (in Czech) (elective course)
+                  
+Web and Multimedia- Version for those who Enrolled in 2014 (in Czech) (elective course)
+                  
+Computer Science - Version for those who Enrolled in 2014 (in Czech) (elective course)
+                  
+Information Technology - Version for those who Enrolled in  2014 (in Czech) (elective course)
+                  
+Computer Engineering, Version for those who Enrolled in 2014, in Czech (elective course)
+                  
+Software Engineering- Version for those who Enrolled in 2014 (in Czech) (elective course)
+                  
+Information Systems and Management - Version for those who Enrolled in 2014 (in Czech) (elective course)
+                  
+Bc. Programme Informatics, in Czech, Version 2015, 2016, 2017 and 2018 (elective course)
+                  
+Bc. Branch Security and Information Technology, in Czech, Version 2015, 2016, 2017 and 2018 (elective course)
+                  
+Bc. Branch Computer Science, in Czech, Version 2015, 2016, 2017 and 2018 (elective course)
+                  
+Bc. Branch Computer Engineering, in Czech, Version 2015,  2016, 2017 and 2018 (elective course)
+                  
+Bachelor Branch Information Systems and Management, in Czech, Version 2015, 2016, 2017 and 2018 (elective course)
+                  
+Bachelor Branch Knowledge Engineering, in Czech, Version 2015, 2016 and 2017 (elective course)
+                  
+Bachelor Branch WSI, Specialization Software Engineering, in Czech, Version 2015 2016, 2017 and 2018 (elective course)
+                  
+Bachelor Branch, Specialization Web Engineering, in Czech, Version 2015 2016, 2017 and 2018 (elective course)
+                  
+Bachelor Branch WSI, Specialization Computer Grafics, in Czech, Version  2015, 2016, 2017 and 2018 (elective course)
+                  
+Bachelor Branch Knowledge Engineering, in Czech, Version 2018 (elective course)
+                  
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
 
 
 
-Facebook
-Twitter
-Instagram
-YouTube
+Data valid to 2019-04-26
 
 
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Hosted by Výpočetní a informační centrum ČVUT
+Send your questions and comments to  HelpDesk ČVUT or to spravcekos@cvut.cz
 
-Připomínky a náměty
-webmaster@fit.cvut.cz
 
+For updated information see http://bilakniha.cvut.cz/en/predmet5083506.html
 
-
- 
-
- 
-
-
-
-      Poslední změna: 11.1.2016, 12:26      
-           
-                          
-       
-
-
-
-
-
+ Show course group codes
+         
 

@@ -1,4 +1,4 @@
-https://fit.cvut.cz/bi-bit
+http://www.fit.cvut.cz/en/modules/bie-mga
 
 
 
@@ -11,24 +11,20 @@ english
 
 
 
-České vysoké učení technické v Praze
+Czech Technical University in Prague
 
 
 
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
+Faculty of Information Technology
 
 
 
 
+
+
+Search this site
+
+Search this site: 
 
 
 
@@ -37,25 +33,16 @@ Hledání:
 
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
+
+
+
+
+Faculty
+Prospective Students
+Partners
 Student
-Zaměstnanec
-Média
-
-
-
-
-
-Studijní
-Nováček
-Bakalář
-Magistr
-Rozvrh
-Odkazy
-Nabídky firem
-Stipendium
+Employees
+Media
 
 
 
@@ -66,88 +53,42 @@ Stipendium
 
 
  
- › ČVUT » FIT  » Student » Bakalář » Studijní program Informatika » Bezpečnost a informační technologie Novinky    News
+ › CTU » FIT  » BIE-MGA – Multimedia and Graphics Applications Novinky    News
 
 
+BIE-MGA – Multimedia and Graphics Applications 
+Annotation
+Students gain practical experience with applications for raster and vector 2D/3D graphics and DTP. They learn basic methods of creating and editing computer graphics. Students also learn the theoretical fundamentals of computer graphics. During the semester, students work on various parts of a complex project involving 2D/3D graphics and DTP.
+Lectures Program
 
+Fundamental concepts of computer graphics.
+2D bitmap and vector graphics.
+Basic operations in a 2D bitmap editor.
+Basic operations in a 2D vector editor.
+Printing technology.
+[3] 3D graphics.
+DTP.
+Working in a DTP system.
+Typesetting system TeX.
 
-Studijní program InformatikaO novém studijním programu Informatika
-Informatika 2015
-Informatika 2009-2014
-Bezpečnost a informační technologie
-Informační systémy a management
-Počítačové inženýrství
-Teoretická informatika
-WSI – zaměření Počítačová grafika
-WSI – zaměření Softwarové inženýrství
-WSI – zaměření Webové inženýrství
-Znalostní inženýrství
+Labs Program
 
-Kombinovaná forma
-Volitelné předměty
-Výuka angličtiny
-Bakalářká práce a SZZ
-
-
-
-
-
-Bakalářský obor Bezpečnost a informační technologie 
-
-Získané dovednosti a znalosti
-Zajištění bezpečnosti dnešních složitých ICT systému je jedním z nejdůležitějších výzev informační společnosti a význam této oblasti pro budoucí rozvoj ICT je zásadní. Poptávka po odbornících v tomto oboru se stále zvyšuje. Cílem oboru BIT je vychovávat v této oblasti odborníky již na bakalářské úrovni. Obor rozšiřuje znalosti a dovednosti získané ve společných předmětech programu o praktické i teoretické základy potřebné při řešení bezpečnostních aspektů SW i HW návrhu a provozu informačních a komunikačních systémů. Důraz je kladen na propojení teoretických znalostí s praktickými dovednostmi v oblasti ICT bezpečnosti. Vyučuje se i v angličtině a kombinovaném studiu.
-
-Popis uplatnění v oboru
-Obor je určen pro studenty, kteří se chtějí v praxi uplatnit jako odborníci v oblasti výpočetních a síťových systémů s důrazem na jejich bezpečnost. Absolventi mohou pracovat na všech postech ICT oddělení podniků, jako systémoví integrátoři, administrátoři výpočetních systémů, technici v datových centrech a firmách poskytující hosting výpočetní infrastruktury, správci sítí, webových a databázových serverů. Na všech těchto pozicích budou mít významnou konkurenční výhodu díky získaným znalostem a dovednostem v počítačové bezpečnosti a dokážou tedy zastávat funkce bezpečnostních analytiků a zajistit bezpečný provoz ICT systémů a analyzovat a řešit bezpečnostní problémy. 
-
-Oborové předměty
-
-
-
-			Administrace OS Unix
-
-
-
-Administrace OS Windows
-
-
-
-Architektury počítačových systémů
-
-
-
-Bezpečný kód
-
-
-
-Hardwarová bezpečnost
-
-
-
-Systémová a síťová bezpečnost
-
-
-
-​
-
-Doporučený průchod oborem
-(Seznam všech povinných oborových i společných předmětů seřazených v doporučeném pořadí ke studiu.)
-
-
-Prezenční forma
-
-Kombinovaná forma
+Project consultations.
+Introduction to the seminars, project assignment, evaluation criteria.
+[3] Working with a 2D bitmap editor.
+[2] Working with a 2D vector editor.
+[4] Working with a 3D editor.
+Working with a DTP system.
+TeX.
 
 
 
  
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
+Important Links
+Sitemap
+Contacts
 
 
 
@@ -158,7 +99,7 @@ YouTube
 
 
 
-Připomínky a náměty
+Questions and comments
 webmaster@fit.cvut.cz
 
 
@@ -169,7 +110,78 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 26.7.2018, 10:18      
+      Last modified: 7.9.2010, 11:08      
+           
+                          
+       
+
+
+
+
+
+
+uballocation, FS repair.
+Disk management.
+Process limits (chroot, restricted shell).
+sudo.
+Network configuration.
+nfs, automounter.
+DNS server, client.
+NIS server, client.
+Configuring services run via inetd, tcp wrapper.
+Firewall.
+Kernel configuration.
+
+
+
+ 
+
+
+Important Links
+Sitemap
+Contacts
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Questions and comments
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Last modified: 7.9.2010, 11:10      
+           
+                          
+       
+
+
+
+
+
+
+z
+
+
+
+ 
+
+ 
+
+
+
+      Last modified: 7.9.2010, 11:06      
            
                           
        

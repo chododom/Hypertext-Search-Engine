@@ -1,229 +1,241 @@
-https://fit.cvut.cz/kcn
+http://bilakniha.cvut.cz/en/predmet1697806.html
 
 
 
 
 
+Loading...
+CZECH TECHNICAL UNIVERSITY IN PRAGUESTUDY PLANS2018/2019 
+Select period:
+Next period
+Actual period
+Faculties |
+         School elective courses |
+         ECTS courses catalogue
+         | Settings
+         | 
 
 
-česky
-english
 
 
 
-České vysoké učení technické v Praze
 
 
 
-Fakulta informačních technologií
 
 
 
+Česká verze
+Welcome page >
+         Faculty of Information Technology >
+         Department of Computer Systems >
+         Risk Management in Informatics
 
 
+Risk Management in Informatics
+Login to KOS for course enrollment Display time-table
 
-Hledání
 
-Hledání: 
+Code
+Completion
+Credits
+Range
+Language 
 
 
+MI-RRI
+ZK
+3
+2P
+Czech
 
 
 
+Lecturer:
+Zdeněk Blažek (guarantor)
+            
+Tutor:
+Zdeněk Blažek (guarantor)
+            
+Supervisor:
+Department of Computer Systems
+Synopsis:
 
 
+Information security is very often considered as one of main objectives to secure targets of information processing. However,
+                  to focus on this info security as a matter of protection of IT systems against viruses, malware etc. very often means misunderstanding
+                  and underestimating of real threats which are around us and which are more dangerous then viruses and other malware. The necessity
+                  to continue with business after disaster is also slightly ignored. International standards which are focused on informatics
+                  and information security just during last years started to anticipate necessity of risk management. There is no commonly accepted
+                  methodology used for this task. Threats which are currently possible to see worldwide, invoke pressures to prepare plans for
+                  business continuity management even in the case of dramatic political changes, natural disasters etc.
+               
 
 
+Requirements:
 
 
+No special prerequisities.
 
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
 
+Syllabus of lectures:
 
 
+1. Risk definition, information materiality
+2. Threats in informatics
+3. Risk management methodology
+4. Threats category and threats catalogue
+5. Risk lifecycle - identification
+6. Risk lifecycle - Threats identification in company
+7. Risk lifecycle - Evaluation, mitigation
+8. Risk lifecycle - mitigation, checking and risk register
+9. Organization and risk/security management, (RACI)
+10. Return of investment in informatics
+11. Business Continuity Management
+12. Archiving, legal requirements on informatics I
+13. Archiving, legal requirements on informatics II
 
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Syllabus of tutorials:
 
+Study Objective:
 
 
+Lectures should provide information about definitions, threats and vulnerabilities identification, methodology used to evaluation
+                  of threats, threats catalogues, Business Impact Analysis, return of investment, disaster recovery centers and legal requirements
+                  in specified area.
+               
+Students also should understand how to negotiate with company management to fulfill their IT requirements etc. Management
+                  ought to be convinced about reasons for investment but managers are usually not technicians.
+               
 
 
+Study materials:
 
 
+ČSN BS 25999-1:2006 (february 2009) BS 25999-2:2007
+USA - Published by the National Fire Protection Association NFPA 1600: Standard on Disaster/Emergency Management and Business
+                  Continuity Programs.
+               
+International Organization for Standardization (ISO) ISO/PAS 22399:2007 Guideline for incident preparedness and operational
+                  continuity management
+               
+Standards Australia HB 292-2006 : A practitioners guide to business continuity management HB 293-2006 : Executive guide to
+                  business continuity management
+               
+Risk Management Standard, AS/NZS 4360:2004 has been superseded by AS/NZS ISO 31000:2009, Risk management - Principles and
+                  guidelines.
+               
+ISACA COBIT 4.1
+ISO/IEC 27001: Správa bezpečnosti informací (ISO/IEC 17799 je odpovídajícím souborem postupů)
+ISF 2010 methodology
+ITIL ISO/IEC 20000-1:2005 část 1: Specifikace Definuje požadavky na Správu služeb
+ITIL ISO/IEC 20000-2:2005 část 2: Soubor postupů Poskytuje návody a doporučení, jak dosáhnout požadavků z části 1
+ITIL ISO/IEC 20000-3:2007 část 3: Stanovení rozsahu a aplikovatelnost (zatím není k dispozici)
+ITIL ISO/IEC 20000-4:2007 část 4: Referenční model procesu Správa služeb (zatím není k dispozici)
+ITIL BIP 0005: A Manager`s Guide to Service Management
+ITIL BIP 0015 IT Service Management: Manuál pro ocenění sama sebe (v současnosti se oceňuje vůči ITIL V2, má být revidováno
+                  prostřednictvím doplňkových publikací ITIL V3).
+               
 
 
- 
- › ČVUT » FIT  » Fakulta » Struktura » Katedry » Katedra číslicového návrhu Novinky    News
+Note:
+Time-table for winter semester 2018/2019:
+Time-table is not available yet
+Time-table for summer semester 2018/2019:
 
 
 
 
-KatedryKatedra teoretické informatiky
-Katedra softwarového inženýrství
-Katedra číslicového návrhu
-Katedra počítačových systémů
-Katedra aplikované matematiky
-Katedra informační bezpečnosti
-Laboratoř výzkumu programování
 
-Vědecká rada
-Disciplinární komise
-Děkan
-Děkanát
-Rada studijního programu
 
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
 
 
 
+Mon
 
-Katedra číslicového návrhu 
 
 
 
-Katedra číslicového návrhu se zaměřuje na návrh vestavných systémů s ohledem na jejich bezpečnost, spolehlivost, velikost či spotřebu. Zabývá se rovněž i výzkumem modelů použitelných pro tento hardware/software codesign a jeho verifikaci. Studenti jsou seznámeni s návrhem a implementací hardwaru i softwaru pro vestavné aplikace a programovatelná zařízení. V případě zájmu se mohou zapojit do výzkumných projektů a experimentů v laboratořích.
-Výzkumná činnost
-Výzkum katedry se zaměřuje na číslicový návrh, odolnost systémů proti poruchám i útokům a využití FPGA obvodů. Pro výzkum má katedra k dispozici několik moderních laboratoří. Katedra je zapojena do řady projektů a rovněž se podílí na organizaci mezinárodních konferencí.
-Výzkumná činnost lze shrnout do několika oblastí:
 
-Návrh procesorů, vestavných řídících počítačů a počítačových komunikačních systémů 
-Využití neuronových sítí pro učení humanoidních robotů
-Vývoj algoritmů pro logickou syntézu
-Vývoj spolehlivých systémů na bázi programovatelných obvodů (FPGA) a systémů na čipu (SoC)
-Diagnostika, on-line i off-line testování a optimalizace vestavných systémů
-Zabezpečení vestavných systémů
-Embedded security
-Monitorování síťového provozu (on-line, realizace hardwarová i softwarová)
-Útoky postranními kanály
-Vývoj modelů pro výpočty spolehlivostních parametrů a vhodných modelů zohledňujících další architekturní omezení (spotřebu, velikost, bezpečnost apod.)
+Tue
 
-Tyto oblasti jsou předmětem výzkumné práce v několika projektech, skupinách či laboratořích. Katedra je v současnosti zapojena do projektů v rámci fondu CELSA a Grantové agentury ČR. Pod katedru spadají i následující výzkumné skupiny a laboratoře:
 
-Výzkumná skupina Číslicový návrh a spolehlivost
-Laboratoř inteligentních vestavných systémů
-Laboratoř monitorování síťového provozu
 
-Nejnovější trendy z oblasti vestavných systémů jsou prezentovány a diskutovány na mezinárodních setkáních. Tým katedry se podílí na organizaci těchto konferencí a workshopů:
 
-Euromicro Digital System Design and Software Engineering and Advanced Applications
-Design and Diagnostics of Electronic Circuits and Systems
-Prague Embedded Systems Workshop
 
-Pedagogická činnost
-Katedra číslicového návrhu zaštiťuje předměty z oblasti číslicového návrhu pro všechny druhy studijních programů. Pro doktorandy nabízí školitele a témata dizertačních prací. Všechny předměty vyučované katedrou najdete v Bílé knize.
+Fri
 
-Bakalářské studium
-V rámci bakalářského studijního programu Informatika katedra garantuje obor Počítačové inženýrství. Katedra vyučuje praktické a teoretické základy návrhu, realizace a programování softwaru i hardwaru.
-Kromě povinně oborových předmětů oboru BI-PI garantuje katedra i další předměty. Patří mezi ně například povinné předměty všech bakalářských studentů Číslicové a analogové obvody (BI-CAO) a Struktura a architektura počítačů (BI-SAP). Nabízí také oblíbený volitelný předmět Interaktivní aplikace s Arduinem (BI-ARD).
-Magisterské studium
-V rámci magisterského studijního programu Informatika katedra garantuje obor Návrh a programování vestavných systémů. Výuka je zaměřena na návrh, modelování a verifikaci čı́slicových systémů s důrazem na vestavné systémy a systémy na čipu. Obor je otvírán i v angličtině a předměty jsou nabízeny studentům v rámci programu Erasmus.
-Katedra garantuje povinné předměty magisterského programu Kombinatorická optimalizace (MI-KOP) a Problémy a algoritmy (MI-PAA). Kromě těchto předmětů pod katedru spadají další povinně volitelné a volitelné předměty, například:
+roomTH:A-s135Blažek Z.18:00–19:30(lecture parallel1)Thákurova 7 (FSv-budova A)As135
 
-Inteligentní vestavné systémy (MI-IVS)
-Ovladače pro Linux (MI-OLI)
-Návrh obvodů technologií FPGA a ASIC (MI-NFA.16)
-Počítačová aritmetika (MI-ARI)
-Pokročilé vestavné systémy (MI-PVS)
-Seminář počítačového inženýrství (MI-SCE1)
-Simulace číslicových obvodů (MI-SIM.16)
-Systémy na čipu (MI-SOC.16)
-Teorie systémů (MI-TES.16)
-Testování a spolehlivost (MI-TSP.16)
 
-Doktorské studium
-Doktorský studijní program se nečlení na obory. V případě zájmu je možné oslovit školitele s nápadem na téma dizertační práce z oblasti výzkumné činnosti této katedry. Seznam všech vypsaných témat dizertačních prací je dostupný na samostatné stránce. Katedra také zajišťuje několik doktorských předmětů:
 
-Experimentální algoritmika (PI-EXA)
-Programovatelné obvody a SoC (systémy na čipu) (PI-PSC)
-Semináře z číslicového návrhu (PI-SCN)
+Thu
 
-Kontakt
-Katedra číslicového návrhu sídlí v 10. patře Budovy A – Thákurova 7, Praha 6. Vedoucí katedry je doc. Hana Kubátová a sekretářkou Ivana Holíková. Seznam všech zaměstnanců katedry je dostupný buď na stránce Zaměstnanci, nebo v systému UserMap.
 
 
-doc. Ing. Hana Kubátová, CSc.
-Vedoucí Katedry číslicového návrhu
-Docentka na Katedře číslicového návrhu
 
- kcn@fit.cvut.cz, hana.kubatova@fit.cvut.cz
- +420 22435 9840
- TH:A-1024
 
+Fri
 
 
 
-Ivana Holíková
-Sekretářka Katedry číslicového návrhu
 
- ivana.holikova@fit.cvut.cz
- +420 22435 9832
- TH:A-1026
 
 
 
+The course is a part of the following study plans:
 
-Ing. Miroslav Skrbek, Ph.D.
-Zástupce vedoucí Katedry číslicového návrhu
-Odborný asistent na Katedře číslicového návrhu
 
- miroslav.skrbek@fit.cvut.cz
- +420 22435 9856
- TH:A-1029
+Specialization System Programming, Presented in Czech,  Version 2014, 2015 (elective course)
+                  
+Specialization Web Engineering, Presented in Czech, for Students who Enrolled in 2014 and 2015 (elective course)
+                  
+Knowledge Engineering, in Czech, Presented in Czech, for Students who Enrolled in 2015 (elective course)
+                  
+Master Informatics, Presented in Czech, Version for Students who Enrolled in 2015 (elective course)
+                  
+Knowledge Engineering, in Czech, Presented in Czech, Version 2016 and  and 2017 (elective course)
+                  
+Computer Security, Presented in Czech, Version 2016, 2017 and 2018 (elective course)
+                  
+Computer Systems and Networks, Presented in Czech, Version 2016, 2017 and 2018 (elective course)
+                  
+Design and Programming of Embedded Systems, in Czech,  Version 2016, 2017 and 2018 (elective course)
+                  
+Specialization Web and Software Engineering, in Czech, Version 2016, 2017 and 2018 (elective course)
+                  
+Specialization Software Engineering, in Czech, Version 2016, 2017 and 2018 (elective course)
+                  
+Specialization Web Engineering, Presented in Czech, Version 2016, 2017 and 2018 (elective course)
+                  
+Master Informatics, Presented in Czech, Version 2016, 2017 and 2018 (elective course)
+                  
+Specialization System Programming, Presented in Czech,  Version 2016, 2017 and 2018 (elective course)
+                  
+Specialization Computer Science, Presented in Czech, Version 2016-2017 (elective course)
+                  
+Specialization Computer Science, Presented in Czech, Version 2018 (elective course)
+                  
+Knowledge Engineering, in Czech, Presented in Czech, Version 2018 (elective course)
+                  
 
 
 
-Osoba zodpovědná za obsah této stránky
-doc. Ing. Hana Kubátová, CSc., hana.kubatova@fit.cvut.czVedoucí Katedry číslicového návrhu
 
 
- 
+Data valid to 2019-04-26
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Hosted by Výpočetní a informační centrum ČVUT
+Send your questions and comments to  HelpDesk ČVUT or to spravcekos@cvut.cz
 
 
+For updated information see http://bilakniha.cvut.cz/en/predmet1697806.html
 
-Facebook
-Twitter
-Instagram
-YouTube
-
-
-
-Připomínky a náměty
-webmaster@fit.cvut.cz
-
-
-
- 
-
- 
-
-
-
-      Poslední změna: 27.3.2019, 11:59      
-           
-                          
-       
-
-
-
-
-
+ Show course group codes
+         
 

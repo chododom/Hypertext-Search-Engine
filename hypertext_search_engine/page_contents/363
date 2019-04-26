@@ -1,4 +1,4 @@
-https://fit.cvut.cz/aktualne/jednorazove-akce/2018-06-06
+https://fit.cvut.cz/bc_prijimaci-rizeni
 
 
 
@@ -48,10 +48,13 @@ Média
 
 
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
+Proč na FIT?
+Bakalář
+Magistr
+Doktorand
+Celoživotní vzdělávání
+Přihláška
+Akce
 
 
 
@@ -62,74 +65,76 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Jednorázové akce » Paralelní nezáporná maticová faktorizace (NMF) a její využití Novinky    News
+ › ČVUT » FIT  » Zájemci o studium » Bakalář Novinky    News
 
 
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
-
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+Průběh přijímacího řízení
+Podmínky přijetí
+Časový plán
+Přijímací zkouška
+Studijní obory
+Den otevřených dveří
+Kontakt
 
 
 
 
 
-Paralelní nezáporná maticová faktorizace (NMF) a její využití 
-Dne 6. 6. od 10:00 se uskuteční přednáška Paralelní nezáporná maticová faktorizace (NMF) a její využití. Prof. Marian Vajteršic představí využití metody NMF při obnovování obrázků a také metody paralelizace NMF, které pomáhají čas k obnovení zkrátit. Přednáška se uskuteční v místnosti TH:A-1435.
-Abstrakt
-Nezáporné matice vznikají přirozeně v různých oblastech využití. Ty zahrnují dolování znalostí z textů, klasifikaci dokumentů, clustering, spektrální analýzu dat, rozpoznávání obličejů a také problémy mimo oblast informatiky, například ve výpočetní biologii. Nezáporná maticová faktorizace (NMF) je metoda výpočtu, která spočívá v rozkladu matic na součin dvou matic o menší hodnosti. V porovnání s ostatními technikami jako singulární rozklad matice (Singular Value Decomposition – SVD) nebo analýza hlavních komponent (Principal Component Analysis – PCA), NMF má tu charakteristickou vlastnost, že faktory jsou zaručeně nezáporné, což umožňuje interpretovat faktorizaci jako aditivní kombinaci vlastností.
-V přednášce si ukážeme využití NMF pro obnovení obrázků. Bude ukázáno, jak kvalita obnovení závisí na parametru faktorizace a jaké výpočetní a paměťové nároky jsou s tím spojeny. Zpracování velkých matic přímo může být příliš nákladné, čas potřebný k aproximaci velkých matic lze však snížit využitím paralelních počítačových systémů.
-Bohužel v současnosti existuje jen málo prací, které se zabývají paralelně distribuovaným NMF. Proto se v této přednášce budeme věnovat paralelizaci NMF, která je založena na newtonovských metodách.
-Ve srovnání s jinými algoritmy pro výpočet NMF, tyto typy metod jsou velmi dobře paralelizovatelné, protože Newtonovy iterace mohou být provedeny paralelně bez výměny dat mezi procesy. Vyvinuli jsme paralelizaci newtonovské NMF pro spouštění v počítačových klastrech s využitím klasického  posílání zpráv. Budou prezentovány výsledky mnoha výpočtů na systémech s až 80procesorovými jádry. Jako vstupní matice byly použity obrázky, díky čemuž lze získat vizuální dojem z aproximační kvality NMF. Meření ukazují, že při dostatečně velkém zatížení, paralelizovaný Newtonův iterační algoritmus dosahuje téměř lineárního zrychlení, což z něj dělá slibného kandidáta pro rozsáhlé NMF výpočty.
-O akci
-Vstup na akci je zdarma a bez registrace. Přednáška je určena akademickým pracovníkům, studentům nebo vědcům, kteří se zajímají o paralelní a distribuované výpočty, numerické metody a zpracování obrazu.
+Přijímací řízení 2019/2020 do bakalářského studijního programu 
 
+Fakulta informačních technologií má akreditován jeden bakalářský studijní program, uchazeč tedy podává jen jednu přihlášku a studijní obor si zvolí až během studia. Po podání přihlášky musí doložit potvrzení o složení státní maturitní zkoušky a doklad o zaplacení poplatku. Dále se musí zúčastnit přijímací zkoušky, pokud mu nebyla prominuta.
+Bakalářský program FIT nese název Informatika. Studovat jej je možné jak prezenční, tak kombinovanou formou. Standardní doba studia jsou tři roky. Student po úspěšném absolvování studia získává titul bakalář (Bc.).
+Nejdůležitějším dokumentem, který se týká přijímacího řízení, jsou Podmínky přijetí do bakalářského studia. Ty obsahují všechny důležité informace, termíny a data či podrobný popis dokumentů, které uchazeč musí fakultě dodat.
+Průběh přijímacího řízení
+Podrobný průběh přijímacího řízení stanovují Podmínky přijetí do bakalářského studia. Zde jsou uvedeny jeho nejdůležitější body od vyplnění přihlášky až po zápis do studia:
 
-Typ akce
-Přednáška
-Přednášející
-Prof. Marian Vajteršic
-Department of Computer Sciences, Paris Lodron University of Salzburg, Rakousko
-Matematický ústav, Slovenská akademie věd, Bratislava, Slovensko
-Termín
-6. června 2018, 10:00
-Místo
-zasedací místnost TH:A-1435, Budova A
-Thákurova 7, Praha 6
-Jazyk
-angličtina
-Záznam
-nebude pořízen
+Vyplnit, vytisknout a podepsat přihlášku
+Zaplatit poplatek
+Podepsanou přihlášku doručit
+Přihlásit se do webové aplikace
+Případně dodat přílohy přihlášky
+Případně absolvovat přijímací zkoušku
+Zapsat se do studia
 
+Průběh přijímacího řízení
+Podmínky přijetí
+Přijetí uchazeče je podmíněno prokázáním studijních předpokladů. Toho je možné dosáhnout buď u fakultní přijímací zkoušky, nebo u SCIO testů. Také je možné případně doložit úspěch ve středoškolské olympiádě z matematiky, fyziky nebo programování. Další možností je úspěšné řešení fakultní programovací soutěže FIKS.
+Konkrétně se jedná o splnění alespoň jedné z těchto podmínek:
 
-O přednášejícím
-Profesor Marian Vajteršic obdržel doktorát v roce 1984 na Slovenské akademii věd v Bratislavě. V roce 1994 získal titul DrSc. na Univerzitě Komenského v Bratislavě. V roce 1996 se habilitoval v oboru paralelních výpočtů na Univerzitě v Salzburgu. Od roku 2002 je na této univerzitě profesorem v oblasti architektury počítačů a vysokovýkonných výpočtů (High-Performance Computing). Je autorem čtyř monografií a více než 130 vědeckých prací v oblasti paralelních algoritmů a vědeckých výpočtů.
-Související obsah
+Z přijímací zkoušky organizované fakultou v roce 2019 získal alespoň 65 bodů.
+V Národních srovnávacích zkouškách (SCIO) z matematiky nebo z obecných studijních předpokladů organizované v příslušném roce společností SCIO dosáhl minimálně percentilu 65.
+Za poslední 4 roky je úspěšným řešitelem krajského kola středoškolské olympiády v matematice, fyzice nebo programování nebo se za poslední 4 roky úspěšně zúčastnil obdobné celostátní soutěže v ČR nebo jiné zemi.
+Je úspěšným řešitelem programovací soutěže Fiťácký informatický korespondenční seminář (FIKS).
 
-Lidé
-Přednášející: Marian Vajteršic
-Místa
-TH:A-1435
+Podmínky přijetí
+Časový plán
+Všechny důležité termíny a data shrnuje časový plán přijímacího řízení. Přihlášku ke studiu lze podat 1. 12. 2018 – 31. 3. 2019. Kopii maturitního vysvědčení musí uchazeč dodat do 20. 6. 2019. Přijímací zkouška se bude konat 12. 6. 2019. Zápis do studia se uskuteční 27. 6. 2019.
+Časový plán
+Přijímací zkouška
+Cílem přijímací zkoušky je ověření znalostí z matematiky. Tematické okruhy zkoušky jsou stanoveny v Podmínkách přijetí do bakalářského studia. K dispozici jsou vzorové přijímací zkoušky a také přípravný (self-teaching) kurz.
+Přijímací zkouška
+Studijní obory
+Přihláška se podává do studijního programu „Informatika“, student si nemusí vybrat obor před začátkem studia, studijní obor si student volí až během studia – nejpozději se zadáním bakalářské práce. Pro prezenční formu studia se v roce 2019/2020 otevírají všechny obory, pro kombinovanou formu jen obor Bezpečnost a informační technologie a obor Webové a softwarové inženýrství, zaměření Softwarové inženýrství.
+Den otevřených dveří
+V termínech 1. 12. 2018 a 24. 1. 2019 pořádá fakulta pro zájemce o bakalářské studium Dny otevřených dveří. Zájemce se může:
 
+Zúčastnit prezentace studia na naší fakultě
+Podívat se na stánky jednotlivých oborů
+Prohlédnout si prostory fakulty
+Navštívit specializované laboratoře
 
-Osoba zodpovědná za obsah této stránky
+Kontakt
+V případě dotazů můžete kontaktovat Studijní oddělení na e-mail pririz@fit.cvut.cz. Písemnosti můžete doručit poštou na adresu Studijního oddělení či osobně na Studijní oddělení nebo do Podatelny.
+Adresa Studijního oddělení:
 
-prof. Ing. Pavel Tvrdík, CSc., pavel.tvrdik@fit.cvut.czVedoucí Katedry počítačových systémů
-
+České vysoké učení technické v Praze
+Fakulta informačních technologií
+Studijní oddělení
+Thákurova 9
+160 00 Praha 6
+Česká republika
 
 
 
@@ -162,7 +167,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 30.5.2018, 12:13      
+      Poslední změna: 14.2.2019, 14:45      
            
                           
        

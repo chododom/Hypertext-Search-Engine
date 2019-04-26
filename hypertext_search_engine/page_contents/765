@@ -1,4 +1,4 @@
-https://fit.cvut.cz/fakulta/pravidelne-akce/bowling/vysledky
+http://www.fit.cvut.cz/en/modules/bie-sap
 
 
 
@@ -11,24 +11,20 @@ english
 
 
 
-České vysoké učení technické v Praze
+Czech Technical University in Prague
 
 
 
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
+Faculty of Information Technology
 
 
 
 
+
+
+Search this site
+
+Search this site: 
 
 
 
@@ -37,21 +33,16 @@ Hledání:
 
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
+
+
+
+
+Faculty
+Prospective Students
+Partners
 Student
-Zaměstnanec
-Média
-
-
-
-
-
-Kalendář
-Akce a události
-Soutěže
-Projekty
+Employees
+Media
 
 
 
@@ -62,226 +53,52 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Sportovní akce » Bowlingový turnaj FIT » Výsledková listina Novinky    News
-
-
-
-
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a semináře
-Akce pro zájemce o studium
-Sportovní akceAjťácké hrátky
-Bowlingový turnaj FIT
-Souboj fakult
-
-Ostatní akce
-
-
-
-
-
-Výsledková listina 
-
-
-
-
-Pořadí
-
-Název týmu
-
-1. kolo
-
-2. kolo
-
-Finále
-
-
-
-
-
-1.
-
-Rumové kuličky
-
-				580
-
-				692
-
-805
-
-
-
-2.
-
-Tarského větší koule
-
-				653
-
-				604
-
-710
-
-
-
-3.
-
-Lineárně nezávislí
-
-				601
-
-				614
-
-665
-
-
-
-4.
-
-				FI(T)matic
-
-				605
-
-				604
-
-				658
-
-
-
-5.
-
-				TreFIT
-
-				600
-
-				670
-
-				611
-
-
-
-6.
-
-				Les Hyperables
-
-				476
-
-				598
-
-				569
-
-
-
-7.
-
-				AVC = Automaticky Vyhrajeme Cenu
-
-				500
-
-				605
-
-				 
-
-
-
-8.
-
-				Turingovy koule
-
-				607
-
-				565
-
-				 
-
-
-
-9.
-
-				3D koule
-
-				579
-
-				565
-
-				 
-
-
-
-10.
-
-				Friendship is Magic
-
-				509
-
-				554
-
-				 
-
-
-
-11.
-
-				Stromové kongruenční kuželky
-
-				487
-
-				491
-
-				 
-
-
-
-12.
-
-				Baryk
-
-				436
-
-				460
-
-				 
-
-
-
-Podrobné výsledky ve formátu PDF jsou ke stažení zde.
- 
-
-	Výsledky vložených soutěží
-
-
-
-		Nejvyšší nához ženy: Olga Najďonovová s náhozem 144 bodů
-
-		Nejvyšší nához muže: Karel Klouda s náhozem 192 bodů
-
-		Soutěž o nejlepší název týmu: tým "Lineárně nezávislí"
-		(podrobné výsledky hlasování ve formátu PDF jsou zde :)
-
-		Soutěž o nejlepšího týmového ducha: tým "FI(T)matic"
-
-		Cena útěchy: tým "Baryk"
-
- 
-Všem zúčastněným děkujeme za podporu a profakultního týmového ducha, vítězům gratulujeme a těšíme se na shledanou na příštím již 2. ročníku turnaje na začátku zimního semestru 2012/2013 :) PR tým FIT.
- 
-
-Osoba zodpovědná za obsah této stránky: 
-
-
-                    Adéla Chrastinová, Adela.Chrastinova@fit.cvut.cz 
-
+ › CTU » FIT  » BIE-SAP – Computer Structures and Architectures Novinky    News
+
+
+BIE-SAP – Computer Structures and Architectures 
+Annotation
+Students understand basic digital computer units and their structures, functions, and hardware implementation: ALU, control unit, memory system, inputs, outputs, data storage and transfer. In the labs, students gain practical experience with the design and implementation of the logic of a simple processor using modern digital design tools.
+Lecture Program
+
+Introduction, basic architecture of a computer, data representation.
+Logic functions and their descriptions, combinatorial circuits, implementation using gates.
+Sequential circuits. Synchronous design, implementation using gates and flip-flops. Mealy and Moore automata.
+Typical combinatorial and sequential components of a computer, their implementations (encoder, adder, counter, register).
+Data, its representation and processing.
+Arithmetic operations with signed numbers. Fix-point and floating point numbers.
+Implementation of arithmetic operations.
+Memories - memory cell structure, static and dynamic memories.
+Memory subsystem of a computer. Peripheral devices.
+Instructions and machine code.
+Instruction set architecture, processor design.
+The SAP processor.
+Control units, basic types of processors.
+
+Labs Program
+
+Adders, gates, practical implementation.
+Boolean algebra, minimization, gates.
+Combinatorial circuits, converters.
+Minimization, gate-level design, logic functions.
+Sequential circuits, counter, sequence matching.
+Sequential design, graph of transitions, table, implementation using D-type flip-flops and gates.
+Architecture of the AVR processor, sample program.
+Arithmetics, addition, negative numbers, overflow, complement code.
+Program - shifts, ASCII.
+Test, project assignment. Assembler.
+Project work - display.
+Arithmetic programs, shifts, control of peripherals.
+Project result presentations.
 
 
 
  
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
+Important Links
+Sitemap
+Contacts
 
 
 
@@ -292,7 +109,7 @@ YouTube
 
 
 
-Připomínky a náměty
+Questions and comments
 webmaster@fit.cvut.cz
 
 
@@ -303,7 +120,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 5.4.2012, 16:24      
+      Last modified: 7.9.2010, 11:11      
            
                           
        

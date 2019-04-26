@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2010-04-28
+http://www.fit.cvut.cz/en/modules/bie-src
 
 
 
@@ -11,24 +11,20 @@ english
 
 
 
-České vysoké učení technické v Praze
+Czech Technical University in Prague
 
 
 
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
+Faculty of Information Technology
 
 
 
 
+
+
+Search this site
+
+Search this site: 
 
 
 
@@ -37,21 +33,16 @@ Hledání:
 
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
+
+
+
+
+Faculty
+Prospective Students
+Partners
 Student
-Zaměstnanec
-Média
-
-
-
-
-
-Kalendář
-Akce a události
-Soutěže
-Projekty
+Employees
+Media
 
 
 
@@ -62,89 +53,48 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » LS 2009/2010 » Productive and Scalable Software Engineering Novinky    News
+ › CTU » FIT  » BIE-SRC – Real-time Systems  Novinky    News
 
 
+BIE-SRC – Real-time Systems  
+Annotation
+Students will get basic knowledge in the theory of RTOS, formal instruments for design of such systems, applied software engineering, and security aspects that lead to quality improvement in software products. Students will also be able to solve a more complex task - time critical model controlling - in which they can use advantages of a graphical programming environment and further advanced tools for programming on RTOSs.
+Lectures Program
 
+Characteristis of real-time operating systems (RTOS), categorization.
+RTOS, properties, types.
+RTOS components and their functionality.
+Task time scheduling, interrupts.
+Handling of requests.
+Memory and peripheral management.
+UML language, diagrams for real-time.
+[2] SDL language: blocks, processes, synchronization, state automata, communication, data, signals, variables.
+Analysis, simulation, and code generation.
+Validation and testing.
+Fundamentals of design of complex systems.
+Example analysis.
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+Labs Program
 
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+Acquainting with the RTOS and its development environment. Compilation, debugging, event viewer.
+Task 1: mutexes, semaphores.
+Task 2: message queues, timers.
+Task 3: processes, shared memory.
+Task 4: OS task scheduler.
+Task 5: impact of memory access on the run time (cache, prefetching, ...).
+[2] Simulation measurements.
+Task 6 assignment - controlling a more complex system.
+[3] Solving task 6.
+Submission of task 6.
 
-
-
-
-
-Productive and Scalable Software Engineering 
-
-
-
-
-Přednáška:
-
-				Productive and Scalable Software Engineering
-
-
-
-Přednášející:
-
-				Jaroslavs Samčuks, Google
-
-
-
-Datum a čas:
-
-				28. dubna 2010, 17–19 hodin
-
-
-
-Místo:
-
-				Ballingův sál, NTK, Praha
-
-
-
-Jazyk:
-
-				Angličtina
-
-
-
- 
-Anotace přednášky: Softwarové inženýrství řeší 1) analýzu 2) návrh a 3) implementaci a modifikace software. Podstatné je, aby produkovaný software byl spolehlivý, dostupný, rychlý a udržovatelný. Co dodržení těchto požadavků znamená v případě, kdy na projektu pracuje jeden vývojář a jak se situace mění, pokud na jednom produktu pracují stovky vývojářů zároveň? Jaká je v tomto případě cena vývoje? Jak by společnost měla minimalizovat náklady na vývoj v takovém prostředí? Přednáška se bude mimo jiné věnovat těmto tématům:
-
-
-		Úvod do testy řízeného vývoje SW (Test Driven Development – TDD)
-
-		TDD – best practices
-
-		Nástroje a přístupy k TDD
-
- 
-Anotace přednášejícího: Jaroslavs Samčuks pracuje jako Productivity Engineer pro společnost Google a YouTube. Má široké pracovní zkušenosti z různých oblastí vývoje software v různých společnostech (Google, Skype, ANK). Mimo jiné se podílel na vývoji open-source produktů SQL Object, py2exe a také na službách SkypeIn a SkypeOut společnosti Skype.
 
 
  
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
+Important Links
+Sitemap
+Contacts
 
 
 
@@ -155,7 +105,7 @@ YouTube
 
 
 
-Připomínky a náměty
+Questions and comments
 webmaster@fit.cvut.cz
 
 
@@ -166,7 +116,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 23.1.2019, 10:43      
+      Last modified: 7.9.2010, 11:07      
            
                           
        
