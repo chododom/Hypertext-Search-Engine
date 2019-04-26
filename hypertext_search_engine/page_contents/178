@@ -1,0 +1,187 @@
+https://fit.cvut.cz/fakulta/veda/doktorandi/sdz
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Fakulta » Věda » Doktorandi » Státní doktorská zkouška Novinky    News
+
+
+
+
+AktualityObhajoby DP
+
+Kontakt
+Granty
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
+
+Habilitační a jmenovací řízeníObhájené habilitační práce
+
+Vědecká rada
+Výzkumné skupiny a laboratoře
+
+
+
+
+
+Státní doktorská zkouška 
+
+	Požadavky na státní doktorskou zkoušku
+Studenti doktorského programu skládají rigorózní zkoušku, která má dvě části: Požadavky na první část tvoří seznam společných okruhů širokého informatického základu, Požadavky na druhou část jsou tvořeny seznamem úžeji zaměřených okruhů jdoucích více do hloubky v oblastech, na které se soustřeďuje výzkum v rámci DSP Informatika a tudíž okruhů blízkých tématům, na kterých doktorandi v rámci svých dizertací pracují. Studenti se při výběru okruhů řídí doporučením školitele. Konečné rozhodnutí o skladbě tématických okruhů studenta k státní doktorské zkoušce schvaluje předseda ORP po konzultaci se školitelem a projednání v oborové radě programu.
+
+	Obecné okruhy ke státní doktorské zkoušce zajišťující široký přehled doktoranda přes hlavní obory informatiky, ze kterých si student vybere jeden okruh
+Logika a teorie množin Syntaxe výrokové logiky, Hilbertův axiomatický systém, typy matematických důkazů, věta o dedukci, korektnost a úplnost, věta o kompaktnosti. Predikátová logika, syntaxe a sémantika, logicky ekvivalentní formule, zákony predikátové logiky, interpretace, model, teorie, Hilbertův axiomatický systém, korektnost a úplnost. Vícehodnotové logiky, fuzzy logiky. Teorie množin: aktuální a potenciální nekonečno, mohutnost, spočetné a nespočetné množiny, hypotéza kontinua, axiom výběru, formální systémy.
+Algebra Polynomy, kořeny polynomů, základní věta algebry, lineární algebra, Gaussova eliminace, řešení soustav lineárních rovnic, lineární prostor, lineární závislost a nezávislost, báze, dimenze, souřadnice, lineární zobrazení, matice, maticové operace, determinant, LU rozklad, afinní prostor, vlastní čísla a vektory, ortogonalita, analytická geometrie, lineární kódy. Pologrupy, monoidy, grupy, Abelovy grupy, použití grup, Euler-Fermatova věta, modulární aritmetika, čínská věta o zbytcích, testování prvočíselnosti. Tělesa zbytkových tříd, polynomy nad konečnými tělesy Zp, ireducibilita, okruhy a tělesa polynomů, Euklidův algoritmus pro polynomy nad Zp, aplikace konečných těles. Boolovská algebra. Binární relace a jejich vlastnosti, vztah orientovaných grafů a binárních h relací, ekvivalence a uspořádání, svazy a distributivní svazy. Homomorfismy struktur popsaných operacemi a/nebo relacemi, rovnosti, volné objekty, volné algebry.
+Pravděpodobnost a statistika Pravděpodobnost a náhodný jev, podmíněná pravděpodobnost, závislost a nezávislost jevů, Bayesův vzorec, náhodné veličiny, distribuční funkce, spojitá a diskrétní rozdělení, náhodné vektory, směsi náhodných veličin, hašovací funkce, pravděpodobnostní algoritmy. Teorie informace, entropie, relativní entropie a vzájemná informace. Náhodný výběr, základní výběrové statistiky, výběrový průměr a rozptyl, testování hypotéz, testy o střední hodnotě a rozptylu, neparametrické testy, test dobré shody a korelace, analýza rozptylu, testy normality. Korelační a regresní analýza: lineární a kvadratická regrese, výběrová korelace. Stochastické procesy, Markovské řetězce, teorie front, Monte Carlo metody. Bootstrap metody.
+Výpočetní modely, teorie složitosti, heuristiky Asymptotická složitost, časová a paměťová složitost v nejlepším, průměrném a nejhorším případě. Třídy složitosti P a NP, NP-těžké a NP-úplné problémy, polynomiální redukce, Cookův teorém, Turingovy stroje, jejich zobecnění, problém zastavení, nerozhodnutelné problémy, vypočitatelnost a vyčíslitelnost. Exaktní metody a heuristiky, lokální a globální metody, algoritmy pro prohledávání stavového prostoru (s návratem, metoda větví a hranic), konstruktivní a iterativní heuristické metody, obrana před uváznutím v lokálním minimu, simulované ochlazování, genetické algoritmy, tabu prohledávání.
+Teorie grafů a kombinatorika Grafové modely, neorientované grafy, izomorfismus, sousednost, souvislost, orientované grafy, silná souvislost, prohledávání grafu do hloubky a do šířky, topologické uspořádání, dominující a nezávislé množiny, barevnost, planarita, regularita a symetrie grafů, stromy, kostry, kružnice, minimální kostry grafu, nejkratší cesty, toky v sítích, párování, návrh hladových algoritmů. Základy kombinatoriky, princip inkluze a exkluze, mohutnost množin konečných struktur (zobrazení, relací, stromů, ap).
+Teorie formálních jazyků, automatů a gramatik Regulární výrazy, jazyky a gramatiky, nedeterminismus. Bezkontextové jazyky a gramatiky, zásobníkové automaty, modely syntaktických analyzátorů, LL, LR, silné LR, SLR, LALR gramatiky, transformace bezkontextových gramatik, konstrukce syntaktického analyzátoru. Formální překlady, regulární překladové gramatiky a konečné překladové automaty, bezkontextové překladové gramatiky a zásobníkové překladové automaty, formální překlad řízený LL analyzátorem. Atributové gramatiky, výpočet hodnot atributů, formální překlady a a jednoprůchodové atributované překlady. Překladač a jeho části, lexikální analyzátor, syntaktický analyzátor, zpracování sémantiky, generování cílového programu, optimalizace.
+Algoritmizace a datové struktury Techniky návrhu algoritmů (rekurze, iterace, rozděl a panuj, hledání s návratem, hladové algoritmy, dynamické programování), časová a paměťová analýza složitosti algoritmů, specifikace a implementace datových struktur, datové struktury a jejich vlastnosti (pole, seznamy, množiny, tabulky, fronty, zásobníky, stromy, haldy), vyhledávání a vyhledávací stromy, vyvažování, algoritmy pro řazení a jejich stabilita, algoritmy pro vyhledávání v textu, grafové a síťové algoritmy, algoritmy výpočetní geometrie, algebraické algoritmy a algoritmy pro lineární algebru. Škálovatelnost a optimalita paralelních algoritmů, teorie paralelní složitosti, modely PRAM a APRAM, paralelní prefixový součet, technika Eulerovské cesty, paralelní řazení, paralelní algoritmy pro lineární algebru.
+Programování a programovací jazyky Principy objektově orientovaného paradigmatu, pojmy objektově orientovaného programování (typy dat, objekt, zpráva, třída, polymorfismus, dědičnost, statická a dynamická vazba, zpracování výjimek). objektově orientované a objektově založené programovací jazyky. Funkcionální programování, lambda kalkul, teorie rekurzivních funkcí, teorie pevného bodu, funkcionální programovací jazyky, logické programování, logické programovací jazyky, implementace funkcionálních a logických programovacích jazyků na von-neumannovských architekturách, virtuální stroje, ovládání paměti.
+Architektury a modely počítačů a počítačových systémů Von Neumannova a harvardská architektura, architektura procesorů typu CISC a RISC, strojový kód a data, zpracování přerušení, polyadické číselné soustavy, kódy pro zobrazení záporných čísel, sčítačky, odčítačky, násobičky a děličky, lineární a cyklické bezpečnostní kódy, mikroarchitektura procesoru, proudové zpracování instrukcí a aritmetických operací, paralelismus na úrovni instrukcí, superskalární a VLIW procesory, predikce skoků a spekulativní provádění instrukcí, vektorové procesory. vícevláknové a vícejádrové procesory, paměťová hierarchie, asociativní paměti. skryté paměti, hardwarová podpora virtualizace paměti, dynamický překlad adres a TLB, jednočipové mikropočítače, vestavné procesory, řídící počítače, vkládání vstupů a výstupů mikropočítače, non-von-neumannovské architektury počítačů, architektury paralelních počítačů, se sdílenou pamětí (symetrické multiprocesory) s distribuovanou pamětí, koherence a konzistence sdílené paměti, synchronizační zámky a bariéry.
+Operační systémy Jádro OS, zavádění OS, privilegovaný uživatel a správce, procesy a vlákna a jejich plánování, komunikace a synchronizace, roury, časově závislé chyby, kritické sekce, metody vzájemného vyloučení, semafory, monitory, klasické synchronizační úlohy, uváznutí procesů, přidělování prostředků OS, virtualizace procesorů, přidělování a správa operační paměti, paměťová virtualizace, stránkování, segmentace, systémy souborů,: soubory a adresáře, zabezpečení přístupu k souborům, virtualizace diskového prostoru, operační systémy reálného času.
+Počítačové a propojovací sítě Komunikační kanály, komunikační protokoly, sdílení přenosového média, frekvenční a časový multiplex, širokopásmové sítě, směrovače, mosty a přepínače, mechanizmy a protokoly ochrany proti chybám, metody přístupu v lokálních a bezdrátových sítích, propustnost, latence a zátěž datové cesty, požadavky na kvalitu služby, ochrana proti zahlcení, interní a koncové řízení toku, rozklad datových toků, mechanismy kryptografické ochrany přenosu dat a autentizace. Propojovací sítě pro paralelní počítače, sběrnicové sítě, ortogonální a řídké hyperkubické přímé propojování sítě, nepřímé vícestupňové sítě, vnořování, simulace a výpočetní ekvivalence sítí, algoritmy pro permutace, skupinovou komunikaci a komunikaci jeden-všem a všichni všem, architektura mobilních systémů, sítě s infrastrukturou a ad-hoc sítě, směrovací algoritmy, optimalizace topologie, výstavba a automatická (re)konfigurace. optimalizace spotřeby, přenosové kapacity, zpoždění, využití skupinové komunikace, podpora mobility v Internetu, VoIP sítích a v systémech middleware., autonomie a kooperace v mobilních systémech, optické sítě.
+Distribuované systémy Modely výpočtu, spolupracující automaty, Petriho sítě, algebry procesů, pi-kalkul, distribuovaný výpočet, globální stav, kauzalita, logický čas, algoritmy výlučného přístupu, detekce a prevence zablokování, ukončení výpočtu., výpadky prvků, odolnost proti chybám, quorum algoritmy, replikace, asymetrické a symetrické algoritmy, kauzalita v distribuovaném systému, logický čas, Lamportovy hodiny.
+Softwarové inženýrství Metody řízení softwarových projektů, plánování, odhady náročnosti, matice zodpovědnosti, monitorování, testování, metriky, životní cyklus programového díla, datová a funkční analýza, konceptuální modely používané pro dokumentaci analýzy, logické modely používané pro dokumentaci návrhu,. programová dokumentace implementace, metodiky a prezentační techniky softwarového inženýrství, převod konceptuálních modelů na logické a jejich implementace, technologie používané při návrhu, strukturované technologie, objektověorientované technologie, komponentové technologie, technologie pro síťové aplikace, návrhové vzory, technologie používané při implementaci programových systémů, webové technologie, testování, validace a verifikace, testy integrační, testy uživatelského rozhraní, finální testy, zátěžové testy. akceptační testy, provoz a údržba programového díla.
+Databázové a informační systémy Konceptuální datové modely, ER-model, entity, atributy, integritní omezení, logické datové modely, relační, objektový a relačně-objektový model, funkční závislosti, normální formy, návrh relačního schématu, vyjádření integritních omezení pro entitní typy a pro vztahové typy, primární klíč, unikátní klíč, cizí klíč, referenční integrita, dotazovací jazyky, architektury databázových systémů, klient-server, systém řízení bází dat (SŘBD), centralizované a distribuované databázové systémy, distribuce dat, replikace dat, víceuživatelské DB systémy, transakční zpracování, transakce a zámky, potvrzování a odvolávání změn, zajištění konzistence dat při paralelním přístupu., fyzická reprezentace dat, záznam, soubor, tabulka, index, techniky ukládání a přístupu k záznamům, B-stromy. Architektura a vrstvy informačního systému, systémy pro podporu rozhodování a systémy OLAP, podnikové informační systémy.
+Kryptografie Matematické základy kryptografie,:symetrické a asymetrické algoritmy, blokové, proudové, exponenciální šifry, kryptografie veřejného klíče, digital signature, certifikáty, kryptosystémy založené na eliptických křivkách, HW implementace kryptografických algoritmů.
+Umělá inteligence Algoritmy strojového učení, ontologie a reprezentace znalosti, zpracování řeči a přirozeného jazyka, statistické a symbolické metody umělé inteligence, umělé neuronové sítě, teoretické základy, klasifikace paradigmat, učící algoritmy s učitelem i bez učitele, evoluční algoritmy, získávání znalostí z dat, shlukování, klasifikace, modelování a predikce dat, induktivní modelování, samoorganizace jako prostředek pro objevování vztahů mezi objekty, automatická konstrukce modelů metodami umělé inteligence.
+Modelování a simulace Spojitá simulace, simulace diskrétních systémů, kvaziparalelní prostředí, simulace číslicových obvodů (úrovně abstrakce, synchronní a asynchronní simulace, simulace struktur, simulace zpoždění, rezoluční funkce, modelování transakcí), systémy hromadné obsluhy: simulační a analytické modely, generování, transformace a testování pseudonáhodných posloupností, paralelní simulace (konzervativní a optimistické metody).
+Počítačová grafika, vizualizace dat a uživatelská rozhraní Grafické prvky a jejich atributy, souřadnicové systémy a transformace, barevné prostory a modely, rastrová a vektorová grafika, operace s obrazy, algoritmy rovinné grafiky, základy prostorové grafiky a modelování těles, textury, řešení viditelnosti, osvětlovací modely, stínování, sledování paprsku a radiozita, interpolační a aproximační metody modelování křivek a ploch, datové struktury a algoritmy výpočetní geometrie, fraktály, virtuální realita, datové struktury pro vizualizaci dat, vizualizace objemových dat, dynamických jevů a informace, principy návrhu uživatelských rozhraní, modely uživatelských rozhraní, testování a vyhodnocování uživatelských rozhraní, návrh uživatelských rozhraní ve spolupráci s uživateli (usability, accessibility), problémy vnímání grafické informace.
+
+	Seznam tématických okruhů ke státní doktorské zkoušce, ze kterých si student vybere dva, které jsou blízké tématu dizertační práce doktoranda
+Číslicový návrh a systémy na čipu Způsoby realizace číslicových obvodů - návrhové styly VLSI, zakázkové obvody, regulární struktury, elektrická úroveň a časování. Návrh asynchronních systémů. Kvantitativní přístup k návrhu. Návrh s ohledem na požadavky: velikost, spotřeba, pracovní frekvence, spolehlivost, bezpečnost, testovatelnost, práce v reálném čase. Kombinační syntéza, reprezentace logické funkce, minimalizace, dekompozice, exaktní a heuristické SAT metody. Principy rekonfigurace (úplné, částečné, dynamické), latence rekonfigurace, řízení rekonfigurace. Společný návrh hardwaru a softwaru (HW/SW codesign), modely, simulace. Návrh systémů na čipu (SoC), efektivní návrh a komunikace více jader/procesorů na čipu (NoC). Prostředky popisu a verifikace číslicových systémů.
+Diagnostika, testování a spolehlivost číslicových obvodů Defekty číslicových obvodů a jejich modelování pomocí poruchových modelů. Optimalizované systémy ATPG pro testování specifických poruch a systémy pro kompresi a dekompresi testovacích vektorů. Vestavěné diagnostické prostředky (BIST). Generátory testů na bázi LZPR, CA, vyhodnocení testů, vestavěné analyzátory MISR. Realizace testovacího systému využívajícího smíšené prostředky pro testování poruch. Realizace systémů se zvýšenou spolehlivostí a vyšším stupněm zabezpečení. Problematika návrhu samočinně kontrolovaných a samočinně testovaných obvodů (TSC). Návrh systémů pro samočinnou opravu poruch. Výpočty spolehlivostních ukazatelů, blokové i Markovské modely.
+Rozpoznávání Teoretické základy vícerozměrných statistických modelů a metody pokročilého učení a odhadování parametrů. Metody kontextové řízené i neřízené klasifikace a více-klasifikátorové systémy. Normalizace dat a invarianty. Moderní metody výběru příznaků. Klasifikace textových dokumentů. Metody testování a verifikace rozpoznávacích algoritmů a benchmarking.
+Vyšší architektura počítačů Metody dynamické predikce skoků a spekulativního provádění instrukcí. Metody spekulativního předvýběru dat. Podpora pro paralelní vlákna. Víceúrovňové hierarchie skrytých pamětí. Architektura, struktury a algoritmy virtuálně sdílené distribuované paměti v multiprocesorových systémech. Algoritmy a prostředky synchronizace procesů v distribuovaných výpočetních systémech
+Komunikační protokoly Automatový popis komunikačního protokolu, systém RTAG. Specifikační jazyk LOTOS. Protokolové transformace. Validace a verifikace protokolů. Dynamické chování sítí při zátěži, mechanismy řízení toku.
+Neuronové sítě Teoretické základy umělých neuronových sítí, klasifikace paradigmat, neuronová síť jako aproximátor a klasifikátor. Metody učení neuronových sítí s učitelem i bez učitele. Gradientní a evoluční metody učení. Vývoj topologie neuronové sítě evolučními technikami, genetické programování. Pulsní neuronové sítě. Samoorganizace pro analýzu a dobývání znalostí z dat. Metody induktivního modelování. Automatická konstrukce modelů metodami umělé inteligence. Akcelerace výpočtů v oblasti neuronových sítí.
+Teorie grafů Speciální třídy grafů (intervalové, chordální a perfektní). Stromové struktury (stromový zdvih, cestný zdvih, klikový zdvih). Pokročilá barevnost grafů (seznamová barevnost, vybíravost, hranová barevnost). Toky a řezy. Náhodné grafy (pravděpodobnostní algoritmy, webový graf). Vizualizace grafů.
+Pokročilé paralelní algoritmy Teorie paralelní složitosti a P-úplnost. Paralelní prefixový součet nad polem a seznamem. Paralelní kontrakce stromů. Paralelní grafové algoritmy. Optimální paralelní algoritmy řazení. Paralelní algebraické algoritmy a algoritmy pro výpočetní geometrii.
+Algoritmy komprese dat Entropie. Kódování čísel. Statistické, slovníkové a kontextové metody komprese dat a jejich vlastnosti. Vrstvené metody komprese dat. Slovní komprese. Využití konečných automatů při kompresi dat. Efektivní vyhledávání v komprimovaném textu.
+Textové a stromové algoritmy Vyhledávání řetězců a posloupností v jednorozměrném a vícerozměrném textu. Vyhledávací automaty a jejich simulace. Vyhledávání v textech, které jsou předzpracovány, indexové a signaturové metody. Datové struktury pro vyhledávání. Vyhledávání pravidelností v textu. Stromové jazyky, stromové a zásobníkové automaty. Metody vyhledávání vzorků ve stromech. Indexování stromových struktur. Vyhledávání pravidelností ve stromech.
+Formální metody a specifikace Syntaxe a sémantika specifikačních jazyků, různé způsoby specifikace systémů. Algebraické specifikace, různé způsoby implementace algebraických specifikací. Přepisovací systémy, převod specifikace na přepisovací systém, abstraktní přepisovací stroj. Prototypování algebraických specifikací, příklady. Jiné metody formálních specifikací, příklady.
+Numerická matematika a přesná aritmetika Chyby a jejích odhady, podmíněnost a stabilita numerických úloh. Princip iteračních metod, Banachova věta o pevném bodě, kontraktivní zobrazení. Vybrané metody pro řešení velkých soustav lineárních rovnic. Využití knihoven pro přesné počítání. Řešení soustav nelineárních rovnic. Využití modulární aritmetiky pro bezchybný výpočet. Intervalová a p-adic aritmetika. Řetězové zlomky.
+Kvantové počítání a kvantová kryptografie Elementy kvantové mechaniky. Kvantová nelokalita, kvantová korelace -"entanglement", míra entanglementu. Kvantový generátor náhodných čísel. Kvantová teleportace. Kvantová kryptografie - princip, protokol BB84, "jednofotonové" a "dvoufotonové" metody, současný stav. Kvantové počítače, výpočtová složitost; qubit, kvantová hradla. Kvantový algoritmus pro faktorizaci. Aplikace kvantových algoritmů.
+Information Retrieval Specifické cíle metod information retrieval a srovnání s databázovými metodami , relevance dokumentů a fuzzy logika, Zipfův zákon, diskriptory a indexování, zpracování textu pro účely indexování, klasický model vyhledávání dokumentů, indexování pomocí n-gramů, clustering deskriptorů, clustering dokumentů, centroid ve vektorovém modelu, expandování dotazu, expandování odpovědi, poziční indexování a operátor proximity, míry používané v information retrieval (precision, recall, ROC), míry podobnosti (edit distance, Jaccardův koeficient, kosinová míra podobnosti), váhy dokumentů (term frequency, inverse document frequency, metody používané pro ranking.
+Text mining Cíle a problémy oboru text mining (dolování informace z textů), architektura systémů text mining, zpracování textu pro převod do vektorového modelu, redukce dimenzí vektorového prostoru metodou chi-quadrat, redukce dimenzí vektorového prostoru metodou latentního semantického indexování a koncepty, metody shlukování (clustering - square error, k-means, nearest neighbor), metody klasifikace (Bayes, k-NN), detekce sémantických vazeb, named entities a extrakce vzorů (patterns), syntaktická analýza textů (parsing), part-of-speech tagging, koreference, detekce first story, automatická sumarizace textu, automatické odpovídání na dotazy.
+Principy moderních webových technologií Moderní architektonické styly pro návrh aplikací a služeb, metody pro zajištění dobrého výkonu aplikací jako je škálovatelnost a dostupnost, jazyky pro reprezentaci rozhraní aplikací na informační, procesní a technologické vrstvě, metody zajištění bezpečnosti webových služeb, proces životního cyklu služeb a jeho automatizace.
+Sémantický web Jayzyky pro reprezentaci sémantiky dat, ontologie, principy linked data, jazyky pro dotazování nad sémantickým modelem a algoritmy pro usuzování, motody pro anotaci obsahu pomocí sémantických dat.
+Numerické řešení parciálních diferenciálních rovnic Aplikace metody konečných diferencí v parciálních diferenciálních rovnicích. Variační formulace okrajových úloh pro parciální diferenciální rovnice, slabé řešení. Matematické základy metody konečných prvků. Algoritmizace v metodě konečných prvků. Vznik řídkých soustav lineárních algebraických rovnic. Matematické základy metody konečných objemů.
+Numerické metody lineární algebry Řídké soustavy lineárních algebraických rovnic, počítačová reprezentace řídkých soustav, řídké matice, formáty pro uložení řídkých matic v paměti. Algoritmy pro násobení řídkých matic vektorem. Numerické metody řešení řídkých soustav lineárních algebraických rovnic, iterační metody, metoda sdružených gradientů, předpodmiňování. Numerické metody pro hledání vlastních čísel a vlastních vektorů řídkých matic.
+ 
+ 
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 14.3.2016, 14:29      
+           
+                          
+       
+
+
+
+
+
+

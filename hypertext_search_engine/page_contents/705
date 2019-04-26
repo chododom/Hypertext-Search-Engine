@@ -1,0 +1,178 @@
+https://fit.cvut.cz/fakulta/veda/patenty/294898
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Fakulta » Věda » Patenty » Generování multiplikativní inverze Novinky    News
+
+
+
+
+AktualityObhajoby DP
+
+Kontakt
+Granty
+PatentyZařízení pro řízení a správu inteligentních budov a bytů
+Systém pro realizaci rozptylovací tabulky
+Zapojení pro řízení a správu inteligentních budov
+Generování multiplikativní inverze
+Zapojenie procesorovej jednotky
+
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
+
+Habilitační a jmenovací řízeníObhájené habilitační práce
+
+Vědecká rada
+Výzkumné skupiny a laboratoře
+
+
+
+
+
+Zapojení pro generování multiplikativní inverze nad konečným tělesem GF(p) 
+V roce 2002 získal doc. Ing. Róbert Lórencz, CSc., patent na zapojení pro generování multiplikativní inverze. Vynález má význam ve kryptografických výpočtech, zejména v kryptografických hardwarových aplikacích a vestavěných systémech, např. v čipových kartách. Majitelem patentu je Fakulta elektrotechnická ČVUT.
+
+Autor
+doc. Ing. Róbert Lórencz, CSc.
+Přihlašovatel/Majitel
+České vysoké učení technické v Praze, Fakulta elektrotechnická
+Druh PV
+Český národní patent
+United States Patent 7574469
+Informace ÚPV
+Zapojení pro generování multiplikativní inverze nad konečným tělesem GF(p)
+Dokumentace
+Patentový spis č. 294 898
+Číslo přihlášky
+2002-4116
+Číslo dokumentu
+294 898
+Datum podání přihlášky
+16. 12. 2002
+Datum udělení patentu
+7. 2. 2005
+Datum publikace patentu
+13. 4. 2005
+
+Anotace
+Podstata vynálezu spočívá ve vytvoření zapojení pro efektivní generování multiplikativní inverze nad konečným tělesem GF(p), kde p je prvočíslo, tj. generováním modulární inverze. Zapojení je upraveno pro binární vykonávání operací v procesu generování modulární inverze, a to vzhledem k co nejmenšímu počtu operací sčítání, odečítání a posuvu. Postup realizovaný navrženým zapojením odstraňuje redundantní operace pro konverzi lichých a záporných hodnot, které jsou prováděny u dosavadních postupů. K tomu se využívá reprezentace záporných čísel v doplňkovém kódu, posun hodnot doleva v řídicí části rozšířeného Euklidova algoritmu a nová definice hlídacích a řídicích podmínek provádění postupu. Minimalizování počtu operací sčítání a odečítání je žádoucí v případě počítání s velkými čísly, která se vyskytují v kryptografii.
+
+Osoba zodpovědná za obsah této stránky
+
+doc. Ing. Štěpán Starosta, Ph.D., stepan.starosta@fit.cvut.czProděkan pro vědu a výzkum
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 19.3.2018, 12:37      
+           
+                          
+       
+
+
+
+
+
+

@@ -1,0 +1,223 @@
+https://fit.cvut.cz/phd_skolitel_schmidt
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Fakulta » Věda » Doktorandi » Témata dizertačních prací » Jan Schmidt Novinky    News
+
+
+
+
+AktualityObhajoby DP
+
+Kontakt
+Granty
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
+
+Habilitační a jmenovací řízeníObhájené habilitační práce
+
+Vědecká rada
+Výzkumné skupiny a laboratoře
+
+
+
+
+
+doc. Ing. Jan Schmidt, Ph.D. 
+
+Pracoviště
+ČVUT FIT, Katedra číslicového návrhu
+Výzkumná skupina
+Digital Design & Dependability Research Group
+Osobní stránky
+https://usermap.cvut.cz/profile/schmidt/
+E-mail
+jan.schmidt@fit.cvut.cz
+
+
+Implicitní metody v generování komprimovaného testu
+Systémy odolné proti poruchám založené na rekonfiguraci
+Spolehlivé architektury FPGA
+Pokročilé algoritmy logické syntézy
+HCI a vizualizace velkých dat v prostředí počítačové sítě
+
+Implicitní metody v generování komprimovaného testu
+Implicit methods in compressed test generation
+
+Dosavadní metody komprese testu vycházejí z předem vygenerovaného testu. Je-li generátor testu schopen akceptovat omezení na hodnoty některých vstupních proměnných, dá se pracovat s celou množinou vektorů, pokrývajících danou poruchu najednou a vybrat podmnožinu, která vyhovuje daným omezením. Metodou překrývání vektorů dostaneme komprimovaný test. 
+Explicitní reprezentace množiny vektorů výčtem vede na značné výpočetní složitosti algoritmu. Množinu vektorů lze určit jako všechny vektory, které splňují jistý Booleovský výraz. K práci s takto implicitně zobrazenými množinami lze použit operace Booleovy algebry a k převodu do explicitního zobrazení řešič problému splnitelnosti Booleovy formule.
+Příbuzných aplikací je více a vzniká obecná otázka, kdy a jak implicitní reprezentace a methody nasadit, jaké jsou jejich meze a jaké typy algoritmů je využijí nejlépe. Odpověď je cílem práce.
+
+
+Existing test compression methods require precomputed tests as their inputs. If the test generator accepts constraints on input signal values, the entire set of vectors detecting a given fault can be processed at once and the subset conforming the constraints can be selected. Using the overlapping vector methods, we obtain a compressed test.
+The explicit representation of a vector set by enumeration leads to a high computational complexity. We can specify the set as all vectors satisfying a Boolean formula. To manipulate such sets, Boolean algebra can be used, and a SAT solver would convert the formula to an explicit representation.
+There is more similar applications in the general testing area. It is a question where implicit representation are useful, in what manner they shall be employed and what sort of algorithms utilizes them best. The answer is the topic of the work.
+
+Systémy odolné proti poruchám založené na rekonfiguraci
+Reconfiguration-Based Fault Tolerant Systems
+
+Zákaznicky programovatelná hradlová pole (FPGA) nabízejí podstatné logistické výhody proti klasickým zákaznickým obvodům. Mohly by se stát prostředkem pro snížení ceny a času vývoje vestavných systémů. Chybí však metody návrhu pro bezpečnostně kritické obvody.
+Těžiště práce je v návrhu architektury nebo architektur pro konstrukci spolehlivých systémů na FPGA. Je zapotřebí pokrýt více oblastí: algoritmy rekonfigurace, výpočet spolehlivostních modelů a synchronizace stavu po rekonfiguraci.
+
+
+Field Programmable Gate Arrays (FPGAs) offer substantial logistic advantages over traditional application-specific circuits, especially in small production numbers. Thus, they are an attractive way to diminish the cost and design time of embedded systems. For safety-critical applications, however, design methods are lacking.
+The gist of this work is to design a (set of) architecture(s) and associated methods for the construction of dependable FPGA-based systems. Several areas have to be covered: reconfiguration algorithms, reliability modeling, state synchronization.
+
+Spolehlivé architektury FPGA
+Reliable FPGA architectures
+
+Zákaznicky programovatelná hradlová pole (FPGA) nabízejí podstatné logistické výhody proti klasickým zákaznickým obvodům. Mohly by se stát prostředkem pro snížení ceny a času vývoje vestavných systémů. Zkonstruovat vysoce spolehlivý systém, který vyhoví pro bezpečnostně kritické aplikace je však obtížné, protože navrhujeme v prostředí které bylo zkonstruováno pro běžnou spolehlivost.
+"Správná" metoda, jak situaci vyřešit, ja navrhnout obvod FPGA přímo určený pro spolehlivé aplikace. V rámci akademického výzkumu pochopitelně nenajdeme stovky člověkoroků potřebných pro finální návrh vyrobitelného FPGA čipu. Nicméně existuje cesta, jak je možno podstatně přispět k vývoji v tomto směru.
+Systém VPR [1][2][3] byl navržen pro experimentální vyhodnocení FPGA architektur s ohledem na využití zdrojů, dosažitelnou hustotu funkce apod. Existují "virtuální" modely FPGA, na kterých tento systém umí rozmístit a propojit libovolný návrh. Tyto modely jsou dosti podrobné, aby bylo možno pracovat s poruchami na úrovni tranzistorů, a tedy vyhodnotit odolnost navržené architektury proti degradujícím vlivům. Na rozdíl od produkčního čipu, konstrukce demonstračního a ověřovacího čipu je dosti dobře možná v laboratoři IMEC (program Eurochip) nebo i jinde.
+
+
+Field Programmable Gate Arrays (FPGAs) offer substantial logistic advantages over traditional application-specific circuits, expecially in small production numbers. Thus, they are an attractive way to diminish the cost and design time of embedded systems. To construct a highly reliable circuit for safety-critical applications using an FPGA, however, is quite difficult, as the design environment (the FPGA itself) has been designed for an ordinary/grade dependability (consumer or industrial).
+The "right" way to correct this is of course to design an intrinsically reliable FPGA with features targeted for such an application. In academicresearch, we cannot hope to find somewhere the hundreds of person-years necessary to design a production-grade competitive FPGA chip. There is, however, a way to contribute much in this direction.
+The VPR system [1][2][3] has been designed for experiments with FPGA architecture, targeting resource utilization, function density etc. There are "virtual FPGA chips" available, i.e. FPGA models where VPR is able to place and route any design. These models are detailed enough even for the transistor-level fault models to be utilized. This way, any devised reliable FPGA architecture can be evaluated with respect to environmental factors. In contrast to a full-fledged industrial chip, manufacuting of a proof-of-concept chip or demonstrator is well possible in the framework of the IMEC Eurochip programme or elsewhere.
+
+Reference
+
+Vaughn Betz, Jonathan Rose and Alexander (Sandy) Marquardt: Architecture and CAD for Deep-Submicron FPGAs. ISBN 0-7923-8460-1. Kluwer, 2000
+Vaughn Betz and Jonathan Rose: VPR: A New Packing, Placement and Routing Tool for FPGA Research. 1997 International Workshop on Field Programmable Logic and Applications, Springer, 1997
+University of Toronto: VPR and T-VPack 5.0.2: Full CAD Flow for Heterogeneous FPGAs. http://www.eecg.utoronto.ca/vpr/
+
+Pokročilé algoritmy logické syntézy
+Advanced logic synthesis
+
+Studie naší výzkumné skupiny v posledních letech ukázaly, že existující postupy návrhu kombinačních logických obvodů se zhruba dají rozdělit do následujících dvou skupin:
+1. Klasické, "učebnicové" postupy, založené na minimalizaci a dekompozici. Vlivem uniformní reprezentace Booleovy funkce (normální forma, rozhodovací diagramy) kvalita jejich výsledku nezávisí na velikosti nebo způsobu popisu zadání. Tyto postupy však nejsou škálovatelné - selhávají pro velké obvody, i když jim poskytneme úměrně mohutnější výpočetní prostředky.
+2. Škálovatelné metody, založené na postupné transformaci zadání do výsledku. Pracují i na velkých obvodech. Jestliže však je popis zadání příliš rozdílný od výstupního, optimálního popisu, algoritmus postupných transformací nedokáže tuto vzdálenost přetraverzovat. V obecném případě, velikost vstupního popisu (měřená třeba v literálech) významně koreluje s velikostí výstupu (měřenou například v hradlech). Tuto nežádoucí vlastnost mají i profesionálně používané programy.
+Zkoumáme cesty, jak dosáhnout obojích předností najednou. Možností je více: randomizace algoritmů, hledání výhodnějších transformací obvodu ("chytřejších", s "delším dosahem"), hledání alternativních cest ke konstrukci škálovatelných algoritmů, atd.
+Toto je široké téma, které může být pokryto několika disertačními pracemi. Téma Petra Fišera "Rozšíření AIG (And-Inverter Graph) popisu logického obvodu o XOR prvky" je úžeji zaměřeným úsilím v témž směru.
+
+
+Several studies conducted by our group show that recent combinational logic synthesis algorithms can be divided into the following groups:
+1. Classic, "textbook" methods based on minimization and decomposition. Thanks to uniform Boolean function representation (by normal forms or decision diagrams), the quality of the result does not depend on the size or style of input representation. These methods, however, are not scalable; they fail on large circuits even if proportionally more computation power is provided.
+2. Scalable methods, based of successive transformation of input circuit description into resulting circuit description. These methods work even on large circuits. If the input description is very different from optimum, the algorithm is unable to span that distance with successive transformations and produces poor results. The size of the input description (measured in, say, literals) strongly correlates with the size of the output circuit (measured e.g. in gates). Even industrial systems exhibit this undesirable property.
+We study ways to have the best of both: scalability and independent performance. There are multiple directions to explore: randomized algorithms, alternative ways to construct scalable algorithms, more "clever" or "long-distance" transformations, etc.
+This is a broad topic, which may be covered by several works. The topic "Extension of AIG Circuit Description to XOR Gate Support",announced by Petr Fišer, is a more focused effort in the same direction.
+
+HCI a vizualizace velkých dat v prostředí počítačové sítě
+
+Dizertační práce se bude zabývat vizualizací a grafickou reprezentací dat o provozu v počítačových sítích za účelem bezpečnostní analýzy a prezentace výsledků nahlášených detekcí včetně důkazního materiálu. Vzhledem ke zvyšujícím se objemům dat přenášeným po stále rychlejších síťových infrastrukturách narůstá obtížnost prezentovat informace o provozu uživateli. Na uživatelská rozhraní jsou v této oblasti kladeny nároky na automatické nebo aspoň poloautomatické „předfiltrování“ relevantních dat. Cílem je prezentovat uživateli jen dostatečné minimální množství dat tak, aby se uživateli práce zjednodušila či v některých případech dokonce umožnila. Jedná se o velké objemy dat se spoustou sémantických vazeb, jež se velice obtížně převádějí do grafické (2D) reprezentace (jde o víceúrovňovou abstrakci).
+Doktorand bude volně navazovat na svou dosavadní práci v oblasti vývoje uživatelských rozhraní určených pro správu a konfiguraci síťových zařízení. Práce navazuje na dlouhodobou spolupráci s výzkumníky v oblasti monitorování sítí a síťové bezpečnosti působící na FIT ČVUT v Praze a v organizaci CESNET, z.s.p.o. Navrhovaný školitel má bohaté zkušenosti s problematikou tvorby a testování uživatelského rozhraní. Zároveň je odborníkem na oblast interakce člověk – počítač.
+Navrhovaný školitel specialista se dlouhodobě věnuje síťové bezpečnosti a monitorování vysokorychlostních počítačových sítí, což dokazuje i svou intenzivní publikační činností. Školitel specialista bude cenným přínosem pro doktorandův výzkum a poskytne potřebnou zpětnou vazbu z pohledu praktické využitelnosti vyvinuté metody reprezentace dat.
+Dizertabilita plánovaných výsledků je založena na faktech, že práce se bude zabývat velmi netriviálními problémy, kterými jsou jak zpracování a filtrace velkých objemů dat, tak i jejich následná prezentace uživateli.
+Předpokládaným výsledkem práce budou články a studie metodologie, která umožní a zpřehlední uživatelům práci s daty. Očekávaný společenský a akademický přínos plánovaných výsledků je založen na faktu, že monitorování a následná vizualizace dat je kriticky důležitá pro provoz moderních rozsáhlých počítačových síťových infrastruktur. Výsledky výzkumu mají silný potenciál komerčního využití v existujících monitorovacích a „Intrusion Detection“ systémech.
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 26.4.2019, 14:54      
+           
+                          
+       
+
+
+
+
+
+

@@ -1,0 +1,178 @@
+https://fit.cvut.cz/informaticky-vecer_2010-05-12
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » LS 2009/2010 » Úplné prolomení šifry KeeLoq a (ne)bezpečné bezkontaktní platební systémy Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Úplné prolomení šifry KeeLoq a (ne)bezpečné bezkontaktní platební systémy 
+
+
+
+
+Přednáška:
+
+				1. Útok analýzou spotřeby energie: Úplné prolomení šifry KeeLoq aneb „Který vůz se Vám líbí?“
+				2. Jak (ne)bezpečné jsou současné bezkontaktní platební systémy aneb „Jezte, co hrdlo ráčí“
+
+
+
+Přednášející:
+
+				1. Amir Moradi, postdoktorandský výzkumník, Ruhr-University, Bochum, Německo
+				2. Timo Kasper, výzkumný asistent, Ruhr-University, Bochum, Německo
+
+
+
+Datum a čas:
+
+				12. května 2010, 17–19 hodin
+
+
+
+Místo:
+
+				Ballingův sál, NTK, Praha
+
+
+
+Jazyk:
+
+				Angličtina
+
+
+
+ 
+Anotace první přednášky: Šifra KeeLoq se používá v řadě bezdrátových elektronických zámků, jako jsou například centrální zamykání automobilů, zámky grážových vrat apod. V přednášce bude představen světově první úspěšný útok na elektronické zámky, které používají tzv. „KeeLoq code hopping“ schéma. Použitý přístup je založen na analýze spotřeby elektronického zařízení, přičemž využívá specifické vlastnosti algoritmu šifry KeeLoq. Je možné zjistit jak tajný klíč ukrytý ve vysílači (přívěšku na klíčích), tak tajný tovární klíč ukrytý v přijímači (zámku dveří).
+Přívěšek na klíčích je možné naklonovat po analyzování pouhých deseti průběhů spotřeby, klíč je v tomto případě zjištěn během několika minut. Pokud je zjištěn tovární klíč (společný pro všechna zařízení stejného typu), potom je možné vysílač (přívěšek na klíčích) naklonovat bez toho, aby útočník k němu získal fyzický přístup – v tomto případě stačí tajně odposlechnout jednu nebo dvě komunikace mezi vysílačem a přijímačem. Takovéto klonování klíčů bez nutnosti fyzického přístupu k nim představuje vážný bezpečnostní problém. Na závěr bude představen útok způsobující zablokování elektronického zámku. Všechny útoky byly ověřeny na několika komerčních produktech.
+ 
+Anotace druhé přednášky: Řada soudobých bezkontaktních platebních systémů je založena na čipových kartách vybavených šifrou Mifare Classic (např. karta ČVUT, první generace OpenCard, OysterCard v londýnské MHD). Abychom zanalyzovali bezpečnost soudobých platebních systémů, využili jsme předchozí kryptoanalytické poznatky a implementovali jsme vylepšený útok, který kromě zkoumané karty potřebuje pouze levné pomůcky. Podle našich informací se jedná o nejefektivnější dosavadní praktický útok.
+Objevili jsme několik skulin, které představují závažná bezpečnostní rizika na systémové úrovni. Tyto slabiny umožňují provést ničivé útoky včetně krádeže identity a neoprávněného dobití platební karty. Útoky jsme ověřili na komerčních zařízeních. Naznačíme také možná protiopatření. Konečně zhodnotíme také vhodnost bezpečnějších platebních karet (používajících šifru 3DES) pro bezkontaktní platební systémy.
+ 
+Anotace přednášejícího Amira Moradiho: Amir Moradi získal bakalářský titul v roce 2001 v oboru Počítačové inženýrství na Shahid Beheshti University v Íránu. V roce 2004 získal magisterský a v roce 2008 doktorský titul v oboru Počítačové inženýrství na Sharif University of Technology v Íránu. V současné době působí na postdoktorandské výzkumné stáži na katedře Embedded Security na Ruhr-University v Bochumi (Německo). Mezi jeho odborné zájmy patří útoky prostřednictvím postranních kanálů a implementace kryptografických algoritmů.
+ 
+Anotace přednášejícího Timo Kaspera: Timo Kasper vystudoval elektroinženýrství a informační bezpečnost na Ruhr-University v Bochumi (Něměcko) a na University of Sheffield (Velká Británie). Inženýrská studia úspěšně zakončil v roce 2006. V současné době pracuje jako výzkumník na katedře Embedded Security, vedené Christofem Parem. Mezi jeho odborné zájmy patří výzkum bezpečnosti vestavných systémů (embedded systems), například čipových karet, RFID a bezdrátových zařízení, zahrnující kryptoanalýzu postranními kanály a útoky na systémové úrovni.
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 23.1.2019, 10:59      
+           
+                          
+       
+
+
+
+
+
+

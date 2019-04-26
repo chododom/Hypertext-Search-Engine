@@ -4,14 +4,12 @@ import time
 
 from hypertext_search_engine.src.domain import *
 from hypertext_search_engine.src.search_engine import *
+from hypertext_search_engine.src.config import *
 from hypertext_search_engine.src.spider import Spider
-from hypertext_search_engine.src.page_rank import PageRank
+from hypertext_search_engine.src.page_rank import *
 
-HOMEPAGE = 'https://fit.cvut.cz'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 pages = {}
-pages_lock = threading.RLock()
-THREAD_CNT = 30
 threads = set()
 queue = collections.deque()
 queue.appendleft(HOMEPAGE)
@@ -28,20 +26,21 @@ def create_spiders():
 
 
 def crawl():
-    while len(crawled) < 100:
+    while len(crawled) < PAGE_CNT:
         if len(queue) != 0:
             url = queue.pop()
             Spider.crawl_page(url)
             time.sleep(0.05)
 
 
-create_spiders()
+if CRAWL:
+    create_spiders()
+    crawl()
+    for thread in threads:
+        thread.join()
 
-crawl()
 
-for thread in threads:
-    thread.join()
-    '''
+'''
 pages = {
         "1": Page(id=0, page_url="1", text_content='', outlinks=["2", "3"]),
         "2": Page(id=1, page_url="2", text_content='', outlinks=[]),
@@ -51,39 +50,32 @@ pages = {
         "6": Page(id=5, page_url="6", text_content='', outlinks=["4"])
     }
 '''
-# print('\n\nVisited pages: ' + str(len(pages)))
-PR = PageRank(pages, 0.85, 50, False)
+
+if CALC_PR:
+    PR = PageRank(pages, ALPHA, ITERATION_CNT, False)
 
 
-def printPagesPR(pgs):
-    res = list(pgs.values())
-    res.sort(key=lambda x: x.rank, reverse=True)
-    for pg in res:
-        print(pg)
+if CALC_PR and METHOD == "matrix":
+    print("Result - matrix method")
+    pi_matrix = PR.do_page_rank_matrix()
+    for pg in pages:
+        pages[pg].rank = pi_matrix.toarray()[0][int(pages[pg].id)]
+    # sort by Page Rank
+    print("PR sum: "+str(pi_matrix.sum()))
+    PageRank.printPagesPR(pages)
 
+if CALC_PR and METHOD == "power":
+    print("\nResult - power method")
+    pi_power = PR.do_page_rank()
+    for pg in pages:
+        pages[pg].rank = pi_power.toarray()[0][int(pages[pg].id)]
+    # sort by Page Rank
+    print("PR sum: "+str(pi_power.sum()))
+    PageRank.printPagesPR(pages)
 
-'''
-print("Result - matrix method")
-pi_matrix = PR.do_page_rank_matrix()
+if INIT_SEARCH_INDEX:
+    createSearchableData("../page_contents")
+    print("Created searchable data schema")
 
-for pg in pages:
-    pages[pg].rank = pi_matrix.toarray()[0][int(pages[pg].id)]
-# sort by Page Rank
-print("PR sum: "+str(pi_matrix.sum()))
-printPagesPR(pages)
-'''
-
-'''
-print("\nResult - power method")
-pi_power = PR.do_page_rank()
-for pg in pages:
-    pages[pg].rank = pi_power.toarray()[0][int(pages[pg].id)]
-# sort by Page Rank
-print("PR sum: "+str(pi_power.sum()))
-printPagesPR(pages)
-'''
-
-createSearchableData("../page_contents")
-print("Created searchable data schema")
-search("english", 5)
-
+if SEARCH:
+    search(SEARCH_WORD, RESULT_CNT)

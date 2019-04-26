@@ -1,0 +1,229 @@
+https://fit.cvut.cz/kcn
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Fakulta » Struktura » Katedry » Katedra číslicového návrhu Novinky    News
+
+
+
+
+KatedryKatedra teoretické informatiky
+Katedra softwarového inženýrství
+Katedra číslicového návrhu
+Katedra počítačových systémů
+Katedra aplikované matematiky
+Katedra informační bezpečnosti
+Laboratoř výzkumu programování
+
+Vědecká rada
+Disciplinární komise
+Děkan
+Děkanát
+Rada studijního programu
+
+
+
+
+
+Katedra číslicového návrhu 
+
+
+
+Katedra číslicového návrhu se zaměřuje na návrh vestavných systémů s ohledem na jejich bezpečnost, spolehlivost, velikost či spotřebu. Zabývá se rovněž i výzkumem modelů použitelných pro tento hardware/software codesign a jeho verifikaci. Studenti jsou seznámeni s návrhem a implementací hardwaru i softwaru pro vestavné aplikace a programovatelná zařízení. V případě zájmu se mohou zapojit do výzkumných projektů a experimentů v laboratořích.
+Výzkumná činnost
+Výzkum katedry se zaměřuje na číslicový návrh, odolnost systémů proti poruchám i útokům a využití FPGA obvodů. Pro výzkum má katedra k dispozici několik moderních laboratoří. Katedra je zapojena do řady projektů a rovněž se podílí na organizaci mezinárodních konferencí.
+Výzkumná činnost lze shrnout do několika oblastí:
+
+Návrh procesorů, vestavných řídících počítačů a počítačových komunikačních systémů 
+Využití neuronových sítí pro učení humanoidních robotů
+Vývoj algoritmů pro logickou syntézu
+Vývoj spolehlivých systémů na bázi programovatelných obvodů (FPGA) a systémů na čipu (SoC)
+Diagnostika, on-line i off-line testování a optimalizace vestavných systémů
+Zabezpečení vestavných systémů
+Embedded security
+Monitorování síťového provozu (on-line, realizace hardwarová i softwarová)
+Útoky postranními kanály
+Vývoj modelů pro výpočty spolehlivostních parametrů a vhodných modelů zohledňujících další architekturní omezení (spotřebu, velikost, bezpečnost apod.)
+
+Tyto oblasti jsou předmětem výzkumné práce v několika projektech, skupinách či laboratořích. Katedra je v současnosti zapojena do projektů v rámci fondu CELSA a Grantové agentury ČR. Pod katedru spadají i následující výzkumné skupiny a laboratoře:
+
+Výzkumná skupina Číslicový návrh a spolehlivost
+Laboratoř inteligentních vestavných systémů
+Laboratoř monitorování síťového provozu
+
+Nejnovější trendy z oblasti vestavných systémů jsou prezentovány a diskutovány na mezinárodních setkáních. Tým katedry se podílí na organizaci těchto konferencí a workshopů:
+
+Euromicro Digital System Design and Software Engineering and Advanced Applications
+Design and Diagnostics of Electronic Circuits and Systems
+Prague Embedded Systems Workshop
+
+Pedagogická činnost
+Katedra číslicového návrhu zaštiťuje předměty z oblasti číslicového návrhu pro všechny druhy studijních programů. Pro doktorandy nabízí školitele a témata dizertačních prací. Všechny předměty vyučované katedrou najdete v Bílé knize.
+
+Bakalářské studium
+V rámci bakalářského studijního programu Informatika katedra garantuje obor Počítačové inženýrství. Katedra vyučuje praktické a teoretické základy návrhu, realizace a programování softwaru i hardwaru.
+Kromě povinně oborových předmětů oboru BI-PI garantuje katedra i další předměty. Patří mezi ně například povinné předměty všech bakalářských studentů Číslicové a analogové obvody (BI-CAO) a Struktura a architektura počítačů (BI-SAP). Nabízí také oblíbený volitelný předmět Interaktivní aplikace s Arduinem (BI-ARD).
+Magisterské studium
+V rámci magisterského studijního programu Informatika katedra garantuje obor Návrh a programování vestavných systémů. Výuka je zaměřena na návrh, modelování a verifikaci čı́slicových systémů s důrazem na vestavné systémy a systémy na čipu. Obor je otvírán i v angličtině a předměty jsou nabízeny studentům v rámci programu Erasmus.
+Katedra garantuje povinné předměty magisterského programu Kombinatorická optimalizace (MI-KOP) a Problémy a algoritmy (MI-PAA). Kromě těchto předmětů pod katedru spadají další povinně volitelné a volitelné předměty, například:
+
+Inteligentní vestavné systémy (MI-IVS)
+Ovladače pro Linux (MI-OLI)
+Návrh obvodů technologií FPGA a ASIC (MI-NFA.16)
+Počítačová aritmetika (MI-ARI)
+Pokročilé vestavné systémy (MI-PVS)
+Seminář počítačového inženýrství (MI-SCE1)
+Simulace číslicových obvodů (MI-SIM.16)
+Systémy na čipu (MI-SOC.16)
+Teorie systémů (MI-TES.16)
+Testování a spolehlivost (MI-TSP.16)
+
+Doktorské studium
+Doktorský studijní program se nečlení na obory. V případě zájmu je možné oslovit školitele s nápadem na téma dizertační práce z oblasti výzkumné činnosti této katedry. Seznam všech vypsaných témat dizertačních prací je dostupný na samostatné stránce. Katedra také zajišťuje několik doktorských předmětů:
+
+Experimentální algoritmika (PI-EXA)
+Programovatelné obvody a SoC (systémy na čipu) (PI-PSC)
+Semináře z číslicového návrhu (PI-SCN)
+
+Kontakt
+Katedra číslicového návrhu sídlí v 10. patře Budovy A – Thákurova 7, Praha 6. Vedoucí katedry je doc. Hana Kubátová a sekretářkou Ivana Holíková. Seznam všech zaměstnanců katedry je dostupný buď na stránce Zaměstnanci, nebo v systému UserMap.
+
+
+doc. Ing. Hana Kubátová, CSc.
+Vedoucí Katedry číslicového návrhu
+Docentka na Katedře číslicového návrhu
+
+ kcn@fit.cvut.cz, hana.kubatova@fit.cvut.cz
+ +420 22435 9840
+ TH:A-1024
+
+
+
+
+Ivana Holíková
+Sekretářka Katedry číslicového návrhu
+
+ ivana.holikova@fit.cvut.cz
+ +420 22435 9832
+ TH:A-1026
+
+
+
+
+Ing. Miroslav Skrbek, Ph.D.
+Zástupce vedoucí Katedry číslicového návrhu
+Odborný asistent na Katedře číslicového návrhu
+
+ miroslav.skrbek@fit.cvut.cz
+ +420 22435 9856
+ TH:A-1029
+
+
+
+Osoba zodpovědná za obsah této stránky
+doc. Ing. Hana Kubátová, CSc., hana.kubatova@fit.cvut.czVedoucí Katedry číslicového návrhu
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 27.3.2019, 11:59      
+           
+                          
+       
+
+
+
+
+
+

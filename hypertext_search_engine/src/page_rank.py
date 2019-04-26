@@ -67,3 +67,9 @@ class PageRank:
         if self.debug:
             print()
         return pi
+
+    def printPagesPR(pgs):
+        res = list(pgs.values())
+        res.sort(key=lambda x: x.rank, reverse=True)
+        for pg in res:
+            print(pg)

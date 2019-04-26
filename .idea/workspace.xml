@@ -2,11 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a77045d0-c071-4160-bffb-5a19124c38fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hypertext_search_engine/src/search_engine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hypertext_search_engine/src/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid21538.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/indexdir/MAIN_0vzwxg16fhvrqo6u.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/indexdir/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/indexdir/_MAIN_1.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/101" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/106" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/107" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/108" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/109" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/110" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/112" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/113" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/114" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/115" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/117" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/118" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/119" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/120" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/121" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/122" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/99" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hypertext_search_engine/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/src/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/src/spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +140,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/hypertext_search_engine$main.coverage" NAME="main Coverage Results" MODIFIED="1555850604999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hypertext_search_engine/src" />
+    <SUITE FILE_PATH="coverage/hypertext_search_engine$main.coverage" NAME="main Coverage Results" MODIFIED="1556294724899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hypertext_search_engine/src" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -31,11 +156,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1046">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="205">
+              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -44,10 +169,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/matrix_factory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/search_engine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="290">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -68,6 +220,10 @@
     <findStrings>
       <find>robot</find>
       <find>Software</find>
+      <find>english</find>
+      <find>English</find>
+      <find>epileps</find>
+      <find>epilep</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,9 +234,14 @@
       <list>
         <option value="$PROJECT_DIR$/hypertext_search_engine/page_contents/89" />
         <option value="$PROJECT_DIR$/hypertext_search_engine/src/search_engine.py" />
-        <option value="$PROJECT_DIR$/hypertext_search_engine/src/spider.py" />
         <option value="$PROJECT_DIR$/hypertext_search_engine/page_contents/36" />
+        <option value="$PROJECT_DIR$/hypertext_search_engine/page_contents/126" />
+        <option value="$PROJECT_DIR$/hypertext_search_engine/page_contents/127" />
+        <option value="$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py" />
+        <option value="$PROJECT_DIR$/hypertext_search_engine/src/spider.py" />
+        <option value="$PROJECT_DIR$/hypertext_search_engine/src/matrix_factory.py" />
         <option value="$PROJECT_DIR$/hypertext_search_engine/src/main.py" />
+        <option value="$PROJECT_DIR$/hypertext_search_engine/src/config.py" />
       </list>
     </option>
   </component>
@@ -95,7 +256,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,16 +274,11 @@
               <item name="hypertext_search_engine" type="462c0819:PsiDirectoryNode" />
               <item name="page_contents" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hypertext-search-engine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hypertext-search-engine" type="462c0819:PsiDirectoryNode" />
-              <item name="hypertext_search_engine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,22 +340,23 @@
       <workItem from="1554063634641" duration="14000" />
       <workItem from="1554063671336" duration="11000" />
       <workItem from="1555773975320" duration="7769000" />
+      <workItem from="1556290810876" duration="3986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7794000" />
+    <option name="totallyTimeSpent" value="11780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4691689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62064344" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,16 +442,6 @@
     <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/18">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/search_engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/104">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -334,22 +480,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/main.py">
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/126">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1046">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="5831">
+          <caret line="343" column="13" selection-start-line="343" selection-start-column="13" selection-end-line="343" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/127">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/scipy/sparse/bsr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="249" column="55" selection-start-line="249" selection-start-column="51" selection-end-line="249" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/search_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/21">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/439">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="387" column="398" selection-start-line="387" selection-start-column="391" selection-end-line="387" selection-end-column="398" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/matrix_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/406">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="137" column="7" selection-start-line="137" selection-end-line="137" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/22">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="383" column="24" selection-start-line="383" selection-start-column="18" selection-end-line="383" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/32">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="252" column="24" selection-start-line="252" selection-start-column="18" selection-end-line="252" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>

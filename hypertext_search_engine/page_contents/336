@@ -1,0 +1,181 @@
+https://fit.cvut.cz/fakulta/veda/patenty/306787
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Fakulta » Věda » Patenty » Systém pro realizaci rozptylovací tabulky Novinky    News
+
+
+
+
+AktualityObhajoby DP
+
+Kontakt
+Granty
+PatentyZařízení pro řízení a správu inteligentních budov a bytů
+Systém pro realizaci rozptylovací tabulky
+Zapojení pro řízení a správu inteligentních budov
+Generování multiplikativní inverze
+Zapojenie procesorovej jednotky
+
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
+
+Habilitační a jmenovací řízeníObhájené habilitační práce
+
+Vědecká rada
+Výzkumné skupiny a laboratoře
+
+
+
+
+
+Systém pro realizaci rozptylovací tabulky 
+V roce 2017 získali Ing. Matěj Bartík, z Katedry číslicového návrhu, a Dr. Ing. Sven Ubik, ze sdružení CESNET, patent na systém pro realizaci rozptylovací tabulky. Předkládané řešení umožňuje realizovat rozptylovací tabulku, například pro činnost kompresních algoritmů, s rychlou inicializací a současně s malými nároky na systémové prostředky. Majitelem patentu je Fakulta informačních technologií ČVUT a CESNET, z. s. p. o.
+
+Autor
+Ing. Matěj Bartík
+Dr. Ing. Sven Ubik
+Přihlašovatel/Majitel
+CESNET, z. s. p. o.
+České vysoké učení technické v Praze, Fakulta informačních technologií
+Druh PV
+Český národní patent
+Evropský patent
+Informace
+ÚPV: Systém pro realizaci rozptylovací tabulky
+Espacenet: System for Implementation of a Hash Table
+Dokumentace
+Patentový spis č. 306 787
+Číslo přihlášky
+2016-272
+Číslo dokumentu
+306 787
+Datum podání přihlášky
+10. 5. 2016
+Datum udělení patentu
+24. 5. 2017
+Datum publikace patentu
+7. 7. 2017
+
+Anotace
+Předkládané řešení umožňuje realizovat rozptylovací tabulku, například pro činnost kompresních algoritmů, s rychlou inicializací a současně s malými nároky na systémové prostředky. Hlavními částmi řešení jsou jeden nebo více základních bloků (1), odpovídající počet maskovacích bloků (20), čítač (14), adresní rozdělovač (15), demultiplexor (18) a multiplexor (22). Každý základní blok (1) obsahuje paměť (4) příznakového registru implementovaného jako tabulka LUT. V normálním provozním režimu je adresa celého systému příznaků rozdělena adresním rozdělovačem (15) na část připojenou současně do všech základních bloků (1) a na část, kterou demultiplexor (18) využije pro povolení zápisu do jednoho ze základních bloků (1). Maskovací bloky (20) spolu s multiplexorem (22) vybírají obsah adresovaného základního bloku (1). V režimu inicializace vytváří čítač (14) postupně všechny adresy na vstupech základních bloků (1) pro nastavení pamětí (4) příznakových registrů.
+
+Osoba zodpovědná za obsah této stránky
+
+doc. Ing. Štěpán Starosta, Ph.D., stepan.starosta@fit.cvut.czProděkan pro vědu a výzkum
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 18.2.2019, 12:10      
+           
+                          
+       
+
+
+
+
+
+

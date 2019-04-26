@@ -1,0 +1,180 @@
+https://fit.cvut.cz/informaticky-vecer_2009-11-12
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2009/2010 » Tvorba webových aplikací s Apache Maven Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Tvorba webových aplikací s Apache Maven 
+
+
+
+
+Přednáška:
+
+				Tvorba webových aplikací s Apache Maven
+
+
+
+Přednášející:
+
+				Ing. Pavel Jetenský, Telefonica O2 Business Solution
+
+
+
+Datum a čas:
+
+				12. listopadu 2009, 18–20 hodin
+
+
+
+Místo:
+
+				Ballingův sál, NTK, Praha
+
+
+
+Jazyk:
+
+				Čeština
+
+
+
+ 
+Anotace workshopu: Účastníci workshopu si vyzkouší práci s těmi pluginy Mavenu, které výrazně usnadňují vývoj webových aplikací. Od píky si ukážeme, jak se nová webová aplikace snadno založí, jak co nejvíce můžeme urychlit její vývoj (cyklus změna – otestování v prohlížeči) a jak lze automatizovat deploy na různá prostředí (test, produkce). Naučíme se automaticky deployovat více warů najednou, zjistíme jak spustit webový kontejner v rámci integračního testu (např. Selenium). Uvidíme, jak cargo plugin dokáže z internetu stáhnout a spustit samotný webový kontejner, takže vývojář nemusí instalovat před začátkem vývoje ani Tomcat. Workshop se zaměří na využití těchto Maven pluginů:
+
+
+		Archetype
+
+		Jetty – Hot Redeployment
+
+		Cargo – Remote Deployment
+
+ 
+Vstupní předpoklady: Výhodou je alespoň základní znalost Maven a struktury pom.xml, nutný je laptop s nějakým IDE (Eclipse, Idea), které však nemusí mít podporu pro Maven.
+ 
+Anotace přednášejícího: Ing. Pavel Jetenský vystudoval Fakultu řízení a informačních technologií, obor Informační management na Univerzitě Hradec Králové. V letech 2005–2007 pracoval jako SW vývojář v Irsku. Zajímají ho Java technologie, techniky automatizovaného testování a ergonomie práce s počítačem. Mezi jeho oblíbené frameworky patří Spring, Selenium a Maven. V současnosti pracuje jako Java Competence Leader a SW Architekt v Telefonica O2 Business Solutions. Svoje školení a články o SW publikuje na blogu Myšlenky otce fura nebo na vlastním blogu.
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 21.1.2019, 12:32      
+           
+                          
+       
+
+
+
+
+
+

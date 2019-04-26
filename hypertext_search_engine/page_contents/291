@@ -1,0 +1,219 @@
+https://fit.cvut.cz/fakulta/veda/granty/vyhledavani
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Fakulta » Věda » Granty » Vyhledávání Novinky    News
+
+
+
+
+AktualityObhajoby DP
+
+Kontakt
+GrantyVyhledávání
+
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
+
+Habilitační a jmenovací řízeníObhájené habilitační práce
+
+Vědecká rada
+Výzkumné skupiny a laboratoře
+
+
+
+
+
+Vyhledávání grantů a výzkumných záměrů 
+https://v3s.cvut.cz/ - V3S = Komponenta Věda, výzkum, vnější styky při ČVUT v Praze  http://www.isvav.cz/  - Informační systém výzkumu, experimentálního vývoje a inovací (výzkum, vývoj a inovace, podporované z veřejných prostředků ČR)
+ Komponenta VVVS 
+Vstup do aplikace V3S - evidence publikací, akcí (grantů, výzkumných záměrů a smluv) a uznání vědeckou komunitou v databázi V3S.
+ Aplikace EZOP  vstup do aplikace EZOP - evidence grantových přihlášek do tuzemských i zahraničních grantových programů. (EZOP není součástí databáze V3S.)
+Odkaz na stránky Odboru pro vědeckou a výzkumnou činnost ČVUT v Praze https://research.cvut.cz/
+	Na těchto stránkách najdete odkazy na aplikace EZOP, SGS, V3S, Semináře, Výzvy.
+ 
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 24.7.2017, 11:55      
+           
+                          
+       
+
+
+
+
+
+
+mats. IEEE Trans. Parallel Distrib. Syst. 27(2): 428-440 (2016). U většiny aplikací se rozměry matice během výpočtu nemění. Existují ale třídy problémů, kde se během typicky iteračního výpočtu soustava rovnic mění. Například dochází k expanzi soustavy vkládáním nových řádků do matice koeficientů a přidáváním odpovídajících proměnných soustavy nebo naopak redukce soustavy ubíráním řádků z matice koeficientů. V případě symetrické matice koeficientů to znamená současné vkládání či odebírání jejich sloupců. Tento proces expanze či redukce se může během paralelního iterativního výpočtu opakovat.
+Cílem dizertační práce je výzkum paměťově úsporných SMSF a výpočetně efektivních a škálovatelných metod pro práci s elastickými řídkými maticemi. Úkolem je navrhnout a implementačně ověřit vhodné mapovací funkce pro elastické matice na multiprocesorovém systému s distribuovanou pamětí, vnitřní SMSF a algoritmy pro přemapování expandujících nebo redukovaných matic. Práce na tomto projektu je podpořena 5letým projektem OP VVV CRI a studenti získají přístup a budou moci pracovat na nejvýkonnějších superpočítačích na světě.
+
+
+Currently, there are several libraries of algorithms that allow to solve large sparse systems of linear equations on massively parallel supercomputers and clusters. Coefficient matrices are distributed and mapped among the memories of processing nodes of these computers where their nonzero elements are stored in sparse matrix storage formats (SMSFs). We have surveyed the state-of-the-art in SMSFs in article Langr, Tvrdik: Evaluation Criteria for Sparse Matrix Storage Formats. IEEE Trans. Parallel Distrib. Syst. 27(2): 428-440 (2016). In most applications the size of matrices during the computation remains fixed. However, there are classes of problems in which the set of equation during the computation changes dynamically. For example, the set of equations is expanded by adding new variables and by adding the corresponding new rows of coefficients into the coefficient matrix or reversely by removing some rows of the coefficient matrix. In case of a symmetric matrix this implies adding or removing of matrix columns. This process of expansion and reduction during a parallel iterative computation can repeat.
+The goal of the dissertation thesis is the research of space efficient SMSFs and efficient a scalable methods for handling elastic sparse matrices. The goal is to design and verify by implementation good scalable mapping functions for elastic matrices on multiprocessor systems with distributed memory, inner SMSFs, and algorithms for remapping of expanding or reducing matrices. The work on this project is supported with 5year project OP VVV CRI and students get access and will work on the most powerful supercomputers of the world.
+
+Paralelní algoritmy pro optimalizaci úĺožných formátů řídkých matic
+Parallel algorithms for optimization of sparse matrix storage formats
+
+Řídké matice se ukládají do paměti počítačů v souřadnicovém (COO) nebo řádkově komprimovaném (CSR) formátu. Kromě těchto základních formátů bylo vyvinuto mnoho dalších paměťových formátů pro řídké matice (sparse matrix storage formats, SMSF). Tuto problematiku jsme shrnuli v přehledovém článku Langr, Tvrdik: Evaluation Criteria for Sparse Matrix Storage Formats. IEEE Trans. Parallel Distrib. Syst. 27(2): 428-440 (2016). Vhodnost a vlastnosti jednotlivých SMSF pro různé třídy vědeckých výpočtů závisejí na struktuře řídké matice. Abychom minimalizovali např. paměťovou náročnost uložení velké řídké matice na paralelním počítači se sdílenou nebo distribuovanou pamětí, je vhodné převést řídké matice namapované na paralelní počítač z těchto základních SMSF na úspornější blokové formáty, což typicky znamená dekompozici na pokud možno husté čtvercové submatice pokud možno podobné velikosti. Úlohu transformace SMSF je třeba řešit pro rozsáhlé řídké matice, které jsou distribuovány v pamětech uzlů paralelního počítače. Výpočty nad řídkými maticemi dat jsou ze své podstaty iterační a vyžadují několik průchodů distribuovanými daty reprezentujícími strukturu řídké matice. Jejich klíčovou komponentou je řazení. Optimalizace velikosti bloků vyžaduje opakované paralelní řazení dat popisující strukturu řídkosti matice podle různých klíčů.
+Cílem dizertační práce je výzkum paralelních algoritmů pro efektivní a škálovatelné transformace velkých řídkých matic v základních SMSF na blokové. Práce na tomto projektu je podpořena 5letým projektem OP VVV CRI a studenti získají přístup a budou moci pracovat na nejvýkonnějších superpočítačích na světě.
+
+
+Sparse matrices are stored in computer memory in coordinate (COO) or compressed sparse row (CSR) formats. Except for these basic simple formats, a number of further sparse matrix storage formats (SMSF) were developed. We have surveyed the state-of-the-art in SMSFs in article Langr, Tvrdik: Evaluation Criteria for Sparse Matrix Storage Formats. IEEE Trans. Parallel Distrib. Syst. 27(2): 428-440 (2016). Suitability and properties of individual SMSF for various classes of scientific computing depend on the structure of sparse matrices. In order to minimize, e.g., the space complexity of storing a very large sparse matrix on a parallel computer with shared or distributed memory, it is useful to transform the sparse matrices from those basic SMSFs into more space-efficient block-based SMSFs. This typically means a decomposition into as dense as possible square submatrices of the same or close size. The SMSF transformation task is to be solved for big sparse matrices distributed across memories of computing nodes of a parallel system. The computations with sparse matrices are typically iterative and require several communication passes through distributed data representing the structure of a sparse matrix. Their key algorithmic component is sorting. The optimization of the block size requires repeated parallel sorting of data defining the sparse matrix structure by various keys.
+The goal of the dissertation thesis is the research of parallel algorithms for efficient and scalable transformations of big sparse matrices in the basic SMSFs into block-based ones. The work on this project is supported with 5year project OP VVV CRI and students get access and will work on the most powerful supercomputers of the world.
+
+Paralelní a distribuované algoritmy pro velmi rozsáhlé řídké matice 
+Parallel and distributed algorithms for very large sparse matrices
+
+Školitel specialista
+Ing. Daniel Langr, Ph.D.
+
+
+Moderní superpočítače jsou charakterizovány stálým růstem výpočetního výkonu díky zvyšujícímu počtu jader na procesor a vyšší integraci, přičemž paměťová kapacita stagnuje. Pro vysoce výkonné výpočty (High-Performance Computing, HPC) to znamená, že paměťová kapacita a latence neškáluje adekvátně nárůstu výpočetního výkonu. Náročné simulační výpočty a modelovaní dnes vedou na obrovské řídké matice, které se z výše popsaných důvodů se nevejdou do jejich hlavní paměti. Tato situace vede na řadu výzkumných problémů, jak takové výpočty realizovat. Téma dizertační práce zahrnuje výzkum nových algoritmů a reprezentací takových obrovských řídkých matic řešených na superpočítačích a výpočetních klastrech. Možná dizertační výzkumná témata jsou paralelní optimalizační heuristiky pro on-the-fly výpočty prvků takových řídkých matic bez nutnosti jejich ukládání na disk a do paměti, heuristiky pro dynamické ukládání výpočetně nejnáročnějších prvků nebo heuristiky pro vyvažování těchto optimalizovaných výpočtů v rámci jader a výpočetních uzlů. Výzkum je podpořen grantem OP VVV Výzkumné centrum informatiky.
+
+
+Modern supercomputers are characterized by continuous growth of the computing performance due to increasing number of cores per processor and higher integration, while the memory capacity per node tends to stagnate. For high-performance computing (HPC) on modern supercomuters this technology trends imply that that the memory capacity and latency does not scale with the growth of the computational performance. High-performance simulations and modelling lead to huge sparse matrices that for the reasons above do not squeze into the main memory of supercomuters. The dissertation thesis focuses on the research of new algorithms and representation of such huge sparse matrices suitable for processing on supercomputers and clusters. Possible research topics include paralel optimization heuristics for on-the-fly computation of the matrix elements without the need to store them on the disks and into the memory, heuristics for dynamic storing of computationaly most demanding elements, or heuristics for load balancing of these optimized computations on CPU cores or computational nodes. This research is supported by the OP VVV grant Research Center of Informatics.
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 26.4.2019, 15:39      
+           
+                          
+       
+
+
+
+
+
+
