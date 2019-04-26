@@ -41,7 +41,6 @@ if CRAWL:
         print("Page_contents folder couldn't be removed as it doesn't exist")
     os.mkdir("../page_contents")
     create_spiders()
-    crawl()
     for thread in threads:
         thread.join()
 
@@ -59,25 +58,23 @@ pages = {
 
 if CALC_PR:
     PR = PageRank(pages, ALPHA, ITERATION_CNT, False)
+    if METHOD == "matrix":
+        print("Result - matrix method")
+        pi_matrix = PR.do_page_rank_matrix()
+        print("PR sum: " + str(pi_matrix.sum()))
+        for pg in pages:
+            pages[pg].rank = pi_matrix.toarray()[0][int(pages[pg].id)]
+    elif METHOD == "power":
+        print("\nResult - power method")
+        pi_power = PR.do_page_rank()
+        print("PR sum: " + str(pi_power.sum()))
+        for pg in pages:
+            pages[pg].rank = pi_power.toarray()[0][int(pages[pg].id)]
 
-
-if CALC_PR and METHOD == "matrix":
-    print("Result - matrix method")
-    pi_matrix = PR.do_page_rank_matrix()
-    for pg in pages:
-        pages[pg].rank = pi_matrix.toarray()[0][int(pages[pg].id)]
     # sort by Page Rank
-    print("PR sum: "+str(pi_matrix.sum()))
     PageRank.printPagesPR(pages)
+    PageRank.save_ranks(pages)
 
-if CALC_PR and METHOD == "power":
-    print("\nResult - power method")
-    pi_power = PR.do_page_rank()
-    for pg in pages:
-        pages[pg].rank = pi_power.toarray()[0][int(pages[pg].id)]
-    # sort by Page Rank
-    print("PR sum: "+str(pi_power.sum()))
-    PageRank.printPagesPR(pages)
 
 if INIT_SEARCH_INDEX:
     createSearchableData("../page_contents")
@@ -85,3 +82,5 @@ if INIT_SEARCH_INDEX:
 
 if SEARCH:
     search(SEARCH_WORD, RESULT_CNT)
+
+

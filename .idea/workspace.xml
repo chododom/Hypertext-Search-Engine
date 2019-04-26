@@ -3,7 +3,438 @@
   <component name="ChangeListManager">
     <list default="true" id="a77045d0-c071-4160-bffb-5a19124c38fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/indexdir/MAIN_o2vweg4abyytdftt.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/indexdir/_MAIN_1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/indexdir/_MAIN_1.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/1" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/107" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/108" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/109" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/110" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/112" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/113" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/114" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/12" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/120" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/121" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/123" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/125" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/127" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/128" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/13" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/131" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/132" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/133" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/135" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/136" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/137" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/14" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/140" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/145" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/147" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/148" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/15" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/152" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/154" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/156" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/157" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/159" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/160" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/162" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/163" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/166" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/167" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/168" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/169" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/171" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/172" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/174" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/175" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/179" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/182" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/185" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/186" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/187" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/188" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/189" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/19" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/191" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/192" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/193" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/195" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/196" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/2" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/200" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/201" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/202" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/206" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/207" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/208" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/209" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/210" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/213" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/214" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/215" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/220" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/222" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/223" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/224" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/225" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/227" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/228" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/229" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/23" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/230" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/233" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/236" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/239" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/240" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/241" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/247" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/248" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/249" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/251" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/253" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/254" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/255" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/256" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/26" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/26" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/260" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/261" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/263" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/265" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/266" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/269" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/271" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/272" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/273" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/274" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/275" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/278" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/279" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/28" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/28" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/281" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/282" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/284" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/285" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/286" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/29" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/291" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/292" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/293" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/296" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/299" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/302" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/308" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/310" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/313" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/314" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/316" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/317" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/318" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/321" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/322" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/323" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/327" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/328" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/329" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/331" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/333" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/334" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/336" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/337" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/340" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/344" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/347" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/349" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/350" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/351" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/353" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/354" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/355" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/356" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/357" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/358" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/361" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/362" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/363" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/364" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/367" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/368" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/370" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/375" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/378" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/380" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/381" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/383" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/385" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/387" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/389" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/394" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/395" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/396" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/397" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/399" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/4" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/400" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/401" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/402" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/403" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/407" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/408" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/412" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/415" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/417" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/418" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/419" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/420" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/421" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/422" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/425" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/427" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/432" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/433" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/436" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/437" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/439" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/440" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/441" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/443" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/444" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/446" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/447" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/449" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/450" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/451" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/452" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/455" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/456" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/457" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/464" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/465" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/472" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/475" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/477" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/480" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/481" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/483" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/485" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/487" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/488" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/489" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/495" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/496" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/497" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/499" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/5" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/500" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/501" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/503" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/507" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/509" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/511" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/512" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/515" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/516" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/519" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/520" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/521" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/523" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/525" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/526" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/530" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/531" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/536" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/537" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/538" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/540" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/541" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/546" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/549" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/553" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/555" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/559" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/560" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/561" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/564" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/565" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/566" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/568" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/569" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/572" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/575" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/576" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/578" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/583" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/585" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/586" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/587" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/589" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/590" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/592" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/593" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/594" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/599" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/600" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/601" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/604" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/605" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/608" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/609" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/612" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/615" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/617" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/619" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/620" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/624" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/626" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/627" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/630" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/631" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/632" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/633" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/638" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/639" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/641" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/642" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/644" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/648" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/649" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/650" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/653" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/654" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/657" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/658" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/660" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/661" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/664" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/666" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/667" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/676" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/679" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/688" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/689" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/691" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/699" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/701" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/702" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/703" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/704" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/709" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/710" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/715" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/716" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/717" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/718" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/719" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/720" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/726" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/727" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/728" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/729" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/732" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/733" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/734" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/737" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/738" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/739" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/741" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/742" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/744" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/745" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/746" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/747" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/749" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/750" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/751" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/758" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/761" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/762" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/764" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/765" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/768" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/769" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/770" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/771" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/772" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/776" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/777" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/778" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/780" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/781" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/784" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/785" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/786" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/789" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/9" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/page_contents/9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/page_contents/99" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hypertext_search_engine/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py" beforeDir="false" afterPath="$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,26 +443,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/hypertext_search_engine$main.coverage" NAME="main Coverage Results" MODIFIED="1556296437253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hypertext_search_engine/src" />
+    <SUITE FILE_PATH="coverage/hypertext_search_engine$main.coverage" NAME="main Coverage Results" MODIFIED="1556300187944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hypertext_search_engine/src" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/spider.py">
+        <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="239">
+              <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/main.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="-135">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,17 +474,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+            <state relative-caret-position="375">
+              <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="51">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -96,6 +539,10 @@
       <find>Fakulta Informačních technologií</find>
       <find>Progtest</find>
       <find>Robot</find>
+      <find>ahoj</find>
+      <find>Ahoj</find>
+      <find>ale</find>
+      <find>Algoritmy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,11 +556,11 @@
         <option value="$PROJECT_DIR$/hypertext_search_engine/page_contents/36" />
         <option value="$PROJECT_DIR$/hypertext_search_engine/page_contents/126" />
         <option value="$PROJECT_DIR$/hypertext_search_engine/page_contents/127" />
-        <option value="$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py" />
         <option value="$PROJECT_DIR$/hypertext_search_engine/src/matrix_factory.py" />
-        <option value="$PROJECT_DIR$/hypertext_search_engine/src/spider.py" />
         <option value="$PROJECT_DIR$/hypertext_search_engine/src/main.py" />
+        <option value="$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py" />
         <option value="$PROJECT_DIR$/hypertext_search_engine/src/config.py" />
+        <option value="$PROJECT_DIR$/hypertext_search_engine/src/spider.py" />
       </list>
     </option>
   </component>
@@ -139,6 +586,12 @@
               <item name="hypertext-search-engine" type="b2602c69:ProjectViewProjectNode" />
               <item name="hypertext-search-engine" type="462c0819:PsiDirectoryNode" />
               <item name="hypertext_search_engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hypertext-search-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hypertext-search-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="hypertext_search_engine" type="462c0819:PsiDirectoryNode" />
+              <item name="page_ranks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,23 +659,23 @@
       <workItem from="1554063634641" duration="14000" />
       <workItem from="1554063671336" duration="11000" />
       <workItem from="1555773975320" duration="7769000" />
-      <workItem from="1556290810876" duration="6618000" />
+      <workItem from="1556290810876" duration="9473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14412000" />
+    <option name="totallyTimeSpent" value="17267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.62064344" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.63672924" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,13 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/matrix_factory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/search_engine.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -452,34 +898,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py">
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/389">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+        <state relative-caret-position="93">
+          <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/spider.py">
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/matrix_factory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state relative-caret-position="340">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_contents/58">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="467" column="19" selection-start-line="467" selection-start-column="19" selection-end-line="467" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="239">
+          <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/page_ranks/ranks">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/page_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hypertext_search_engine/src/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

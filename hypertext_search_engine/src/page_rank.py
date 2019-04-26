@@ -68,6 +68,14 @@ class PageRank:
             print()
         return pi
 
+    def save_ranks(pgs):
+        res = list(pgs.values())
+        # res.sort(key=lambda x: x.page_url, reverse=True)
+        f = open("../page_ranks/ranks", mode="w+", encoding="utf-8")
+        for pg in res:
+            f.write(pg.page_url + " #PAGERANK# " + str(pg.rank) + "\n")
+        f.close()
+
     def printPagesPR(pgs):
         res = list(pgs.values())
         res.sort(key=lambda x: x.rank, reverse=True)
