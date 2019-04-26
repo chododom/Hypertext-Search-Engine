@@ -1,6 +1,7 @@
 from scipy import sparse
 import numpy as np
 
+
 class MatrixFactory:
     pages = dict()
     length = 0

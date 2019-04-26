@@ -5,14 +5,16 @@ from whoosh.index import open_dir
 from whoosh.index import create_in
 from whoosh.fields import Schema, TEXT, ID
 
+from hypertext_search_engine.src.config import *
+
 
 def createSearchableData(root):
     schema = Schema(title=TEXT(stored=True), id=ID(stored=True), textcontent=TEXT(stored=True))
-    if not os.path.exists("../indexdir"):
-        os.mkdir("../indexdir")
+    if not os.path.exists(PARENT_DIR + "indexdir"):
+        os.mkdir(PARENT_DIR + "indexdir")
 
     # Creating an index writer to add document as per schema
-    ix = create_in("../indexdir", schema)
+    ix = create_in(PARENT_DIR + "indexdir", schema)
     writer = ix.writer()
 
     filepaths = [os.path.join(root, i) for i in os.listdir(root)]
@@ -28,7 +30,7 @@ def createSearchableData(root):
 
 
 def search(query_str, topN):
-    ix = open_dir("../indexdir")
+    ix = open_dir(PARENT_DIR + "indexdir")
     with ix.searcher(weighting=scoring.Frequency) as searcher:
         query = QueryParser("textcontent", ix.schema).parse(query_str)
         results = searcher.search(query, limit=None)

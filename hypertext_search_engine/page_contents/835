@@ -1,0 +1,237 @@
+https://fit.cvut.cz/informaticky-vecer_2013-03-11
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » LS 2012/2013 » Nástroje a postupy pro analýzu velkých dat Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Nástroje a postupy pro analýzu velkých dat 
+
+
+
+
+Přednáška:
+
+				Nástroje a postupy pro analýzu velkých dat
+
+
+
+Přednášející:
+
+Lukáš Antalov ze Seznam.cz
+
+
+
+Datum a čas:
+
+				11. březen 2013, 18–19:30 hodin
+
+
+
+Místo:
+
+				FIT ČVUT v Praze, Thákurova 9, NBvČVUT, posluchárna T9:107
+
+
+
+Přidejte se k nám a sdílejte pozvánku na !
+ 
+Obsah přednášky:
+V přednášce představíme systém Apache Hadoop jako základ pro distribuované výpočty. Ukážeme si Hive, SQL-like jazyk pro práci s velkými objemy dat. Vysvětlíme, co obnáší sběr, čištění a postprocessing dat. Ukážeme, jak vhodně strukturovat reporty, pracovat s dimenzemi a metrikami a jak vyřešit agregaci a kombinování dat pro rychlé zobrazování v grafech.
+ 
+Stručný životopis přednášejícího:
+Lukáš Antalov absolvoval Fakultu informatiky Masarykovy univerzity v Brně. V Seznam.cz působí od roku 2008 a v současné době zastává pozici vedoucího týmu vývoje. Má na starosti rozvoj statistických a analytických nástrojů pro PPC systém Sklik a interní měření webového provozu.
+ 
+Záznam přednášky:
+
+
+avc.fit.cvut.cz (po přihlášení ČVUT údaji)
+
+YouTube kanál FIT
+
+
+Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT a ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 16.4.2019, 15:25      
+           
+                          
+       
+
+
+
+
+
+
+ech (např. verifikace složitých systémů, výpočet Lyapunových funkcí). Nabízíme velké množství témat v této oblasti. Prodrobnosti jsou k nalezení zde: http://www.cs.cas.cz/~ratschan/theses/cz/constraint_solving.html
+
+
+We are developing software, theory, and algorithms that can solve mathematical constraints consisting of non-linear equalities and inequalities, conjunctions, disjunctions, and logical quantifiers. We apply the constraint solving technology in several areas (e.g., verification of complex systems, computation of Lyapunov functions), and offer a large range of thesis topics in the area. Details can be found here: http://www.cs.cas.cz/~ratschan/theses/en/constraint_solving.html
+
+Proveditelné specifikace
+Executable Specification
+
+Jedna z nedostatků klasických metod pro specifikaci softwarových požadavků je obtížnost ověření konzistence a adekvátnosti specifikací. Softwarové inženýrství reagovalo na tuto skutečnost různými metodami (např. model based software engineering, agile software development, executable algebraic specification), které dovolují vidět praktické chování specifikací co nejdřív ve vývojovém procesu. Tyto metody ale dělají kompromisy ohledně jiných aspektů např. týkající se expresivity anebo preciznosti. V rámci tohoto tématu student navrhne formální jazyk, který splní dva na první pohled protichůdné cíle:
+• Jazyk má expresivitu tak vysokou aby mohl sloužit k pohodlnému psaní specifikací
+• Specifikace v tomto jazyku se dají provést podobně jako programy v obvyklém programovacím jazyku
+Klíč pro současné splnění obou cílí budou anotace, kterými uživatel jazyku poskytuje informaci o exekuci specifikace tak, aby zvýšená snaha o psaní anotací měla za důsledek zvýšenou účinnost exekuce. První krok bude vývoj nástroje pro výuku, který dovoluje studentům, kteří píšou specifikace jako úkol ve cvičeni, jejich řešení hned i spustit i otestovat.
+
+
+One of the big drawbacks of classical methods for specifying software requirements is that it is difficult to check the consistency and adequacy of a given specification. The software engineering community has come up with many remedies to this situation (e.g., model based software engineering, agile software development, executable algebraic specification) that usually aim at allowing the user to see the actual behavior of a given specification as early as possible in the development process, but that make compromises in terms of modeling power or precision. In the thesis, the student will design an executable formal specification language that fulfills two seemingly contradicting objectives:
+• High modeling capabilities
+• Efficient execution
+The key to achieving both objectives at the same time will be the design of annotations for the specification language that provide information necessary of efficient execution. Increasing user efforts in writing annotations will result in increasing efficiency of execution of the given specification. In a first step, we will develop a tool that will serve for educational purposes, allowing students to execute specifications they write as assignments.
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 26.4.2019, 14:39      
+           
+                          
+       
+
+
+
+
+
+

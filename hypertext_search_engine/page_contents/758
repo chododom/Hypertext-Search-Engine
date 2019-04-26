@@ -1,0 +1,222 @@
+https://fit.cvut.cz/phd_skolitel_kubatova
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Fakulta » Věda » Doktorandi » Témata dizertačních prací » Hana Kubátová Novinky    News
+
+
+
+
+AktualityObhajoby DP
+
+Kontakt
+Granty
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
+
+Habilitační a jmenovací řízeníObhájené habilitační práce
+
+Vědecká rada
+Výzkumné skupiny a laboratoře
+
+
+
+
+
+doc. Ing. Hana Kubátová, CSc. 
+
+Pracoviště
+ČVUT FIT, Katedra číslicového návrhu
+Výzkumná skupina
+Digital Design & Dependability Research Group
+Osobní stránky
+https://users.fit.cvut.cz/~kubatova/
+E-mail
+hana.kubatova@fit.cvut.cz
+Telefon
++420 22435 9840
+
+
+Formalizace a automatizace metod návrhu číslicových systémů
+Metodologie návrhu spolehlivých, útokům a poruchám odolných systémů
+Modely a výpočty spolehlivostních ukazatelů s ohledem na realistické parametry modelovaných systémů
+Výzkum možností vylepšení spolehlivosti a bezpečnosti na úrovni ISA 
+Detekce anomálií a jejich mitigace v počítačových a IoT sítích
+
+Formalizace a automatizace metod návrhu číslicových systémů
+Formalization and automatization of digital system design methods
+
+Výzkum možností využití formálních metod (Petriho sítě, Markovské řetězce, UML diagramy) pro zjednodušení návrhu číslicového systému a jeho automatizaci. Předpokládejme spojení s verifikací a výpočty spolehlivostních ukazatelů ve všech návrhových fázích a úpravu a optimalizaci řešení podle různých parametrů. Cílem by měla být i vzájemná kombinace různých typů modelů a podrobný výzkum vztahů a automatizovaného přechodu mezi nimi. Dílčí výsledky a navržené metody budou průběžně ověřovány na reálných aplikacích a benchmarcích.
+
+
+The research area will be based on formal methods and models (Petri Nets, Markov chains, UML diagrams) to use them for simplificationa and automatization of digital design process. The connection of verification methods and dependability modeling at all design periods to obtain an optimized structure according different parameters is assumed. The aim should be the combination of different models and detailed study of their relations and possible automatic conversions . Partial results and proposed methods will be evaluated by real-life applications and benchmarks.
+
+Metodologie návrhu spolehlivých, útokům a poruchám odolných systémů
+Design methodology of dependable fault-tolerant and attack resistant systems
+
+Výzkum způsobů a postupů v návrhu systému s předem danými spolehlivostními parametry na bázi programovatelného hardwaru (FPGA i procesorů). Výzkum vlivu redundance na různých úrovních (v prostoru, čase, SW, HW) na odolnost proti útokům. Zahrnutí možné automatizace postupů včetně vytvoření spolehlivostních modelů a výpočtů spolehlivostních parametrů. Předpokládá se průběžné ověřování výsledků na reálných aplikacích a benchmarcích.
+
+
+The research of methods and processes in the design of systems with pre-defined reliability parameters using programmable hardware sources (FPGA, processors). The reaserch of the impact of a redundancy at different levels (space, time, software, hardware) to the attack resistance of the whole system. The research of automatization methods of the design processes including the dependability models construction and dependability parameters computations. Partial results and proposed methods will be evaluated by real-life application and benchmarks.
+
+Modely a výpočty spolehlivostních ukazatelů s ohledem na realistické parametry modelovaných systémů
+Dependability models and reliability parameters’ computation with respect to realistic properties of modeled systems
+
+Školitel specialista
+Ing. Martin Kohlík, Ph.D.
+
+
+Současné spolehlivostní modely často využívají zjednodušené postupy vedoucí k nerealistickým odhadům spolehlivosti a životnosti modelovaných systémů [1], nebo používají hrubé pesimistické odhady [2]. Cílem práce by měla být metodologie návrhu spolehlivostního modelu, který umožní rychlé a přesné výpočty spolehlivostních parametrů systému. Metodologie by měla zohlednit změny systému v čase (např. stárnutí, údržbu, opravy), strukturu systému (jednotlivé bloky a jejich případné zabezpečení proti poruchám) a možnosti získávání spolehlivostních ukazatelů z reálných dat [3].
+
+
+Currently used dependability models are often based on simplified processes leading to unrealistic estimations of dependability and reliability parameters of the modeled systems [1] or rough pessimistic estimations [2]. The aim of the research should be a methodology of the dependability model design allowing fast and accurate calculations of the dependability parameters of the system. The methodology should take over-time changes (e.g. aging, maintenance, repairs) of the system, the structure (blocks and their fail-safes) of the system, and the ways of acquiring dependability parameter data from real applications into account [3].
+
+Reference
+
+Electronic Reliability Design Handbook - MIL-HDBK-338B. US Department of Defense, 1998.
+M. Kohlík, "Hierarchical Dependability Models Based on Markov Chains", Dissertation thesis, Czech Technical University in Prague, 2015.
+M. Daňhel, "Prediction and Analysis of Mission Critical Systems Dependability", Dissertation thesis, Czech Technical University in Prague, 2018.
+
+Výzkum možností vylepšení spolehlivosti a bezpečnosti na úrovni ISA 
+Research of Dependability Improvement at ISA Level
+
+Obsahem tématu je výzkum ověření možností, jak dosáhnout (a garantovat) předem určená omezení při návrhu systému (velikost, spotřebu, požadované ukazatele spolehlivosti, odolnost proti poruchám/útokům) vhodnou kombinací výběru a poměru hardwaru a softwaru. Předpokládáme využití systému pro návrh procesorů Codasip a otevřeného procesoru RISC-V (RISC-V byl specielně navržen pro široké použití nejen, pro vestavné systémy s důrazem na výkon i na spotřebu). Systém Codasip (https://codasip.com/) umožňuje navrhovat a upravovat specializované procesory, a to včetně verifikačních nástrojů. 
+Součástí výzkumu bude i použití a případná úprava vhodných spolehlivostních modelů pro ověření dosažení požadovaných parametrů s hlavním cílem určení nejlepší realizace vzhledem k původním požadavkům, tzn. například úprava instrukční sady přidáním kryptografických instrukcí, přidání dalšího bloku, použití více specializovaných procesorů apod.
+Ověření výsledků bude možné jednak simulací a jednak implementací ve vhodné FPGA technologii.
+
+
+The proposed research has to verify possibilities, how to achieve (and guarantee) predefined system design constraints (size, power-consumption, dependability characteristics, fault-tolerance and attack-resistance levels via trade-off between hardware and software parts and types. 
+It is supposed to use Codasip system and RISC-V processor (open-source hardware instruction set architecture (ISA) based on established reduced instruction set computer (RISC) principles, designed (not only) for embedded applications, where low-power and performance are emphasized. Codasip can provide their processors with high-level tools that enable to configure the RISC-V cores, to automatically generate toolchains and synthesizable, human-readable Verilog RTL. Codasip system (https://codasip.com/) offers a verification environment, too.
+The research will contain proper evaluation of obtained architecture by improved dependability models. The possible methods will be ISA improvement (e.g. adding the cryptographic instructions, specialized block, using of more application-specific processors). Final experiments will be performed by simulations and FPGA implementations.T
+
+Detekce anomálií a jejich mitigace v počítačových a IoT sítích
+Anomaly detection and mitigation in computer and IoT networks
+
+Školitel specialista
+Ing. Tomáš Čejka, Ph.D.
+
+
+Obsahem práce bude výzkum algoritmů pro detekci, identifikaci a mitigaci bezpečnostních hrozeb a anomálií v počítačových sítích se zaměřením na oblast tzv. Internetu věcí (IoT). Z pohledu síťové bezpečnosti je nutné nahlížet na oblast IoT jako na hrozbu a to jak pro samotné IoT, tak i pro další zařízení, kdy IoT se může stát zdrojem hrozby. Je proto důležité sledovat komunikaci v těchto sítích, odvozovat z významných událostí v komunikaci další meta informace a tyto informace používat pro identifikaci zdroje hrozeb, mitigaci hrozeb a řízení strategie mitigace.
+Cílem dizertační práce bude nalezení vhodných možností, jak vytvářet modely dlouhodobě uchovávající negativní či pozitivní události v komunikaci, a jak na základě těchto modelů co nejrychleji (s minimální latencí) tyto detekovat, identifikovat a odstranit zdroje problémů. Dizertabilita tématu je založena na faktech, že jde o řešení velmi netriviálních problémů, kterými jsou zpracování a filtrace velkých objemů dat společně s modelováním síťového provozu, hledání odchylek,identifikace zdrojů problémů a správné řízení mitigace těchto problémů. Na rozdíl od klasických IP sítí, IoT prostředí navíc významně využívá specifických fyzických vrstev v podobě specializovaných komunikačních protokolů, což s sebou přináší nové potenciální vektory útoků, které jsou běžnou analýzou IP provozu nedetekovatelné. Z tohoto důvodu je potřeba hledat nové způsoby monitorování IoT provozu. Základem bude výzkum v oblasti možností využití statistických metod, pravděpodobnostních modelů a využití algoritmů umělé inteligence. 
+Vzhledem k současným rychlostem síťových přenosů a požadavkům na on-line monitorování je nutné algoritmy navrhovat a realizovat s využitím dekompozice na hardwarovou a softwarovou část a s použitím vhodných technologií hardwarové akcelerace (např. FPGA).
+
+
+The aim of this work will be research and development of algorithms for detection, identification, and mitigation of security threats and anomalies in computer networks, especially Internet of Things (IoT). From the perspective of network security, it is necessary to consider the IoT area as a threat not only for IoT devices but also for other devices and services in the Internet, since the IoT network can easily become a source of trouble (as it was observed in recent history). It is necessary to monitor IoT network traffic, derive meta information about the traffic based on events and device behavior, and use such meta information for identification and mitigation of threats, choosing a suitable mitigation strategy.
+The goal of the dissertation thesis will be to find suitable ways to create long-term models of communication, which represent negative and positive events, and to use such models for anomaly detection, identification and mitigation of sources of troubles with low latency. Dissertability of this topic is based on non-trivial challenges such as processing and filtering huge volume of network traffic and creation of models of network traffic, discovering anomalies, identification of sources of trouble and choosing correct strategy of mitigation of malicious traffic. Contrary to classic IP networks, the IoT communication lays mainly in specific physical layers. This brings new potential attack vectors that are not detectable using ordinary IP traffic analysis. Therefore, it is needed to find new approaches to IoT traffic monitoring. The base of the work will be a research in the area of statistical methods, probabilistic models, and usage of algorithms of artificial intelligence.
+Due to the modern networks bandwidth and on-line monitoring requirements, it is necessary to design and develop algorithms using a decomposition among hardware and software components and to use suitable technologies for hardware acceleration (e.g., FPGA).
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 26.4.2019, 10:55      
+           
+                          
+       
+
+
+
+
+
+

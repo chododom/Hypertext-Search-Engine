@@ -1,4 +1,5 @@
 from hypertext_search_engine.src.matrix_factory import MatrixFactory
+from hypertext_search_engine.src.config import *
 
 
 class PageRank:
@@ -71,7 +72,7 @@ class PageRank:
     def save_ranks(pgs):
         res = list(pgs.values())
         # res.sort(key=lambda x: x.page_url, reverse=True)
-        f = open("../page_ranks/ranks", mode="w+", encoding="utf-8")
+        f = open(PARENT_DIR + "page_ranks/ranks", mode="w+", encoding="utf-8")
         for pg in res:
             f.write(pg.page_url + " #PAGERANK# " + str(pg.rank) + "\n")
         f.close()

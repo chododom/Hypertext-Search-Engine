@@ -1,0 +1,584 @@
+http://bk.fit.cvut.cz/cz/pruchody/pr667891933605.html
+
+
+
+     Hlavní
+        stránka | Seznam oborů |
+      Seznam všech skupin předmětů |
+      Seznam všech předmětů | Seznam rolí | Vysvětlivky  
+                  Návod
+ Přehled programu
+        Informatika | Přehled
+        bloků programu | Obor
+        tohoto plánu
+
+
+Doporučený průchod studijním plánem
+
+Standardní doba studia je u bakalářského
+      programu rozložena do šesti semestrů, u magisterského do čtyř.   
+      Chce-li student úspěšně zakončit studium ve standardní době, musí
+      si v každém semestru zapsat předměty studijního plánu přibližně za 30
+      kreditů, a to především povinné a povinně volitelné
+      předměty. Také by měl dbát na rovnoměrné rozložení zátěže. Z těchto důvodů  garant oboru sestavuje pro každý studijní plán svého oboru doporučený
+        průchod studijním plánem. Radí tím studentovi svého oboru, kdy
+      si zapsat který předmět. Do jednotlivých semestrů doporučeného průchodu garant vkládá: 
+konkrétní předměty, které student musí někdy během
+          studia absolvovat,
+odkazy na skupiny předmětů, ze kterých si student má
+          vybrat předměty za alespoň zadaný minimální počet kreditů.
+        
+Pokud se student tohoto průchodu bude držet, určitě splní podmínky studijního plánu. 
+
+
+
+
+
+
+bakalářský program - Nespecifikovaný obor studia - Unspecified Branch of Study
+            Studijní plán: Bc. program Informatika, komb. forma, pro fázi studia bez oboru, verze 2015, 16, 17 a 18
+            Doporučený průchod: Bc. program Informatika, kombinovaná forma, stud. plán pro fázi studia bez oboru, verze 2015-2018
+
+
+
+
+
+1. semestr
+
+
+
+
+
+
+
+Role
+Kód předmětu
+Název předmětu
+Rozsah výuky
+Zakončení
+Semestr
+ECTS kredit
+Vyučující
+Kat.
+
+
+PP
+BIK-PA1
+Programování a algoritmizace 1
+20KP+6KC
+Z,ZK
+Z
+6
+Vogel J.
+18101
+
+
+PP
+BIK-PAI
+Právo a informatika
+13KP
+ZK
+Z
+3
+Kučera Z.
+18102
+
+
+PP
+BIK-CAO
+Číslicové a analogové obvody
+13KP+4KC
+Z,ZK
+Z
+5
+Hyniová K.
+18103
+
+
+PP
+BIK-PS1
+Programování v shellu 1
+13KP+4KC
+KZ
+Z
+5
+Čermák I.
+18104
+
+
+PP
+BIK-MLO
+Matematická logika
+13KP+4KC
+Z,ZK
+Z
+5
+Klouda K.
+18105
+
+
+PP
+BIK-ZMA
+Základy matematické analýzy
+20KP+4KC
+Z,ZK
+Z
+6
+Petr I.
+18105
+
+
+
+
+
+
+
+
+
+2. semestr
+
+
+
+
+
+
+
+Role
+Kód předmětu
+Název předmětu
+Rozsah výuky
+Zakončení
+Semestr
+ECTS kredit
+Vyučující
+Kat.
+
+
+PP
+BIK-PA2
+Programování a algoritmizace 2
+13KP+4KC
+Z,ZK
+L
+7
+Vogel J.
+18101
+
+
+PP
+BIK-DBS
+Databázové systémy
+13KP+8KC
+Z,ZK
+L
+6
+Halaška I., Hunka J., Valenta M.
+18102
+
+
+PP
+BIK-SAP
+Struktura a architektura počítačů
+13KP+4KC
+Z,ZK
+L
+6
+Dobiáš R.
+18103
+
+
+PP
+BIK-LIN
+Lineární algebra
+26KP+4KC
+Z,ZK
+L
+7
+Klouda K.
+18105
+
+
+V
+ 
+Čistě volitelné předměty bakalářského programu BIK, verze 2017
+ 
+ 
+ 
+4
+ 
+ 
+
+
+
+
+
+
+
+
+
+3. semestr
+
+
+
+
+
+
+
+Role
+Kód předmětu
+Název předmětu
+Rozsah výuky
+Zakončení
+Semestr
+ECTS kredit
+Vyučující
+Kat.
+
+
+PP
+BIK-AG1
+Algoritmy a grafy 1
+14KP+4KC
+Z,ZK
+Z
+6
+Chludil J., Tvrdík P.
+18101
+
+
+PP
+BIK-AAG
+Automaty a gramatiky
+13KP+4KC
+Z,ZK
+Z
+6
+Guth O.
+18101
+
+
+PP
+BIK-ZDM
+Základy diskrétní matematiky
+13KP+4KC
+Z,ZK
+Z
+5
+Pernecká E.
+18105
+
+
+VO
+ 
+Oborové předměty všech oborů včetně povinných předmětů zaměření, verze 2017
+ 
+ 
+ 
+9
+ 
+ 
+
+
+
+
+
+
+
+
+
+4. semestr
+
+
+
+
+
+
+
+Role
+Kód předmětu
+Název předmětu
+Rozsah výuky
+Zakončení
+Semestr
+ECTS kredit
+Vyučující
+Kat.
+
+
+PP
+BIK-OSY
+Operační systémy
+13KP+4KC
+Z,ZK
+L
+5
+Šoch M., Trdlička J.
+18104
+
+
+PP
+BIK-PSI
+Počítačové sítě
+13KP+4KC
+Z,ZK
+L
+5
+Smotlacha V.
+18104
+
+
+PP
+BIK-BEZ
+Bezpečnost
+13KP+4KC
+Z,ZK
+L
+6
+Dostál J., Lórencz R.
+18106
+
+
+VO
+ 
+Oborové předměty všech oborů včetně povinných předmětů zaměření, verze 2017
+ 
+ 
+ 
+10
+ 
+ 
+
+
+V
+ 
+Čistě volitelné předměty bakalářského programu BIK, verze 2017
+ 
+ 
+ 
+4
+ 
+ 
+
+
+
+
+
+
+
+
+
+5. semestr
+
+
+
+
+
+
+
+Role
+Kód předmětu
+Název předmětu
+Rozsah výuky
+Zakončení
+Semestr
+ECTS kredit
+Vyučující
+Kat.
+
+
+PP
+BIK-BPR
+Bakalářský projekt
+
+Z
+Z
+2
+
+18102
+
+
+PP
+BIK-PST
+Pravděpodobnost a statistika
+13KP+4KC
+Z,ZK
+Z
+5
+Vašata D.
+18105
+
+
+VO
+ 
+Oborové předměty všech oborů včetně povinných předmětů zaměření, verze 2017
+ 
+ 
+ 
+18
+ 
+ 
+
+
+
+
+
+
+
+
+
+6. semestr
+
+
+
+
+
+
+
+Role
+Kód předmětu
+Název předmětu
+Rozsah výuky
+Zakončení
+Semestr
+ECTS kredit
+Vyučující
+Kat.
+
+
+PP
+BI-BAP
+Bakalářská práce
+
+Z
+L,Z
+14
+
+18000
+
+
+PP
+BIK-DPR
+Dokumentace, prezentace, rétorika
+
+KZ
+L
+4
+Vynikarová D.
+18102
+
+
+VE
+ 
+Povinně volitelné předměty ekonomické bc. programu Informatika, komb. forma studia, verze 2015
+ 
+ 
+ 
+4
+ 
+ 
+
+
+PJ
+ 
+Zkouška z angličtiny interní
+ 
+ 
+ 
+2
+ 
+ 
+
+
+VH
+ 
+Povinně volitelné humanitní předměty bakalářského programu Informatika, kombinovaná forma, ver. 2015
+ 
+ 
+ 
+2
+ 
+ 
+
+
+V
+ 
+Čistě volitelné předměty bakalářského programu BIK, verze 2017
+ 
+ 
+ 
+4
+ 
+ 
+
+
+
+
+
+
+
+
+
+7. semestr
+
+
+
+
+
+
+
+Role
+Kód předmětu
+Název předmětu
+Rozsah výuky
+Zakončení
+Semestr
+ECTS kredit
+Vyučující
+Kat.
+
+
+PP
+BIK-SI1.2
+Softwarové inženýrství I
+13KP+4KC
+Z,ZK
+Z,L
+5
+Mlejnek J.
+18102
+
+
+PE
+BIK-EMP
+Ekonomické a manažerské principy
+14KP+4KC
+KZ
+L
+4
+Buchtela D.
+18102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stránka vytvořena 26. 4. 2019, semestry:
+              Z,L/2018-9, L/2017-8, Z/2019-20, připomínky k informační náplni zasílejte správci studijních plánů
+Návrh a realizace: J. Novák,
+             I. Halaška
+
+
+
+
+
+

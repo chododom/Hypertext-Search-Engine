@@ -1,0 +1,172 @@
+https://fit.cvut.cz/aktualne/jednorazove-akce/2017-11-29
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Jednorázové akce » Systematické testování knihoven TLS Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Systematické testování knihoven TLS 
+Přijďte si 29. 11. od 16:15 do posluchárny T9:107 poslechnout přednášku Systematické testování knihoven TLS. Juraj Somorovský představí všeobecně známé útoky na TLS a poté TLS-Attacker, open-source framework pro flexibilní analýzu TLS. Přednáška se uskuteční v angličtině.
+Téma
+Transport Layer Security (TLS) je bez debat nejdůležitějším kryptografickým protokolem. Používá se pro zabezpečené připojení k webovým stránkám a webovým službám nebo pro vytvoření Virtual Private Network (VPN). Bohužel, složitost TLS vedla k různým návrhovým či implementačním chybám. Během několika posledních let jsme se stali svědky několika útoků na TLS pod různými atraktivními jmény jako FREAK, DROWN nebo Heartbleed.
+V první části přednášky se zaměříme na všeobecně známé útoky na TLS. Ukážeme na problémy v definici TLS. Dále zdůrazníme s čím vším se musejí vývojáři potýkat, když vyhodnocují bezpečnost TLS knihoven. Poté představíme TLS-Attacker – open-source framework pro flexibilní analýzu TLS. Ukážeme, jak můžete s tímto frameworkem vytvořit vlastní protokol nebo jak můžete spustit nějaký zajímavý útok na TLS.
+O akci
+Akce je zdarma a není nutné se na ni registrovat. Přednáška je primárně určena posluchačům se základní znalostí probírané technologie.
+
+
+Typ akce
+Přednáška
+Přednášející
+Dr.-Ing. Juraj Somorovský – Ruhr-University Bochum
+Termín
+29. listopadu 2017, 16:15–17:45
+Místo
+posluchárna T9:107, Nová budova ČVUT
+Thákurova 9, Praha 6
+Jazyk
+angličtina
+Záznam
+YouTube
+AVC FIT (přístupný pouze studentům a zaměstnancům ČVUT)
+
+
+O přednášejícím
+Juraj Somorovský působí na Ruhr-University Bochum jako výzkumník v oblasti bezpečnosti. Je spoluzakladatelem společnosti Hackmanit GmbH. Juraj je rovněž spoluautorem několika útoků na TLS (např. DROWN) a hlavním vývojářem flexibilního nástroje pro TLS analýzu, tzv. TLS-Attacker. Výsledky svojí práce prezentoval na řadě vědeckých i průmyslových konferencí, včetně USENIX Security, Black Hat, DeepSec nebo OWASP Europe.
+Související obsah
+
+Lidé
+Přednášející: Juraj Somorovský
+Záznam akce: Audiovizuální centrum studentů ČVUT
+Místa
+T9:107
+
+
+Osoba zodpovědná za obsah této stránky
+
+Dr.-Ing. Martin Novotný, martin.novotny@fit.cvut.czOrganizátor přednášky
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 6.2.2018, 14:48      
+           
+                          
+       
+
+
+
+
+
+

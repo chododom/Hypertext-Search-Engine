@@ -1,12 +1,14 @@
 HOMEPAGE = 'https://fit.cvut.cz'
 CRAWL = True
 THREAD_CNT = 30
-PAGE_CNT = 100
-CALC_PR = False and CRAWL        # CRAWL must be True in order for CALC_PR to work
+PAGE_CNT = 1000
+CALC_PR = True and CRAWL        # CRAWL must be True in order for CALC_PR to work
 ALPHA = 0.85
 ITERATION_CNT = 50
 METHOD = "power"        # power / matrix
-INIT_SEARCH_INDEX = False
-SEARCH = False
+INIT_SEARCH_INDEX = True
+SEARCH = True
 SEARCH_WORD = "Algoritmy"
 RESULT_CNT = 10
+
+PARENT_DIR = "../"

@@ -1,0 +1,223 @@
+https://fit.cvut.cz/informaticky-vecer_zs-2017-2018
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2017/2018 Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Informatické večery FIT v zimním semestru 2017/2018 
+
+
+Přednášky v zimním semestru 2017/2018 se konaly v pondělí od 16. 10. do 11. 12. 2017 vždy od 18:00 v prostorách Nové budovy ČVUT v posluchárně T9:107. Přednášelo i několik Zlatých partnerů FIT. Konkrétně se jednalo o firmy Komerční banka (13. 11.), Accenture (4. 12.) a Datamole (11. 12.). 
+
+11. 12. 2017 – Ondřej Stuchlík: Modernizace numerického řešení soustav rovnic pomocí MapReduce paradigmatu nad JVM
+Ondřej Stuchlík ze společnosti Datamole (Zlatý partner FIT) předvede, jaké jsou možnosti řešení úloh v oblasti cluster computingu. Ukáže, na jaký typ úloh může být dnešní průmyslový standard Apache Spark a JVM nevhodnou volbou.
+4. 12. 2017 – Karel Kohout: Inteligentní automatizace business procesů
+O inteligentní automatizaci bude přednášet Karel Kohout z firmy Accenture, která je Bronzovým partnerem FIT. Přednáška se zaměří na popis přístupů inteligentní automatizace v oblasti business procesů a technologií používaných v praxi.
+27. 11. 2017 – Petra Končelíková: Pitch or die!
+Jak prorazit v technologickém světě s nápadem prozradí podnikatelka Petra Končelíková. Petra předá své letité zkušenosti z oblasti zakládání startupu, mentoringu i investování. Dozvíte se, jak a kde sehnat investora, jak prezentovat svůj plán investorům nebo jak získat rady a mentoring.
+20. 11. 2017 – Lukáš Linhart: dreamBIG with Lukáš Linhart
+Nechte se inspirovat cestou Lukáše Linharta. Ve své přednášce předá zkušenosti z jeho startupové cesty z Prahy do Silicon Valley i prodeje do korporátu. Porovná, jak se liší práce s Čechy a Američany. Dále poradí, jak vybírat technologie i lidi pro váš projekt.
+13. 11. 2017 – Zdeněk Hřích, Radan Liška: Open-source v Komerční bance
+Zdeněk Hřích a Radan Liška z Komerční banky (Zlatý partner FIT) uvedenou příklady nasazení open-source technologií v této korporaci. Ukáží životní cyklus softwaru a zaměří se na problémy při zavádění těchto technologií.
+6. 11. 2017 – BIS: Představení Bezpečnostní informační služby a možností uplatnění v oblasti IT
+Bezpečnostní informační služba je zpravodajská instituce České republiky, která působí uvnitř jeho území. Pro svou činnost využívá velké množství IT technologií v různém rozsahu. Obsahem přednášky bude představení nejprve činnosti BIS a dále možností uplatnění v oblasti IT.
+30. 10. 2017 – Zdeněk Kučera: Jak pracovat s osobními daty od roku 2018?
+Zdeněk Kučera se ve své přednášce zaměří na nové nařízení EU ohledně osobních údajů, tzv. GDPR. Ukážeme si praktické příklady změn a zamyslíme se, jak nová úprava mění podnikání v on-line světě.
+23. 10. 2017 – Milan Kratochvíl, Petr Paščenko: Big data a data science v bankách a telekomunikacích
+Milan Kratochvíl a Petr Paščenko z firmy Profinit (Zlatý partner FIT) uvedenou příklady zavedení big data technologií a jejich následného využití. Mezi ně patří např. analýza velkých vztahových dat v oblastech jako je bankovnictví, telekomunikace a pojišťovnictví.
+16. 10. 2017 – Tomáš Zvěřina: Flutter.io
+Tomáš Zvěřina představí Flutter.io – nový framework pro tvorbu multiplatformních mobilních Android i iOS aplikací v programovacím jazyce Dart. Tento framework byl poprvé představen na konferenci Google I/O 2017.
+
+
+Osoba zodpovědná za obsah této stránky
+
+Bc. Veronika Dvořáková, veronika.dvorakova@fit.cvut.czPR referentka
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 15.4.2019, 10:27      
+           
+                          
+       
+
+
+
+
+
+
+ráce je zaměřena na studium metod odhadu pokročilých reprezentací vizuálních vlastností povrchových materiálů (BTF, SVBRDF) přímo měřením 3D objektu v přirozeném osvětlení. Navrhněte a implementujte v programovacím jazyce C++ vhodnou metodu automatického odhadování vizuální reprezentace povrchového materiálu z naměřených dat pomocí videokamery. Ověřte metodu na vybraných povrchových materiálech.
+
+
+The thesis objective is to propose acquisition methods, capable to estimate advanced visual material representations (BTF, SVBRDF) directly from a real 3D object in natural lighting environment. Propose and implement (in C++) an appropriate method for automatic visual surface material inference from hand held video sequences. Verify this method on the selected surface materials.
+
+Modelování osvětlení z naměřené vizuální scény
+Light field estimation from visual scene
+
+Práce je zaměřena na studium metod modelování osvětlení z naměřené obrazové informace pro aplikace modelování BTF textur v modelech virtuální reality. Navrhněte a implementujte v programovacím jazyce C++ vhodnou metodu tvorby osvětlení z naměřených obrazových dat. Ověřte metodu na modelu osvětlení interiéru a exteriéru při proměnném osvětlení
+
+
+The thesis objective is to study environmental light field modelling methods from measured visual scenes applied to correct BTF illumination in virtual reality application. Propose and implement (in C++) an appropriate method for realistic illumination model estimated from real measured visual scenes. Verify this method on interior and exterior virtual reality models with variable illumination.
+
+Rozpoznávání rakoviny kůže a monitorování pokroku léčby
+Skin Cancer Detection and Treatment Progress Monitoring
+
+Melanom kůže, jako nejnebezpečnější forma rakoviny kůže, je rostoucím nebezpečím v posledních desetiletích díky svému stále zvyšujícímu se výskytu. Jeho efektivní léčba vyžaduje jeho rozpoznání a chirurgické odstranění v co nejranější fázi. Cílem práce je nalezení diskriminativních obrazových příznaků a vhodného klasifikátoru, který umožní rozpoznání rakoviny kůže z barevných obrazů kůže a zároveň umožní monitorování pokroku léčby ze sekvence časově proměnných obrazů nádoru.
+
+
+Malignant melanoma, as the most dangerous form of skin cancer, has been a rapidly growing threat over the past decades. The effective treatment requires its early diagnoses and surgical excision. The thesis objective is to find discriminative image features and a robust classifier which will allow to recognize skin cancer on colour skin images and to evaluate a treatment progress between several mutitemporal skin images.
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 26.4.2019, 10:06      
+           
+                          
+       
+
+
+
+
+
+

@@ -36,10 +36,10 @@ def crawl():
 
 if CRAWL:
     try:
-        shutil.rmtree("../page_contents")
+        shutil.rmtree(PARENT_DIR + "page_contents")
     except:
         print("Page_contents folder couldn't be removed as it doesn't exist")
-    os.mkdir("../page_contents")
+    os.mkdir(PARENT_DIR + "page_contents")
     create_spiders()
     for thread in threads:
         thread.join()
@@ -77,7 +77,7 @@ if CALC_PR:
 
 
 if INIT_SEARCH_INDEX:
-    createSearchableData("../page_contents")
+    createSearchableData(PARENT_DIR + "page_contents")
     print("Created searchable data schema")
 
 if SEARCH:

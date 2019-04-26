@@ -1,0 +1,200 @@
+https://fit.cvut.cz/phd_skolitel_janecek
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Fakulta » Věda » Doktorandi » Témata dizertačních prací » Jan Janeček Novinky    News
+
+
+
+
+AktualityObhajoby DP
+
+Kontakt
+Granty
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
+
+Habilitační a jmenovací řízeníObhájené habilitační práce
+
+Vědecká rada
+Výzkumné skupiny a laboratoře
+
+
+
+
+
+doc. Ing. Jan Janeček, CSc. 
+
+Pracoviště
+ČVUT FIT, Katedra počítačových systémů
+Výzkumná skupina
+Parallel and Distributed Computing Research Group
+Osobní stránky
+https://usermap.cvut.cz/profile/janecek
+E-mail
+jan.janecek@fit.cvut.cz
+Telefon
++420 22435 7267
+
+
+Dynamika v distribuovaných aplikacích
+NNA sítě
+Efektivní podpora distribuovaných aplikací s mikropočítači
+Applications' development for IoT systems
+Adresační algoritmy pro IoT systémy
+
+Dynamika v distribuovaných aplikacích
+Dynamism in distributed applications
+
+Cílem projektu je vyrovnat se jednak s poziční mobilitou a jednak s výraznější proměnnou vazbou v systémech se sensory, prostřednictvím distribuované aplikace řízenými prvky a přístupovými zařízeními uživatelů.
+
+
+The main goal of the project is to solve the problem of increasing changes of the elements´ position localities in distributed applications that are including sensors, remotely controled elements and clients´ devices of the users.
+
+NNA sítě
+Networking Named Areas
+
+CCA sítě vytvářejí architekturu Internetu budoucnosti podporující násobné a mobilní pozice pro servery, nebo obecně procesy distribuovaných aplikací. Cílem projektu je návrh a ověření efektivity funkčně limitovaných sítí založených na modelech CCN (Content-Centric networking).
+
+
+The CCA networks create an Internet technology of the future, which is supporting multiple and mobile servers, or generally distributed application processes. The goal of the project is a design and efficiency evaluation of application limited networks based on CCN (Content-Centric Networking) models.
+
+Efektivní podpora distribuovaných aplikací s mikropočítači
+Effective support for distributed applications with microcontrollers
+
+Cílem projektu je zefektivnit přístup k datům získaným senzory a k distribuci dat výkonovým prvkům v distribuovaných aplikacích. Projekt může vyjít z našeho vývoje založeného na technologii SOAP s poměrně vysokými nároky na stranu serverů, kde byl výsledkem nástroj opřený o popis rozhraní ve WSDL vytvořený z rozhraní aplikace, a o jeho převod do formy opírající se o skupinu konečných automatů realizovatelných i na relativně malém mikropočítači. Výsledky SOAP cesty byly námi sice již publikovány na konferencích IEEE a IASTEID, současné technologie se však opírají o nové popisy, jako WALD, jejichž začlenění do obdobných řešení může být přínosné.
+
+
+The goal of the project is to increase effectiveness of the access to servers´ data and of the distribution of commands to controlled elements. The solution of the project may start with the WSDL file we obtain for SOAP applications with WSDL servers, which generally require high power of computation. We developed and published (IEEE and IASTED conferences) based in the group of finite state automata able to work at small microcontrollers. The goal of the current project could be started with development of the solution able to reduce computation power of sensors and controlled elements, and the required communication capacity as well
+
+Applications' development for IoT systems
+Metody vývoje aplikací pro IoT systémy
+
+Výrazně se rozvíjejíci oblast IoT (Internet of Things) klade odlišné požadavky na vývoj a modifikace programů jejích mobilních a ne vždy přímo dostupných prvků. Technologie přípravy a distribuce programů, vyhovující ve statických distribuovaných systémech, jednoduchých aplikací kategorie klient/server a v clouds systémech přestávají dostačovat. Cílem výzkumné oblasti je návrh, vzorová implementace a ověření metod, které potřebné požadavky podpoří.
+
+
+Significantly increasing area of IoT (Internet of Things) places different requirements on programs' development and modification of their mobile and not always directly accessible elements. Technologies satisfactory in static distributed systems, in simple applications of the client/server category, and in the clouds computing, cease to be sufficient. The aim of the research area is the design and verification of implementation tools needed to support IoT applications.
+
+Adresační algoritmy pro IoT systémy
+Addressing algorithms in IoT systems
+
+Výrazně se rozvíjejíci oblast IoT (Internet of Things) musí respektovat standardy adresace v Internetu, bezdrátových přístupových kanálech a standardy jednoznačné identifikace prvků v technologiích řízení a v IoT technologiích. Návrh výzkumného řešení se může principiálně opřít o P2P adresní databázi opírající se o dřívější řešení založené na Chord DHT technologii. Cílem výzkumné oblasti je návrh, vzorová iplementace a ověření metody pro zajištění komunikace v IoT systémech s mobilními prvky.
+
+
+Significantly developing area of IoT (Internet of Things) has to respect standards of addressing in Internet, wireless access channels and unambiguous standard identifications of elements in control and IoT technologies. The research solutions can rely on the P2P-based address database the former solution based on the Chord DHT technology. The aim of the research area is the design and verification of method that ensure communication in IoT systems with mobile elements.
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 26.4.2019, 10:22      
+           
+                          
+       
+
+
+
+
+
+

@@ -1,0 +1,272 @@
+https://fit.cvut.cz/informaticky-vecer_2015-10-19
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2015/2016 » Příběhy z vývoje nejrychlejšího virtuálního stroje Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Příběhy z vývoje nejrychlejšího virtuálního stroje (nejen pro Javu) na světě 
+
+
+
+
+Přednáška:
+
+				Příběhy z vývoje nejrychlejšího virtuálního stroje (nejen pro Javu) na světě
+
+
+
+Přednášející:
+
+				Jaroslav Tulach
+
+
+
+Datum a čas:
+
+				19. října 2015, 18–19:30 hodin
+
+
+
+Místo:
+
+				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
+
+
+
+Jazyk:
+
+				čeština
+
+
+
+Přidejte se k nám a sdílejte pozvánku na  Facebooku! #ITvecer
+ 
+Obsah přednášky:
+Každých čtrnáct dní vzniká nový programovací jazyk. Obvykle se začne vytvořením interpretru syntaktického stromu a jazyk se ukáže potencionálním uživatelům. Ti zjistí, že je to úplně skvělý nápad, jen trochu pomalý. Tak se navrhne bajtkód a jazyk se do něj před spuštěním přeloží. To sice pomůže, ale stále se to nějak moc vleče…
+Projekt Truffle chce tento zažitý způsob změnit. Napište si svůj interpret syntaktického stromu pomocí Truffle API a my zařídíme, aby vše bylo rychlé! Abychom ukázali, že je to reálné, tak převedeme, že naše implementace Ruby je desetkrát rychlejší než jakákoli jiná. Přijďte se podívat jak vytvořit nejrychlejší prostředí pro běh vašeho oblíbeného jazyka!
+ 
+Stručný životopis přednášejícího:
+Ještě při studiu na univerzitě Jaroslav založil a navrhl NetBeans, což není jen vývojové prostředí, ale především první modulární platforma pro psaní desktopových aplikací v Javě. Při návrhu NetBeans API Jaroslav viděl, udělal a pomohl napravit více chyb než by se dalo spočítat – to jej kvalifikovalo k tomu, aby napsal knihu „Practical API Design“. V současné době Jaroslav pomáhá OracleLabs navrhovat API pro Truffle, což je, společně Graalem, nejrychlejší virtuální stroj na celé planetě.
+Kontakt na přednášejícího pro dotazy: jaroslav.tulach@oracle.com
+ 
+Slajdy přednášky:
+
+
+Příběhy z vývoje nejrychlejšího virtuálního stroje (nejen pro Javu) na světě
+
+ 
+Záznam přednášky:
+
+
+avc.fit.cvut.cz (po přihlášení ČVUT údaji)
+
+YouTube kanál FIT
+
+
+Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 12.2.2019, 16:52      
+           
+                          
+       
+
+
+
+
+
+
+udia možnost procvičení příkladů, seznámení s vývojovými prostředky, počítačovou sítí, testovacím HW a další.
+
+	Zkoušky a zápočty
+Absolvent kombinované formy studia obdrží stejný titul jako absolvent presenční formy. Proto jsou i nároky na znalosti studentů stejné v obou formách. Průběžně se ověřují za každý předmět získáváním zápočtů, klasifikovaných zápočtů a známek u zkoušek. Vše se řídí  Studijním a zkušebním řádem ČVUT.
+
+	Podpora studia
+
+	Studijní záležitosti
+Studijní záležitosti kombinovaného studia jsou řešeny stejnými postupy jako v případě presenční formy. Studenti k tomuto využívají studijního oddělení.
+
+	Garant
+Bakalářský program informatika je na FIT ČVUT garantován Ing. Danielem Vašatou, Ph.D., daniel.vasata@fit.cvut.cz. Garant programu připravuje a koordinuje s vedoucími kateder studium v kombinované formě. Také napomáhá v řešení složitých pedagogických záležitostí studentů kombinované formy, které nemůže student vyřešit se studijním oddělením fakulty.
+
+Studijní materiály
+Kombinovaná forma předpokládá maximální míru využití stávajících textů a podpůrných materiálů připravených pro presenční formu studia. V současné době jsou pro publikaci a správu materiálů používány systémy postavené na Moodle a na GitLabu. Náhled stránky jednoho předmětu uvádí následující obrázek:
+ 
+
+Zde je zobrazena podpora pro předmět Základy matematické analýzy. Jednotná struktura stránek předepisuje garantům předmětů a jeho spolupracovníkům strukturovat informace do jednotné formy odrážející dělení na přednášky a cvičení. Zároveň je u každé přednášky uveden text přednášky, popř. slidy z přednášek a dále následují relevantní odkazy na vnější zdroje, zejména pro rozšíření základních znalostí.
+Příklad podpůrného textu k přednášce z obrázku je uveden v souboru obv3b-kyncl.pdf, příklad slidů z přednášek dokumentuje soubor PA1-06-PodproblemyRekurze.ppt, který obsahuje presentaci šesté přednášky předmětu Programování a algoritmizace. Tento předmět je zástupcem programovacích předmětů, kde se očekává, že bude studentům poskytnuta ukázka prográmků dokumentujících vykládanou látku, tak aby si ji mohli vyzkoušet, modifikovat a jinak s těmito programy experimentovat.
+Další ukázkou jsou vzorové materiály ke třetí přednášce předmětu Základy matematické analýzy, text skript - zma3.pdf a presentace - zma3_pres.pdf.
+Při výuce matematických předmětů je na FIT ČVUT aktivně využíván interní systém Marast (Matematika Radostně). V tomto systému jsou dostupné sbírky příkladů (řešených / neřešených), cvičné a zápočtové on-line kvízy a také lekce ke cvičení některých předmětů. Na následujícím obrázku je vidět příklad cvičení na Limitu posloupnosti:
+
+Kromě této formy výuky jsou studenti nuceni aktivně plnit domácí úkoly, které nutí studenta přemýšlet a studovat veřejně přístupné zdroje. Jedním ze systémů, který je nasazen v prvním ročníku a kromě podpory studia umožňuje kontrolu plnění domácích úkolů včetně automatické validace výsledů, vyhodnocování a automatické kontroly duplicit je systém Progtest. Příklad úlohy na pole zadávané v pátém týdnu (úloh je celkem 7, každá na 2 týdny, otvírané po týdnu, dále jedna těžší za semestr) ukazuje následující screen shot.
+
+ 
+Tato ukázka zároveň dokumentuje rovnost podmínek v presenční i kombinované formě výuky, kdy systém Progtest nerozlišuje mezi studenty různých forem studia.
+Dalším systémem pro odevzdávání programů připravený pro nasazení v letním semestru pro předměty využívající jazyk Java je Odevsys. Naproti tomu systém Syvykod je určen pro zkoušení studentů. Tento systém umožňuje oproti obdobným systémům (Moodle) vytváření parametrizovaných otázek, kdy každý student obdrží jiné zadání a jinou sadu odpovědí. Ukázka jedné testové otázky je na následujícím obrázku:
+
+Celý systém poskytuje volbu způsobu testování, zkušební a ostrý test. Počet zkušebních testů není omezen, studenti si odpovídáním na otázky tříbí znalosti, nejasnosti mohou konzultovat s externími zdroji, čímž si doplňují svoje kompetence. Ostrý test má již pouze kontrolní funkci.
+
+	Další informace
+Další zajímavé odkazy a informace možné dohledat ze stránky odkazů.
+Aktuální informace o kombinovaném studiu můžete najít na twitteru pod hashtagem #FIT_BIK (RSS feed).
+
+Osoba zodpovědná za obsah této stránky: 
+
+
+                    Ing. Daniel Vašata, daniel.vasata@fit.cvut.cz 
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 16.1.2019, 10:56      
+           
+                          
+       
+
+
+
+
+
+

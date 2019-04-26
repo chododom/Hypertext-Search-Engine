@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 
 from hypertext_search_engine.src.link_finder import LinkFinder
 from hypertext_search_engine.src.page import *
+from hypertext_search_engine.src.config import *
 from hypertext_search_engine.src.domain import *
 
 
@@ -57,7 +58,7 @@ class Spider:
             visible_text = soup.getText()
             outlinks = finder.page_links()
 
-            f = open("../page_contents/" + str(len(Spider.pages)), mode="w+", encoding="utf-8")
+            f = open(PARENT_DIR + "page_contents/" + str(len(Spider.pages)), mode="w+", encoding="utf-8")
             f.write(page_url + "\n" + visible_text)
             f.close()
 
