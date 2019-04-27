@@ -1,4 +1,4 @@
-https://fit.cvut.cz/fakulta/pravidelne-akce/konference/prague_stringology_conference_2017
+https://fit.cvut.cz/informaticky-vecer_2013-10-21
 
 
 
@@ -62,23 +62,24 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Konference pořádané a spolupořádané FIT » Prague Stringology Conference » 2017 Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2013/2014 » Fuming Acid, Reverse Engineering and Cryptanalysis: Open Sesame in the 21st Century Novinky    News
 
 
 
 
 Přehled pravidelných akcí
-Konference pořádané a spolupořádané FITEuromicro DSD/SEAA 2018
-Human-Level AI 2018
-InstallFest
-LAW FIT
-LinuxDays
-P2D2
-PESW
-Prague Stringology Conference
-StringMasters
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
 
-Přednášky a semináře
 Akce pro zájemce o studium
 Sportovní akce
 Ostatní akce
@@ -87,68 +88,124 @@ Ostatní akce
 
 
 
-The Prague Stringology Conference 2017 
+Fuming Acid, Reverse Engineering and Cryptanalysis: Open Sesame in the 21st Century 
 
 
-The Prague Stringology Conference 2017 se koná ve dnech 28.–30. srpna na Fakultě informačních technologií ČVUT v pražských Dejvicích. Program konference se skládá ze čtrnácti přednášek zahraničních odborníků z oblasti stringologie. Pro účast je nutné zaplatit poplatek za konferenci a zaregistrovat se.
-Téma
-Mezinárodní konference The Prague Stringology Conference se zabývá stringologií a dalšími příbuznými tématy. Hlavními tématy konference jsou:
 
-algoritmy a datové struktury pro porovnávání vzorů v řetězcích, obrázcích a stromech,
-kódování a komprese dat,
-bioinformatika,
-získávání informací,
-algoritmy pro zpracování řetězců v databázích a
-zpracování přirozeného jazyka.
 
-O akci
-Pro účast na konferenci je nutné zaplatit poplatek za konferenci a zaregistrovat se. Všechny potřebné informace jsou dostupné na webových stránkách konference.
+Přednáška:
+
+				Fuming Acid, Reverse Engineering and Cryptanalysis: Open Sesame in the 21st Century
+
+
+
+Přednášející:
+
+				Timo Kasper
+
+
+
+Datum a čas:
+
+				21. října 2013, 18–19:30 hodin
+
+
+
+Místo:
+
+				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
+
+
+
+Obsah přednášky:
+The talks sums up two recent papers (CRYPTO 2013 [1] and SAC 2013 [2]) about breaking an electronic locking system. After an introduction to (electronic) locking systems and cryptography, Timo will sum up found security flaws and vulnerabilities in commercial products for access control. Recent improvements of the open-source card emulator ‘chameleon’ for Mifare and other cards will be presented. As the main part, a recent security analysis of a widespread electronic locking system (used in banks, prisons, airports and other high security venues worldwide) is presented: The combination of reverse-engineering, side-channel analysis and mathematical cryptanalysis reveals weaknesses in the system that allow opening secured doors in seconds.
+ 
+Stručný životopis přednášejícího:
+Dr.-Ing. Timo Kasper is a researcher at the HGI / Chair for Embedded Security of the Ruhr-University Bochum [3] and is co-founder of the security engineering company Kasper & Oswald GmbH [4].
+ 
+Note: FIT has an Erasmus agreement with Bochum until 2015, so students and teachers can still get financial support to spend some time in Bochum.
+Contact: doc. RNDr. Josef Kolář, CSc., josef.kolar@fit.cvut.cz
+ 
+[1] Fuming Acid and Cryptanalysis: Handy Tools for Overcoming a Digital Locking and Access Control System 2013 – Daehyun Strobel, Benedikt Driessen, Gregor Leander, Timo Kasper, David Oswald, Falk Schellenberg, Christof Paar CRYPTO 2013
+[2] When Reverse-Engineering Meets Side-Channel Analysis–Digital Lockpicking in Practice 2013 – David Oswald, Daehyun Strobel, Falk Schellenberg, Timo Kasper, Christof Paar Selected Areas in Cryptography 2013 (SAC 2013), Burnaby, British Columbia, Canada, August 14–16, 2013
+[3] http://emsec.rub.de/chair/_staff/Timo_Kasper/
+[4] www.kasper-oswald.com
+ 
+Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 31.1.2019, 12:58      
+           
+                          
+       
+
+
+
+
+
+
+dentům se tak nabízí jedinečná šance seznámit se s firmami přímo na akademické půdě. Akce je určena pro studenty všech ročníků a oborů na FIT. Akce je zdarma a bez registrace. Více informací najdete na oficiálních stránkách CoFIT.
 
 
 Typ akce
-konference
-Organizátoři
-The Prague Stringology Club – výzkumná skupina Katedry teoretické informatiky
+Kariérní veletrh
+Organizátor
+Portál spolupráce s průmyslem, FIT ČVUT
 Termín
-28.–30. srpna 2017
+24. října 2017, od 12:00
 Místo
-Budova A
-Thákurova 7, Praha 6
-Jazyk
-angličtina
+Nová budova ČVUT
+Thákurova 9, Praha 6
 Web akce
-The Prague Stringology Conference 2017
+CoFIT
 
 
-Kontakty
-Konference se bude konat v Kampusu Dejvice v prostorách Budovy A – Thákurova 7, Praha 6. Spolupředsedy organizačního výboru jsou prof. Jan Holub a Ing. Miroslav Balík, Ph.D. Prof. Jan Holub je i spolupředsedou programové komise.
+Kontakt
+Veletrh pořádá Fakulta informačních technologií ČVUT v rámci projektu Spolupráce s průmyslem. Pro více informací můžete kontaktovat referentku Ing. Lucii Kolomazníkovou.
 
 
-prof. Ing. Jan Holub, Ph.D.
-Spolupředseda programové komise a organizačního výboru PSC 2017
+Ing. Lucie Kolomazníková
+Referentka
+Oddělení pro spolupráci s průmyslem
 
-Vedoucí vědecko-výzkumné skupiny The Prague Stringology Club
-
- jan.holub@fit.cvut.cz
- +420 22435 9814
- TH:A-1235
-
-
-
-
-Ing. Miroslav Balík, Ph.D.
-Spolupředseda organizačního výboru PSC 2017
-Člen vědecko-výzkumné skupiny The Prague Stringology Club
-
- miroslav.balik@fit.cvut.cz
- +420 22435 9816
- T9:311
+ lucie.kolomaznikova@fit.cvut.cz
+ +420 22435 9834
+ T9:341a
 
 
 
 Osoba zodpovědná za obsah této stránky
 
-prof. Ing. Jan Holub, PhD., jan.holub@fit.cvut.czSpolupředseda programové komise a organizačního výboru PSC 2017
+Ing. Lucie Kolomazníková, lucie.kolomaznikova@fit.cvut.czReferentka Oddělení pro spolupráci s průmyslem
 
 
 
@@ -182,7 +239,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 24.4.2018, 10:18      
+      Poslední změna: 12.3.2019, 15:01      
            
                           
        

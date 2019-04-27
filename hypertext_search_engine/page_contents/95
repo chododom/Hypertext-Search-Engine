@@ -1,4 +1,243 @@
-https://livs.fit.cvut.cz/
+http://bilakniha.cvut.cz/cs/predmet2968106.html
 
 
+
+
+
+Loading...
+ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
+Výběr období:
+Následující ak. rok
+Aktuální období
+Fakulty |
+         Celoškolská nabídka volitelných předmětů |
+         Katalog předmětů ECTS
+         | Nastavení
+         | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English version
+Úvodní stránka >
+         Fakulta informačních technologií >
+         katedra číslicového návrhu >
+         Základy inteligentních vestavných systémů
+
+
+Základy inteligentních vestavných systémů
+Přihlášení do KOSu pro zápis předmětu Zobrazit rozvrh
+
+
+Kód
+Zakončení
+Kredity
+Rozsah
+Jazyk výuky
+
+
+BI-ZIVS
+KZ
+4
+1P+3C
+česky
+
+
+
+Přednášející:
+Miroslav Skrbek (gar.)
+            
+Cvičící:
+Miroslav Skrbek (gar.)
+            
+Předmět zajišťuje:
+katedra číslicového návrhu
+Anotace:
+
+
+Předmět Základy inteligentních vestavných systémů reflektuje současné trendy vývoje a aplikace složitých vestavných systémů
+                  s prvky umělé inteligence. Cílem předmětu je seznámit studenty s moderním robotem humanoidního typu a naučit je vyvíjet aplikace
+                  pro něj zejména v grafickém prostředí. V přednáškách se studenti naučí základní principy ovládání pohybu robota, aplikačními
+                  rozhraními a nástroji pro vývoj aplikací. Hlavní důraz je kladen na cvičení, kde studenti budou na sadě úloh jak na simulátoru,
+                  tak na reálném robotovi získávat praktické zkušenosti s těmito technologiemi.
+               
+
+
+Požadavky:
+
+
+Znalost programovnání v některém z programovacích jazyků C++, Java, Python.
+
+
+Osnova přednášek:
+
+
+1. Úvod do předmětu, základní vlastnosti robota
+2. Základy kinematiky robota, inverzní kinematika
+3. Grafické vývojové prostředí, základy vývoje aplikací
+4. Řízení pohybu a rovnováhy I
+5. Řízení pohybu a rovnováhy II
+6. Dotykové a vzdálenostní senzory
+7. Audio vstup/výstup
+8. Syntéza a analýza řeči
+9. Video vstup
+10. Analýza obrazu I
+11. Analýza obrazu II
+12. Prezentace projektů
+13. Zápočet
+
+
+Osnova cvičení:
+
+
+V laboratořích budou studenti pracovat na jednoduchých úlohách, které vyústí v jednu složitější, kterou budou na závěr prezentovat.
+                  Na jednoduchých úlohách, které budou zaměřeny na specifickou oblast (např. pohyb), se studenti naučí robota ovládat a naučí
+                  se pracovat s vestavěnými funkcemi z oblasti umělé inteligence (rozpoznání obličejů, analýza řeči atp). Takto získané znalosti
+                  studenti využijí v závěrečné úloze, která bude kombinovat pohyb s informací z různých senzorů a hlasovým výstupem.
+               
+
+
+Cíle studia:
+
+
+Cílem předmětu je poskytnout studentům základy a praktické zkušenosti z oblasti robotiky a vestavných systémů s integrovanou
+                  umělou inteligencí.
+               
+
+
+Studijní materiály:
+
+Poznámka:
+
+
+Informace o předmětu a výukové materiály naleznete na  https://moodle.fit.cvut.cz/courses/BI-ZIVS/
+
+
+Další informace:
+ https://moodle.fit.cvut.cz/courses/BI-ZIVS/Rozvrh na zimní semestr 2018/2019:
+
+
+
+
+
+
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
+
+
+
+Po
+
+
+
+
+
+Út
+
+
+
+
+
+St
+
+místnost TH:A-1048Skrbek M.12:45–14:15SUDÝ TÝDEN(přednášková par. 1)Thákurova 7 (FSv-budova A)Servitova laborkamístnost TH:A-1048Skrbek M.14:30–16:00SUDÝ TÝDEN(přednášková par. 1paralelka 101)Thákurova 7 (FSv-budova A)Servitova laborka
+místnost TH:A-1048Skrbek M.12:45–16:00LICHÝ TÝDEN(přednášková par. 1paralelka 101)Thákurova 7 (FSv-budova A)Servitova laborka
+
+
+
+Čt
+
+místnost TH:A-1048Skrbek M.12:45–14:15SUDÝ TÝDEN(přednášková par. 2)Thákurova 7 (FSv-budova A)Servitova laborkamístnost TH:A-1048Skrbek M.14:30–16:00SUDÝ TÝDEN(přednášková par. 2paralelka 201)Thákurova 7 (FSv-budova A)Servitova laborka
+místnost TH:A-1048Skrbek M.12:45–16:00LICHÝ TÝDEN(přednášková par. 2paralelka 201)Thákurova 7 (FSv-budova A)Servitova laborka
+
+
+
+Pá
+
+
+
+
+
+
+
+Rozvrh na letní semestr 2018/2019:
+Rozvrh není připraven
+Předmět je součástí následujících studijních plánů:
+
+
+Informační technologie - verze pro ty, kteří se zapsali v roce 2012 (volitelný předmět)
+                  
+Informatika, plán pro fázi studia bez oboru - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Web a multimedia - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Teoretická informatika - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Informační technologie - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Softwarové inženýrství - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Informační systémy a management - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Informatika, plán pro fázi studia bez oboru - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Web a multimedia - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Teoretická informatika - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Informační technologie - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Počítačové inženýrství - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Softwarové inženýrství - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Informační systémy a management - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Bc. program Informatika, studijní plán pro fázi studia bez oboru, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Bc. obor Bezpečnost a informační technologie, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Bc. obor Teoretická informatika, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Bc.obor Počítačové inženýrství, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Bakalářský obor Informační systémy a management, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Bakalářský obor Znalostní inženýrství, verze 2015, 2016 a 2017 (volitelný předmět)
+                  
+Bakalářský obor WSI, zaměření Softwarové inženýrství, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Bakalářský obor WSI, zaměření Webové inženýrství, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Bakalářský obor WSI, zaměření Počítačová grafika, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Bakalářský obor Znalostní inženýrství, verze 2018 (volitelný předmět)
+                  
+
+
+
+
+
+Platnost dat k 27. 4. 2019
+
+
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Provozuje Výpočetní a informační centrum ČVUT
+Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
+
+
+Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet2968106.html
+
+ Zobrazovat kódy skupin předmětů
+         
 

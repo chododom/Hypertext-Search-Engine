@@ -1,4 +1,4 @@
-https://fit.cvut.cz/pr/tiskove-zpravy_2017/installfest
+https://fit.cvut.cz/informaticky-vecer_2016-10-10
 
 
 
@@ -48,13 +48,10 @@ Média
 
 
 
-Tiskové zprávy
-Psalo se o nás
-Grafické podklady
-Mediatéka
-Časopis
-PR oddělení
-Propagační předměty
+Kalendář
+Akce a události
+Soutěže
+Projekty
 
 
 
@@ -65,55 +62,145 @@ Propagační předměty
 
 
  
- › ČVUT » FIT  » Média » Tiskové zprávy » Archiv tiskových zpráv » 2017 » Konference InstallFest Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2016/2017 » Chytří a užiteční chatboti? Novinky    News
 
 
 
 
-Tiskové zprávy za 2019
-Archiv tiskových zpráv2018
-2017
-2016
-2015
-2014
-2012–2013
-2010–2011
-2008–2009
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
 
-Kontakt
-
-
-
-
-
-Letošní InstallFest vyrostl a hostí jej ČVUT na Karlově náměstí 
-
-
-Praha 27. 2. 2017O víkendu 4. a 5. března 2017 proběhne již devátý ročník tradiční konference InstallFest, kterou pro odbornou veřejnost pořádají studenti Českého vysokého učení technického v Praze z klubu Silicon Hill. Letos se uskuteční na Karlově náměstí a bude větší.
-
-Devátý ročník konference InstallFest slibuje řadu novinek. Vyrostl a nabídne více přednášek v několika sálech, workshopy, stánky a další program. Z tohoto důvodu se akce přesunula na Fakultu elektrotechnickou ČVUT na Karlově náměstí, kde organizátoři očekávají účast asi 350 návštěvníků.
-Program je letos rozdělen do tří tracků, nabídne 42 přednášek a 17 workshopů. „Budeme mít hodně místa, tím pádem i mnohem více zábavy. Čekají nás kontejnery, Docker, Flatpak, programovací jazyk Rust, firewally, Ansible, Kubernetes, Python, SaltStack a mnoho dalšího,“ slibuje Petr Hodač, organizátor akce z Fakulty informačních technologií ČVUT.
-A jací odborníci nebudou na InstallFestu chybět? Lukáš Bařinka naučí zájemce upravit Bash, Michal Kubeček provede všechny linuxovým síťováním. Petr Stehlík představí Orange Pi, Martin Semrád ukáže propojení českého internetu v NIX.CZ, Pavel Tišnovský prozradí novinky ve Vim 8, Ondřej Caletka analyzuje otrávenou DNS cache a Martin Bílý předvede FreeBSD na notebooku.
-Kromě toho se návštěvníci mohou těšit na stánky se strahovskou sítí a servery, předváděčku elektronických hraček z bastlírny, místní vimpivo, nákup u LinuxMarketu a Club Mate zónu.
-Registrace na akci probíhá zde: https://installfest.cz/if17/registrace
-Mediálním partnerem akce je Root.cz.
-Kontakt
-Tiskovou zprávu vydala Fakulta informačních technologií Českého vysokého učení technického v Praze. Kontaktní osobou je Bc. Petr Hodač z Oddělení ICT.
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
 
 
-Bc. Petr Hodač
-Hlavní organizátor LinuxDays
-Fakulta informačních technologií ČVUT
 
- petr.hodac@fit.cvut.cz, p.hodac@sh.cvut.cz
- +420 22435 9839, +420 724 782 534
- TH:A-1329
 
+
+Chytří a užiteční chatboti? 
+
+
+
+
+Přednáška:
+
+				Chytří a užiteční chatboti?
+
+
+
+Přednášející:
+
+				Pavel Kordík, David Příhoda, Jakub Drdák, Petr Baudiš, Jan Pichl, Petr Marek, Jakub Konrád (FIT, FEL a CIIRC ČVUT)
+
+
+
+Datum a čas:
+
+				10. října 2016, 18–19:30 hodin
+
+
+
+Místo:
+
+				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
+
+
+
+Jazyk:
+
+				čeština
+
+
+
+Záznam:
+
+avc.fit.cvut.cz (po přihlášení ČVUT údaji)
+YouTube kanál FIT
+
+
+
+
+Přidejte se k nám a sdílejte pozvánku na  Facebooku a  Twitteru! #ITvecer
+ 
+
+Obsah přednášky:
+Uživatelské rozhraní se mění. Mladí lidé přestávají používat prohlížeče a stále více času tráví v různých mobilních komunikačních aplikacích (FB Messenger, WhatsUp, IMessage, Allo). Firmy cítí příležitost se k těmto uživatelům dostat prostřednictvím různých komunikačních a asistenčních robotů. Jak ukážeme v přednášce, tito „chatboti“ zatím nejsou žádní inteligenti, nicméně mohou být užiteční.
+Předvedeme vám chatbota, kterého studenti FIT (David Příhoda a Jakub Drdák) vyrobili v rámci Datalab letního kempu. Díky prostředí Golem, které připravili, je výroba dalších obecně použitelných chatbotů a jejich zdokonalování jednoduché. Můžete to také zkusit a zapojit se do boje o milion dolarů (https://telegram.org/blog/botprize). V přednášce se budeme věnovat i umělé inteligenci pro porozumění přirozenému jazyku a představíme novinky ze světa umělých neuronových sítí, které celou oblast posouvají výrazně kupředu. Svůj výzkum (aplikace deep learningu a rekurentních sítí) Petr Baudiš demonstruje na konverzační platformě YodaQA, kterou vyvíjí.
+Ukážeme vám také práci studentů (Petra Marka a Jakuba Konráda) z eClub Summer Campu, kteří zdokonalovali svého konverzačního bota Alquista a učili ho česky. Na závěr se pobavíme o soutěži pro studenty, kterou vyhlásil Amazon a zjistíme, zda bychom nedokázali sestavit ČVUT tým, který by měl šanci uspět.
+ 
+O přednášejících:
+
+Pavel Kordík – https://about.me/kordik
+Jan Šedivý – http://jsedivy.blogspot.cz
+Petr Baudiš – http://pasky.or.cz
+
+ 
+Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 12.4.2019, 9:31      
+           
+                          
+       
+
+
+
+
+
+
+í období 2017–2021 zvolen doc. RNDr. Ing. Marcel Jiřina, Ph.D. Senátoři zvolili kandidáta v prvním kole v poměru hlasů 7 pro, 2 proti. Návrh bude dále postoupen rektorovi ČVUT.
+
+	Volební komise
+Volební komise řídí a organizačně zabezpečuje volby, dohlíží na průběh voleb a zpracovává výsledky. S případnými dotazy se obracejte na členku komise Ing. Elišku Šestákovou, která zajišťuje veškerou komunikaci volební komise včetně komunikace s médii. Komise byla schválena dne 21. 3. 2017 na 7. zasedání Akademického senátu FIT ČVUT ve složení:
+
+Ing. Tomáš Kalvoda, Ph.D. – předseda,
+Ing. Michal Šoch, Ph.D.,
+Ing. Eliška Šestáková.
 
 
 Osoba zodpovědná za obsah této stránky
 
-Bc. Veronika Dvořáková, veronika.dvorakova@fit.cvut.czPR referentka
+Michal Šoch, michal.soch@fit.cvut.cz
 
 
 
@@ -147,7 +234,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 6.2.2018, 16:01      
+      Poslední změna: 16.1.2019, 15:33      
            
                           
        

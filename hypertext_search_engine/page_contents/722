@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2013-04-04
+https://fit.cvut.cz/aktualne/jednorazove-akce/2015-09-23
 
 
 
@@ -62,7 +62,7 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » LS 2012/2013 » Analýza kyberútoků z března 2013 Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Jednorázové akce » Weighted Finite Automata Novinky    News
 
 
 
@@ -88,43 +88,76 @@ Ostatní akce
 
 
 
-Analýza kyberútoků z března 2013 
+Weighted Finite Automata 
 
 
 
 
-Přednáška:
 
-				Analýza kyberútoků z března 2013
+Přednáška:  
 
-
-
-Přednášející:
-
-				Ing. Tomáš Košňar, CESNET z.s.p.o.
+					Weighted Finite Automata
 
 
 
-Datum a čas:
+Přednášející:  
 
-				4. duben 2013, 18–19:30 hodin (mimořádně ve čtvrtek)
-
-
-
-Místo:
-
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:155 (změna místnosti)
+					Werner Kuich, Technische Universität Wien
 
 
 
- 
+Datum a čas:
+
+					23. září 2015, 14:00 - 16:30 (včetně přestávek)
+
+
+
+Místo:      
+
+					FIT ČVUT v Praze, Thákurova 9, Nová budova ČVUT, přednášková místnost T9:111
+
+
+
+Jazyk:
+
+angličtina
+
+
+
+Přidejte se k nám a sdílejte pozvánku na  Facebooku,  G+,  Twitteru ! 
+#fitcvut
 Obsah přednášky:
-V týdnu od 4. 3. 2013 zaznamenala česká internetová komunita sérii cílených útoků na významné domácí informační zdroje. Přednáška bude zaměřena na principiální technickou analýzu těchto útoků, jejich průběh z perspektivy e-infrastruktury CESNET a v rámci předpokládané diskuze i na možnosti detekce a obrany před útoky tohoto typu.
+
+
+			Přednáška uvádí do teorie polookruhů, speciálně ze zabývá Conwayovými polookruhy (Conway semirings). Dále se budeme zabývat Kleeneho teorémem na vážených konečných automatech nad Conwayovými polookruhy.
+
+			 
+
+Literatura:
+
+Zoltan Esik, Werner Kuich: Modern Automata Theory, Chapter 1. This electronic book can be downloaded from dmg.tuwien.ac.at/kuich.
+
+			 
+
+Životopis přednášejícího:                                 
+
+
+
+
+					Werner Kuich, se narodil v roce 1941 ve Vídni. Studovat matematiku a fyziku na Universität Wien a v roce 1965 dosáhl titulu PhD. Je také absolventem kurzu pro moderní počítačové technologie na Technické univerzitě ve Vídni. V letech 1963-1971 byl vědeckým pracovníkem v laboratoři IBM ve Vídni a v roce 1971 dosáhl habilitace na Technické univerzitě ve Vídni. Od roku 1971 je řádným profesorem na Technické univerzitě ve Vídni. Je také hostujícím profesorem ve Spojených státech (Michigan State University) a v Rusku (Immanuel Kant University, Kaliningrad). Účastnil se též výzkumných pobytů v Kanadě (University of Calgary), ve Finsku (Universitat Turku) a v Maďarsku (University of Szeged).
+
+					 
+
+					Pan Kuich je pořadatel konference "Významné události AutoMathA" projektu EU AutoMathA. Je člen mnoha programových výborech mezinárodních konferencí, člen edičního výboru časopisů "Journal of Automata, Languages and Combinatorics" a "Vestnik Rossiyskogo gosudarstvennogo universiteta im. Immanuela Kanta", člen rady Evropské asociace teoretické informatiky 1988-1996, člen technické komise TC1 Mezinárodní federace pro zpracování informací, člen finské Akademie věd od roku 1988 a Academia Europaea od roku 2011. Dr. h. C. Immanuel Kant--Universitat do Königsbergu roku 2004. V letech 1986-1989 byl předsedou rakouské matematické společnosti.
+
+
+				 
+
+
+Přednáška je určena studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
+
+
  
-Stručný životopis přednášejícího:
-Autor se specializuje se na vývoj nástrojů a technik pro sledování infrastruktury rozsáhlých sítí a analýzu IP provozu. Působí ve sdružení CESNET. Zastupuje sdružení CESNET ve sdruženích CZ.NIC a NIX.CZ.
- 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT a ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
 
 
  
@@ -156,7 +189,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 30.1.2019, 15:18      
+      Poslední změna: 15.4.2019, 11:03      
            
                           
        

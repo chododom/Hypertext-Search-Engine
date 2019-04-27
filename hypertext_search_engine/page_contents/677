@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2014-11-24
+https://fit.cvut.cz/linuxdays_2017
 
 
 
@@ -62,24 +62,23 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2014/2015 » x86 od první instrukce s corebootem Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Konference pořádané a spolupořádané FIT » LinuxDays » 2017 Novinky    News
 
 
 
 
 Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+Konference pořádané a spolupořádané FITEuromicro DSD/SEAA 2018
+Human-Level AI 2018
+InstallFest
+LAW FIT
+LinuxDays
+P2D2
+PESW
+Prague Stringology Conference
+StringMasters
 
+Přednášky a semináře
 Akce pro zájemce o studium
 Sportovní akce
 Ostatní akce
@@ -88,58 +87,88 @@ Ostatní akce
 
 
 
-x86 od první instrukce s corebootem 
+LinuxDays 2017 
 
 
 
 
-Přednáška:
-
-				x86 od první instrukce s corebootem
 
 
 
-Přednášející:
 
-				Rudolf Marek
+LinuxDays 2017
 
+Šestý ročník největší české linuxové konference LinuxDays se uskuteční 7. a 8. října na Fakultě informačních technologií ČVUT. Dozvíte se novinky z oblasti IoT, bezpečnosti, sítí, šifrování i vývoje. Letos dostanou více prostoru přednášky v angličtině a také komunita kolem hackerspaces. V programu konference nechybí ani několik přednášek našich zaměstnanců, včetně workshopu Bash za 50 min určeného (nejen) novým studentům bakalářského programu. Vstup je zdarma, ale je nutné se zaregistrovat.
+Téma
+Konference se tradičně zaměřuje na otevřené technologie, takže nemohou chybět linuxové technologie, správa serverů, kontejnery a další aktuální témata. Letos dostane více prostoru komunita kolem hackerspaces, která se zabývá vývojem vlastních otevřených řešení a hackováním těch existujících. Dále se dozvíte novinky z oblasti IoT, bezpečnosti, sítí, šifrování i vývoje.
+Program
+Z více než stovky přihlášených témat bylo do programu konference vybráno 64 přednášek a 13 workshopů. Letos dostaly více prostoru také přednášky v angličtině. Dále na vás čekají stánky různých linuxových distribucí a projektů jako Mozilla.cz, Silicon Hill, Fedora, openSUSE, Python, vpsFree.cz nebo RoboDoupě. Přímo na místě bude také možné složit zkoušku a získat tak mezinárodně uznávanou certifikaci LPI.
+V neděli od 14:00 je (nejen) pro studenty prvního ročníku bakalářského programu připraven workshop Bash za 50 min. Během něho se Petr Hodač zaměří na předmět Programování v shellu 1 (BI-PS1). Můžete se těšit na bash, awk, sed, vim, grep, find a mnoho dalšího.
+Součástí programu konference jsou také přednášky zaměstnanců FIT:
 
+Lukáš Bařinka
+bash a Mario Bros.
+Petr Pulc
+Zálohuj fotky a videa i uprostřed ničeho
+Ondřej Guth
+Používáte GNU grep? A víte, jak funguje uvnitř?
+Tomáš Kukrál
+Kubernetes in production
+Petr Hodač
+Kdy se přestaly vyrábět noteboky? – modifikace strojů ThinkPad T430 a X230
+Tomáš Čejka
+Monitorování sítě pomocí flow – case studies
 
-Datum a čas:
-
-				24. listopadu 2014, 18–19:30 hodin
-
-
-
-Místo:
-
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:111
-
-
-
-Jazyk:
-
-				čeština
-
-
-
-Přidejte se k nám a sdílejte pozvánku na  Facebooku! #ITvecer
- 
-Obsah přednášky:
-Aneb jak se inicializuje moderní x86 procesor a co všechno se musí stát před tím, než se nastartuje operační systém. Coreboot je svobodný software, který to zvládne.
- 
-Stručný životopis přednášejícího:
-Rudolf Marek, vystudoval FEL ČVUT, je vývojářem svobodného software projektu coreboot. Pracuje ve firmě SYSGO s.r.o., která se zabývá vývojem vlastního realtime a safety critical operačního systému PikeOS. Je autorem učebnice: Učíme se programovat v jazyce assembler pro PC.
- 
-Záznam přednášky:
+O akci
+Konference je vhodná pro open-source nadšence, nabízí přednášky pro začátečníky i profesionály. Akce je zdarma, ale je nutné se zaregistrovat. Všechny potřebné informace jsou dostupné na webových stránkách konference.
 
 
-avc.fit.cvut.cz (po přihlášení ČVUT údaji)
+Typ akce
+konference
+Organizátoři
+Petr Hodač, FIT ČVUT
+Ondřej Caletka, CESNET, z. s. p. o.
+Petr Krčmář, Root.cz
+Miroslav Hrončok, FIT ČVUT a Red Hat
+Tomáš Chvátal, SUSE
+Tomáš Kukrál, FIT ČVUT a Mirantis
+Termín
+7.–8. října 2017
+Místo
+Nová budova ČVUT
+Thákurova 9, Praha 6
+Jazyk
+čeština
+angličtina
+Záznam
+bude pořízen
+Web akce
+LinuxDays 2017
 
-YouTube kanál FIT
 
 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
+Zaplněná posluchárna na minulém ročníku
+
+
+Kontakt
+Akci pořádá Petr Hodač za podpory Fakulty informačních technologií ČVUT a Fondu studentských projektů ČVUT. Dále se na akci podílí zpravodajský server Root.cz nebo zástupci linuxových distribucí Fedora, Gentoo a openSUSE. Konference se bude konat v Kampusu Dejvice v prostorách Nové budovy ČVUT – Thákurova 9, Praha 6.
+
+
+Bc. Petr Hodač
+Hlavní organizátor LinuxDays
+Systémový administrátor na Oddělení ICT
+
+ orgs@linuxdays.cz, petr.hodac@fit.cvut.cz
+ +420 22435 9839
+ TH:A-1329
+
+
+
+Osoba zodpovědná za obsah této stránky
+
+Bc. Petr Hodač, petr.hodac@fit.cvut.czHlavní organizátor LinuxDays
+
+
 
 
  
@@ -171,7 +200,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 4.2.2019, 11:37      
+      Poslední změna: 21.9.2017, 16:42      
            
                           
        

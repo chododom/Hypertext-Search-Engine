@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2015-11-16
+https://fit.cvut.cz/op_vvv_lzo
 
 
 
@@ -62,82 +62,65 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2015/2016 » Vývoj aplikací v době PaaS a SaaS Novinky    News
+ › ČVUT » FIT  » Aktuálně » Projekty » Operační program Výzkum, vývoj a vzdělávání » Laboratoř zpracování obrazu Novinky    News
 
 
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+Evropský sociální fond Praha & EU
+Operační program Výzkum, vývoj a vzděláváníLaboratoř zpracování obrazu
+Laboratoř inteligentních vestavných systémů
 
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+FITdivad1.0 Beta
+GDG Prague
 
 
 
 
 
-Vývoj aplikací v době PaaS a SaaS 
+Projekt Laboratoř zpracování obrazu 
 
 
+Loga OP VVV a MŠMT
+
+Projekt financovaný Evropskou unií s názvem „Laboratoř zpracování obrazu“ (LZO) má za cíl vybavit laboratoř moderním hardwarovým vybavením. Laboratoř zpracování obrazu je odborným pracovištěm Fakulty informačních technologií ČVUT poskytujícím technické zázemí pro výzkumné projekty a výuku v oblasti zachycování vizuálních informací. Projekt je financován z Evropského fondu pro regionální rozvoj v rámci Operačního programu Výzkum, vývoj a vzdělávání.
+
+Registrační číslo
+CZ.02.2.67/0.0/0.0/16_016/0002551
+Projektový manažer
+doc. RNDr. Ing. Marcel Jiřina, Ph.D.
+Správce laboratoře
+Ing. Jakub Novák
+Zahájení projektu
+1. 10. 2017
+Ukončení projektu
+30. 9. 2019
+Délka trvání
+24 měsíců
+
+Obsah projektu
+Vybudovaná Laboratoř zpracování obrazu bude poskytovat unikátní a kvalitní expertní technické zázemí pro práci studentů. Umožní zlepšit výuku bakalářských a magisterských studijních oborů v oblasti zpracování dat a rozšířit výuku studentů o nové předměty.
+Vznikne předmět Strojové vidění a zpracování obrazu. Ten studenty seznámí s kamerovou technikou a zaměří se na zpracování obrazu založeném na pokročilých metodách vytěžování dat. Laboratoř také technicky významně podpoří výuku magisterského studijního oboru Znalostní inženýrství, jehož tematickou náplní je rovněž zpracování dat.
+Cíle projektu
+Cílem projektu je vybavit laboratoř kamerovými systémy, senzory a související optickou a osvětlovací technikou. Ta bude sloužit pro realizaci praktických projektů v oblasti zpracování obrazu a videa. Dalším cílem projektu je zlepšení výuky v oblasti zpracování dat a zvýšení kvality teoretického i praktického vzdělání studentů.
+Výstupy projektu
+Získané finanční prostředky z projektu umožní vybavit laboratoř kamerovou technikou pro všechny studenty studijní skupiny, což je cca 20–24 studentů. Každá dvojice studentů tak bude moci pracovat s vlastní technikou, místo pouhé demonstrace učitelem. Jen v případě zvláště drahého kamerového vybavení bude pracovní skupina větší.
+Do laboratoře bude pořízeno následující vybavení:
+
+kamerové systémy (maticové, řádkové a termovizními kamery, kamery pracující v blízké infračervené oblasti, UV a 3D kamery a ToF kamery poskytující hloubkovou informaci),
+měřicí stojany a držáky pro uchycení kamer,
+zdroje osvětlení snímané scény (pracující ve viditelné oblasti spektra i mimo ni),
+objektivy fixní i objektivy s proměnnou ohniskovou vzdáleností,
+pásmové filtry pro zúžení snímaného spektra,
+napájecí zdroje, kabely a další technika pro provoz kamerových systémů.
+
+Výstupem projektu LZO bude kvalitní, moderní a plnohodnotně vybavená laboratoř. Ta umožní studentům získávat a zkvalitňovat jejich znalosti o zpracování nestrukturovaných dat v podobě obrazových informací. Také je připraví na úlohy, se kterými se budou moci setkat v budoucím zaměstnání a v praxi.
+
+Osoba zodpovědná za obsah této stránky
+
+Bc. Denisa Košlerová Pekařová, denisa.koslerova@fit.cvut.czReferentka Oddělení pro rozvoj
 
 
-Přednáška:
-
-				Vývoj aplikací v době PaaS a SaaS
-
-
-
-Přednášející:
-
-				Dominik Veselý (Ackee)
-
-
-
-Datum a čas:
-
-				16. listopadu 2015, 18–19:30 hodin
-
-
-
-Místo:
-
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
-
-
-
-Jazyk:
-
-				čeština
-
-
-
-Přidejte se k nám a sdílejte pozvánku na  Facebooku! #ITvecer
- 
-Obsah přednášky:
-Vývoj aplikací (mobilních i webových) je v posledních letech velmi populární a nic nenasvědčuje tomu, že by se na tom mělo v blízké budoucnosti něco měnit. Zároveň je to ale velmi mladý obor, který se extrémně rychle vyvíjí a to i ve srovnání s překotným vývojem v jiných oblastech IT. Vývoj v době PaaS a SaaS nastolil zcela nové trendy a přístupy, které nebyly představitelné ani před 5 lety. V této přednášce se zaměříme na výhody a úskalí těchto přístupů, a to jak pro startupy, tak velké korporace.
- 
-Stručný životopis přednášejícího:
-Dominik Veselý je absolventem FIT ČVUT a pracuje jako hlavní analytik a architekt ve společnosti Ackee, která vyvíjí mobilní a webové aplikace. Jeho rozhodnutí pomáhají tvořit aplikace pro značky jako je DámeJídlo, DeliveryHero, Babysitting.today, BageterieBoulevard a mnoho dalších.
- 
-Záznam přednášky:
-
-
-avc.fit.cvut.cz (po přihlášení ČVUT údaji) – přednáška není veřejně publikována
-
- 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
 
 
  
@@ -169,7 +152,53 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 13.2.2019, 11:39      
+      Poslední změna: 13.12.2017, 16:02      
+           
+                          
+       
+
+
+
+
+
+
+ obsah této stránky
+
+Bc. Veronika Dvořáková, veronika.dvorakova@fit.cvut.czPR referentka
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 15.4.2019, 10:54      
            
                           
        

@@ -1,4 +1,4 @@
-https://fit.cvut.cz/webmaster_log_2018-10-08
+https://fit.cvut.cz/fakulta/pravidelne-akce/jsdevmeetups/2018-04-10
 
 
 
@@ -48,14 +48,10 @@ Média
 
 
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Kalendář
+Akce a události
+Soutěže
+Projekty
 
 
 
@@ -66,56 +62,80 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Kontakty » Webmaster » Změny na webu » Rok 2018 » 41. týden Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » jsDev Meetups » Moderní webová architektura založená na JS a API Novinky    News
 
 
 
 
-Fakturační údaje
-Zaměstnanci
-Úřední hodiny podatelny
-Děkanát
-Katedry
-Vedení FIT
-WebmasterPráce webmastera
-Změny na webu
-Kontakt
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
 
-Helpdesk
-Vyhledávání
-
-
-
-
-
-Změny na webu v 41. týdnu roku 2018 
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
 
 
-Ve 41. týdnu (8.–12. 10. 2018) jsme dále především navrhovali malé novinky. Vytvořili jsme také nové stránky Fiťácký informatický korespondenční seminář 2018/2019 a přednášky Bezpečnostní informační služby pro Informatické večery.
-V tomto týdnu jsme navrhli a po schválení na web přidali následující stránky:
 
-Fiťácký informatický korespondenční seminář 2018/2019
-Včetně velké novinky na hlavní stranu a úpravy úvodní obecné strany
-Informatický večer: Představení Bezpečnostní informační služby a možností uplatnění v oblasti IT
-Včetně úpravy úvodní obecné strany a stránky pro tento semestr
-Příští týden bude o akci zveřejněna velká novinka
-Informační systémy
-Aktualizace stránky v sekci Zaměstnanec
 
-Navrhli jsme a ke schválení zaslali anglický obsah pro Katedru informační bezpečnosti a vložili jsme velkou novinku na hlavní stranu. Na stránku informatického večera 15. 10. jsme doplnili sociální sítě a grafiku.
-Se Studijním oddělením jsme komunikovali změny v harmonogramu ČVUT a na stránkách přijímacího řízení. S referentkou pro doktorský studijní program jsme komunikovali úpravy stránky s nabízenými doktorskými předměty. Aktualizovali jsme také stránku pro nováčky ve spolupráci s ICT oddělením a proděkanem Balíkem.
-Dále jsme aktualizovali stránky výběrových řízení a nedoručené pošty. Také jsme přidávali odkazy na stránky do sekce Psalo se o nás.
-Navrhli jsme a na web přidali následující novinky:
 
-Žij studentský život – v češtině i angličtině
-Veletrh Académia&Vapac – v češtině i angličtině
-Meet and Code – v češtině i angličtině
-Den otevřených dveří v Archivu ČVUT – v češtině i angličtině
+Moderní webová architektura založená na JavaScriptu a API  
+
+
+
+
+
+
+Moderní webová architektura založená na JavaScriptu a API
+Přijďte 10. 4. na přednášku s názvem Moderní webová architektura založená na JavaScriptu a API. Zmíněnou architekturou je JAMstack, Ladislav Prskavec představí její výhody, nevýhody a možnosti využití. Další přednáška z cyklu jsDev Meetups se koná od 18:30 v posluchárně T9:111. Na akci je nutné se zaregistrovat.
+Téma
+Jistě znáte platformu LAMP stack. Víte, že současnou stoupající hvězdou je JAMstack? Vyzkoušejte si kombinaci JavaScriptu, API a Markup na platformách Jekyll, Netlify nebo Hugo a budete nadšeni stejně jako mnoho ostatních.
+V přednášce si ukážeme moderní webovou architekturu JAMstack, její výhody a nevýhody a její možnosti ovlivnit vývoj. Součástí přednášky bude také navržení aplikace s použitím javascriptového frameworku Gatsby.js. Dále si ukážeme řešení problémů, která pomohou nahradit redakční systém WordPress nebo jiný CMS systém s pomocí API.
+O akci
+Akce je zdarma, ale je nutné se zaregistrovat na . Přednáška je určena pro posluchače se základní znalostí programovacího jazyka JavaScript.
+
+
+Typ akce
+Přednáška
+Přednášející
+Ladislav Prskavec – Oracle
+Termín
+10. dubna 2018, 18:30–20:30
+Místo
+posluchárna T9:111, Nová budova ČVUT
+Thákurova 9, Praha 6
+Jazyk
+čeština
+Záznam
+nebude pořízen
+
+
+O přednášejícím
+Ladislav Prskavec absolvoval Fakultu elektrotechnickou ČVUT a nyní pracuje jako Site Reliability Engineer (SRE) ve společnosti Oracle, dříve Apiary. V současné době ho kromě programování v Node.js a Ruby baví především další jazyky jako je Go Lang a nástroje pro monitorování a automatizaci infrastruktury jako Ansible, Kubernetes a Docker. Sledovat Ladislava můžete také na jeho blogu.
+Související obsah
+
+Témata
+Cyklus přednášek: JavaScript Developer Meetups
+Předchozí přednáška: Async/await v praxi
+Následující přednáška: Google Apps Script = G Suite (automatizace || integrace || rozšíření)
+Lidé
+Přednášející: Ladislav Prskavec
+Místa
+T9:111
 
 
 Osoba zodpovědná za obsah této stránky
 
-Marie Böhmová, marie.bohmova@fit.cvut.czSprávkyně obsahu webu
+Ing. Lukáš Janeček, lukas.janecek@fit.cvut.czOrganizátor jsDev Meetups
 
 
 
@@ -149,7 +169,57 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 9.11.2018, 14:11      
+      Poslední změna: 23.4.2019, 12:52      
+           
+                          
+       
+
+
+
+
+
+
+hledu práva a IT – LAW FIT 2016
+Již čtvrtý ročník konference LAW FIT pořádá letos Fakulta informačních technologií ČVUT. V letošním roce organizátoři vybrali jako téma „Data“. Konference proběhne 23. května 2016 v prostorách Nové budovy ČVUT (sídle Fakulty informačních technologií) na adrese Thákurova 9, Praha 6. Generálním partnerem je Institut pro digitální ekonomiku.
+
+
+Osoba zodpovědná za obsah této stránky
+
+Bc. Veronika Dvořáková, veronika.dvorakova@fit.cvut.czPR referentka
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 25.9.2017, 14:48      
            
                           
        

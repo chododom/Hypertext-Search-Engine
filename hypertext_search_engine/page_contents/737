@@ -1,4 +1,4 @@
-https://fit.cvut.cz/as_volby/cvut_2013-11
+https://fit.cvut.cz/aktualne/jednorazove-akce/2018-11-09
 
 
 
@@ -48,14 +48,10 @@ Média
 
 
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Kalendář
+Akce a události
+Soutěže
+Projekty
 
 
 
@@ -66,30 +62,77 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Akademický senát FIT » Volby » AS ČVUT » Řádné volby 2013 Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Jednorázové akce » Accelerating Data Science at the Edge Using FPGAs Novinky    News
 
 
 
 
-Zasedání
-Zápisy ze zasedání
-Usnesení
-VolbyAS FIT
-AS ČVUT
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
 
-Kontakt
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
 
 
 
 
 
-Volby do Akademického senátu ČVUT na funkční období 2014–2016 
+Accelerating Data Science at the Edge Using FPGAs 
 
 
-		VÝSLEDKY VOLEB
- 
+Prof. Viktor K. Prasanna vám 9. 11. od 11:00 představí práci v Data Science Lab na University of Southern California. Na přednášce s názvem „Accelerating Data Science at the Edge Using FPGAs“ ukáže paralelní architektury a algoritmy založené na FPGA pro různá jádra datové analýzy. Přednáška se uskuteční v místnosti TH:A-1455 a bude v angličtině.
+Téma
+Data Science se v posledních letech rozvíjejí díky novým aplikacím v různých oblastech, včetně zdravotnictví, energetiky nebo technologie „Autonomous X“. Mnohé z nich jsou kyber-fyzikálně-sociální systémy s přísnými požadavky na latenci, propustnost a energetickou účinnost. S nedávnými dramatickými pokroky v oblasti FPGA se tato zařízení používají spolu s vícejádrovými a nově vznikajícími paměťovými technologiemi k realizaci pokročilých platforem pro urychlení různých komplexních aplikací.
+Tato přednáška představí práci v Data Science Lab na University of Southern California (USC) a možnosti rekonfigurovatelných výpočtů, odpovídajících současným trendům akcelerátorů pro Data Science. Názorně ukáže paralelní architektury a algoritmy založené na FPGA pro různá jádra datové analýzy v procesech zpracování grafů a strojového učení pro tzv. „edge processing“.
+Zatímco prof. Prasanna představí metodiku co-designu algoritmů a architektur pro realizaci vysoce výkonných akcelerátorů grafů a strojového učení, ukáže roli modelování a algoritmických optimalizací pro vývoj vysoce účinných IP jader. Pro vkládání grafů vyvíjí novou výpočetně účinnou techniku pomocí vzorkování grafů, které je škálovatelné.
+Pro CNN inferenci vyvinuli paralelní frekvenční doménu pro konvoluční algoritmy a datové uspořádání pro realizaci vysoce výkonných a energeticky efektivních návrhů používajících FPGA. Závěrem identifikovali příležitosti a výzvy při využívání vznikajících heterogenních architektur složených z vícejádrových procesorů, FPGA, GPU a koherentní paměti.
+O akci
+Přednáška je zdarma a není nutné se na ni registrovat. Přednáška je primárně určena pro studenty a odbornou veřejnost s pokročilou znalostí FPGA, paralelních algoritmů a architektur.
 
-	 
+
+Typ akce
+Přednáška
+Přednášející
+Viktor K. Prasanna – University of Southern California (USC)
+Termín
+9. listopadu 2018, 11:00–12:00
+Místo
+Zasedací místnost TH:A-1455, Budova A
+Thákurova 7, Praha 6
+Jazyk
+Angličtina
+Záznam
+Nebude pořízen
+
+
+O přednášejícím
+Viktor K. Prasanna je předsedou pro technické obory v nadaci Charles Lee Powell na Ming Hsieh Department of Electrical Engineering a profesorem informatiky na University of Southern California (USC). Na UCS je také ředitelem Center for Energy Informatics a vede FPGA a Data Science Lab. Jeho výzkumné zájmy zahrnují paralelní a distribuované výpočty, návrh akcelerátorů, rekonfigurovatelné architektury a algoritmy a vysoce výkonné výpočty.
+V letech 2003–2006 působil jako šéfredaktor IEEE Transactions on Computers a v současné době je šéfredaktorem časopisu Parallel and Distributed Computing. Prasanna byl zakládajícím předsedou technické komise IEEE Computer Society on Parallel Processing. Je řídícím spolupředsedou mezinárodního sympozia IEEE Parallel and Distributed Processing a řídící předseda mezinárodní konference IEEE on High Performance Computing.
+Jeho práce získala nejlepší ocenění na předních fórech v oblasti paralelních výpočtů, HPC a FPGA, včetně Computing Frontiers, International Parallel and Distributed Processing Symposium a ACM International Symposium on FPGAs. Je členem IEEE, ACM a American Association for Advancement of Science (AAAS). V roce 2009 obdržel ocenění za Outstanding Engineering Alumnus od Pennsylvania State University. V roce 2015 získal cenu W. Wallace McDowell od IEEE Computer Society za příspěvky k rekonfigurovatelným počítačům.
+Související obsah
+
+Lidé
+Přednášející: Viktor K. Prasanna
+Místa
+TH:A-1455
+
+
+Osoba zodpovědná za obsah této stránky
+
+doc. Ing. Hana Kubátová, CSc., hana.kubatova@fit.cvut.czOrganizátorka přednášky
+
+
 
 
  
@@ -121,7 +164,66 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 3.12.2018, 12:43      
+      Poslední změna: 7.11.2018, 14:42      
+           
+                          
+       
+
+
+
+
+
+
+rence from hand held video sequences. Verify this method on the selected surface materials.
+
+Modelování osvětlení z naměřené vizuální scény
+Light field estimation from visual scene
+
+Práce je zaměřena na studium metod modelování osvětlení z naměřené obrazové informace pro aplikace modelování BTF textur v modelech virtuální reality. Navrhněte a implementujte v programovacím jazyce C++ vhodnou metodu tvorby osvětlení z naměřených obrazových dat. Ověřte metodu na modelu osvětlení interiéru a exteriéru při proměnném osvětlení
+
+
+The thesis objective is to study environmental light field modelling methods from measured visual scenes applied to correct BTF illumination in virtual reality application. Propose and implement (in C++) an appropriate method for realistic illumination model estimated from real measured visual scenes. Verify this method on interior and exterior virtual reality models with variable illumination.
+
+Rozpoznávání rakoviny kůže a monitorování pokroku léčby
+Skin Cancer Detection and Treatment Progress Monitoring
+
+Melanom kůže, jako nejnebezpečnější forma rakoviny kůže, je rostoucím nebezpečím v posledních desetiletích díky svému stále zvyšujícímu se výskytu. Jeho efektivní léčba vyžaduje jeho rozpoznání a chirurgické odstranění v co nejranější fázi. Cílem práce je nalezení diskriminativních obrazových příznaků a vhodného klasifikátoru, který umožní rozpoznání rakoviny kůže z barevných obrazů kůže a zároveň umožní monitorování pokroku léčby ze sekvence časově proměnných obrazů nádoru.
+
+
+Malignant melanoma, as the most dangerous form of skin cancer, has been a rapidly growing threat over the past decades. The effective treatment requires its early diagnoses and surgical excision. The thesis objective is to find discriminative image features and a robust classifier which will allow to recognize skin cancer on colour skin images and to evaluate a treatment progress between several mutitemporal skin images.
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 26.4.2019, 10:06      
            
                           
        

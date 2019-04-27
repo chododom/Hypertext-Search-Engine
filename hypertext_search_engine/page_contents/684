@@ -1,0 +1,176 @@
+https://fit.cvut.cz/fakulta/pravidelne_akce/prednaskovy-cyklus-prof-svobody/gaudiot/EHA
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Přednáškový cyklus prof. Svobody » Jean-Luc Gaudiot » EHA: The Extremely Heterogeneous Architecture Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+EHA: The Extremely Heterogeneous Architecture 
+
+
+
+
+
+Přednášející:    
+
+					Jean-Luc Gaudiot, University of California, Irvine, CA, U.S.A. (více informací)
+
+
+
+Datum a čas:
+
+					12. listopadu 2013, 18:30, posluchárna T9:155 (1. část)
+
+
+
+					 
+
+					14. listopadu 2013, 18:30, posluchárna T9:105 (2. část)
+
+
+
+Místo:      
+
+					FIT ČVUT v Praze, Thákurova 9, NB ČVUT
+
+
+
+Jazyk:
+
+					Angličtina
+
+
+
+
+
+	 
+
+	The computer industry is moving towards two extremes: extremely high-performance high-throughput cloud computing, and low-power mobile computing. Cloud computing, while providing high performance, is very costly. Google and Microsoft Bing spend billions of dollars each year to maintain their server farms, mainly due to the high power bills. On the other hand, mobile computing is under a very tight energy budget, but yet the end users demand ever increasing performance on these devices. This trend indicates that conventional architectures are not able to deliver high-performance and low power consumption at the same time, and we need a new architecture model to address the needs of both extremes. In this series of talks, we thus introduce our Extremely Heterogeneous Architecture (EHA) project: EHA is a novel architecture that incorporates both general-purpose and specialized cores on the same chip. The general-purpose cores take care of generic control and computation. On the other hand, the specialized cores, including GPU, hard accelerators (ASIC accelerators), and soft accelerators (FPGAs), are designed for accelerating frequently used or heavy weight applications. When acceleration is not needed, the specialized cores are turned off to reduce power consumption. We demonstrate that EHA is able to improve performance through acceleration, and at the same time reduce power consumption. Since EHA is a heterogeneous architecture, it is suitable for accelerating heterogeneous workloads on the same chip. For example, data centers and clouds provide many services, including media streaming, searching, indexing, scientific computations. The ultimate goal of the EHA project is two-fold: first, to design a chip that is able to run different cloud services on it, and through this design, we would be able to greatly reduce the cost, both recurring and non-recurring, of data centers\clouds; second, to design a light-weight EHA that runs on mobile devices, providing end users with improved experience even under  tight battery budget constraints.
+
+	 
+
+Vstup je zdarma, registrace není nutná.
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 11.1.2016, 12:26      
+           
+                          
+       
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-https://fit.cvut.cz/fakulta/pravidelne-akce/jsdevmeetups/2017-11-07
+https://fit.cvut.cz/pesw_2018
 
 
 
@@ -62,24 +62,23 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » jsDev Meetups » Funkcionální architektura ve vodách Angularu Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Konference pořádané a spolupořádané FIT » PESW » PESW 2018 Novinky    News
 
 
 
 
 Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+Konference pořádané a spolupořádané FITEuromicro DSD/SEAA 2018
+Human-Level AI 2018
+InstallFest
+LAW FIT
+LinuxDays
+P2D2
+PESW
+Prague Stringology Conference
+StringMasters
 
+Přednášky a semináře
 Akce pro zájemce o studium
 Sportovní akce
 Ostatní akce
@@ -88,55 +87,71 @@ Ostatní akce
 
 
 
-Funkcionální architektura ve vodách Angularu 
+Prague Embedded Systems Workshop 2018 
 
 
-
-
-
-
-Funkcionální architektura ve vodách Angularu
-Aleš Najman vám 7. 11. během své přednášky Funkcionální architektura ve vodách Angularu představí framework Angular. Ukáže, jak si s pomocí zkušeností s funkcionálním programováním poradit s jeho komplexitou a problémy s ní spojenými. Přijďte do posluchárny T9:107 na další přednášku z cyklu jsDev Meetups. Na akci je nutné se zaregistrovat.
+Ve dnech 28.–30. června pořádá Katedra číslicového návrhu FIT studentskou konferenci Prague Embedded Systems Workshop (PESW) 2018. Akce je určena pro studenty nejen doktorského studia a jejím hlavním cílem je navázání spolupráce mezi univerzitami nejen z České republiky a Evropské unie. Termín pro zasílání příspěvků je již 5. června. Workshop je pořádán již pošesté, koná se v Roztokách u Prahy a probíhá v angličtině. Součástí programu jsou i zajímavé zvané přednášky odborníků z výzkumu i praxe.
 Téma
-Před více než rokem vývojáři z Google vydali první verzi frameworku Angular. Oproti svému předchůdci AngularJS z roku 2010 přinesl zásadní přepracování základních stavebních bloků. Využívá vlastnostní jazyka Typescript, především OOP postavené na třídách, dále generika a silnou typovou bezpečnost.
-Může se zdát, že vše je dobré a krásné, ale komplexita aplikace roste neúměrně s počtem tříd, roztroušeným stavem a vedlejšími efekty. Řekneme si co s tím a ukážeme si, jak lze využít zkušenosti ze světa funkcionálního programování pro zkrocení saně komplexity a vytváření ještě lepších aplikací.
+Toto výzkumné setkání je určené k prezentaci a diskuzi výsledků studentů a pokroku ve všech aspektech návrhu, testování a aplikací vestavných systémů. Letošní ročník workshopu se zaměřuje zejména na spolehlivé a nízkoenergetické návrhy. Dále se orientuje na testovací metody spojené s technologií SoC a moderními vestavnými aplikacemi.
+Příspěvky mohou být z následujících oblastí:
+
+vestavné systémy a síťová bezpečnost zaměřená na aktuální problémy,
+nová témata a metody využívající programovatelné obvody,
+hardwarová a softwarová implementace zohledňující testovatelnost, spolehlivost a odolnost proti poruchám a útokům,
+inteligentní systémy,
+heterogenní kyberfyzikální systémy,
+řízení robotů,
+internet věcí (IoT).
+
+Program
+V současnosti probíhá Call for Papers. Je možné přihlásit přednášku, abstrakt již publikovaného výzkumu nebo abstrakt bakalářské nebo magisterské práce obhájené v zimním semestru 2017/2018 nebo letním semestru 2016/2017. Termín pro přihlášení je do 5. června pro přednáškové příspěvky a do 24. června pro studentské příspěvky do poster session. Součástí programu jsou i zajímavé zvané přednášky odborníků z výzkumu i praxe nejen z ČR. Ústně prezentované příspěvky vycházejí ve sborníku vydávaném nakladatelstvím ČVUT.
 O akci
-Akce je zdarma, ale je nutné se zaregistrovat na . Přednáška je určena pro mírně pokročilé vývojáře, kteří se zajímají o tvorbu webových aplikací běžících v prohlížeči. Je vhodné mít představu o základních konceptech frameworku Angular a být seznámen alespoň se základy programovacích jazyků Typescript nebo Ecmascript 2015.
+Cílem akce je propojit studenty a navázat spolupráci mezi univerzitami nejen v ČR a Evropě. Konference je sponzorována ČVUT jako studentská vědecká konference, příspěvky studentů v poster sekci sponzoruje IEEE Student Branch ČVUT. Studenti ČVUT a jiní přednášející studenti mají registraci zdarma. Registrace pro ostatní bude spustěna během června. Více informací najdete na webu konference.
 
 
 Typ akce
-Přednáška
-Přednášející
-Aleš Najman
+konference
+Organizátoři
+Fakulta informačních technologií ČVUT
 Termín
-7. listopadu 2017, 18:00–19:30
+28.–30. června 2018
 Místo
-posluchárna T9:107, Nová budova ČVUT
-Thákurova 9, Praha 6
+Academic hotel & Congress Centre
+Tyršovo náměstí 2222, Roztoky u Prahy
 Jazyk
-čeština
-Záznam
-nebude pořízen
+angličtina
+Web akce
+The 6th Prague Embedded Systems Workshop
+
+
+Kontakty
+Workshop organizují členové Katedry číslicového návrhu Fakulty informačních technologií ČVUT. Setkání se koná v obci Roztoky u Prahy. Pro více informací můžete kontaktovat jednotlivé organizátory. Organizaci této konference zajišťuje společnost AMCA. Konference je sponzorována ČVUT v rámci programu Studentská vědecká konference.
+
+
+doc. Ing. Hana Kubátová, CSc.
+Organizátorka PESW
+Vedoucí Katedry číslicového návrhu
+
+ hana.kubatova@fit.cvut.cz
+ +420 22435 9840
+ TH:A-1024
 
 
 
-O přednášejícím
-Aleš Najman se zajímá o tvorbu softwaru již od počátku 90. let a z programátorského koníčka se po škole stala profese. Nyní Aleš již 12 let válčí na pražském softwarovém pískovišti s backendem, ale také mobilními a webovými aplikacemi. Ve volném čase se věnuje poslechu herních soundtracků a žánru chiptunes. Rád připravuje a hlavně pije kvalitní kávu a povídá si o technologiích. 
-Související obsah
 
-Témata
-Cyklus přednášek: JavaScript Developer Meetups
-Předchozí přednáška: Reactive type-safe WebComponents
-Následující přednáška: Photopea: vývoj grafického editoru
-Lidé
-Přednášející: Aleš Najman
-Místa
-T9:107
+doc. Ing. Petr Fišer, Ph.D.
+Organizátor PESW
+Docent na Katedře číslicového návrhu
+
+ petr.fiser@fit.cvut.cz 
+ +420 22435 9842
+ TH:A-1022
+
 
 
 Osoba zodpovědná za obsah této stránky
 
-Ing. Lukáš Janeček, lukas.janecek@fit.cvut.czOrganizátor jsDev Meetups
+doc. Ing. Hana Kubátová, CSc., hana.kubatova@fit.cvut.czOrganizátorka PESW
 
 
 
@@ -170,7 +185,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 23.4.2019, 12:51      
+      Poslední změna: 1.6.2018, 10:12      
            
                           
        

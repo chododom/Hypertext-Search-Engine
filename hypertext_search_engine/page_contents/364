@@ -1,4 +1,4 @@
-https://www.fel.cvut.cz/en/faculty/council.html
+http://neuro.felk.cvut.cz/research
 
 
 
@@ -6,126 +6,126 @@ https://www.fel.cvut.cz/en/faculty/council.html
 
 
 
-Přejít na hlavní obsah
+
+
+Toggle Navigation
 
 
 
 
 
+compNeuroGroup
+
+
+
+
+Home
+Research
+Team
+Publications
+Software
+Media
+Mailinglist
+
+
+
+
+
+
+
+
+
+Research projects
+
+
+
+
+
+
+
+(image reused from our paper)
+
+
+Emotion-related neurons of the human subthalamus
+Deep brain stimulation of the subthalamic nucleus (STN)  is an effective treatment of advanced Parkinson's disease. However, it can be linked with adverse side-effects of altered perception and processing of emotions. To investigate the involvement of the STN in motivational and emotional processes, we searched for single STN neurons whose activity was related to emotional stimuli.
+We found neurons whose activity was directly associated with the presented stimuli as characterized by subjective ratings of valence (unpleasant-pleasant scale) and arousal (intensity). Interestingly, the populations of neurons associated with valence and arousal ratings were distinct, suggesting that the processing of these two affective dimensions is segregated already at the level of single neurons of the STN.
+These results will help to shape future treatment of Parkinson's disease: in order to eliminate the adverse side effects of the STN stimulation, we may wish to stimulate only neurons connected with the symptoms of the disease, not those associated with emotional processes.
+
+Nuclei identification from the microelectrode EEG
+
+In order to achieve good clinical outcome with low side effects, accurate positioning of the stimulating contacts in the subthalamic nucleus (STN) is necessary. The most commonly used method of accurate electrode placement consists of 1) preoperative MRI and CT imaging, 2) intra-operative micro-EEG recording around the presumed target position using a set of micro-electrodes 3) post-operative verification of electrode position using MRI and/or CT.
+Analysis and modelling of micro-EEG signals from areas around the STN nucleus - which is the core part of this project - may help in accurate electrode positioning, as well as understanding of correspondences between recorded microEEG and pre/post operative MRI.
+
+Artifact detection in the microEEG
+
+Micro-EEG recordings are very susceptible to motion-induced and other types of technical artifacts. As the mEEG signals are often used not only in DBS targetting and nuclei identification process but also in all sorts of neuroscience experiments and unit activity evaluation, it is crucial to identify artifact-free segments. This is a challenging task, especially due to the high variability of mEEG signals from different nuclei, as well as variety of the artifacts. In this  project, we aim at identification of key characteristics of mEEG artifacts and their subsequent detection using signal processing and machine-learning methods. See also the SigInspect toolbox.
+
+UPDRS objectivization
+The UPDRS is a standardized measure of patients' abilities to perform basic motor skills, as well as the effect of the disease on activities of daily living and mental abilities. Although is UPDRS standardized it is still only a subjective measure depending on the experience and skills of the examiner. An objective UPDRS analysis would be welcomed by examiners to support their decision process as well as it might reveal which parts of STN are responsible for which symptoms of PD and thus help creating a function map of STN and its surroundings. Another possible outcome is to aid examiners to quickly adapt the DBS device to its bearer once implanted. Thus sparing the patient's and examiner's time and suppressing majority of the PD symptoms right after the DBS surgery.
+Therefore we would like to find some trade-off between these "subjective" ratings of the patient's state and objectively defined statistical properties (=features) of the patient's single-unit recordings.
+	However the processing of single-unit recordings conveys many challenges itself as it is not known whether all of the neurons in STN have in influence on UPDRS score or only some of them.
+
+Spike sorting mehods
+
+
+The detection of neural spike activity is a technical challenge that is a prerequisite for studying many types of brain function. Measuring the activity of individual neurons accurately can be dicult due to large amounts of background noise and the diculty in distinguishing the action potentials of one neuron from those of others in the local area.
+An advantage of spike sorting is that it is possible to study local populations of neurons that are too close to each other to allow isolation by traditional techniques. If the activity of several neurons can be measured with a single electrode, it is possible with spike sorting to accurately measure the neural activity, even in cases when two or more neurons re simultaneously. This capability is especially important for experimental investigations of neural codes that use spike timing.
+Well-known spike sorting algorithms includes Wave_clus, KlustaKwik, OSort and Spike2 [commercial].
+
+DBS objective parameter setting
+
+
+
+It has been already more than 20 years that deep brain stimulation (DBS) was used instead of pallidotomy on patient with Parkinson disease (PD). This procedure is used to reduce some symptoms of PD and therefore reduce amount of medication needed. In DBS electrodes are implanted in specific part of brain (mostly in globus pallidus (GP) or subthalamic nucleus (STN)). These electrodes are then used to stimulate that part of brain. To increase a chance of stimulating exactly the right place the implanted electrode has usually more leads (4 or even more). The used stimulating current is square-wave. After operation the patient has to visit a neurologist who sets stimulation parameters specifically for this patient. The parameters are:
+
+Lead electrode used for stimulation (- pole)
+Against what the stimulation is done (+ pole)
+
+Stimulator cover is the most common, but different lead also may be used
+
+Amplitude of current
+Duration of pulse (duty)
+Frequency
+
+Tuning of these parameters is possible only in small therapeutic window between effective charge and charge that cause side effects. The parameters have to be adjusted repeatedly due to brain adaptation. The tuning is done according to feeling of patient (sometimes diaries are used where one patient marks how he is feeling) and UPDRS score examined by neurologist. Our aim is to find how the brain adapts to the stimulation and the effect of stimulation on progression of PD. This knowledge may lead to optimalisation of DBS treatment.
+ 
+
+
+
+
+
+We Belong to
+
+Dept. of Cybernetics
 Faculty of Electrical Engineering
-
- Czech Technical University in Prague
- CTU in Prague
+Czech Technical University in Prague
 
 
-
-AdmissionsWhy CTU FEELiving in PragueAfter your studiesDegree studentsStudy programmesStudy plansHow to applyTuition feesApplication formStudy contractPrevious studies recognitionHealth insuranceTestimonialsErasmus Plus studentsHow to applyList of coursesExchange studentsHow to applyList of coursesDoctoral studyIntroductionLifelong learning coursesOne semester projectsAcademic calendarCzech academic systemOpen daysSummer schoolsWhat to pack for PragueBefore&after arrival guideAccommodationVisaCTU Card OfficeInternational Students ClubContact usStudentsTimetablesDegree studentsStudy programmesStudy plansForms for downloadScholarshipsTopics for State ExaminationsGeneral informationE-learningErasmus Plus studentsList of coursesExchange studentsDoctoral studyIntroductionAcademic calendarInformation systemsKOSWEBMAILUDBV3SDMSUSERMAPLibraryComputer networkStudy regulationsTeacher evaluation surveyDiscussion forumStudents and survival guideInternational officeCzech academic systemFEE CTU leisureDormitory and canteensServices and infrastructureOn-line dictionaryCode of EthicsContactsStaffTimetablesAcademic calendarTeacher evaluation surveyInformation systemsKOSWEBMAILUDBV3SAlfresco (DMS)USERMAPLibraryEmployee evaluationComputer networkDiscussion forumStudyStudy programmesE-learningPublicationsGrantsStudy regulationsProcess diagramsServices and infrastructureSupport and perksThe staffCTUDean's officeDepartments and workplacesTeams and projectsPeopleCode of EthicsResearchResearch teams and projectsPublicationsDoctoral studyIntroductionHabilitations and appointment procedureGrants and projectsSpace activitiesContact usEnterprise & MediaCooperationCompaniesResearch institutionsAlumniSponsorshipOur sponsorsPR & MediaPromotionPR partnersPublic relations officePresentationPicture & video galleryPromotional items & materialsView our departmentsFacultyMessage from the DeanContact usWhere to find us?Study departmentManagementPeopleAbout the facultyHistory and missionBrochureCampusOrganizational structureManagementAcademic senateScientific councilAcademic advisory councilDisciplinary commissionAdministrative officesDepartmentsPeoplePrivacy policyGraduatesElektra - Alumni and friends associationMembership in organizations
-
-
-
-
-
-Vyhledat
+Contact us
+Daniel Novák
+		group head
+		Tel +420 224 357 314,
+xnovakd1@labe.felk.cvut.cz
 
 
+Physical address
+Czech Technical University,
+		Faculty of Electrical Engineering,
+		Department of Cybernetics
+		Karlovo namesti 13, 121 35, Prague 2, Czech Republic
 
-
-
-
-
-cs / en
-
-
-From electrons to clouds.
+ 
 
 
 
 
 
-
-
-AdmissionsStudentsStaffResearchEnterprise & MediaFaculty
-
+Powered by: GetSimple CMS
 
 
 
 
 
- 
-Message from the DeanContact usWhere to find us?Study departmentManagementPeopleAbout the facultyHistory and missionBrochureCampusOrganizational structureManagementAcademic senateScientific councilAcademic advisory councilDisciplinary commissionAdministrative officesDepartmentsPeoplePrivacy policyGraduatesElektra - Alumni and friends associationMembership in organizations
-
-
-CTU  FEE  Faculty  Scientific Council
-
-
-
-Scientific Council
-Chairman:
-prof. Ing. Pavel Ripka, CSc.
-
-Internal members:
-prof. RNDr. Marie Demlová, CSc.
-prof. RNDr. Jan Hamhalter, CSc.
-prof. Ing. Pavel Hazdra, CSc.
-prof. Ing. Jan Holub, PhD. (FIT)
-prof. RNDr. Pavel Kubeš, CSc.
-prof. Dr. Ing. Jan Kybic
-prof. Ing. Jiří Matas, Ph.D.
-prof. Dr. Michal Pěchouček, MSc
-doc. Mgr. Petr Páta, PhD.
-doc. Ing. Milan Polívka, PhD.
-prof. Ing. Pavel Sovka, CSc.
-prof. Ing. Zbyněk Škvor, CSc.
-prof. Ing. Josef Tlustý, CSc.
-prof. RNDr. Miroslav Vlček, DrSc.
-prof. Ing. Jan Vobecký, DrSc.
-prof. Ing. Pavel Zahradník, CSc.
-prof. Ing. Filip Železný, Ph.D.
-prof. Ing. Jiří Žára, CSc.
-
-External members:
-Ing. František Bernat, CSc. (ABB s.r.o.)
-prof. Dr. Ing. Vladimír Blažek (RWTH Aachen, SRN)
-prof. Jan Hajič, Dr (MFF UK)
-Ing. Milan Hampl (Pražská energetika, a.s.)
-prof. Ing. Jiří Homola, DSc. (ÚFE AV ČR)
-Ing. Libor Juha, CSc. (FU AV ČR)
-doc. Ing. Michal Kejak, M.A., CSc. (CERGE-EI)
-prof. Josef Kittler (University of Surrey)
-doc. Ing. Lubomír Lízal, Ph.D. (CERGE-EI)
-doc. Mgr. Jiří Myslík (AMU v Praze)
-prof. Ing. Zdeněk Peroutka, Ph.D. (FEL ZČU v Plzni)
-prof. Dr. Ing. Zbyněk Raida (VUT v Brně)
-
-
-
-
-				Responsible person: 
-				Ing. Radka Šmajsová
-
-
-
-
-
-
-
-Social Networks
-
-
-
-
-
-
-
-
-
-Other links
-
-[E]
-Contact
-Forum
-Technical support
-Site Map
 
 
 

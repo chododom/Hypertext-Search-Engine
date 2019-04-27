@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2013-11-11
+https://fit.cvut.cz/dod_2014-02-03
 
 
 
@@ -62,25 +62,20 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2013/2014 » Grafové databáze – první oficiální Neo4j Meetup Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Akce pro zájemce o studium » Den otevřených dveří » DOD 3. 2. 2014 Novinky    News
 
 
 
 
 Přehled pravidelných akcí
 Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+Přednášky a semináře
+Akce pro zájemce o studiumDen otevřených dveří
+Letní kurz Introduction to Computer Science
+Seznamovák
+Hello FIT!
+Letní škola IT
 
-Akce pro zájemce o studium
 Sportovní akce
 Ostatní akce
 
@@ -88,65 +83,54 @@ Ostatní akce
 
 
 
-Grafové databáze – první oficiální Neo4j Meetup 
+Den otevřených dveří 3. 2. 2014 
+KDE: Nová budova ČVUT (viz Prostory fakulty). 
+KDY: 9–14 hodin
+Přidejte se k nám a sdílejte pozvánku na  Facebooku nebo  G+!
 
+Více fotek z dřívějších DOD najdete v naší fotogalerii: http://fit.cvut.cz/photopic. Mrknout můžete také na video z loňska na našem YouTube kanálu FIT CTU.
+Prezentace online
 
-
-
-Přednáška:
-
-				Grafové databáze – první oficiální Neo4j Meetup
-
-
-
-Přednášející:
-
-				Michal Bachman, Aleš Kropáč, Jan Mittner
-
-
-
-Datum a čas:
-
-				11. listopadu 2013, 18–19:30 hodin
-
-
-
-Místo:
-
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
-
-
-
-Jazyk:
-
-				Čeština
-
-
-
-Obsah přednášky:
-90 % všech dat na světě bylo vytvořeno v posledních dvou letech. Značně se také změnila struktura a zvýšila propojenost dat, které lidstvo generuje, zpracovává a ukládá. Důsledkem toho se zrodilo mnoho alternativ k relačním databázím, které se často souhrnně označují termínem NoSQL. Jednou ze čtyř kategorií NoSQL databází jsou tzv. grafové databáze, jejichž popularita v posledních měsících a letech rapidně vzrůstá.
-Co jsou to grafové databáze a jaké problémy řeší? Jak se liší od relačních a ostatních NoSQL databází? V čem spočívají jejich výhody a nevýhody? Jaké je jejich reálné využití? Na tyto a další otázky odpoví trojice přednášejících. V úvodu večera představí Michal Bachman populární open-source grafovou databázi Neo4j v kontextu NoSQL, její vlastnosti, výhody a slabiny, datový model a dotazovací jazyk Cypher. Aleš Kropáč se poté podělí o svoje zkušenosti s jejím nasazením při zpracování dat získaných z NLP analýzy textů (propojení klíčových slov, entit a jejich vztahů), analýzy emailové komunikace, základní analýzy sociálních sítí a propojení různých SQL databází. Jan Mittner na závěr pohovoří o tom, jak využívá grafovou databázi nejpopulárnější český web se spolujízdami, Jízdomat.cz, k posilování důvěry mezi uživateli.
-Tento informatický večer je zároveň prvním oficiálním českým setkáním uživatelů a příznivců grafových databází.
+	Program
  
-Stručný životopis přednášejících:
-Michal Bachman vystudoval Computing na Imperial College London, pracoval jako softwarový vývojář a konzultant v několika společnostech a nedávno založil v Anglii firmu GraphAware, která se zabývá poradenstvím v oblasti grafových databází.
-Aleš Kropáč vystudoval učitelství matematiky a fyziky pro SŠ na MFF UK. Nyní pracuje ve společnosti Menier v Brně jako projektový manažer. Zabývá se projekty zaměřenými na zpracování textů a multimediálních dat.
-Jan Mittner vystudoval informatiku na VŠE, kde v současné době působí jako lektor a doktorand. Je spolumajitelem společnosti Vergilio a zakladatelem projektu Jízdomat.cz, který se pyšní 70 tisíci uživateli a 160 tisíci zprostředkovaných spolujízd.
- 
-Slajdy:
+PREZENTACE STUDIJNÍCH PROGRAMŮ
+Prezentace proběhnou formou přednášek ve třech kolech (všechny prezentace budou totožné), začátky: 9:00, 10:30 a 12:00. V době mezi přednáškami se můžete pohybovat v přízemí před přednáškovou místností, kde budou připraveny zajímavé workshopy nebo se jít podívat na prohlídku učeben a laboratoří.
 
 
-http://www.slideshare.net/bachmanm/neo4j-introcz
-
-Záznam:
-
-
-avc.fit.cvut.cz (po přihlášení ČVUT údaji)
-
-YouTube kanál FIT
+		Prezentace budou probíhat v Nové budově ČVUT v posluchárně T9:105 (červená).
+		 
 
 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
+WORKSHOPY VĚDECKÝCH SKUPIN A PROJEKTŮ
+
+
+		Studenti FIT vám představí vlastnoručně postavenou open source 3D tiskárnou RepRap,
+
+		můžete se seznámit s naším novým maskotem FITíkem (robot NAO),
+
+		nejen pro nadšence Android technologí zde budou také chytré brýle Google Glass, 
+
+RFID laboratoř předvede praktické útoky na kontaktní a bezkontaktní čipové karty,
+
+Hardwarová laboratoř představí další ze svých hraček,
+
+		všechny vaše další dotazy zodpoví studentky a studenti FIT v INFORMAČNÍM STÁNKU (kde si také zájemci mohou zakoupit nové fakultní tričko).
+
+Vše v přízemí Nové budovy ČVUT v průběhu celého dopoledne (cca 9:00 až 14:00 hodin).
+
+	 
+
+PROHLÍDKY UČEBEN A LABORATOŘÍ
+
+
+		Exkurze do počítačových učeben a laboratoří ve 3. patře Nové budovy ČVUT s doprovodem našich studentů po skupinkách cca 10-20 studentů budou probíhat v časech 9:00, 9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30 a 13:00 hodin. 
+
+		Exkurze po unikátní inteligentní budově Národní technické knihovny s výkladem a prohlídkou SunRay učebny, po skupinkách 10-20ti zájemců, budou probíhat v časech 9:15, 10:00, 10:45, 11:30, 12:15 a 13:00 hodin. 
+
+		Exkurze do unikátní SAGE laboratoře s velkoplošným vizualizačním zařízením v průběhu celého dne (první skupina v 9:30).
+
+		Zájemci budou scházet v přízemí Nové budovy ČVUT, kde si je vyzvednou jejich průvodci (bližší informace ma informačním stánku).
+
 
 
  
@@ -178,7 +162,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 31.1.2019, 13:21      
+      Poslední změna: 16.1.2019, 10:57      
            
                           
        

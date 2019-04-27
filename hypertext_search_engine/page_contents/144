@@ -1,4 +1,4 @@
-https://fit.cvut.cz/vyzkum/arb
+https://fit.cvut.cz/installfest
 
 
 
@@ -48,14 +48,10 @@ Média
 
 
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Kalendář
+Akce a události
+Soutěže
+Projekty
 
 
 
@@ -66,133 +62,83 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Věda » Výzkumné skupiny a laboratoře » Arbologie Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Konference pořádané a spolupořádané FIT » InstallFest Novinky    News
 
 
 
 
-AktualityObhajoby DP
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FITEuromicro DSD/SEAA 2018
+Human-Level AI 2018
+InstallFest
+LAW FIT
+LinuxDays
+P2D2
+PESW
+Prague Stringology Conference
+StringMasters
+
+Přednášky a semináře
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+InstallFest 
+
+
+
+
+
+
+
+
+InstallFest
+InstallFest je konference zaměřená na open-source operační systém Linux a příbuzná témata, která se koná každoročně v Praze. Hlavním myšlenkou této víkendové akce je sdružovat linuxové nadšence a pomoci začátečníkům s orientací v tomto operačním systému.
+Současný ročník
+
+
+Logo konference InstallFest
+
+Jedenáctý ročník konference InstallFest se koná o víkendu 2.–3. března na Fakultě elektrotechnické ČVUT na Karlově náměstí. Setkání linuxové komunity nabídne bohatý program s přednáškami a workshopy nejen na témata počítačové bezpečnosti a internetu. Mezi přednášejícími budou tradičně i zaměstnanci a studenti naší fakulty, např. Lukáš Bařinka, Tomáš Čejka, Martin Bílý či Karel Jílek. Kromě otevřených technologií nabídne konference i „otevřené jídlo“ – OpenColu. Vstupné je zdarma, ale je nutné se registrovat.
+InstallFest 2019
+Minulé ročníky
+První InstallFest zorganizovali již v roce 1999 studenti ze Studentské unie ČVUT, konkrétně z klubu Silicon Hill. Akce do roku 2005 měly podobu tzv. instalačních festivalů, kdy si účastníci za dohledu odborníků instalovali operační systém Linux. Postupně se přidávali i přednášky na témata používání tohoto sytému. Od roku 2009 má akce podobu klasické konference.
+Naše fakulta se na organizaci festivalu podílí od roku 2011. Od té doby se festival koná každoročně a jeho program se s každým dalším rokem rozšiřuje. Na stránkách z minulých ročníků najdete videozáznamy, prezentace a programy.
+
+InstallFest 2018
+Desátý ročník konference InstallFest se konal o víkendu 3.–4. března na Fakultě elektrotechnické ČVUT na Karlově náměstí. Setkání linuxové komunity nabídlo bohatý program s přednáškami a workshopy pro začátečníky i pokročilé. Mezi přednášejícími byli tradičně i zaměstnanci a studenti naší fakulty, např. Lukáš Bařinka, Petr Hodač, Miro Hrončok či Tomáš Čejka.
+InstallFest v letech 2011–2017
+InstallFest 2017
+InstallFest 2016
+InstallFest 2015
+InstallFest 2014
+InstallFest 2013
+InstallFest 2012
+InstallFest 2011
 
 Kontakt
-Granty
-Patenty
-DoktorandiZájemce o studium
-Harmonogram
-DSP Informatika Základní informace
-Informace pro nové doktorandy
-Legislativa a formuláře
-Oborová rada - ORP
-Studijní předměty
-Státní doktorská zkouška
-Témata dizertačních prací
-Obhájené dizertační práce
-Zápis do DSP Informatika
+Akci pořádá klub Silicon Hill, který je součástí Studentské unie ČVUT. Klub sídlí na Kolejích Strahov, kde zastupuje ubytované studenty, spravuje místní počítačovou síť nebo se podílí na realizaci zajímavých projektů a odborných přednášek. Konference se od roku 2017 koná v prostorách Fakulty elektrotechnické ČVUT – Karlovo náměstí 13, Praha 2.
 
-Habilitační a jmenovací řízeníObhájené habilitační práce
 
-Vědecká rada
-Výzkumné skupiny a laboratořeAplikovaná numerika a kryptologie
-Arbologie
-Centrum pro konceptuální modelování a implementace
-Číslicový návrh a spolehlivost
-Inteligentní web
-Počítačové sítě
-Paralelní a distribuované výpočty
-Pražský stringologický klub
-Výpočetní inteligence a strojové učení
-Laboratoř 3D tisku
-Laboratoř etického hackování
-Laboratoř inteligentních vestavných systémů
-Laboratoř otevřených dat
-Laboratoř zpracování obrazu
-GPU laboratoř
-Síťová a multimediální laboratoř
-Laboratoř s firmou UNICO.AI
+
+Bc. Jakub Jančička
+Hlavní organizátor konference InstallFest
+Systémový administrátor na Oddělení ICT
+
+ jakub.jancicka@fit.cvut.cz
+ TH:A-1333
 
 
 
 
+Osoba zodpovědná za obsah této stránky
 
+Bc. Jakub Jančička, jakub.jancicka@fit.cvut.czHlavní organizátor konference InstallFest
 
-Arbologie 
-Zabýváme se algoritmy pro zpracování stromových datových struktur, indexováním XML a implementací programovacích jazyků. 
- 
-V rámci skupiny se věnujeme výzkumu v oblasti teorie algoritmů pro zpracování stromových datových struktur. Příklady takových stromových struktur mohou být například abstraktní syntaktické stromy nebo XML dokumenty. Z praktických aplikací se zabýváme aplikacemi z oblastí konstrukce překladačů, zpracování strukturovaných vstupů a jejich syntaktické a sémantické analýzy a překladů, generováním kódu a návrhem a implementací programovacích jazyků.
- 
-URL
-	http://arbology.fit.cvut.cz
- 
-Vedoucí
-	Doc. Ing. Jan Janoušek, Ph.D., jan.janousek@fit.cvut.cz
- 
-Výzkumná témata vedoucího
-	stromové datové struktury, konstrukce překladačů, syntaktická analýza, indexování, atributové gramatiky
- 
-Další členové
-
-
-		prof. Ing. Bořivoj Melichar, DrSc. (vyhledávání, indexování stromů, zpracování 2D struktur)
-
-		Ing. Ondřej Guth, Ph.D. (pokrývání stromů)
-
-		Ing. Marcel Hlopko (implementace programovacích jazyků)
-
-		Ing. Jan Kurš (implementace programovacích jazyků)
-
-		Bc. Jan Milík (indexování stromů)
-
-		Bc. Robin Obůrka (indexování stromů)
-
-		Ing. Radomír Polách (indexování stromů, teorie stromových jazyků, zásobníkové automaty)
-
-		Ing. Martin Poliak (indexování stromů)
-
-		Bc. Eliška Šestáková (zpracování XML)
-
-		Ing. Jan Trávníček (vyhledávání, indexování stromů, zpracování XML, zásobníkové automaty)
-
-		Ing. Jan Žďárek, Ph.D. (zpracování 2D struktur)
-
-Výzkumná témata skupiny
-
-
-		indexování stromů
-
-		vyhledávání vzorků ve stromech
-
-		zpracování stromů
-
-		zpracování 2D a acyklických grafů
-
-		implementace programovacích jazyků
-
-Vyučované předměty - zkratky
-	PI-ARB, MI-SYP, MI-GEN, MI-RUN, BI-PJP
- 
-Články
-
-
-		Janoušek, J., Melichar, B. On Regular Tree Languages and Deterministic Pushdown Automata. In: Acta Informatica, Vol. 46, No. 7, pp. 533-547, Springer, 2009. IF=0.444
-
-		Melichar, B., Janoušek, J., Flouri, T. Arbology: Trees and Pushdown Automata. In: Kybernetika, vol. 48, No.3, pp. 402-428, 2012. IF=0.454
-
-		M Christou, M Crochemore, T Flouri, CS Iliopoulos, J Janousek, B Melichar, SP Pissis Computing all subtree repeats in ordered trees, In: Information Processing Letters, Vol. 112, No. 24, pp. 958-962, Elsevier, 2012. IF=0.547
-
-		Flouri, T., Janousek , J., Melichar, B. Subtree matching and pushdown automata. In: Computer Science and Information Systems, Vol. 7, No.2, pp. 331-357, 2010. IF=0.625
-
-		Jan Lahoda, Jan Zdárek: Simple tree pattern matching for trees in the prefix bar notation. Discrete Applied Mathematics 163: 343-351. 2014. IF=0.677
-
-		Jan Janousek, Borivoj Melichar, Radomír Polách, Martin Poliak, Jan Trávnícek: A Full and Linear Index of a Tree for Tree Patterns. In: DCFS 2014, LNCS 8614: 198-209. Springer, 2014.
-
-		Jan Travnicek, J Janousek, B Melichar Indexing ordered trees for (nonlinear) tree pattern matching by pushdown automata, In: Computer Science and Information Systems, Vol. 9, No.3, pp. 1125-1153, 2012. IF=0.625
-
-		Hlopko, M., Kurs, J., Vraný, J., Gittinger, C. On the integration of Smalltalk and Java.
-
-		Science of Computer Programming, Elsevier, 2013. IF=0.548
-
-		Poliak, M., Janousek, J., Melichar, B. Tree Compression Pushdown Automaton. In: Kybernetika, vol. 48, No.3, pp. 429-452, 2012.. IF=0.454
-
-		Jan Zdárek, Borivoj Melichar: Tree-Based 2D Indexing. Int. J. Found. Comput. Sci. 22(8): 1893-1907 2011. IF=0.42
 
 
 
@@ -225,7 +171,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 16.3.2015, 13:40      
+      Poslední změna: 25.2.2019, 14:20      
            
                           
        

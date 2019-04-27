@@ -1,167 +1,222 @@
-https://fit.cvut.cz/en/node/2901
+http://bilakniha.cvut.cz/cs/predmet2967806.html
 
 
 
 
 
+Loading...
+ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
+Výběr období:
+Následující ak. rok
+Aktuální období
+Fakulty |
+         Celoškolská nabídka volitelných předmětů |
+         Katalog předmětů ECTS
+         | Nastavení
+         | 
 
 
-česky
-english
 
 
 
-Czech Technical University in Prague
 
 
 
-Faculty of Information Technology
 
 
 
 
 
 
-Search this site
+English version
+Úvodní stránka >
+         Fakulta informačních technologií >
+         katedra číslicového návrhu >
+         Inteligentní vestavné systémy
 
-Search this site: 
 
+Inteligentní vestavné systémy
+Přihlášení do KOSu pro zápis předmětu Zobrazit rozvrh
 
 
+Kód
+Zakončení
+Kredity
+Rozsah
 
 
+MI-IVS
+KZ
+4
+1P+3C
 
 
 
+Přednášející:
+Miroslav Skrbek (gar.)
+            
+Cvičící:
+Miroslav Skrbek (gar.), Marek Danel
+Předmět zajišťuje:
+katedra číslicového návrhu
+Anotace:
 
 
+Předmět Inteligentní vestavné systémy pro magisterské studium  reflektuje současné trendy vývoje a aplikace složitých vestavných
+                  systémů s prvky umělé inteligence. Je pokročilou verzí předmětu Základy inteligentních vestavných systémů pro bakalářskou
+                  etapu. Cílem předmětu je seznámit studenty s moderním robotem humanoidního typu a naučit je vyvíjet pro něj pokročilejší aplikace.
+                  V přednáškách se studenti seznámí s principy ovládání a navigace robota, aplikačními rozhraními a nástroji pro vývoj aplikací
+                  v programovacích jazycích. Hlavní důraz je kladen na cvičení, kde studenti budou po dobu semestru vyvíjet  vlastní pokročilejší
+                  aplikace, ve kterých mohou kombinovat znalosti získané v jiných předmětech například přírodou inspirované algoritmy, algoritmy
+                  data miningu, rozpoznávání obrazu a webových technologií.
+               
 
 
-Faculty
-Prospective Students
-Partners
-Student
-Employees
-Media
+Požadavky:
 
 
+Znalost programovnání v některém z programovacích jazyků C++, Java, Python.
 
 
+Osnova přednášek:
 
-Structure
-Official notice board
-Int. relations
-Research
-History
-Academic Senate
-Contacts
-Events
 
+1. Úvod do předmětu, základní vlastnosti robota
+2. Aplikační programátorská rozhraní a simulátor robota
+3. Programové řízení pohybu a rovnováhy
+4. Manipulace s předměty
+5. Události ze senzorů a jejich zpracování
+6. Komunikační rozhraní, využití webovských zdrojů informace
+7. Aplikace neuronových sítí a metod výpočetní inteligence
+8. Navigace hlasovými povely, lokalizace zdroje zvuku
+9. Rozpoznávání jednoduchých předmětů
+10. Jednoduché metody vizuální navigace
+11. Kooperativní robotika
+12. Prezentace projektů
+13. Zápočet
 
 
+Osnova cvičení:
 
 
+V průběhu semestru budou studenti pracovat na projektu, který budou na závěr prezentovat. Projekty budou zahrnovat pokročilejší
+                  metody jako je navigace, rozpoznávání obrazu, neuronové sítě a algoritmy výpočetní inteligence, kombinace s webovskými zdroji
+                  informace apod.
+               
 
 
+Cíle studia:
 
 
- 
- › CTU » FIT  »  Novinky    News
+Cílem předmětu je rozvinout znalosti studentů v oblasti inteligentních vestavných systémů a poskytnout jim platformu pro uplatnění
+                  širokého spektra znalostí z jiných předmětů pro řešení komplexních problémů.
+               
 
 
-Laboratoř inteligentních vestavných systémů 
+Studijní materiály:
 
+Poznámka:
 
 
+Rozsah=prednasky+proseminare+cviceni:1p+3c
 
-Logo laboratoře inteligentních vestavných systémů
+Rozvrh na zimní semestr 2018/2019:
+Rozvrh není připraven
+Rozvrh na letní semestr 2018/2019:
 
-Laboratoř inteligentních vestavných systémů je zaměřena na vestavné systémy s integrovanými prvky umělé inteligence. Jejím cílem je poskytovat technické zázemí pro výuku a výzkumné projekty v oblasti inteligentních vestavných systémů a robotiky.
-Pracoviště se orientuje na řízení robotů na vyšší úrovni. Při řízení robotů využívá následující metody umělé inteligence.
 
-Rozpoznávání obrazu
-Analýza a syntéza řeči
-Zpracování informace ze senzorů
-Strojové učení
-Integrace internetových služeb
 
-O laboratoři
-Hlavním zaměřením laboratoře jsou v současné době humanoidní roboti. Laboratoř vlastní humanoidního robota NAO. Pracoviště se orientuje na řízení robotů na vyšší úrovni. Experimentuje také s kolovými roboty, implementacemi neuronových sítí na programovatelných hradlových polích (FPGA) a výkonných paralelních architekturách.
-Laboratoř je spolufinancována Evropskou unií v rámci Operačního programu Výzkum, vývoj a vzdělávání projektem „Laboratoř inteligentních vestavných systémů na FIT ČVUT v Praze“. Cílem projektu je vytvořit a technicky vybavit laboratoř podle nejmodernějších trendů.
 
 
-Loga OP VVV a MŠMT
 
-Výzkumná činnost
-Laboratoř zkoumá aplikace neuronových sítí, zejména hlubokého učení pro řízení robotů, jejich orientaci v prostoru a modelování přirozeného chování. Laboratoř se věnuje výzkumným aktivitám v řadě oblastí.
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
 
-Algoritmy výpočetní inteligence
-Neuronové sítě
-Posilované učení (reinforcement learning)
-Hluboké učení (deep learning)
-Implementace neuronových sítí na programovatelných hradlových polích (FPGA)
 
-Pedagogická činnost
-Laboratoř je technickým zázemím pro výuku předmětů a také pro bakalářské a magisterské práce studentů. Laboratoř slouží zejména studentům počítačového a znalostního inženýrství, ale je otevřená studentům všech oborů.
-V laboratoři probíhá výuka několika předmětů Katedry číslicového návrhu. Jedná se o předměty inteligentních vestavných systémů pro bakalářský a magisterský studijní program.
 
-Základy inteligentních vestavných systémů (BI-ZIVS)
-Inteligentní vestavné systémy (MI-IVS)
+Po
 
-Kontakt
-Laboratoř inteligentních vestavných systémů vede Ing. Miroslav Skrbek, Ph.D. Laboratoř sídlí v 10. patře Budovy A v místnosti TH:A-1054. Další informace jsou také na webu laboratoře.
 
 
-Ing. Miroslav Skrbek, Ph.D.
-Vedoucí Laboratoře
 
- miroslav.skrbek@fit.cvut.cz
- +420 22435 9856
- TH:A-1029
 
+Út
 
 
-Osoba zodpovědná za obsah této stránky
 
-Ing. Miroslav Skrbek, Ph.D., miroslav.skrbek@fit.cvut.czVedoucí laboratoře inteligentních vestavných systémů 
 
 
+St
 
 
- 
 
 
-Important Links
-Sitemap
-Contacts
 
+Čt
 
 
-Facebook
-Twitter
-Instagram
-YouTube
 
 
 
-Questions and comments
-webmaster@fit.cvut.cz
+Pá
 
+místnost TH:A-1048Skrbek M.12:45–14:15SUDÝ TÝDEN(přednášková par. 1)Thákurova 7 (FSv-budova A)Servitova laborkamístnost TH:A-1048Skrbek M.14:30–16:00SUDÝ TÝDEN(přednášková par. 1paralelka 101)Thákurova 7 (FSv-budova A)Servitova laborka
+místnost TH:A-1048Skrbek M.12:45–16:00LICHÝ TÝDEN(přednášková par. 1paralelka 101)Thákurova 7 (FSv-budova A)Servitova laborka
 
 
- 
 
- 
 
 
+Předmět je součástí následujících studijních plánů:
 
-      Last modified: 27.3.2019, 12:00      
-           
-                          
-       
 
+Zaměření Systémové programování, verze 2014, 2015 (volitelný předmět)
+                  
+Zaměření Webové inženýrství - verze pro ty, kteří se zapsali v roce 2014 a 2015 (volitelný předmět)
+                  
+Znalostní inženýrství - verze pro ty, kteří se zapsali v roce 2015 (volitelný předmět)
+                  
+Společný plán před přiřazením do oboru, verze pro ty, kteří se zapsali v letech 2015 (volitelný předmět)
+                  
+Znalostní inženýrství, verze 2016 a 2017 (volitelný předmět)
+                  
+Počítačová bezpečnost, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Počítačové systémy a sítě, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Návrh a programování vestavných systémů, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Informační systémy a management, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Softwarové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Webové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Společný magisterský plán před přiřazením do oboru, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Systémové programování, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Teoretická informatika, verze 2016-2017 (volitelný předmět)
+                  
+Specializace Teoretická informatika, verze 2018 (volitelný předmět)
+                  
+Znalostní inženýrství, verze 2018 (volitelný předmět)
+                  
 
 
 
 
+
+Platnost dat k 27. 4. 2019
+
+
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Provozuje Výpočetní a informační centrum ČVUT
+Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
+
+
+Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet2967806.html
+
+ Zobrazovat kódy skupin předmětů
+         
 
