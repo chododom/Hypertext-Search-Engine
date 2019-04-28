@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2010-01-13
+https://fit.cvut.cz/informaticky-vecer_2017-10-16
 
 
 
@@ -62,7 +62,7 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2009/2010 » Změna obchodního modelu IT průmyslu Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2017/2018 » Flutter.io Novinky    News
 
 
 
@@ -88,69 +88,61 @@ Ostatní akce
 
 
 
-Změna obchodního modelu IT průmyslu, aneb Jakou má Google strategii proti Microsoftu? 
+Flutter.io 
 
 
 
 
-Přednáška:
-
-				Změna obchodního modelu IT průmyslu aneb Jakou má Google strategii proti Microsoftu?
 
 
-
-Přednášející:
-
-				Mgr. Jiří Donát, Ph.D., ředitel IT pro Českou a Slovenskou republiku Sodexo Pass a.s.
-
+Flutter.io
+Tomáš Zvěřina 16. 10. od 18:00 představí Flutter.io – multiplatformní framework pro psaní Android a iOS aplikací. Přijďte do posluchárny T9:107 na první přednášku v tomto semestru z cyklu Informatických večerů FIT.
+Téma
 
 
-Datum a čas:
+Plakát přednášky Flutter.io [PDF]
 
-				13. ledna 2010, 17–19 hodin
-
-
-
-Místo:
-
-				Ballingův sál, NTK, Praha
+Flutter.io je nový framework pro tvorbu multiplatformních mobilních Android i iOS aplikací v programovacím jazyce Dart. Tento framework byl poprvé představen na konferenci Google I/O 2017. Stojí za to mu věnovat pozornost?
+O akci
+Akce je zdarma a není nutné se na ni registrovat. Přednáška je primárně určena posluchačům s žádnou předchozí znalostí probírané technologie.
 
 
+Typ akce
+Přednáška
+Přednášející
+Tomáš Zvěřina – fnx.io
+Termín
+16. října 2017, 18:00–19:30
+Místo
+Posluchárna T9:107, Nová budova ČVUT
+Thákurova 9, Praha 6
+Jazyk
+Čeština
+Záznam
+YouTube
+AVC FIT (přístupný pouze studentům a zaměstnancům ČVUT)
 
-Jazyk:
 
-				Čeština
+O přednášejícím
+Tomáš Zvěřina je Google Developer Expert na Google Cloud Platform a na programovací jazyk Dart. Také je technologickým šéfem digitální agentury Multimedia atelier s.r.o. a zakladatelem backendového studia fnx.io.
+Související obsah
+
+Témata
+Cyklus přednášek: Informatické večery FIT
+Předchozí přednáška: dreamBIG with Viktor Stískala
+Následující přednáška: Big data a data science v bankách a telekomunikacích
+Lidé
+Přednášející: Tomáš Zvěřina
+Záznam akce: Audiovizuální centrum studentů ČVUT
+Místa
+T9:107
 
 
+Osoba zodpovědná za obsah této stránky
 
- 
-Anotace přednášky: Přednáška se bude věnovat základním strategiím IT firem ve třech hlavních etapách vývoje IT: v době sálových počítačů, v době PC a v nastávající době internetových služeb. Nejprve stručně popíšeme původní obchodní model IT založený na prodeji hardware, který oboru dominoval v jeho počátcích v 50. až 70. letech minulého století. Následně se podíváme na změny na trhu v 70. letech minulého století, které vedly ke vzniku mikropočítačů, a později osobních počítačů, a díky kterým vznikl trh komerčního software.
-Budeme diskutovat vrozené nedostatky komerčního software, které vyplývají z nutnosti opakovaně prodávat stejné zboží stávajícím zákazníkům, a tudíž z potřeby inovovat i ve chvíli, kdy je již funkčnost produktu plně vyhovující (tzv. fáze „přirozené“ a „umělé“ inovace). Popíšeme hlavní prvky strategie firmy Microsoft, která dnes dominuje trhu komerčního software, a tzv. „prodejní cyklus PC trhu“, tedy současný ekosystém na trhu PC, který nutí zákazníky pravidelně obměňovat jejich existující hardware i komerční software i v době, kdy je ještě plně funkční, a to díky konstrukci zvané „fenomén morálního zastarávání“.
-Ve třetí části přednášky se podíváme na ohrožení, která pro stávající model prodeje komerčního software znamená internet. Prodiskutujeme vznik otevřeného software, základní motivace jeho tvůrců, ale i důvody, proč se otevřený software masivně neprosadil jako alternativa ke komerčnímu software. Následně se zamyslíme nad technologickými a obchodními důvody, které povedou k přechodu většinového trhu prodeje software do modelu Software jako služba. Závěrečnou diskusi pak budeme věnovat dopadům této nové podoby IT průmyslu na vybraná průmyslová odvětví, ale i na její dopady na novou roli IT v našem běžném životě.
- 
-Osnova přednášky:
+Bc. Veronika Dvořáková, veronika.dvorakova@fit.cvut.czPR referentka
 
 
-		Počátky „doby PC“ – výpočetního paradigmatu, ve kterém jsou primární data i aplikace na počítači uživatele
-
-		Počátky komerčního software
-
-		Dnešní model prodeje software a autorské práce
-
-		Nástup paradigmatu internetových služeb – přesun primárních dat na centrální úložiště a jejich spojení s aplikacemi
-
-		Zánik komerčního software a budoucí obchodní model softwarového průmyslu
-
-		Jak se Microsoftu podařilo získat trh?
-
-		Jak se podaří získat trh firmě Google? V čem bude tento trh jiný?
-
- 
-Vstupní předpoklady: Přednáška nevyžaduje žádné specifické znalosti. Výhodou je ale zájem o obor IT a chuť přemýšlet o vývoji tohoto oboru v širších souvislostech.
- 
-Anotace přednášejícího: Mgr. Jiří Donát, Ph.D., vystudoval Matematicko-fyzikální fakultu Univerzity Karlovy a doktorský obor Inženýrská informatika na Fakultě dopravní ČVUT. Pracoval nejprve v ČSAV, po roce 1989 zastával řadu manažerských funkcí v IT a telekomunikačních firmách. Mimo jiné působil jako Country Manager softwarové společnosti Lotus Development, jako Country Manager telekomunikační společnosti Nortel, jako Senior Manager konzultační společnosti Deloitte a jako Associated Director globální poradenské společnosti AT Kearney. Ve svém profesním životě pracoval na řadě IT projektů v Evropě i v Asii, mimo jiné v Indii, v Číně, v Rusku, v Saudské Arabii a v Egyptě. Napsal tři knihy z oblasti IT a řadu odborných článků. Od prosince 2009 působí jako ředitel IT pro Českou a Slovenskou republiku společnosti Sodexo Pass.
- 
-Záznam přednášky naleznete ve videoarchivu AVC.
 
 
  
@@ -182,7 +174,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 21.1.2019, 12:25      
+      Poslední změna: 15.4.2019, 10:05      
            
                           
        

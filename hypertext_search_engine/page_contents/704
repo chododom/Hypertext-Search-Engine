@@ -1,4 +1,4 @@
-https://fit.cvut.cz/media/casopis/archiv/10
+https://fit.cvut.cz/vyzkum/ddd
 
 
 
@@ -48,13 +48,14 @@ Média
 
 
 
-Tiskové zprávy
-Psalo se o nás
-Grafické podklady
-Mediatéka
-Časopis
-PR oddělení
-Propagační předměty
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
 
 
 
@@ -65,59 +66,99 @@ Propagační předměty
 
 
  
- › ČVUT » FIT  » Média » Časopis » Archiv » 10 / léto 2015 Novinky    News
+ › ČVUT » FIT  » Fakulta » Věda » Výzkumné skupiny a laboratoře » Číslicový návrh a spolehlivost Novinky    News
 
 
 
 
-Aktuální číslo
-Archiv13 / 1/2016
-12 / 1/2016
-11 / podzim 2015
-10 / léto 2015
-09 / jaro 2015
-08 / zima 2014
-07 / podzim 2014
-06 / léto 2014
-05 / jaro 2014
-04 / zima 2013
-03 / podzim 2013
-02 / zima 2011 - 2012
-01 / podzim 2011
+AktualityObhajoby DP
 
-Další časopisy ČVUT
+Kontakt
+Granty
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
 
+Habilitační a jmenovací řízeníObhájené habilitační práce
 
-
-
-
-Buď FIT – léto 2015 
-
-	 
-STAŽENÍ DOKUMENTU: zde (v nižším kvalitě pro rychlé stažení zde)
-
-
-		 
-
-
-			Tématem 10. čísla časopisu je „IT a umění (multimédia)“. Možná to vypadá na první pohled jako zvláštní spojení, ale věříme, že jsme vám přinesli spoustu zajímavých důkazů, že zdánlivě nespojitelné, dohromady skvěle funguje.
-
-			 
-
-			V aktuálním čísle se můžete začíst do rozhovoru s Jurajem Malchem z firmy ESET, poznat FIT partnery, ale i zjistit, jakou barvu mají čísla. Podnikli jsme dobrodružnou výpravu, abychom zjistili, jestli moderní pojem startup vlastně ve skutečnosti neznamená starveout a nezapomněli jsme ani na strahovskou pohádku.
-
-			 
-
-			Věříme, že články, které jsme pro vás připravili vám budou inspirací a dobrým společníkem během podzimních dní.
+Vědecká rada
+Výzkumné skupiny a laboratořeAplikovaná numerika a kryptologie
+Arbologie
+Centrum pro konceptuální modelování a implementace
+Číslicový návrh a spolehlivost
+Inteligentní web
+Počítačové sítě
+Paralelní a distribuované výpočty
+Pražský stringologický klub
+Výpočetní inteligence a strojové učení
+Laboratoř 3D tisku
+Laboratoř etického hackování
+Laboratoř inteligentních vestavných systémů
+Laboratoř otevřených dat
+Laboratoř zpracování obrazu
+GPU laboratoř
+Síťová a multimediální laboratoř
+Laboratoř s firmou UNICO.AI
 
 
-		 
 
-Kamila Pětrašová
 
-šéfredaktorka
 
- 
+
+Výzkumná skupina Číslicový návrh a spolehlivost 
+
+
+Výzkumná skupina Číslicový návrh a spolehlivost (DDD) se zaměřuje na návrh a implementaci hardwaru i softwaru pro vestavné aplikace a programovatelná zařízení. Pod skupinu spadá i několik laboratoří, které se zaměřují na část výzkumu skupiny nebo podporují praktickou výuku. Skupinu vede doc. Hana Kubátová.
+O výzkumné skupině
+Výzkumná skupina se zabývá návrhem a implementací hardwaru i softwaru pro vestavné aplikace a programovatelná zařízení (FPGA). Výzkumná skupina má k dispozici několik specializovaných laboratoří:
+
+Laboratoř počítačového inženýrství Jana Hlavičky (TH:A-1042): počítačová učebna s hardwarovými přípravky přednostně určená pro výuku bakalářských předmětů
+Laboratoř číslicového návrhu a spolehlivosti Michala Servíta (TH:A-1048): počítačová učebna s hardwarovými přípravky a osciloskopy, určená pro výuku magisterských předmětů a projekty s humanoidními roboty
+Laboratoř Inteligentních vestavných systémů systémů (TH:A-1054)
+Laboratoř monitorování síťového provozu (TH:A-951)
+Společná hardwarová laboratoř FIT-CESNET (TH:A-1056)
+Hardwarová dílna (TH:A-1058)
+
+Výzkumná činnost
+Skupina se zabývá výzkumem v oblasti číslicového návrhu, tzn. metodologií návrhu zařízení s ohledem na optimalizaci s řadou požadavků jako je velikost a rychlost, testovatelnost, parametry spolehlivosti a odolnost proti poruchám i útokům. Výzkum je zaměřen na teoretické i konkrétní praktické projekty a experimentální ověřování dílčích výsledků v laboratořích vybavených programovatelnými prostředky (FPGA) a procesory včetně profesionálního návrhového softwaru.
+Všechny vědecké publikace skupiny najdete na jejich stránkách. Výzkumnými tématy skupiny jsou:
+
+Návrh systémů odolných proti poruchám a útokům
+Randomizované algoritmy
+Synchronní a asynchronní logická syntéza
+Generování a komprese testů a vestavné diagnostické prostředky (BIST)
+Rekonfigurovatelné výpočty a FPGA akcelerátory
+Kryptanalýza a útoky postranními kanály
+Monitorování síťového provozu (on-line)
+Formální verifikace kyber-fyzikálních systémů (CPS)
+Hierachické modely spolehlivosti (Blokové modely, Markovské modely, Petriho sítě) a výpočty spolehlivostních ukazatelů
+
+Pedagogická činnost
+Výzkumná skupina také spolupracuje na výuce v bakalářském oboru Počítačové inženýrství a v magisterském oboru Návrhu a programování vestavných systémů. Díky tomu zajišťuje i zvané přednášky a exkurze v rámci těchto oborů.
+Kontakt
+Výzkumnou skupinu Číslicový návrh a spolehlivost vede doc. Hana Kubátová. Skupina sídlí v 10. patře Budovy A a spadá pod Katedru číslicového návrhu. Další informace jsou dostupné také na oficiálním webu výzkumné skupiny.
+
+
+
+doc. Ing. Hana Kubátová, CSc.
+Vedoucí výzkumné skupiny Číslicový návrh a spolehlivost
+Vedoucí Katedry číslicového návrhu
+
+ hana.kubatova@fit.cvut.cz
+ +420 22435 9840
+ TH:A-1024
+
+
+
 
 
  
@@ -149,62 +190,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 17.1.2016, 21:49      
-           
-                          
-       
-
-
-
-
-
-
-�analyzovat. A právě skloubení informatických postupů s biologickými vědami dalo vzniknout nové vědní oblasti známé pod názvem bioinformatika. Bioinformatika významným způsobem napomáhá při objevování podstaty a fungování přírody a představuje i velké naděje v boji s genetickými poruchami, nebezpečnými chorobami a dalšími výzvami dnešní společnosti.
-Nutnost udržovat biologická data, podporovat přírodovědný výzkum a jeho poznatky přenášet do lékařství, zemědělství či biotechnologií si vyžádala vznik evropské infrastruktury ELIXIR (European Life-Science Infrastructure for Biological Information), která zastřešuje celou oblast práce s bioinformatickými a life science daty. V České republice vznikl velmi aktivní uzel ELIXIR-CZ. Představíme vám vizi a plány ELIXIR a ELIXIR-CZ a možnosti zapojení do projektů pro bioinformatiky i čisté informatiky.
-Na přednášce dále bude prezentován bakalářský a magisterský studijní obor Bioinformatika, který je společným dílem VŠCHT, FIT ČVUT a AV ČR. Vyvrcholením večera bude zajímavá praktická ukázka práce bioinformatika, kterou představí Dr. Pačes. Hostem přednášky bude Ing. Robert Pergl, Ph.D., který představí zapojení výzkumé skupiny CCMi při Katedře softwarového inženýrství FIT ČVUT do ELIXIR-CZ.
- 
-Stručný životopis přednášejících:
-RNDr. Jiří Vondrášek, Ph.D., je vedoucí skupiny Bioinformatika na Ústavu organické chemie a biochemie AV ČR a ředitel národního uzlu ELIXIR-CZ. Přednáší na Univerzitě Karlově a Vysoké škole chemicko-technologické.
-Mgr. Jan Pačes, Ph.D., pracuje v Ústavu molekulární genetiky AV ČR jako vědec. Přednáší bioinformatiku na několika univerzitách v ČR i zahraničí. Je zakladatelem profesní organizace bioinformatiků FOBIA (Free & Open Bioinformatic Association). Zabývá se mimo jiné šířením genetické informace horizontálním transferem. Pro EU provádí kontrolní analýzy GMO.
-Doc. Mgr. Daniel Svozil, Ph.D., je docentem fyzikální chemie na Vysoké škole chemicko-technologické v Praze, kde vede Laboratoř informatiky a chemie a garantuje studijní obor Bioinformatika. Mezi jeho odborné zájmy patří chemoinformatika a počítačový návrh léčiv a strukturní bioinformatika nukleových kyselin.
-Prof. Ing. Jan Holub, Ph.D., je profesorem na FIT ČVUT v Praze, kde vede Výzkumnou skupinu PSC zabývající se stringologií, kompresí dat a bioinformatikou. Je také koordinátorem předmětů vyučovaných na FITu pro meziuniverzitní obor Bioinformatika.
- 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
- 
-#ITvecer 22. 2. a #Bioinformatika od odborníků z @Akademie_ved_CR a garantů stejnojmeného oboru @VSCHT+#fitcvut. https://t.co/m6JJHjJh7z
-	— FIT ČVUT (@FIT_CTU) February 18, 2016
-
-
- 
-
-
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
-
-
-
-Facebook
-Twitter
-Instagram
-YouTube
-
-
-
-Připomínky a náměty
-webmaster@fit.cvut.cz
-
-
-
- 
-
- 
-
-
-
-      Poslední změna: 13.2.2019, 15:30      
+      Poslední změna: 23.1.2019, 14:06      
            
                           
        

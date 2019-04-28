@@ -1,4 +1,4 @@
-http://cmp.felk.cvut.cz/~amavemig
+http://dsd-seaa2018.fit.cvut.cz/main/index.php?sec=keynotes
 
 
 
@@ -6,70 +6,452 @@ http://cmp.felk.cvut.cz/~amavemig
 
 
 
- 
-Home
- 
-
-
- 
- 
- 
-
-
- 
 
 
 
 
-My name is Miguel Amável Pinheiro and I'm a PhD student at the Czech Technical University in Prague and working on the Center for Machine Perception at the Faculty of Electrical Engineering.
-My main research is "Automatic analysis of light and electron microscopy neuronal data" and it is supervised by Dr. Jan Kybic.
-I'm originally a graduate from the Faculdade de Engenharia da Universidade do Porto, where I completed my Master in Electrical and Computers Engineering with a major in Telecommunications and a specialization in Multimedia Communications. I then joined the Multimedia and Telecommunications Unit at INESC Porto, where I completed my Master Thesis on Multi-Object Tracking in Video Sequences.
+Toggle navigation
 
 
-School Address
-
-Center for Machine Perception 
-Department of Cybernetics  
-Faculty of Electrical Engineering 
-Czech Technical University 
-          Karlovo namesti 13 
-          121 35 Prague, Czech Republic 
-          Room: E119
-          (plan of E building)
-          
-          School email: amavemig (at) cmp (dot) felk (dot) cvut (dot) cz
- 
-
-Publications
-
-M.A. Pinheiro, J. Kybic, P. FuaGeometric Graph Matching using Monte Carlo Tree SearchIEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017
-P. Głowacki, M.A. Pinheiro, A. Mosinska, E. Türetken, D. Lebrecht, A. Holtmaat, R. Sznitman, J. Kybic, P. FuaReconstructing Evolving Tree Structures in Time Lapse Sequences by Enforcing Time-ConsistencyIEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018
-M.A. Pinheiro, J. KybicGeometrical Graph Matching using Monte Carlo Tree SearchIEEE International Conference on Image Processing (ICIP), 2015
-E. Serradell, M.A. Pinheiro, R. Sznitman, J. Kybic, F. Moreno-Noguer, P. FuaNon-Rigid Graph Registration using Active Testing SearchIEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2015
-M.A. Pinheiro, J. KybicPath Descriptors for Geometric Graph Matching and Registration (Poster)International Conference on Image Analysis and Recognition (ICIAR), 2014
-P. Głowacki, M.A. Pinheiro, R. Sznitman, E. Türetken, D. Lebrecht, A. Holtmaat, J. Kybic, P. FuaReconstructing Evolving Tree Structures in Time Lapse SequencesComputer Vision and Pattern Recognition (CVPR), 2014
-M.A. Pinheiro, R. Sznitman, E. Serradell, J. Kybic, F. Moreno-Noguer, P. FuaActive Testing Search for Point Cloud Matching (Poster)Information Processing in Medical Imaging (IPMI), 2013
-M.A. PinheiroGraph and point cloud registration for tree-like structures: survey and evaluationPoster 2013 - 17th International Student Conference on Electrical Engineering, 2013
-P. Carvalho, M. Pinheiro, J.S. Cardoso, L. Corte-RealA Shortest Path Approach for Vibrating Line Detection and TrackingIberian Conference on Pattern Recognition and Image Analysis (IbPRIA), 2011 
- 
-
-Shared files
-
-Thesis proposal (August 2013)
-Curriculum vitae
 
 
- 
 
 
- 
-_____________________________________________________________________________________________________________________________
- 
 
 
- 
-Made by Miguel Amável Pinheiro for the Czech Technical University in Prague
- 
+Euromicro DSD/SEAA 2018
+                
+
+
+
+
+
+
+
+
+
+
+Main
+
+
+Call For Papers
+
+
+Program 
+
+
+Keynotes
+
+
+Conference Program
+
+
+Social Program
+
+
+Photo Gallery
+
+
+
+
+Venue
+
+
+Contact
+
+
+Sponsors
+
+
+
+
+DSD
+
+
+SEAA
+
+
+
+
+
+
+
+
+
+
+Euromicro DSD/SEAA 2018
+
+
+August 29 – 31, 2018Prague | Czech Republic
+
+
+
+
+
+
+
+
+Keynotes DSD & SEAA
+Ram K. KrishnamurthyHigh performance and energy efficient SoC design challenges and opportunities for the sub-10nm technology era: From AI to IoT platforms
+
+Abstract
+This keynote presents some of the prominent barriers to designing high performance and energy-efficient microprocessors and digital systems-on-chip in the sub-10nm technology regime and outlines new paradigm shifts necessary in next-generation tera-scale multi-core microprocessors and systems-on-chip. Emerging trends in SoC design for Artificial Intelligence, Machine Learning, and IoT platforms will be discussed, and key challenges in sub-10nm design are outlined, including (i) device and on-chip interconnect technology scaling projections, (ii) performance, leakage and voltage scalability, (iii) special-purpose hardware accelerators and reconfigurable co-processors for compute-intensive signal processing algorithms, (iv) fine-grain power management with integrated voltage regulators, and (v) resilient circuit design to enable robust variation-tolerant operation. Energy-efficient arithmetic and logic circuit techniques, static/dynamic supply scaling, on-die interconnect fabric circuits, ultra-low-voltage and near-threshold logic and memory circuit techniques, and multi-supply/multi-clock domain design for switching and leakage energy reduction are described. Special purpose hardware accelerators and data-path building blocks for enabling high GOPS/Watt on specialized DSP tasks such as machine learning, encryption, graphics and video/media processing are presented. Power efficient optimization of microprocessors to span a wide operating range across high performance servers to ultra-mobile SoCs, dynamic on-the fly reconfigurability and adaptation, and circuit techniques for active/standby-mode leakage reduction with robust low-voltage operability are reviewed. Specific chip design examples and case studies supported by silicon measurements and trade-offs will be discussed. Finally, emerging industry trends in neuromorphic computing will be outlined.
+Dr. Ram Kumar Krishnamurthy
+Ram K. Krishnamurthy is a Senior Research Director and Senior Principal Engineer at Intel Labs, Hillsboro, Oregon. He heads the high performance and low voltage circuits research group. In this role, he leads research in high performance, energy efficient, and low voltage circuits for microprocessors and SoCs, and has made contributions to the circuit design of various generations of Intel products, including Intel® Itanium®, Pentium4®, Core®, Atom® and Xeon® line of microprocessors and SoCs. He has been at Intel Corporation since 1997.Krishnamurthy has filed over 160 patents (115 issued), and has published 150 papers and 3 book chapters on high performance energy efficient circuits. He serves as chair of the Semiconductor Research Corporation (SRC) technical advisory board for circuits, has been a guest editor of IEEE Journal of Solid-State Circuits, associate editor of IEEE transactions on VLSI systems, and on the technical program committees of ISSCC, CICC, and SOCC conferences. He served as Technical Program Chair/General Chair for the IEEE International Systems-on-Chip Conference and presently serves on the conference’s steering committee. Krishnamurthy serves as an adjunct faculty of the Electrical and Computer Engineering department at Oregon State University, where he taught advanced VLSI design. He is a board member of the industry advisory board for State University of New York. Krishnamurthy has received the IEEE International Solid State Circuits Conference distinguished technical paper award, IEEE European Solid State Circuits Conference best paper award, outstanding industry mentor award from SRC, Intel awards for most patents filed and most patents issued, Alumni recognition award from Carnegie Mellon University, distinguished alumni award from State University of New York, MIT Technology Review’s TR35 innovator award, and recognized as a top ISSCC paper contributor. He has received two Intel Achievement Awards for pioneering high performance and energy efficient microprocessor and accelerator circuit technologies on Intel products. He is a Fellow of the IEEE and distinguished lecturer of IEEE solid-state circuits society. Krishnamurthy received his BE in electrical engineering from National Institute of Technology in India (1993), MS in electrical and computer engineering from State University of New York (1994), and PhD in electrical and computer engineering from Carnegie Mellon University (1997).
+
+Dr. Rajiv V. JoshiMemories for Ever
+
+Abstract
+Memories are the workhorse of semiconductor industry. This is more so for Servers, main processors, Internet of Things (IoT) and System on chip applications (SOC) applications and emerging applications such cognitive computing.  From neural networking perspective energy efficient logic and memories have been emphasized. This talk focuses on related to important memory circuit techniques for lowering power, improving performance and functionality in nanoscale VLSI design in the midst of variability. The usage of memories for in memory computation are brought out.
+Scaling beyond 14nm technology puts burden on memories for functionality, performance, power and yield. All the key areas of memories (SRAM, Non-Volatile memories) such as reduction in active power, leakage power, short circuit power and collision power are covered. Usage of power gating, longer channel, multi-Vt design, stacking, header-footer device techniques and other innovative methods are described for memory and peripheral logic. Novel Read/write assist techniques are key for proper functionality and such circuits are described with the intention of operations at extreme low voltages.
+Additional burden of technology is process, geometrical and environmental (Voltage and temperature) variation in devices.  This can cause variation in power, performance and functionality of memory circuits. The talk describes how key statistical techniques and new algorithms can be effectively used to analyze and minimize variability in Volatile (SRAM, DRAM etc) and Non Volatile Memories (MRAM etc). Also the talk goes beyond the memory cell to explore the world of variability in memory peripheral, and custom logic designs. We demonstrate how statistical techniques aimed at memory designs can be effectively used to better optimize the logic itself.  This increases the confidence level in the functionality and operability of the system-on-chip as a whole where model accuracies are questionable.
+Artificial intelligence (AI) which is competing with Brain Intelligence (BI) has received renewed interest due to availability of higher compute power. Such demand pushes lowering of energy efficiency and throughput improvement for both edge and data centric accelerators compared to GPUs used for convolutional neural (CNN) and Deep neural (DNN) networks. The talk covers memory solutions for CNN/DNN applications at extremely low Vmin (below 0.3V).
+Dr. Rajiv V. Joshi
+Dr. Rajiv V. Joshi is a research staff member and key technical lead at T. J. Watson research center, IBM. He received his B.Tech I.I.T (Bombay, India), M.S (M.I.T) and Dr. Eng. Sc. (Columbia University). His novel interconnects processes and structures for aluminum, tungsten and copper technologies which are widely used globally from sub-0.5µm to 14nm. He has led successfully predictive failure analytic techniques for yield prediction and also the technology-driven SRAM at IBM Server Group. He has extensively worked on novel memory designs. He commercialized these techniques. He received 3 Outstanding Technical Achievement (OTAs), 3 highest Corporate Patent Portfolio awards for licensing contributions, holds 58 invention plateaus and has over 230 US patents and over 350 including international patents. He has authored and co-authored over 190 papers. He has given over 45 invited/keynote talks and given several Seminars.  He is awarded prestigious IEEE Daniel Noble award for 2018. He received the Best Editor Award from IEEE TVLSI journal. He is recipient of 2015 BMM award. He is inducted into New Jersey Inventor Hall of Fame in Aug 2014 along with pioneer Nicola Tesla. He is a recipient of 2013 IEEE CAS Industrial Pioneer award and 2013 Mehboob Khan Award from Semiconductor Research Corporation. He is a member of IBM Academy of technology. He served as a Distinguished Lecturer for IEEE CAS and EDS society. He is Distinguished visiting professor at IIT, Roorkie. He is IEEE, ISQED and World Technology Network fellow and distinguished alumnus of IIT Bombay. He served in the Board of Governors for IEEE CAS. He serves as an Associate Editor of TVLSI. He served on committees of ISCAS 2017, ISLPED (Int. Symposium Low Power Electronic Design), IEEE VLSI design, IEEE CICC, IEEE Int. SOI conference, ISQED and Advanced Metallization Program committees. He served as a general chair for IEEE ISLPED. He is an industry liaison for universities as a part of the Semiconductor Research Corporation. Also he is in the industry liaison committee for IEEE CAS society.
+
+Prof. Dr. Henk Corporaal, and Dr. Maurice PeemenAccelerator Architectures for Deep Learning: Efficiency vs Flexibility?
+
+
+
+
+Abstract
+Deep Learning and Convolutional Neural Networks (CNNs) have revolutionized important domains like machine learning and computer vision. The huge success of deep learning accelerates research in that particular domain and thereby the complexity and diversity of state-of-the-art network models has increased significantly. This opens several challenges for CNN accelerator designers.
+
+
+Computation complexity: The various layers in CNNs perform computationally expensive, and recently more irregular operations. 
+  
+
+      Implementing convolution as General Matrix Multiplication increases the data size substantially.
+    
+
+      Sparse networks with even binary weight coefficients require a very different compute approach compared to the dense convolutions from the earlier networks.
+    
+
+
+
+Hardware efficiency: Due to the large variation of CNN model parameters across layers it is difficult to achieve a good hardware utilization.
+  
+Wasted computation: Systolic implementations often waste a lot of computations due to padding.
+Load/store efficiency: Given an on-chip memory of limited size, the accelerator should efficiently reuse on-chip data to reduce the communication volume to external memory. Advanced loop code transformations are required to achieve acceptable efficiency levels.
+Instruction set and reconfiguration: A more flexible data path can potentially meet the diverse computational requirements of various layers. However the energy/bandwidth used for instruction fetching/decoding is overhead that should be minimized. Hardware runtime configuration can potentially give additional flexibility, but the time and resource overhead are often preventing effective use.
+
+
+
+Designer efficiency: Writing code for efficient accelerators, especially when the networks are large and irregular, is becoming intractable. Advanced optimizing compilers and code generators are key in managing the increasing complexity.
+
+
+During this keynote we will go over the state-of-the-art networks and accelerator solutions. We will present our view on compute efficiency and flexibility. We demonstrate that the well-known optimization techniques form the computing industry are key to improve efficiency. We present a holistic approach that improves efficiency by algorithmic optimizations, data reuse improvements, custom accelerators, and the less obvious but very important challenges in code generation. 
+Prof. Henk Corporaal
+Henk Corporaal is Professor in Embedded System Architectures at the Einhoven University of Technology (TU/e) in The Netherlands. He has gained a MSc in Theoretical Physics from the University of Groningen, and a PhD in Electrical Engineering, in the area of Computer Architecture, from Delft University of Technology.  
+Corporaal has co-authored over 300 journal and conference papers. Furthermore he invented a new class of VLIW architectures, the Transport Triggered Architectures, which is used in several commercial products, and by many research groups. 
+His research is on low power multi-processor, heterogenous processing architectures, their programmability, and the predictable design of soft- and hard real-time systems. This includes research and design of embedded system architectures, accelerators, GPUs, the exploitation of all kinds of parallelism, fault-tolerance, approximate computing, architectures for machine and deep learning, and the (semi-)automated mapping of applications to these architectures. For further details see corporaal.org.
+Dr. Maurice Peemen
+Maurice Peemen received a MSc degree and a PhD degree in Electrical Engineering from the Eindhoven University of Technology, The Netherlands in 2011 and 2017 respectively. During his PhD his main research topics were efficiency improvements for Deep Convolutional Networks by algorithmic changes, data access optimizations, custom accelerators, and optimizing compilers. In 2015 Maurice started as Research Scientist at Thermo Fisher Scientific (formerly FEI Company) to work on high-performance microscopy workflow solutions.
+
+Ina SchaeferHow to master the universe? - Efficiently managing variant-rich systems
+
+Abstract
+Software product line engineering has gained considerable momentum in recent years, both in industry and in academia. A software product line is a family of software products that share a common set of features. Software product lines challenge traditional analysis, test and verification techniques, in their quest of ensuring correctness and reliability of software. Simply creating and analyzing all products of a product line is usually not feasible, due to the potentially exponential number of valid feature combinations. Furthermore, software product lines require that variants are developed in a well-managed fashion which is usually not the case for existing systems. Those are often obtained by copying and modifying the cloned variants such that the commonalities and differences are not (or not sufficiently) documented. This hinders efficient maintenance and evolution of the variants for future development. In this talk, I present strategies for transforming existing legacy variants into a software product line by variability mining and show how the obtained product line structure can be exploited for efficient analysis, maintenance and evolution. The strategies will be illustrated using examples from the automotive and automation domain.
+Prof. Ina Schaefer
+Ina Schaefer is full professor and head of the Institute of Software Engineering and Automotive Informatics at Technische Universität Braunschweig, Germany. She received her PhD in 2008 at Technische Universität Kaiserslautern and was a Postdoc at Chalmers University, Gothenburg, Sweden. Her research interests include constructive and analytic approaches for developing correct software systems, with a particular focus on software variability and evolution, as well as re-engineering techniques for legacy software systems. The main application areas of her research are in automotive and automation.
+
+Deepak DhunganaDigitalization Changes Everything – are we ready to face the challenges?
+
+Abstract
+Today the virtual and the real world are seamlessly interconnected. Digitalization has changed the way we work, communicate, buy or produce things. Digitalization is a challenge – but also an opportunity for those who embrace it. In this talk, I will give an overview of the key challenges in digitalization and the Siemens approach to deal with these challenges. With its holistic approach, Siemens integrates and digitalizes the entire value chain of manufacturing companies, from design, planning, engineering to production and services. Digitalization is not a topic that is there one its own and serves its own purpose, it has to fit and meet business requirements. I will be talking about these business requirements and what it means to the scientific and commercial community to tackle these requirements in the light of digitalization offensive of the companies. Is digitalization simply a buzzword, or is it leading us anywhere soon? Are we able to take advantage of the data generated by our products and services to make better decisions? Are we ready to face the challenges?
+Dr. Deepak Dhungana
+Deepak Dhungana is a senior key expert and research scientist at Siemens Corporate Technology in Vienna Austria. He received his PhD from Johannes Kepler University, Linz Austria, in the area of Software Variability Management. He was a Postdoc at Lero, the irish Software Engineering Center and at Vienna University of Technology. Dhungana has co-authored over 60 journal and  
+conference papers. Currently his research focuses on configuration technologies, particularly their application in large industrial plants. He is particularly interested in Industry 4.0 and digital transformation of production process. He is also actively involved in several large scale software engineering projects, where he keenly advocates model-driven software engineering approaches.
+
+Pavel DmitrievSEAA EBEDE Session Keynote: A/B Testing for Everyone
+
+Abstract
+At Microsoft I experienced how A/B testing grew from being occasionally used by a few teams in Bing and MSN several years ago to becoming widely used by many Microsoft products including Office, Windows, xBox, Skype, Visual Studio, and others. In some products it is already a standard required part of the software release process, helping ensure software quality, understand customer value, and make better data driven decisions. In others products it is growing steadily. At Microsoft, A/B testing is winning and will soon be part of everyone's daily job. However, when I left Microsoft to join Outreach, a startup that makes sales automation software, I got exposed to a different world. Even though Outreach provided A/B testing functionality, it was rarely used and the usage was often incorrect. While the need for trustworthy decision making through A/B testing in sales was clear, it was also clear that simply giving sales teams an A/B testing system like the one we had at Microsoft will not be enough. I learned that there is a big 
+difference between a Microsoft engineer and a sales representative, with respect to their needs for successfully using A/B testing. In this talk I will discuss the gaps. What are our experimentation platforms, tools and processes, which were built for highly trained engineers, missing to make A/B testing truly available to everyone? I will also discuss ongoing work and future research directions to fill these gaps. While required to make A/B testing a success in sales, I believe that solving these problem will also help to increase adoption and successful usage of A/B testing in the software industry.
+Pavel Dmitriev
+Pavel Dmitriev is a Vice President of Data Science at Outreach, where he works on enabling data driven decision making in sales through 
+experimentation and machine learning. He was previously a Principal Data Scientist with Microsoft's Analysis and Experimentation team, where he worked on scaling experimentation in Bing, Skype, and Windows OS. His research was presented at a number of international conferences such as KDD, ICSE, WWW, CIKM, BigData, and SEAA. The exp-growth.com website he co-founded was used by over 50 companies to evaluate and grow their experimentation practices. Pavel received a Ph.D. degree in Computer Science from Cornell University in 2008, and a B.S. degree in Applied Mathematics from Moscow State University in 2002.
+
+
+
+
+
+
+
+
+
+The page is based on Start Bootstrap templates and the title image comes from pixabay. In case of any issue, please contact the webmaster
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 - MÚVS - tajemnice
+
+06.06.2016 - MÚVS - marketing
+
+02.06.2016 - RČVUT - mzdový/á účetní
+
+27.05.2016 - RČVUT - patentový zástupce
+
+24.05.2016 - FS - více pozicí (akademičtí pracovníci)
+
+16.05.2016 - RČVUT - specialista ODV, právník
+
+16.05.2016 - FSv - vedoucí katedry hydrotechniky a katedry zdravotního a ekologického inženýrství
+
+16.05.2016 - FSv - volná místa akademických pracovníků
+
+13.05.2016 - FIT - pozice profesorů/docentů/odborných asistentů
+
+06.05.2016 - FJFI - odborný asistent v oboru aplikovaná matematika
+
+05.05.2016 - FIT - administrátor grantu
+
+28.04.2016 - UCEEB - softwarový vývojář
+
+28.04.2016 - UCEEB - oddělení diagnostiky, monitorování a inteligentní řízení budov
+
+27.04.2016 - FIT - softwarový inženýr (junior + senior)
+
+18.04.2016 - UCEEB - monitorování a diagnostika
+
+13.04.2016 - RČVUT - projektový specialista
+
+12.04.2016 - ÚTVS - odborný asistent
+
+12.04.2016 - FS - technik pro výpočetní techniku
+
+31.03.2016 - UCEEB - vývojář vláknové optiky
+
+21.03.2016 - FJFI - akademický pracovník
+
+09.03.2016 - FS - technik laboratoře
+
+09.03.2016 - FS - vývojář měřicí techniky pro mechaniku tekutin a termodynamiku
+
+09.03.2016 - FS - programátor/vývojář
+
+09.03.2016 - FS - PR pracovník
+
+08.03.2016 - RČVUT InovaJET - recepční
+
+04.03.2016 - FD ČVUT - více pozic
+
+23.02.2016 - UCEEB - obchodník - manažer pro klíčové klienty
+
+28.01.2016 - RČVUT - správce systémů Microsoft
+
+25.01.2016 - RČVUT - specialista ODV - právník
+
+11.01.2016 - FSv ČVUT - akademičtí pracovníci - více pozic
+
+22.12.2015 - UCEEB - koordinátor projektu
+
+17.12.2015 - RČVUT - vedoucí inkubátoru
+
+10.12.2015 - RČVUT - patentový zástupce
+
+25.11.2015 - FIT ČVUT - pozice profesorů/docentů/odborných asistentů
+
+25.11.2015 - FS - vedoucí Ústavu konstruování a částí strojů
+
+20.11.2015 - RČVUT - projektový specialista (Odbor pro přípravu a řízení projektů)
+
+20.11.2015 - UCEEB - vědecko-výzkumný pracovník - vývojář fotovoltaických systémů
+
+09.11.2015 - FBMI ČVUT - studijní referent pro doktorské studium
+
+27.10.2015 - FBMI ČVUT - IT pracovník
+
+19.10.2015 - UCEEB - účetní
+
+19.10.2015 - UCEEB - asistent/ka finančního oddělení
+
+12.10.2015 - FS ČVUT - výkonný ředitel Centra vozidel udržitelné mobility v Roztokách u Prahy
+
+06.10.2015 - CIIRC - více pozic
+
+06.10.2015 - CIIRC - mzdová účetní
+
+06.10.2015 - RČVUT - kvestor
+
+06.10.2015 - FSv ČVUT - technik počítačových sítí
+
+30.09.2015 - RČVUT - projektový specialista
+
+14.09.2015 - FS ČVUT - docent
+
+07.09.2015 - FIT ČVUT - Pozice profesorů/docentů/odborných asistentů
+
+27.08.2015 - FJFI ČVUT - asistent katedry jazyků
+
+13.08.2015 - FSv ČVUT - více pozic
+
+11.08.2015 - FD ČVUT - více pozic
+
+08.07.2015 - RČVUT - Ředitel Ústavu technické a experimentální fyziky Českého vysokého učení technického v Praze (ÚTEF ČVUT)
+
+08.07.2015 - RČVUT - právník
+
+29.06.2015 - CIIRC - vedoucí výzkumného oddělení
+
+20.06.2015 - MÚVS ČVUT - volné pracovní místo tajemníka/tajemnice MÚVS
+
+08.06.2015 - FSv ČVUT - více pozic
+
+21.05.2015 - KÚ ČVUT - více pozic
+
+17.05.2015 - FIT ČVUT - Pozice profesorů/docentů/odborných asistentů
+
+29.04.2015 - UCEEB ČVUT - KOORDINÁTOR/KA PROJEKTU
+
+29.04.2015 - Platforma pro energeticky efektivní výstavbu - pozice projektové/ho asistentky/a hledáme nového kolegu/novou kolegyni, který/á rozšíří projektový tým pro evropský projekt v oblasti mezinárodní spolupráce
+
+29.04.2015 - UCEEB ČVUT - Zástupce vedoucího
+
+22.04.2015 - FS ČVUT - Mzdová účetní
+
+22.04.2015 - FS ČVUT - více pozic
+
+22.04.2015 - FSv ČVUT - výběrové řízení na funkci vedoucího/vedoucí katedry urbanismu a územního plánování, katedry geotechniky a katedry železničních staveb
+
+22.04.2015 - R ČVUT - Přijme odbornou referentku/odborného referenta do pracovního poměru na dobu neurčitou
+
+16.04.2015 - FSv ČVUT - vedoucí katedry architektury
+
+10.04.2015 - VIC ČVUT - Administrátor serverů LDAP a Kerberos
+
+10.04.2015 - UCEEB ČVUT - Účetní
+
+10.04.2015 - UCEEB ČVUT - Asistentka ředitele
+
+02.04.2015 - MÚVS ČVUT - více pozic
+
+02.04.2015 - MÚVS ČVUT - 1 místo profesora/docenta – garanta studijního programu Řízení rozvojových projektů, studijního oboru Projektové řízení inovací v podniku
+
+30.03.2015 - FSv ČVUT - Správce audiovizuální techniky
+
+30.03.2015 - FSv ČVUT - Administrativní pracovník/ce
+
+26.02.2015 - RČVUT - výběrové řízení na obsazení pracovního místa ředitele Ústavu technické a experimentální fyziky Českého vysokého učení technického v Praze (ÚTEF ČVUT)
+
+26.02.2015 - UCEEB ČVUT - VĚDECKO-VÝZKUMNÝ PRACOVNÍK – VÝVOJÁŘ VLÁKNOVÉ OPTIKY
+
+26.02.2015 - UCEEB ČVUT - VĚDECKO-VÝZKUMNÝ PRACOVNÍK – MANAŽER VĚDECKO-VÝZKUMNÝCH PROJEKTŮ
+
+09.02.2015 - FSv ČVUT - více pozic
+
+23.01.2015 - FD ČVUT - Více pozic, odborní asistenti, docenti
+
+08.01.2015 - FS ČVUT - administrativní pracovník/pracovnice do hlavního pracovního poměru
+
+06.01.2015 - MÚVS ČVUT - Ředitel Masarykova ústavu vyšších studií ČVUT v Praze (MÚVS ČVUT)
+
+31.12.2014 - FIT ČVUT - obsazení míst profesorů/docentů/odborných asistentů
+
+15.12.2014 - FD ČVUT - vedoucí Ústavu logistiky a managementu dopravy, vedoucí Ústavu letecké dopravy
+
+15.12.2014 - MÚVS ČVUT - Ředitel Masarykova ústavu vyšších studií ČVUT v Praze (MÚVS ČVUT)
+
+25.11.2014 - RČVUT - Recepční na odbor vnějších vztahů
+
+07.11.2014 - UCEEB ČVUT - Návrhář elektroniky
+
+07.11.2014 - UCEEB ČVUT - Expert na fotovoltaické systémy
+
+07.11.2014 - UCEEB ČVUT - Manažer vědecko-výzkumných projektů
+
+07.11.2014 - UCEEB ČVUT - Technik - elektrikář
+
+07.11.2014 - UCEEB ČVUT - Vývojář vláknové optiky
+
+07.11.2014 - UCEEB ČVUT - Vývojář softwaru
+
+06.11.2014 - MÚVS ČVUT - Pracovník do oddělení didaktické a výpočetní techniky
+
+23.10.2014 - FIT ČVUT - Technik ICT
+
+23.10.2014 - Rektorát ČVUT - Právník odboru pro vědeckou a výzkumnou činnost
+
+06.10.2014 - FS ČVUT - více pozic
+
+06.10.2014 - MÚVS ČVUT - více pozic
+
+12.09.2014 - FSv ČVUT - Vedoucí Výpočetního a informačního centra
+
+08.09.2014 - UCEEB ČVUT - Technik - elektrikář
+
+08.09.2014 - UCEEB ČVUT - Vědecko-výzkumný pracovník – manažer vědecko-výzkumných projektů
+
+08.09.2014 - FSv ČVUT - Referentka ekonomického oddělení
+
+08.09.2014 - Kloknerův ústav ČVUT - Vedoucí oddělení mechaniky
+
+03.09.2014 - FS ČVUT - Referentka pro studium do hlavního pracovního poměru
+
+25.08.2014 - FS ČVUT - Laborant pro obsluhu měřících standů sdílení tepla
+
+06.08.2014 - FD ČVUT - vedoucí Ústavu soudního znalectví v dopravě
+
+06.08.2014 - FD ČVUT - pedagogové pro Ústav jazyků a společenských věd
+
+06.08.2014 - CIIRC ČVUT - právník / právnička junior
+
+04.08.2014 - UCEEB ČVUT - VĚDECKO-VÝZKUMNÝ PRACOVNÍK – OPERÁTOR GPR
+
+04.08.2014 - UCEEB ČVUT - TECHNIK
+
+04.08.2014 - UCEEB ČVUT - VĚDECKO-VÝZKUMNÝ PRACOVNÍK – VÝVOJÁŘ VLÁKNOVÉ OPTIKY
+
+18.07.2014 - FIT ČVUT - PR referent
+
+
+	06.10.2015 - GoodData - Junior BI Analyst
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 25.4.2019, 17:26      
+           
+                          
+       
+
 
 
 

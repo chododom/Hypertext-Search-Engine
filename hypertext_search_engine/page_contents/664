@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2013-10-21
+https://fit.cvut.cz/student/bakalar/informacni-systemy-management
 
 
 
@@ -48,10 +48,14 @@ Média
 
 
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
+Studijní
+Nováček
+Bakalář
+Magistr
+Rozvrh
+Odkazy
+Nabídky firem
+Stipendium
 
 
 
@@ -62,150 +66,68 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2013/2014 » Fuming Acid, Reverse Engineering and Cryptanalysis: Open Sesame in the 21st Century Novinky    News
+ › ČVUT » FIT  » Student » Bakalář » Studijní program Informatika » Informatika 2009-2014 » Informační systémy a management Novinky    News
 
 
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+Studijní program InformatikaO novém studijním programu Informatika
+Informatika 2015
+Informatika 2009-2014
+Bezpečnost a informační technologie
+Informační systémy a management
+Počítačové inženýrství
+Teoretická informatika
+WSI – zaměření Počítačová grafika
+WSI – zaměření Softwarové inženýrství
+WSI – zaměření Webové inženýrství
+Znalostní inženýrství
 
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+Kombinovaná forma
+Volitelné předměty
+Výuka angličtiny
+Bakalářká práce a SZZ
 
 
 
 
 
-Fuming Acid, Reverse Engineering and Cryptanalysis: Open Sesame in the 21st Century 
+Studijní obor Informační systémy a management (1802R032) 
 
+	Získané dovednosti a znalosti
+Absolventi oboru Informační systémy a management získají solidní teoretické základy informatiky, které zahrnují matematickou analýzu, logiku, lineární algebru, diskrétní matematiku, pravděpodobnost a statistiku, algoritmizaci, datové struktury, teorii jazyků a automatů, a všechny úrovně architektur ICT systémů (číslicové a analogové obvody, procesory a architektura HW stroje, operační systémy, databáze, počítačové sítě, bezpečnost, softwarové inženýrství). V oborových předmětech si pak doplní svůj odborný profil o ucelené vzdělání z oblasti ekonomicko-manažerské a nasazení informačních systémů v podnicích a organizacích. Absolventi jsou připraveni propojovat počítačové systémy s obchodními procesy tak, aby účinně a efektivně sloužily informačním potřebám podniku nebo instituce. Klíčovou roli zde hrají informace a procesy, jejich získávání a využívání. Umějí se orientovat v organizačních, technických a bezpečnostních otázkách, aby pro informační systém svého podniku mohli správně určit požadavky a podílet se na jeho návrhu, vývoji a zavádění.
 
+	Popis uplatnění v oboru
+Absolventi se uplatní jako správci či vývojáři informačních systémů či informační analytici, kteří jsou schopni s manažery a obchodními či výrobními odděleními firem spolupracovat na nasazení informačních systémů v řízení podniku.
 
+	Oborové předměty
 
-Přednáška:
 
-				Fuming Acid, Reverse Engineering and Cryptanalysis: Open Sesame in the 21st Century
+		Právo a podnikání
 
+		Objektové modelování
 
+		Softwarové inženýrství I
 
-Přednášející:
+		Softwarové inženýrství II
 
-				Timo Kasper
+		Tvorba informačních systémů
 
+		Tvorba webových aplikací
 
+		Účetnictví a finance podniku
 
-Datum a čas:
 
-				21. října 2013, 18–19:30 hodin
+	Doporučené průchody
 
 
+Pro prezenční formu
 
-Místo:
 
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
+Osoba zodpovědná za obsah této stránky: 
 
 
-
-Obsah přednášky:
-The talks sums up two recent papers (CRYPTO 2013 [1] and SAC 2013 [2]) about breaking an electronic locking system. After an introduction to (electronic) locking systems and cryptography, Timo will sum up found security flaws and vulnerabilities in commercial products for access control. Recent improvements of the open-source card emulator ‘chameleon’ for Mifare and other cards will be presented. As the main part, a recent security analysis of a widespread electronic locking system (used in banks, prisons, airports and other high security venues worldwide) is presented: The combination of reverse-engineering, side-channel analysis and mathematical cryptanalysis reveals weaknesses in the system that allow opening secured doors in seconds.
- 
-Stručný životopis přednášejícího:
-Dr.-Ing. Timo Kasper is a researcher at the HGI / Chair for Embedded Security of the Ruhr-University Bochum [3] and is co-founder of the security engineering company Kasper & Oswald GmbH [4].
- 
-Note: FIT has an Erasmus agreement with Bochum until 2015, so students and teachers can still get financial support to spend some time in Bochum.
-Contact: doc. RNDr. Josef Kolář, CSc., josef.kolar@fit.cvut.cz
- 
-[1] Fuming Acid and Cryptanalysis: Handy Tools for Overcoming a Digital Locking and Access Control System 2013 – Daehyun Strobel, Benedikt Driessen, Gregor Leander, Timo Kasper, David Oswald, Falk Schellenberg, Christof Paar CRYPTO 2013
-[2] When Reverse-Engineering Meets Side-Channel Analysis–Digital Lockpicking in Practice 2013 – David Oswald, Daehyun Strobel, Falk Schellenberg, Timo Kasper, Christof Paar Selected Areas in Cryptography 2013 (SAC 2013), Burnaby, British Columbia, Canada, August 14–16, 2013
-[3] http://emsec.rub.de/chair/_staff/Timo_Kasper/
-[4] www.kasper-oswald.com
- 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
-
-
- 
-
-
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
-
-
-
-Facebook
-Twitter
-Instagram
-YouTube
-
-
-
-Připomínky a náměty
-webmaster@fit.cvut.cz
-
-
-
- 
-
- 
-
-
-
-      Poslední změna: 31.1.2019, 12:58      
-           
-                          
-       
-
-
-
-
-
-
-dentům se tak nabízí jedinečná šance seznámit se s firmami přímo na akademické půdě. Akce je určena pro studenty všech ročníků a oborů na FIT. Akce je zdarma a bez registrace. Více informací najdete na oficiálních stránkách CoFIT.
-
-
-Typ akce
-Kariérní veletrh
-Organizátor
-Portál spolupráce s průmyslem, FIT ČVUT
-Termín
-24. října 2017, od 12:00
-Místo
-Nová budova ČVUT
-Thákurova 9, Praha 6
-Web akce
-CoFIT
-
-
-Kontakt
-Veletrh pořádá Fakulta informačních technologií ČVUT v rámci projektu Spolupráce s průmyslem. Pro více informací můžete kontaktovat referentku Ing. Lucii Kolomazníkovou.
-
-
-Ing. Lucie Kolomazníková
-Referentka
-Oddělení pro spolupráci s průmyslem
-
- lucie.kolomaznikova@fit.cvut.cz
- +420 22435 9834
- T9:341a
-
-
-
-Osoba zodpovědná za obsah této stránky
-
-Ing. Lucie Kolomazníková, lucie.kolomaznikova@fit.cvut.czReferentka Oddělení pro spolupráci s průmyslem
+                    Pavel Tvrdík, Pavel.Tvrdik@fit.cvut.cz 
 
 
 
@@ -239,7 +161,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 12.3.2019, 15:01      
+      Poslední změna: 16.1.2019, 11:06      
            
                           
        

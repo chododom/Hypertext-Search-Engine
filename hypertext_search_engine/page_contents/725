@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2016-04-04
+https://fit.cvut.cz/vyzkum/ntg
 
 
 
@@ -48,10 +48,14 @@ Média
 
 
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
 
 
 
@@ -62,91 +66,104 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » LS 2015/2016 » Pokroky v umělé inteligenci Novinky    News
+ › ČVUT » FIT  » Fakulta » Věda » Výzkumné skupiny a laboratoře » Počítačové sítě Novinky    News
 
 
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+AktualityObhajoby DP
 
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+Kontakt
+Granty
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
 
+Habilitační a jmenovací řízeníObhájené habilitační práce
 
-
-
-
-Pokroky v umělé inteligenci 
-
-
-
-
-Přednáška:
-
-				Pokroky v umělé inteligenci
-
-
-
-Přednášející:
-
-				Pavel Kordík (FIT ČVUT)
-
-
-
-Datum a čas:
-
-				4. dubna 2016, 18–19:30 hodin
-
-
-
-Místo:
-
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
-
-
-
-Jazyk:
-
-				čeština
-
-
-
-Záznam:
-
-
-avc.fit.cvut.cz (po přihlášení ČVUT údaji)
-
-YouTube kanál FIT
+Vědecká rada
+Výzkumné skupiny a laboratořeAplikovaná numerika a kryptologie
+Arbologie
+Centrum pro konceptuální modelování a implementace
+Číslicový návrh a spolehlivost
+Inteligentní web
+Počítačové sítě
+Paralelní a distribuované výpočty
+Pražský stringologický klub
+Výpočetní inteligence a strojové učení
+Laboratoř 3D tisku
+Laboratoř etického hackování
+Laboratoř inteligentních vestavných systémů
+Laboratoř otevřených dat
+Laboratoř zpracování obrazu
+GPU laboratoř
+Síťová a multimediální laboratoř
+Laboratoř s firmou UNICO.AI
 
 
 
 
-Přidejte se k nám a sdílejte pozvánku na  Facebooku a  Twitteru! #ITvecer
+
+
+Počítačové sítě 
+Naším cílem je vylepšení existujících síťových technologii a vývoj nových technologii.
  
+Pracujeme se sítěmi, komunikačními protokoly a různými typy sítí od kabelových k bezdrátovým. Zajímá nás všechno, co může posílat nuly a jedničky, co nejrychleji a nejspolehlivěji z místa A do místa B. Řešíme bezpečnost a směrování v ad-hoc sítích, rádiovou komunikaci pod horizontem (na větší vzdálenosti než maximální komunikační vzdálenost), samo-konfigurační sítě, odolné a takzvané non-selfish systémy.
+ 
+ Vedoucí
+Ing. Alexandru Moucha, Ph.D., alex.moucha@fit.cvut.cz
+ Výzkumná témata vedoucího
+síťové technologie, ad-hoc sítě, bezpečnost, rádio, bezdrátové, anténní pole
+ Další členové
 
-Obsah přednášky:
-Všimli jste si, že se ve výzkumu a praktickém nasazení umělé inteligence za posledních pár let událo mnoho zajímavého? V přednášce se podíváme pod pokličku zpráv, které se šíří médii, jako například nedávná výhra algoritmu AlphaGO, úspěchy umělé inteligence v rozpoznávání obrazu, hraní her a automatizaci různých činností, které byly donedávna doménou lidí.
-Spíše než filozofickému rozjímání nad tím, kdy umělá inteligence obsadí i vaše pracovní místo, se v přednášce budeme věnovat technickému pozadí a objevům, které tento pokrok umožnily. Ukážeme i několik zajímavých projektů z naší dílny, tedy výzkumné laboratoře, například Neural Turing Machine.
- 
-O přednášejícím:
-Pavel Kordíkvyučuje na FIT ČVUT předměty o data miningu, umělé inteligenci a strojovém učení. Koordinuje výzkum v těchto oblastech a snaží se vylepšovat propojení univerzity s praxí. About.me, LinkedIn, Twitter
- 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
- 
-Pokroky v umělé inteligenci? Přijďte 4. 4. na #ITvecer od @pavelkordik a uvidíte i #AI projekty z dílny #fitcvut. https://t.co/RfBbtPtBmz
-	— FIT ČVUT (@FIT_CTU) March 30, 2016
+
+		Ing. Viktor Černý (ad-hoc sítě, rádiové, bezdrátové, tvarování rádiových paprsků, beamforming, anténní pole)
+
+		Ing. Yelena Trofimova (ad-hoc sítě, bezpečnost, rádiové, bezdrátové)
+
+ Výzkumná témata skupiny
+
+
+		Ad-hoc sítě
+
+		Rádiové sítě
+
+		Distribuované anténní pole
+
+		Bezpečnost ad-hoc sítí
+
+		Anizotropie radiových telekomunikací
+
+ Vyučované předměty - zkratky
+MI-MTI, MI-BPS, BI-PSI, BI-ST1, BI-ST2, BI-ST3, BI-ST4, MIE-MTI, MIE-BPS, BIE-PSI
+ Články
+
+
+		PATENT: A. Moucha, V. Cerny, J. Kubr. Distributed System for Beamforming. Granted, Reg. No. 2011-25254 / 2011-785, 2011.
+
+		A. Moucha, V. Cerny. Anisotropic Antenna Collaborative Beamforming in Ad- Hoc Networks: Beyond Horizon Communication. Proceedings of the International Wireless Communications and Mobile Computing IWCMC conference, ACM, ISBN 978-1-4503-0062-9, 2010.
+
+		A. Moucha, J. Gattermayer. Cluster Discovery in Phase-Shift Beamformed Ad- Hoc and Sensor Networks. Proceedings of the International Wireless Communications and Mobile Computing IWCMC conference, IEEE, ISBN 978-1-4244- 9539-9, 2011.
+
+		A. Moucha, V. Cerny. Anisotropic Antenna Collaborative Beamforming in Ad- Hoc Networks: Beyond Horizon Communication. Proceedings of the International Wireless Communications and Mobile Computing IWCMC conference, ACM, ISBN 978-1-4503-0062-9, 2010.
+
+		A. Moucha, V. Cerny. Interference in Anisotropic Antenna Topology Controlled Ad-Hoc and Sensor Networks. Proceedings of the IEEE 2010 International Con- ference on Wireless Communications and Signal Processing WCSP, IEEE, E- ISBN 978-1-4244-7554-4, ISBN 978-1-4244-7556-8, 2010. Best paper award.
+
+		A. Moucha, V. Cerny, J. Kubr. Distributed Phase-Shift Beamformed Power Balancing in Ad-Hoc and Sensor Networks. Proceedings of the International Conference on Telecommunication Systems Management ICTSM, IEEE, ISBN 978-0-9820958-4-3, 2011.
+
+		A. Moucha, V. Cerny. A More Realistic Approach towards Ad-Hoc Networks Simulation. Proceedings of the International conference Modelling and Simulation of Systems MOSIS, ISBN 978-80-86840-51-2, 2010.
+
+		A. Moucha, V. Cerny. Interference in Ad-Hoc Wireless Networks. Proceedings of the CVUT Poster, 2009.
+
 
 
  
@@ -178,7 +195,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 14.2.2019, 11:47      
+      Poslední změna: 21.1.2019, 16:12      
            
                           
        

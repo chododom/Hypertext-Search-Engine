@@ -1,4 +1,4 @@
-https://fit.cvut.cz/student/bakalar/softwarove-inzenyrstvi
+https://fit.cvut.cz/fakulta/pravidelne-akce/jsdevmeetups/2018-04-24
 
 
 
@@ -48,14 +48,10 @@ Média
 
 
 
-Studijní
-Nováček
-Bakalář
-Magistr
-Rozvrh
-Odkazy
-Nabídky firem
-Stipendium
+Kalendář
+Akce a události
+Soutěže
+Projekty
 
 
 
@@ -66,68 +62,84 @@ Stipendium
 
 
  
- › ČVUT » FIT  » Student » Bakalář » Studijní program Informatika » Informatika 2009-2014 » Softwarové inženýrství Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » jsDev Meetups » Google Apps Script = G Suite (automatizace || integrace || rozšíření) Novinky    News
 
 
 
 
-Studijní program InformatikaO novém studijním programu Informatika
-Informatika 2015
-Informatika 2009-2014
-Bezpečnost a informační technologie
-Informační systémy a management
-Počítačové inženýrství
-Teoretická informatika
-WSI – zaměření Počítačová grafika
-WSI – zaměření Softwarové inženýrství
-WSI – zaměření Webové inženýrství
-Znalostní inženýrství
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
 
-Kombinovaná forma
-Volitelné předměty
-Výuka angličtiny
-Bakalářká práce a SZZ
-
-
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
 
 
 
-Studijní obor Softwarové inženýrství (1801R040) 
-
-	Získané dovednosti a znalosti
-Absolventi oboru Softwarové inženýrství získají solidní teoretické základy informatiky, které zahrnují matematickou analýzu, logiku, lineární algebru, diskrétní matematiku, pravděpodobnost a statistiku, algoritmizaci, datové struktury, teorii jazyků a automatů, a všechny úrovně architektur ICT systémů (číslicové a analogové obvody, procesory a architektura HW stroje, operační systémy, databáze, počítačové sítě, bezpečnost, softwarové inženýrství). V oborových předmětech si pak doplní svůj odborný profil o znalost všech fází života softwarových systémů (návrh, vývoj a testování, nasazení, údržba a inovace). Důležitou součástí studia je též řízení softwarových projektů a realizačních týmů. Důraz je kladen na týmové projekty, ve kterých si studenti prakticky vyzkouší různé role v projektovém týmu při návrhu i realizaci rozsáhlejších softwarových systémů. Studenti se teoreticky i prakticky seznámí s formálními notacemi, metodikami návrhu a realizace (včetně technik agilního programování) a podpůrnými nástroji. Obor je zaměřen na praktické osvojení si metodik a nástrojů používaných během životního cyklu softwarových systémů.
-
-	Popis uplatnění v oboru
-Absolventi oboru SI ponejvíce naleznou praktické uplatnění jako programátoři a členové vývojových a realizačních týmů v softwarových firmách, mohou ale také pracovat jako správci větších podnikových systémů nebo v odděleních velkých společností (jako jsou telekomunikační operátoři, finanční ústavy, automobilky, státní správa, …), která mají na starosti komunikaci s dodavateli specializovaných softwarových systémů.
-
-	Oborové předměty
 
 
-		Efektivní algoritmy
-
-		Grafové algoritmy a základy teorie složitosti
-
-		Objektové modelování
-
-		Softwarové inženýrství I
-
-		Softwarové inženýrství II
-
-		Softwarový týmový projekt I
-
-		Softwarový týmový projekt II
+Google Apps Script = G Suite (automatizace || integrace || rozšíření) 
 
 
-	Doporučené průchody
 
 
-Pro prezenční formu
 
 
-Osoba zodpovědná za obsah této stránky: 
 
 
-                    Michal Valenta, Michal.Valenta@fit.cvut.cz 
+Google Apps Script = G Suite (automatizace || integrace || rozšíření)
+Přijďte 24. 4. na přednášku s názvem Google Apps Script = G Suite (automatizace || integrace || rozšíření). Ivan Kutil představí možnosti pro rozšíření Google aplikací, integraci služeb a automatizaci práce v G Suite. Další přednáška z cyklu jsDev Meetups se koná od 18:30 v posluchárně T9:111. Na akci je nutné se zaregistrovat.
+Téma
+Google Apps Script je nástroj pro rozšíření Google aplikací, integraci služeb a automatizaci práce v G Suite. K dispozici je od roku 2009 a za tu dobu prošel dlouhou cestu, která není stále u konce, a má před sebou velkou budoucnost. Pomocí on-line editoru, jazyka JavaScript a připravených funkcí vázaných na Google API je téměř kdokoliv schopen vytvořit rychlou aplikaci či skript. Nedávno se přidala také podpora pro tvorbu botů v Hangouts Chat API.
+O akci
+Akce je zdarma, ale je nutné se zaregistrovat na . Přednáška je určena pro posluchače se základní znalostí programovacího jazyka JavaScript.
+
+
+Typ akce
+Přednáška
+Přednášející
+Ivan Kutil – AppSatori
+Termín
+24. dubna 2018, 18:30–20:30
+Místo
+posluchárna T9:111, Nová budova ČVUT
+Thákurova 9, Praha 6
+Jazyk
+čeština
+Záznam
+nebude pořízen
+Web akce
+Ivan Kutil – Google Apps Script = G Suite(automatizace || integrace || rozšíření)
+
+
+O přednášejícím
+Ivan Kutil patří k nejzkušenějším odborníkům na firemní služby Google v České republice. Profesionálně se těmto technologiím věnuje od roku 2008, kdy začal na zakázku programovat první iGoogle Gadgety. V roce 2011 spoluzaložil společnost AppSatori, která je lídrem v oblasti zakázkového vývoje automatizačních řešení pro G Suite. Zde má na starosti vývoj a konzultace řešení postavených na Google Cloud.
+Od roku 2013 je zařazen do elitního programu Google Developer Expert na technologii Google Apps Script. Své znalosti prezentuje na českých a zahraničních konferencích nebo formou článků na svém blogu. V poslední době se zajímá také o témata spojená s Machine Learningem.
+Související obsah
+
+Témata
+Cyklus přednášek: JavaScript Developer Meetups
+Předchozí přednáška: Moderní webová architektura založená na JavaScriptu a API
+Následující přednáška: ClojureScript
+Lidé
+Přednášející: Ivan Kutil
+Místa
+T9:111
+
+
+Osoba zodpovědná za obsah této stránky
+
+Ing. Lukáš Janeček, lukas.janecek@fit.cvut.czOrganizátor jsDev Meetups
 
 
 
@@ -161,7 +173,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 16.1.2019, 11:04      
+      Poslední změna: 11.5.2018, 11:51      
            
                           
        

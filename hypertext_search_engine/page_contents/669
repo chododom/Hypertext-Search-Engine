@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2019-02-25
+https://fit.cvut.cz/phd_skolitel_jirina
 
 
 
@@ -48,10 +48,14 @@ Média
 
 
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
 
 
 
@@ -62,91 +66,133 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » LS 2018/2019 » Začněte profesní kariéru v CERN Novinky    News
+ › ČVUT » FIT  » Fakulta » Věda » Doktorandi » Témata dizertačních prací » Marcel Jiřina Novinky    News
 
 
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+AktualityObhajoby DP
 
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+Kontakt
+Granty
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
 
+Habilitační a jmenovací řízeníObhájené habilitační práce
 
-
-
-
-Začněte profesní kariéru v CERN 
-
+Vědecká rada
+Výzkumné skupiny a laboratoře
 
 
 
 
 
-Začněte profesní kariéru v CERN
-Přijďte si 25. února poslechnout přednášku o pracovních možnostech v Evropské organizaci pro jaderný výzkum (CERN). Jaroslava Schovancová a Jarmila Litras vám představí toto největší a nejuznávanější centrum vědeckého výzkumu jako zaměstnavatele jak pro technické, tak i netechnické obory. Přednáška se uskuteční v rámci cyklu Informatické večery FIT od 18:00 v posluchárně T9:107.
-Téma
+doc. RNDr. Ing. Marcel Jiřina, Ph.D. 
+
+Pracoviště
+ČVUT FIT, Katedra aplikované matematiky, děkan
+Osobní stránky
+https://usermap.cvut.cz/profile/jirinmar/
+E-mail
+marcel.jirina@fit.cvut.cz
 
 
-Začněte profesní kariéru v CERN [PDF]
+Analýza přesnosti snímání hloubkových map z více čidel
 
-Chcete, aby vaše práce pomáhala odhalovat, z čeho se skládá náš vesmír a jak náš svět funguje? Zauvažujte o kariéře ve Švýcarsku. Dvě české zaměstnankyně Evropské organizace pro jaderný výzkum (CERN), nejvýznamnější a největší laboratoře zkoumající mikrosvět částicové fyziky, představí tuto organizaci jako zaměstnavatele pro různé technické a netechnické obory. Přijďte diskutovat o možnostech vašeho uplatnění a zjistit, jak v CERN uspět.
-O akci
-Akce je zdarma a bez registrace. Obdobná akce proběhne opakovaně, a to v dopoledních hodinách 25. února na FJFI ČVUT, 26. února na MFF UK a na dalších místech. Více o plánovaných přednáškách najdete na webových stránkách Careers at CERN.
+Analýza přesnosti snímání hloubkových map z více čidel
+Analysis of Accuracy of Depth Maps from Multiple Sensors
+
+Hloubkové mapy jsou snímky, kde intenzita jasu odpovídá vzdálenosti. Přesnost určení vzdálenosti čidlem je závislá na vzdálenosti snímaného objektu. Obecně platí, že čím je objekt blíž, tím je přesnost vyšší a naopak. Současně vzdálenější objekty jsou reprezentovány menším počtem pixelů a tedy i přesnost rozlišení je menší.
+Cílem práce je prozkoumat možnosti zvyšování přesnosti hloubkových map použitím dvou a více senzorů. Výzkum by se měl zaměřit na analýzu různých vzájemných uspořádání čidel vůči sobě. Výsledkem by měla být exaktně podložená analýza a návrh algoritmů, které budou zohledňovat získané poznatky a na jejich základě budou zpřesňovat požadované hloubkové mapy.
+
+
+Depth maps are images where the intensity of the brightness corresponds to the distance. The accuracy of determining the distance is depends on the target distance. Generally speaking, the closer an object, the higher is the accuracy and vice versa. Simultaneously, distant objects are represented by a smaller number of pixels and thus the accuracy of the resolution is lower.
+The aim is to explore the possibility of increasing the accuracy of the depth maps using two or more sensors. The research should focus on the analysis of different mutual arrangement of sensors to one another. The results should be well-founded on the scientific analysis and new algorithms that will refine the desired depth maps based on the gained knowledge should be designed.
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 26.4.2019, 10:34      
+           
+                          
+       
+
+
+
+
+
+
+lou znalostí FPGA, paralelních algoritmů a architektur.
+
 
 Typ akce
 Přednáška
 Přednášející
-Mgr. Jaroslava Schovancová, Ph.D. – CERN
-Jarmila Litras – CERN
+Viktor K. Prasanna – University of Southern California (USC)
 Termín
-25. února 2019, 18:00–19:30
+9. listopadu 2018, 11:00–12:00
 Místo
-Posluchárna T9:107, Nová budova ČVUT
-Thákurova 9, Praha 6
+Zasedací místnost TH:A-1455, Budova A
+Thákurova 7, Praha 6
 Jazyk
-Čeština
+Angličtina
 Záznam
-Bude pořízen
+Nebude pořízen
 
-O přednášejících
-Jaroslava Schovancová a Jarmila Litras pracují v Evropské organizaci pro jaderný výzkum (CERN) ve Švýcarsku. CERN je největší a nejuznávanější centrum vědeckého výzkumu na světě. Jsou tu jedny z největších a nejkomplexnějších vědeckých nástrojů, které se používají ke studiu základních složek hmoty.
-Jaroslava Schovancová
 
-Mgr. Jaroslava Schovancová, Ph.D., studovala fyziku a informatiku na Matematicko-fyzikální fakultě UK. Zájem o distribuované výpočty ji zavedl od magisterského studia Astronomie a astrofyziky přes doktorské studium Subjaderné fyziky až do CERN. Tady se jako kmenový zaměstnanec na pozici Computing Engineer v CERN IT zabývá různými aspekty distribuovaných výpočtů nejen na globální počítačové infrastruktuře – Worldwide LHC Computing Grid.
-
-Jarmila Litras
-
-Jarmila Litras vystudovala management nejdříve v České republice a následně ve Francii. V CERN pracuje od roku 2014 jako administrativní asistentka v personálním oddělení.
-
+O přednášejícím
+Viktor K. Prasanna je předsedou pro technické obory v nadaci Charles Lee Powell na Ming Hsieh Department of Electrical Engineering a profesorem informatiky na University of Southern California (USC). Na UCS je také ředitelem Center for Energy Informatics a vede FPGA a Data Science Lab. Jeho výzkumné zájmy zahrnují paralelní a distribuované výpočty, návrh akcelerátorů, rekonfigurovatelné architektury a algoritmy a vysoce výkonné výpočty.
+V letech 2003–2006 působil jako šéfredaktor IEEE Transactions on Computers a v současné době je šéfredaktorem časopisu Parallel and Distributed Computing. Prasanna byl zakládajícím předsedou technické komise IEEE Computer Society on Parallel Processing. Je řídícím spolupředsedou mezinárodního sympozia IEEE Parallel and Distributed Processing a řídící předseda mezinárodní konference IEEE on High Performance Computing.
+Jeho práce získala nejlepší ocenění na předních fórech v oblasti paralelních výpočtů, HPC a FPGA, včetně Computing Frontiers, International Parallel and Distributed Processing Symposium a ACM International Symposium on FPGAs. Je členem IEEE, ACM a American Association for Advancement of Science (AAAS). V roce 2009 obdržel ocenění za Outstanding Engineering Alumnus od Pennsylvania State University. V roce 2015 získal cenu W. Wallace McDowell od IEEE Computer Society za příspěvky k rekonfigurovatelným počítačům.
 Související obsah
 
-Témata
-Cyklus přednášek: Informatické večery FIT
-Předchozí přednáška: Doménově specifické jazyky s JetBrains MPS
-Následující přednáška: Private Cloud – Pokroky v síťové infrastruktuře
 Lidé
-Přednášející: Jaroslava Schovancová, Jarmila Litras
-Záznam akce: Audiovizuální centrum studentů ČVUT
+Přednášející: Viktor K. Prasanna
 Místa
-T9:107
+TH:A-1455
 
 
 Osoba zodpovědná za obsah této stránky
 
-Bc. Veronika Dvořáková, veronika.dvorakova@fit.cvut.czPR referentka
+doc. Ing. Hana Kubátová, CSc., hana.kubatova@fit.cvut.czOrganizátorka přednášky
 
 
 
@@ -180,7 +226,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 1.3.2019, 14:45      
+      Poslední změna: 7.11.2018, 14:42      
            
                           
        

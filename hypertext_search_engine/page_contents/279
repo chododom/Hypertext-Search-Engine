@@ -1,4 +1,14 @@
-https://fit.cvut.cz/en/sitemap
+https://casopis.fit.cvut.cz/deni-na-fit/nova-laborator-zpracovani-obrazu-je-otevrena/
+
+
+
+
+
+
+ 
+
+
+Skip to main content
 
 
 
@@ -6,26 +16,8 @@ https://fit.cvut.cz/en/sitemap
 
 
 
-česky
-english
 
-
-
-Czech Technical University in Prague
-
-
-
-Faculty of Information Technology
-
-
-
-
-
-
-Search this site
-
-Search this site: 
-
+Toggle navigation
 
 
 
@@ -36,13 +28,44 @@ Search this site:
 
 
 
+Téma 
 
-Faculty
-Prospective Students
-Partners
-Student
-Employees
-Media
+1/2018 – Historie ČVUT
+3/2017 – Internet of Things
+2/2017 – Sociální sítě
+1/2017 – Historie IT
+Archiv
+
+
+Rubriky 
+
+Aktuální dění na ČVUT
+Aktuální dění na FIT
+Fiťácké projekty
+Osobnost
+Pozvánky
+Partneři FIT
+Technologie
+Téma
+Tvorba
+Volný čas
+
+Filmové tipy
+Herní tipy
+Knižní tipy
+Mensa úlohy
+Sport
+Ostatní
+
+
+
+
+O časopisu
+ 
+
+
+
+
 
 
 
@@ -53,223 +76,169 @@ Media
 
 
  
- › CTU » FIT  » Sitemap Novinky    News
 
+Nová Laboratoř zpracování obrazu je otevřena!
 
-Mapa stránek
+ 1. 3. 201718. 7. 2018  Veronika Dvořáková
 
-
-Hlavní menuFacultyStructureDepartmentsDepartment of Theoretical Computer Science
-Department of Software Engineering
-Department of Digital Design
-Department of Computer Systems
-Department of Applied Mathematics
-Department of Information Security
-Programming Research Lab
-
-Scientific Council
-Disciplinary Committee
-Dean’s OfficeOffice of Public Relations
-
-
-Official notice boardSchedule and Timetable
-Study Regulations
-Bachelor Programme
-Master Programme
-PhD Programme
-Admission Info
-
-Int. relations
-ResearchAnnouncements
-How to become a Ph.D.
-Important dates
-Basic information about the Informatics DSP
-Board of the doctoral study program Informatics (BDSP)
-Comprehensive Doctoral Examination
-Information for new Ph.D. students
-Legislation at FIT (DSP)
-Study modules
-Enrolment
-Forms Download
-Research groupsApplied Numerics and Cryptology
-Arbology
-Centre for Conceptual Modelling and Implementation
-Computational Intelligence
-Digital Design & Dependability
-Networking
-Parallel and Distributed Computing
-Prague Stringology Club
-Web Intelligence
-Network Visualization
-3D Print
-Open Data
-
-
-History
-Academic Senate
-Contacts
-EventsConferences Organized and Co-organized by FITEuromicro DSD/SEAA 2018
-Human-Level AI 2018
-InstallFest2019
-2018
-
-LinuxDays2017
-2018
-
-P2D22019
-2018
-
-PESWPESW 2018
-
-Prague Stringology Conference2018
-2017
-
-StringMasters2018
-2017
-
-
-Informatics EveningsCurrent SemesterUser Authentication—Passwords and Beyond
-
-Previous Semesters
-Contact
-
-jsDev MeetupsReactive type-safe WebComponents
-
-Strategy in the ICT industry on case studiesLibor Malý: How we revolutionized the job seekers business
-Vít Horký:Brand Embassy
-Jiří Matela: How a student diploma thesis became the company worth millions of Euros
-Miloš Endrle: You can't win if you don't play
-Mirek Černý: How making small steps lets us achieve big things
-Jakub Nešetřil: Why Startups Succeed Against All Odds
-Pavel Sodomka: My personal journey
-Petr Ocásek: How to succeed against big players?
-
-Prof. Svoboda Series of Distinguished LecturesRaimund UbarComplexity, Accuracy, Dependability – the Challenges in Testing of Digital Systems
-
-Yervant ZorianYield & Robustness in Today’s Advanced Technology Nodes
-
-Edmond JonckheereQuantum Adiabatic Computation, where the mathematics is trying to tell us something
-
-Sartaj SahniGreen Computing
-
-Maciej CiesielskiEvolution of Electronic Design Automation Tools and Algorithms
-
-Jean-Luc GaudiotEHA: The Extremely Heterogeneous Architecture
-
-W. Eric WongCombinatorial Testing and Its Applications
-
-Antonín Svoboda
-
-Czech Scala Enthusiasts
-Special Lectures10 Things I Wish I Knew Before Starting a Data-science Career
-Accelerating Data Science at the Edge Using FPGAs
-
-Open DaysThe 2019/2020 Academic Year
-Previous Academic Years
-Contact
+Aktuální dění na FIT, Fiťácké projekty 
 
 
 
-Prospective StudentsAdmission InfoDocuments
-How to Apply
-Fees
-Useful Links
+Ve čtvrtek 23. února byla na FIT ČVUT v Praze slavnostně otevřena nová Laboratoř zpracování obrazu. Laboratoř při této příležitosti dostala přiléhavý název ImproLab. Nenechte se zmást, nejedná se o žádnou improvizaci, ale o zkratku pro Image Processing. Vše proběhlo za účasti děkana fakulty prof. Ing. Pavla Tvrdíka, CSc. a vedoucího laboratoře doc. RNDr. Ing. Marcela Jiřiny, Ph.D. Přípravky v laboratoři pak ukázal Ing. Jakub Novák, který mnoho z nich sám přivedl k životu. A co nového nejenom naší fakultě laboratoř přinese? Vyzpovídali jsme ty nejpovolanější a to právě Marcela Jiřinu a Jakuba Nováka.
+ 
+Co vás vedlo k myšlence tento projekt nové laboratoře realizovat?
+Marcel Jiřina: V dnešní době jsme schopni velmi snadno zachycovat vizuální informaci v podobě obrazu a videa. Je to dáno zejména zvládnutou technologií, což vedlo k jejímu masovému rozšíření a dostupnosti. Zachycený obraz pro nás představuje velmi bohatý a komplexní zdroj informací, který stojí za to analyzovat. Vymýšlet nové možnosti a postupy, jak získávat informace z obrazových dat, je proto velmi potřebné a nutné. Vybudováním laboratoře na FIT jsme přirozeně rozšířili možnosti využití informačních technologií do oblasti zpracování obrazu pomocí metod data miningu a umělé inteligence.
+ 
+Kolik to celé stálo, využili jste k tomu např. nějakého grantu?
+Marcel Jiřina: Laboratoř byla vybudována z prostředků Institucionálního projektu ČVUT ve výši 440 tis. Kč a z vlastních prostředků FIT ve výši 220 tis. Kč. Celkové náklady na vybudování laboratoře byly tedy 660 tis. Kč. Fakulta pak také poskytla pro laboratoř svoje prostory v 12. patře budovy A.
+ 
 
-Why FIT
-BachelorAdmission Procedure
-Conditions for the Admission
-Timetable
-Entrance Examination
-Study Branches
-Open Days
-Contact
+ 
+Můžete přiblížit některé z technologií, kterými laboratoř disponuje a zmínit jejich praktické uplatnění?
+Jakub Novák: Laboratoř obsahuje zejména průmyslové kamery rozličných vlastností, jakými jsou například vysoké rozlišení, vysoká frekvence snímání či citlivost v infračerveném spektru. Další nezbytností, kterou v laboratoři máme, je prvotřídní optika a průmyslové osvětlení. Takové technologie se využívají v průmyslu, kde je zapotřebí, aby kamera fungovala v režimu 24/7 bez problémů. Z konkrétních aplikací bych rád zmínil řádkovou kameru (skener), aktuálně používanou v projektu pro detekci vad transparentních materiálů (např. skel), a dále kamerové hloubkové senzory používané aktuálně v projektu pro analýzu chování zákazníků (o praktickém využití tohoto senzoru v obchodě jste mohli vidět reportáž na ČT, která byla v laboratoři pořízena v den akce, pozn. red.).
+ 
+Co si od laboratoře slibujete a pro koho je určena? Jaké nové příležitosti přinese studentům FIT?
+Marcel Jiřina: Laboratoř je určena pro výzkumné aktivity všech, kteří se chtějí zpracováním obrazu zabývat. Zejména je vhodná pro hledání pokročilých metod zpracování obrazových dat a navrhování, testování a praktické ověřování nových postupů při řešení komplexních úloh zpracování obrazu. Pro studenty FIT by měla být laboratoř zázemím, kde mohou propojit své dosavadní znalosti z oblasti předzpracování dat, data miningu a umělé inteligence pro řešení praktických úloh, se kterými se mohou setkat v budoucím zaměstnání.
+ 
 
-MasterAdmission Procedure
-Conditions for the Admission
-Timetable
-Entrance Examination
-Study Branches
-Open Days
-Contact
+ 
+Bude v laboratoři probíhat i výuka nějakých předmětů?
+Marcel Jiřina: Ano, v současné době připravujeme nový volitelný předmět Strojové vidění a zpracování obrazu, který by měl seznámit studenty s kamerovou technikou. Zejména se bude věnovat zpracování obrazu založeném na pokročilých metodách vytěžování dat.
+ 
+Jsou už teď nějaké příklady projektů, které studenti v laboratoři řeší?
+Jakub Novák: V současné chvíli se již v laboratoři paralelně řeší několik projektů. Na většině z nich se podílejí studenti všech typů studia (bakalářské, magisterské i doktorské). Jako příklady bych uvedl projekt pro detekci vad transparentních materiálů, projekt na analýzu chování zákazníků či projekty pro detekci vzdálenosti a rozpoznávání vozidel.
+ 
+Plánujete i nějakou mezioborovou spolupráci či ještě lépe, nějaké společné projekty s aplikační sférou?
+Jakub Novák: Laboratoř pro zpracování obrazu nikdy nemůže být pouze jednooborovou záležitostí, neboť potřebné znalosti nejsou pouze z oblasti informatiky a programování, ale také z oblasti matematiky, fyziky, optiky a hardwaru jako takového. Spolupráci tedy nejen plánujeme, ale již se přímo s aplikační sférou řeší. Konkrétně se jedná asi o čtyři projekty. Další mezioborové projekty probíhají formou studentských prací.
+ 
 
-PhD
-Lifelong Learning
-Exchange programme
-Open DaysThe 2019/2020 Academic Year
-Previous Academic Years
-Contact
+ 
+Můžete říct o jaké konkrétní projekty se jedná a s kým?
+Jakub Novák: Ze zmíněných čtyř projektů se jedná hlavně o spolupráci s Komerční bankou, zlatým partnerem fakulty, na projektu analýzy chování zákazníků na pobočkách. Dále spolupracujeme se společností HS Project na detekci vad transparentních materiálů, o které již byla řeč. Rozjíždějí se také projekty s firmou Foxconn na kontrolu správného osazení počítačových skříní součástkami. V neposlední řadě bych zmínil spolupráci s Ústavem molekulární genetiky AV ČR, kde jim pomáháme automaticky identifikovat částice v obrazech buněk z elektronového mikroskopu.
+ 
+Kromě projektů inspirovaných praktickým zadáním od firem, jaký vidíte výzkumný potenciál laboratoře?
+Marcel Jiřina: Potenciál pro výzkumná témata zde je, protože při řešení řady praktických úloh se mnohdy narazí na problémy, které přesahují známý rámec poznání, a je třeba jít dál. To vytváří prostor pro zajímavá témata dizertačních prací, např. problém identifikace zboží v ruce zákazníka se ukazuje jako netriviální záležitost, která není uspokojivě vyřešena.
+ 
+
+ 
+Foto: Jiří Ryszawy, VIC ČVUT a Veronika Dvořáková, FIT ČVUT
+SdíletFacebook0Google+0Twitteremail 
 
 
-PartnersGolden Partners
-Silver Partners
-Bronze Partners
-Golden Sponzors
-Silver Sponzors
-Bronze Sponzors
 
-StudentOffice of StudyContact, Office Hours
-Schedule and Timetable2018/2019 Winter Semester
-2018/2019 Summer Semester
 
-Forms
-Study Regulations
-KOS Tutorials
-Where to Find Classrooms
 
-Bachelor ProgrammeBachelor Programme
-Computer Science
-Computer Security and Information Technology
-Web and Software Engineering, specialization Software Engineering
-Bachelor thesis and SFE
 
-Master ProgrammeSoftware Engineering
-Computer Security
-Computer Systems and Networks
-Design and Programming of Emebedded Systems
-Master thesis and State Final Examination
-
-Timetable
-Offers for students
-
-EmployeesTelephone Directory
-Information about FIT computer network
-Timetable
-
-Media
- 
 
 
  
 
 
-Important Links
-Sitemap
-Contacts
+
+Veronika Dvořáková
+
+              Aktivistka nejen na fakultních sociálních sítích, ale také na všech jejich akcích a dění pro studenty, zaměstnance, zájemce o studium i veřejnost. Jinak to ani nejde, jelikož na FIT ČVUT již několikátým rokem pracuji na PR oddělení. Ještě ve školních letech, která dala z koníčku vzniknout mé současné profesi, jsem pomohla zrodu tohoto časopisu, tradici fakultních narozenin nebo divadelního spolku. Se spolužáky jsem také zakladatelem Seznamováku FIT, který pomáhá prvákům se vstupem na naši fakultu. Kontaktovat mě můžete na veronika.dvorakova@fit.cvut.cz.          
 
 
 
-Facebook
-Twitter
-Instagram
-YouTube
+
+
+Navigace pro příspěvek
+ FIT Párty 2017Matematika na FITu: Jak probíhá výuka a příprava (nejen) na přijímačky? 
 
 
 
-Questions and comments
-webmaster@fit.cvut.cz
 
 
+
+aktuální téma 
+
+  Nejnovější příspěvky 
+
+Seznamovák 2018: Očima Kristýny Klesnilové
+
+
+Seznamovák 2018: Očima Kláry Hoznauerové
+
+
+Bohatství, které zůstává ladem
+
+
+Osvícení mistra robota Peppera při promocích v Betlémské kapli
+
+
+Anketa vypočutá! Študenti sa môžu tešiť na zmeny v systéme ProgTest
+
+
+Newsletter
+
+
+Search for:
+
+
+
+
+
+Téma1/2018 – Historie ČVUT
+3/2017 – Internet of Things
+2/2017 – Sociální sítě
+1/2017 – Historie IT
+Archiv
+RubrikyAktuální dění na ČVUT
+Aktuální dění na FIT
+Fiťácké projekty
+Osobnost
+Pozvánky
+Partneři FIT
+Technologie
+Tvorba
+Volný čas
+
+Filmové tipy
+Herní tipy
+Knižní tipy
+Mensa úlohy
+Sport
+Ostatní
+
+
+OdkazyBuď FIT na Facebooku
+Buď FIT na Twitteru
+FIT ČVUT v Praze
+  Základní informace 
+Přihlásit se
+O časopisu
+RSS (příspěvky)
 
  
 
- 
 
 
 
-      Last modified: 1.1.1970, 2:00      
-           
-                          
-       
+
+
+
+
+
+
+
+
+
+
+
+						Buď FIT – Časopis Fakulty informačních technologií ČVUT
+					
+
+
+
+
+
+
+
+
+
+
 
 
 

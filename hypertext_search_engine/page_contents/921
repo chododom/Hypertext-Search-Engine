@@ -1,0 +1,175 @@
+https://fit.cvut.cz/aktualne/jednorazove-akce/2018-06-04
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Jednorázové akce » Rekonstrukce a vyhledávání obrázků pomocí paralelního singulárního rozkladu matic Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Rekonstrukce a vyhledávání obrázků pomocí paralelního singulárního rozkladu matic 
+Dne 4. 6. od 10:00 se uskuteční přednáška Rekonstrukce a vyhledávání obrázků pomocí paralelního singulárního rozkladu matic. Prof. Marian Vajteršic představí přístup k rekonstrukci a vyhledávání obrázků postavený na vektorových prostorech, paralelizaci této metody a dále funkční alternativu k tomuto přístupu, která je založena na singulárním rozkladu matic (SVD). Přednáška se uskuteční v místnosti TH:A-1435.
+Abstrakt
+Pro vyhledávání obrázků v paralelně distribuovaných prostředích se většinou používá přístup založený na vektorových prostorech. V tomto přístupu jsou objekty (obrazy, dokumenty) a jejich rysy reprezentovány korpusovou maticí, kde sloupce charakterizují objekty a řádky jejich vlastnosti. Konkrétně pro vyhledávání obrázků máme poměrně málo znaků, ale každý z nich je charakterizován celou sadou funkcí. Korpusová matice je tedy hustá, má specifický tvar – obvykle je tenká a dlouhá (tj. řádky jsou podstatně větší než sloupce).
+Naším cílem je najít specifické požadavky pro vyhledávání obrázku a přenést je do vhodného modelu, který bude možné paralelně zpracovat. V našem modelu rozlišujeme tři typy dotazů, a to na základě typu, zdroje nebo cíle. Pro každý typ dotazu počítáme vektory podobnosti. Pro vyhodnocení těchto vektorů paralelně uvažujeme rozdělení korpusové matice na tři základní části. Základní operace v těchto výpočtech jsou akumulace a třídění napříč zmíněnými částmi.
+Uvažovaná konfigurace systému je 2D mřížka se speciální stromovou komunikační strukturou umožňující provádět efektivně dotazovací proces. Efektivita vyhledávání byla testována pro tři různé konfigurace mřížek. Ukážeme, že náš model je slibný pro dotazy vracející objekty a zrychlení vrácení dotazů roste s velikostí databáze obrázků.
+Ve druhé části přednášky si představíme funkční alternativu k vektorově prostorovému přístupu, která je založena na singulárním rozkladu matic (Singular Value Decomposition – SVD). Je známo, že SVD obstojí i v případech, kde základní prostorový model selhává. SVD metoda je natolik robustní, že i SVD faktorizace korpusové matice o menší hodnosti může vést k dobrým aproximacím v dotazovacím procesu.
+Na druhou stranu výpočet SVD je nákladný. Proto k využití SVD pro vyhledávácí problémy ve velmi velkých datech je nevyhnutelná paralelizace. Na konci přednášky zmíníme některé z nejnovějších algoritmů pro paralelní výpočet SVD na paralelních počítačových platformách s distribuovanou pamětí.
+O akci
+Vstup na akci je zdarma a bez registrace. Přednáška je určena akademickým pracovníkům, studentům nebo vědcům, kteří se zajímají o paralelní a distribuované výpočty, numerické metody a zpracování obrazu.
+
+
+Typ akce
+Přednáška
+Přednášející
+Prof. Marian Vajteršic
+Department of Computer Sciences, Paris Lodron University of Salzburg, Rakousko
+Matematický ústav, Slovenská akademie věd, Bratislava, Slovensko
+Termín
+4. června 2018, 10:00
+Místo
+zasedací místnost TH:A-1435, Budova A
+Thákurova 7, Praha 6
+Jazyk
+angličtina
+Záznam
+nebude pořízen
+
+
+O přednášejícím
+Profesor Marian Vajteršic obdržel doktorát v roce 1984 na Slovenské akademii věd v Bratislavě. V roce 1994 získal titul DrSc. na Univerzitě Komenského v Bratislavě. V roce 1996 se habilitoval v oboru paralelních výpočtů na Univerzitě v Salzburgu. Od roku 2002 je na této univerzitě profesorem v oblasti architektury počítačů a vysokovýkonných výpočtů (High-Performance Computing). Je autorem čtyř monografií a více než 130 vědeckých prací v oblasti paralelních algoritmů a vědeckých výpočtů.
+Související obsah
+
+Lidé
+Přednášející: Marian Vajteršic
+Místa
+TH:A-1435
+
+
+Osoba zodpovědná za obsah této stránky
+
+prof. Ing. Pavel Tvrdík, CSc., pavel.tvrdik@fit.cvut.czVedoucí Katedry počítačových systémů
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 30.5.2018, 12:46      
+           
+                          
+       
+
+
+
+
+
+

@@ -1,4 +1,19 @@
-http://dcgi.felk.cvut.cz/en/study/main
+http://bilakniha.cvut.cz/cs/predmet4651506.html
+
+
+
+
+
+Loading...
+ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
+Výběr období:
+Následující ak. rok
+Aktuální období
+Fakulty |
+         Celoškolská nabídka volitelných předmětů |
+         Katalog předmětů ECTS
+         | Nastavení
+         | 
 
 
 
@@ -12,836 +27,203 @@ http://dcgi.felk.cvut.cz/en/study/main
 
 
 
-People
-Courses
-Publications
-Theses
-Partners
-Contacts
-Wiki
+
+English version
+Úvodní stránka >
+         Fakulta informačních technologií >
+         katedra softwarového inženýrství >
+         Dolování dat z webu
 
 
-CS
+Dolování dat z webu
+Přihlášení do KOSu pro zápis předmětu Zobrazit rozvrh
 
 
-
-
-
-
-
-
-Předměty bližší informace o studiu na katedře
-
-Bakalářské předměty
-
-
-
-
-Grafická tvorba
-
-
-Vyučující
-Lucie Svobodová
-
-
-Rozsah výuky
-2 + 2
+Kód
+Zakončení
 Kredity
+Rozsah
+Jazyk výuky
+
+
+MI-DDW.16
+Z,ZK
 5
+2P+1C
+česky
 
 
-Semestr
-Z,L
-Zakončení
-Kz
 
+Přednášející:
+Jaroslav Kuchař (gar.), Milan Dojčinovski (gar.)
+            
+Cvičící:
+Jaroslav Kuchař (gar.), Milan Dojčinovski (gar.)
+            
+Předmět zajišťuje:
+katedra softwarového inženýrství
+Anotace:
 
 
-Rozvrhy
+Studenti se v předmětu seznámí s metodami a technologiemi pro získávání dat z webu, jejich zpracování a praktické využití
+                  v reálných aplikacích. Získají přehled a znalosti z oblastí analýzy webového obsahu, analýzy chování uživatelů, sociálního
+                  webu a doporučovacích systémů.
+               
 
-a7b39grt
-B0B39GRT
 
+Požadavky:
 
 
+Znalost architektury webu (HTTP, HTML, URI), znalosti programování (např. Java, JavaScript), teorie grafů a znalosti základních
+                  algoritmů.
+               
 
 
+Osnova přednášek:
 
 
-Intermediální tvorba a technologie
+1. Motivace a úvod do předmětu
+2. Metody přístupu k datům a jejich získávání
+3. Indexace a vyhledávání dokumentů
+4. Dolování z textových dat
+5. Využití dolování z textových dat
+6. Analýza sociálních sítí
+7. PageRank a HITS
+8. Dolování dat ze sociálního webu
+9. Webová analytika
+10. (2) Dolování proudu dat
+11. (2) Doporučovací systémy
 
 
-Vyučující
-Roman Berka
+Osnova cvičení:
 
 
-Rozsah výuky
-2 + 2
-Kredity
-4
+1. Základní metody pro získávání dat a jejich zpracování
+2. Předzpracování textu, aplikace metod text miningu
+3. Prezentace projektů, konzultace
+4. Analýza dat generovaných uživateli
+5. Základní metody doporučovacích systémů
+6. Prezentace projektů a zápočet
 
 
-Semestr
-Z + L
-Zakončení
-Kz
+Cíle studia:
 
 
+Vybavit studenty přehledem o technologiích dolování z webu a schopností některé z nich aplikovat v praxi.
 
-Rozvrhy
 
-a7b39itt
-a0m39itt
-a7b39itt2
-a0m39itt2
-b0b39itt1
-b0m39itt1
-b0b39itt2
-b0m39itt2
+Studijní materiály:
 
 
+1. Liu, B. „Web Data Mining“, Springer-Verlag Berlin Heidelberg, 2011. ISBN 978-3-642-19459-7.
+2. Easley, D., Kleinberg, J. „Networks, Crowds, and Markets: Reasoning About a Highly Connected World“, Cambridge University
+                  Press, 2010. ISBN 978-0521195331.
+               
+3. Ricci, F., Rokach, L., Shapira, B., B. Kantor, P. „Recommender Systems Handbook“, Springer, 2010. ISBN 978-0387858197.
+4. Kaushik, A. „Web Analytics 2.0: The Art of Online Accountability and Science of Customer Centricity“, Sybex, 2009. ISBN
+                  978-0470529393.
+               
+5. Marmanis, H., Babenko, D. „Algorithms of the Intelligent Web“, Manning Publications, 2009. ISBN 978-1933988665.
+6. A. Russel, M. „Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More“, O'Reilly Media,
+                  2013. ISBN 978-1449367619.
+               
+7. Chakrabarti, S. „Mining the Web: Discovering Knowledge from Hypertext Data“, Morgan Kaufmann, 2002. ISBN 1558607544.
 
 
+Poznámka:
 
 
+Rozsah: 2p+1c
 
-Kurz multimedálních aplikací
+Rozvrh na zimní semestr 2018/2019:
+Rozvrh není připraven
+Rozvrh na letní semestr 2018/2019:
 
 
-Vyučující
-David Sedláček
 
 
-Rozsah výuky
-0 + 4
-Kredity
-6
 
 
-Semestr
-L
-Zakončení
-Kz
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
 
 
 
-Rozvrhy
+Po
 
-a7b39kma
-b6b39tdm
+místnost T9:303Kuchař J.11:00–12:30LICHÝ TÝDEN(přednášková par. 1paralelka 101)DejviceNBFIT PC ucebnamístnost TH:A-s135Kuchař J.16:15–17:45(přednášková par. 1)Thákurova 7 (FSv-budova A)As135
+místnost T9:303Kuchař J.12:45–14:15LICHÝ TÝDEN(přednášková par. 1paralelka 102)DejviceNBFIT PC ucebna
 
 
 
+Út
 
 
 
 
-Multimediální a grafické aplikace
 
+St
 
-Vyučující
-Ladislav Čmolík
 
 
-Rozsah výuky
-2 + 2
-Kredity
-6
 
 
-Semestr
-Z
-Zakončení
-Z + Zk
+Čt
 
 
 
-Rozvrh
 
-                                        a7b39mga
-                                
 
+Pá
 
 
 
 
 
-Multimédia 1
 
 
-Vyučující
-Roman Berka
+Předmět je součástí následujících studijních plánů:
 
 
-Rozsah výuky
-2 + 2
-Kredity
-6
+Znalostní inženýrství, verze 2016 a 2017 (povinný předmět oboru)
+                  
+Počítačová bezpečnost, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Počítačové systémy a sítě, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Návrh a programování vestavných systémů, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Informační systémy a management, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Softwarové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Webové inženýrství, verze 2016, 2017 a 2018 (povinný předmět zaměření)
+                  
+Společný magisterský plán před přiřazením do oboru, verze 2016, 2017 a 2018 (VO)
+                  
+Zaměření Systémové programování, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Teoretická informatika, verze 2016-2017 (volitelný předmět)
+                  
+Specializace Teoretická informatika, verze 2018 (volitelný předmět)
+                  
+Znalostní inženýrství, verze 2018 (povinný předmět oboru)
+                  
 
 
-Semestr
-L
-Zakončení
-Z + Zk
 
 
 
-Rozvrhy
+Platnost dat k 28. 4. 2019
 
-a7b39mm1
-b0b39mm1
 
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Provozuje Výpočetní a informační centrum ČVUT
+Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
 
 
+Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet4651506.html
 
-
-
-
-3D modelování a virtuální realita
-
-
-Vyučující
-Jiří Žára
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-                                        a7b39mvr
-                                        b0b39mvr
-                                
-
-
-
-
-
-
-Principy tvorby mobilních aplikací
-
-
-Vyučující
-Ivo Malý
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-L
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-a7b39pda
-b6b39pda
-
-
-
-
-
-
-
-Programování grafiky
-
-
-Vyučující
-Petr Felkel
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-L
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-a7b39pgr
-b0b39pgr
-bi-pgr
-bi-pgr.1
-
-
-
-
-
-
-
-Počítačové hry a animace
-
-
-Vyučující
-Jiří Bittner
-
-
-Rozsah výuky
-2 + 2
-Kredity
-4
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-                                        a7b39pha
-                                        B4B39HRY
-                                
-
-
-
-
-
-
-Testování uživatelského rozhraní
-
-
-Vyučující
-Adam Sporka
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z,L
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-a4b39tur
-a7b39tur
-B6B39TUR
-
-
-
-
-
-
-
-Geometrické modelování
-
-
-Vyučující
-Ladislav Čmolík
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrh
-
-                                        b4b39vgo
-                                
-
-
-
-
-
-
-Vývoj webových aplikací
-
-
-Vyučující
-Martin Klíma
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrh
-
-                                        a7b39wa1
-                                
-
-
-
-
-
-
-Magisterské předměty
-
-
-
-
-Pokročilé metody interaktivní editace obrazu
-
-
-Vyučující
-Daniel Sýkora
-
-
-Rozsah výuky
-2 + 1
-Kredity
-4
-
-
-Semestr
-L
-Zakončení
-Z+Zk
-
-
-
-Rozvrhy
-
-a4m39aim
-b4m39aim
-
-
-
-
-
-
-
-Algoritmy počítačové grafiky
-
-
-Vyučující
-Jiří Žára
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-                                        a4m39apg  
-                                        b4m39apg  
-                                
-
-
-
-
-
-
-Datové struktury počítačové grafiky
-
-
-Vyučující
-Vlastimil Havran
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-L
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-a4m39dpg
-B4M39DPG
-
-
-
-
-
-
-
-Obecné výpočty na GPU
-
-
-Vyučující
-Jaroslav Sloup
-
-
-Rozsah výuky
-1 + 2
-Kredity
-4
-
-
-Semestr
-Z
-Zakončení
-Kz
-
-
-
-Rozvrhy
-
-                                        a4m39gpu  
-                                        b4m39gpu  
-                                
-
-
-
-
-
-
-Intermediální tvorba a technologie
-
-
-Vyučující
-Roman Berka
-
-
-Rozsah výuky
-2 + 2
-Kredity
-4
-
-
-Semestr
-Z + L
-Zakončení
-Kz
-
-
-
-Rozvrhy
-
-a7b39itt
-a0m39itt
-a7b39itt2
-a0m39itt2
-b0b39itt1
-b0m39itt1
-b0b39itt2
-b0m39itt2
-
-
-
-
-
-
-
-Multimédia a počítačová animace
-
-
-Vyučující
-Roman Berka
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-                                        a4m39mma  
-                                        b4m39mma  
-                                
-
-
-
-
-
-
-Návrh uživatelského rozhraní
-
-
-Vyučující
-Zdeněk Míkovec
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-                                        a4m39nur  
-                                        a4m39nur  
-                                
-
-
-
-
-
-
-Programování grafiky 2
-
-
-Vyučující
-Petr Felkel
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-                                        a4m39pgr2  
-                                        b4m39pgr2  
-                                
-
-
-
-
-
-
-Psychologie v HCI
-
-
-Vyučující
-Jakub Franc
-
-
-Rozsah výuky
-2 + 2
-Kredity
-4
-
-
-Semestr
-Z
-Zakončení
-Kz
-
-
-
-Rozvrhy
-
-                                        a4m39pur  
-                                        B4M39PUR1  
-                                
-
-
-
-
-
-
-Realistická syntéza obrazu
-
-
-Vyučující
-Vlastimil Havran
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-L
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-a4m39rso
-b4m39rso
-
-
-
-
-
-
-
-Výpočetní geometrie
-
-
-Vyučující
-Petr Felkel
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-Z
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-                                        a4m39vg  
-                                        b4m39vg  
-                                
-
-
-
-
-
-
-Vizualizace
-
-
-Vyučující
-Pavel Slavík
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-L
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-a4m39viz
-b4m39viz
-
-
-
-
-
-
-
-Vývoj webových aplikací 2
-
-
-Vyučující
-Martin Klíma
-
-
-Rozsah výuky
-2 + 2
-Kredity
-6
-
-
-Semestr
-L
-Zakončení
-Z + Zk
-
-
-
-Rozvrhy
-
-a4m39wa2
-B4M39WA2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Department of Computer Graphics and Interaction
-Faculty of Electrical Engineering
-Czech Technical University in Prague
-
-
-
-
-
+ Zobrazovat kódy skupin předmětů
+         
 

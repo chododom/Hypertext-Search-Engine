@@ -1,4 +1,4 @@
-https://fit.cvut.cz/vyzkum/wig
+https://fit.cvut.cz/student/bakalarsky-program
 
 
 
@@ -48,14 +48,14 @@ Média
 
 
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Studijní
+Nováček
+Bakalář
+Magistr
+Rozvrh
+Odkazy
+Nabídky firem
+Stipendium
 
 
 
@@ -66,122 +66,38 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Věda » Výzkumné skupiny a laboratoře » Inteligentní web Novinky    News
+ › ČVUT » FIT  » Student » Bakalář Novinky    News
 
 
 
 
-AktualityObhajoby DP
+Studijní program InformatikaO novém studijním programu Informatika
+Informatika 2015
+Informatika 2009-2014
+Bezpečnost a informační technologie
+Informační systémy a management
+Počítačové inženýrství
+Teoretická informatika
+WSI – zaměření Počítačová grafika
+WSI – zaměření Softwarové inženýrství
+WSI – zaměření Webové inženýrství
+Znalostní inženýrství
 
-Kontakt
-Granty
-Patenty
-DoktorandiZájemce o studium
-Harmonogram
-DSP Informatika Základní informace
-Informace pro nové doktorandy
-Legislativa a formuláře
-Oborová rada - ORP
-Studijní předměty
-Státní doktorská zkouška
-Témata dizertačních prací
-Obhájené dizertační práce
-Zápis do DSP Informatika
-
-Habilitační a jmenovací řízeníObhájené habilitační práce
-
-Vědecká rada
-Výzkumné skupiny a laboratořeAplikovaná numerika a kryptologie
-Arbologie
-Centrum pro konceptuální modelování a implementace
-Číslicový návrh a spolehlivost
-Inteligentní web
-Počítačové sítě
-Paralelní a distribuované výpočty
-Pražský stringologický klub
-Výpočetní inteligence a strojové učení
-Laboratoř 3D tisku
-Laboratoř etického hackování
-Laboratoř inteligentních vestavných systémů
-Laboratoř otevřených dat
-Laboratoř zpracování obrazu
-GPU laboratoř
-Síťová a multimediální laboratoř
-Laboratoř s firmou UNICO.AI
+Kombinovaná forma
+Volitelné předměty
+Výuka angličtiny
+Bakalářká práce a SZZ
 
 
 
 
 
+Bakalářský program Informatika 
 
-Inteligentní web 
-Výzkum a vývoj nových metod, nástrojů a technologií pro objevování, využívání a integraci informací a služeb na webu. 
- 
-Výzkumná skupina vyvíjí a vyučuje moderní webové technologie a standardy pro efektivní využití informací a služeb na webu. Konkrétně se zabýváme algoritmy pro dolování dat z webu, analýzou sociálních sítí a návrhem a implementací moderních aplikací založených na nových typech infrastruktur a technologií middlewaru, webových služeb a cloud computingu.
- 
-http://wi.fit.cvut.cz/
- 
- Vedoucí
-Doc. Ing. Tomáš Vitvar, Ph.D., tomas.vitvar@fit.cvut.cz
- Výzkumná témata vedoucího
-Sémantický web, webové služby
- Další členové
+Studijní program Informatika pro nastupující od roku 2015
+V roce 2014 došlo k reakreditaci původního bakalářského studijního programu Informatika. Studenti od akademického roku 2015/2016 již nastupují do tohoto programu.
 
-
-		Ing. Milan Dojčinovski (Sémantický web, Linked Data, Information Retrieval, Webové služby)
-
-		Ing. Jaroslav Kuchař (Sémantický web, Webová Analytika, Sociální výpočet, Personalizace a doporučování obsahu)
-
-		Ing. Ivo Lašek (Sémanticý web, Linked Data, Information Retrieval)
-
-		Ing. Radek Zunt (Crowdsourcing, Sémantický web)
-
-		Ing. Jakub Klímek, Ph.D. (XML, modelování dat, integrace schémat, evoluce schémat)
-
- Výzkumná témata skupiny
-
-
-		Sémantický web
-
-		Linked Data
-
-		Webové služby
-
-		Dolování dat z webu
-
-		Extrakce informací
-
-		Sociální výpočet
-
-		Personalizace a doporučování obsahu
-
-		Zpracování přirozeného jazyka
-
- Vyučované předměty - zkratky
-MI-W20, MI-MDW, MI-DDW, MI-SWE
- Články
-
-
-		T. Vitvar, S. Vinoski, C. Pautasso: Programmatic Interfaces for Web Applications, IEEE Internet Computing, Volume 16, Number 4, 2012.
-
-		T. Vitvar, J. Kopecky, J. Viskova, A. Mocan, M. Kerrigan, D. Fensel: Semantic Web Services with Lightweight Descriptions of Services, Advances in Computers, Volume 76, Elsevier, 2009.
-
-		T. Vitvar, V. Peristeras, K. Tarabanis: Semantic Technologies for E-Government, Springer, 2009.
-
-		M. Dojchinovski, J. Kuchar, T. Vitvar, M. Zaremba: Personalized Graph-based Selection of Web APIs, The 11th International Semantic Web Conference, Boston, USA, Springer, 2012.
-
-		M. Zaremba, T. Vitvar, S. Bhiri, M. Hauswirth: Service Offer Discovery Using Genetic Algorithms, IEEE European Conference on Web Services, Lugano, Switzerland, IEEE CS Press, 2011.
-
-		M. Zaremba, T. Vitvar, S. Bhiri, M. Hauswirth: Preference-based Discovery of Dynamically Generated Service Offers, The 8th International Conference on Services Computing, Washington DC, USA, IEEE CS Press, 2011.
-
-		Kuchař J., Kliegr T. GAIN: web service for user tracking and preference learning – a SMART TV use case. In Proceedings of the 7th ACM Recommender Systems Conference (RecSys 2013), Hong Kong, China. ACM, New York, NY, USA, 467-468.
-
-		J. Kuchař, T. Kliegr, Bag-of-Entities text representation for client-side (video) recommender systems. In First Workshop on Recommender Systems for Television and online Video (RecSysTV), ACM RecSys 2014 Foster City, Silicon Valley, USA, 6th-10th October 2014
-
-		M. Dojchinovski, T. Vitvar: Personalized Access to Linked Data, The 19th International Conference on Knowledge Engineering and Knowledge Management, Linköping, Sweden, Springer, 2014.
-
-		M. Dojchinovski, T. Kliegr: Entityclassifier.eu: Real-time Classification of Entities in Text with Wikipedia, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, Prague, Czech Republic, Springer, 2013.
-
+Studijní program Informatika pro nastupující v roce 2009-2014
 
 
  
@@ -213,7 +129,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 21.1.2019, 16:12      
+      Poslední změna: 14.2.2019, 14:55      
            
                           
        

@@ -1,4 +1,4 @@
-https://fit.cvut.cz/aktualne/jednorazove-akce/2018-11-09
+https://fit.cvut.cz/android/2014-06-10
 
 
 
@@ -62,7 +62,7 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Jednorázové akce » Accelerating Data Science at the Edge Using FPGAs Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » aDev Meetups » Čtrnáctý aDev Meetup Novinky    News
 
 
 
@@ -88,51 +88,38 @@ Ostatní akce
 
 
 
-Accelerating Data Science at the Edge Using FPGAs 
+Čtrnáctý aDev Meetup 
 
 
-Prof. Viktor K. Prasanna vám 9. 11. od 11:00 představí práci v Data Science Lab na University of Southern California. Na přednášce s názvem „Accelerating Data Science at the Edge Using FPGAs“ ukáže paralelní architektury a algoritmy založené na FPGA pro různá jádra datové analýzy. Přednáška se uskuteční v místnosti TH:A-1455 a bude v angličtině.
-Téma
-Data Science se v posledních letech rozvíjejí díky novým aplikacím v různých oblastech, včetně zdravotnictví, energetiky nebo technologie „Autonomous X“. Mnohé z nich jsou kyber-fyzikálně-sociální systémy s přísnými požadavky na latenci, propustnost a energetickou účinnost. S nedávnými dramatickými pokroky v oblasti FPGA se tato zařízení používají spolu s vícejádrovými a nově vznikajícími paměťovými technologiemi k realizaci pokročilých platforem pro urychlení různých komplexních aplikací.
-Tato přednáška představí práci v Data Science Lab na University of Southern California (USC) a možnosti rekonfigurovatelných výpočtů, odpovídajících současným trendům akcelerátorů pro Data Science. Názorně ukáže paralelní architektury a algoritmy založené na FPGA pro různá jádra datové analýzy v procesech zpracování grafů a strojového učení pro tzv. „edge processing“.
-Zatímco prof. Prasanna představí metodiku co-designu algoritmů a architektur pro realizaci vysoce výkonných akcelerátorů grafů a strojového učení, ukáže roli modelování a algoritmických optimalizací pro vývoj vysoce účinných IP jader. Pro vkládání grafů vyvíjí novou výpočetně účinnou techniku pomocí vzorkování grafů, které je škálovatelné.
-Pro CNN inferenci vyvinuli paralelní frekvenční doménu pro konvoluční algoritmy a datové uspořádání pro realizaci vysoce výkonných a energeticky efektivních návrhů používajících FPGA. Závěrem identifikovali příležitosti a výzvy při využívání vznikajících heterogenních architektur složených z vícejádrových procesorů, FPGA, GPU a koherentní paměti.
-O akci
-Přednáška je zdarma a není nutné se na ni registrovat. Přednáška je primárně určena pro studenty a odbornou veřejnost s pokročilou znalostí FPGA, paralelních algoritmů a architektur.
 
 
-Typ akce
-Přednáška
-Přednášející
-Viktor K. Prasanna – University of Southern California (USC)
-Termín
-9. listopadu 2018, 11:00–12:00
-Místo
-Zasedací místnost TH:A-1455, Budova A
-Thákurova 7, Praha 6
-Jazyk
-Angličtina
-Záznam
-Nebude pořízen
+Přednáška:  
+
+				Rozhraní k sežrání
 
 
-O přednášejícím
-Viktor K. Prasanna je předsedou pro technické obory v nadaci Charles Lee Powell na Ming Hsieh Department of Electrical Engineering a profesorem informatiky na University of Southern California (USC). Na UCS je také ředitelem Center for Energy Informatics a vede FPGA a Data Science Lab. Jeho výzkumné zájmy zahrnují paralelní a distribuované výpočty, návrh akcelerátorů, rekonfigurovatelné architektury a algoritmy a vysoce výkonné výpočty.
-V letech 2003–2006 působil jako šéfredaktor IEEE Transactions on Computers a v současné době je šéfredaktorem časopisu Parallel and Distributed Computing. Prasanna byl zakládajícím předsedou technické komise IEEE Computer Society on Parallel Processing. Je řídícím spolupředsedou mezinárodního sympozia IEEE Parallel and Distributed Processing a řídící předseda mezinárodní konference IEEE on High Performance Computing.
-Jeho práce získala nejlepší ocenění na předních fórech v oblasti paralelních výpočtů, HPC a FPGA, včetně Computing Frontiers, International Parallel and Distributed Processing Symposium a ACM International Symposium on FPGAs. Je členem IEEE, ACM a American Association for Advancement of Science (AAAS). V roce 2009 obdržel ocenění za Outstanding Engineering Alumnus od Pennsylvania State University. V roce 2015 získal cenu W. Wallace McDowell od IEEE Computer Society za příspěvky k rekonfigurovatelným počítačům.
-Související obsah
 
-Lidé
-Přednášející: Viktor K. Prasanna
-Místa
-TH:A-1455
+Přednášející:    
+
+				Vladislav Skoumal
 
 
-Osoba zodpovědná za obsah této stránky
 
-doc. Ing. Hana Kubátová, CSc., hana.kubatova@fit.cvut.czOrganizátorka přednášky
+Datum a čas:
+
+				10. června 2014, 18–20:00 hodin
 
 
+
+Místo:      
+
+				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:111
+
+
+
+Kde začít při přípravě uživatelského rozhraní mobilní aplikace? Návrh uživatelského prostředí je trochu jako příprava jídla. Napřed se musíme dozvědět na co mají naši uživatelé chuť, dobře odhadnout kolik toho sní. Co ještě dokáží skousnout a co naopak potřebují předkousat? Proč v těch nejlepších restauracích slánku na stole nenajdete?
+Vstup je zdarma, registrujte se prosim na webu akce. Počet účastníků je omezen.﻿
+Těšíme se na vás, GDG ČVUT
 
 
  
@@ -164,7 +151,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 7.11.2018, 14:42      
+      Poslední změna: 28.1.2019, 14:34      
            
                           
        
@@ -174,24 +161,47 @@ webmaster@fit.cvut.cz
 
 
 
-rence from hand held video sequences. Verify this method on the selected surface materials.
+různých programovacích stylů a jazyků. Absolventi se budou orientovat v celé řadě softwarových úloh, včetně základních systémových úloh nebo úloh pro zpracování větších objemů dat.
 
-Modelování osvětlení z naměřené vizuální scény
-Light field estimation from visual scene
-
-Práce je zaměřena na studium metod modelování osvětlení z naměřené obrazové informace pro aplikace modelování BTF textur v modelech virtuální reality. Navrhněte a implementujte v programovacím jazyce C++ vhodnou metodu tvorby osvětlení z naměřených obrazových dat. Ověřte metodu na modelu osvětlení interiéru a exteriéru při proměnném osvětlení
+Oborové předměty
 
 
-The thesis objective is to study environmental light field modelling methods from measured visual scenes applied to correct BTF illumination in virtual reality application. Propose and implement (in C++) an appropriate method for realistic illumination model estimated from real measured visual scenes. Verify this method on interior and exterior virtual reality models with variable illumination.
 
-Rozpoznávání rakoviny kůže a monitorování pokroku léčby
-Skin Cancer Detection and Treatment Progress Monitoring
-
-Melanom kůže, jako nejnebezpečnější forma rakoviny kůže, je rostoucím nebezpečím v posledních desetiletích díky svému stále zvyšujícímu se výskytu. Jeho efektivní léčba vyžaduje jeho rozpoznání a chirurgické odstranění v co nejranější fázi. Cílem práce je nalezení diskriminativních obrazových příznaků a vhodného klasifikátoru, který umožní rozpoznání rakoviny kůže z barevných obrazů kůže a zároveň umožní monitorování pokroku léčby ze sekvence časově proměnných obrazů nádoru.
+			Algoritmy a grafy 2
 
 
-Malignant melanoma, as the most dangerous form of skin cancer, has been a rapidly growing threat over the past decades. The effective treatment requires its early diagnoses and surgical excision. The thesis objective is to find discriminative image features and a robust classifier which will allow to recognize skin cancer on colour skin images and to evaluate a treatment progress between several mutitemporal skin images.
 
+Architektury počítačových systémů
+
+
+
+Object-Oriented Programming
+
+
+
+Programovací jazyky a překladače
+
+
+
+Programovací paradigmata
+
+
+
+Vytěžování znalostí z dat
+
+
+
+​
+
+
+Doporučený průchod oborem
+(Seznam všech povinných oborových i společných předmětů seřazených v doporučeném pořadí ke studiu.)
+
+
+Prezenční forma
+
+
+ 
 
 
  
@@ -223,10 +233,17 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 26.4.2019, 10:06      
+      Poslední změna: 26.7.2018, 10:19      
            
                           
        
+
+
+
+
+
+
+     
 
 
 

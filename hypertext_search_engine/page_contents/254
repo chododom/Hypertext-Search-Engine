@@ -1,10 +1,19 @@
-https://aktualne.cvut.cz/bleskove-zpravy
+http://bilakniha.cvut.cz/cs/predmet5107306.html
 
 
 
 
 
-Skip to main content
+Loading...
+ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
+Výběr období:
+Následující ak. rok
+Aktuální období
+Fakulty |
+         Celoškolská nabídka volitelných předmětů |
+         Katalog předmětů ECTS
+         | Nastavení
+         | 
 
 
 
@@ -13,111 +22,206 @@ Skip to main content
 
 
 
-Toggle navigation
 
 
 
 
-Zpravodajský servis
 
 
-Language csČesky
-English
+English version
+Úvodní stránka >
+         Fakulta informačních technologií >
+         katedra aplikované matematiky >
+         Games and reinforcement learning
 
-Search
 
+Games and reinforcement learning
+Předmět není vypsán Nerozvrhuje se
 
 
+Kód
+Zakončení
+Kredity
+Rozsah
+Jazyk výuky
 
 
+MI-GLR
+Z,ZK
+4
+2P+2C
 
 
- Aktuality
-Stalo se
-Bleskové zprávy
-Tiskové zprávy
-Zprávy z médií
- 
 
 
+Přednášející:
+Juan Pablo Maldonado Lopez (gar.)
+            
+Cvičící:
+Juan Pablo Maldonado Lopez (gar.)
+            
+Předmět zajišťuje:
+katedra aplikované matematiky
+Anotace:
 
 
+Oblast posilovaného učení je aktuálně ve středu zájmu mnoha výzkumníků díky pokrokům v hlubokém učení, rekurentních neuronových
+                  sítí a obecné umělé intligenci. Tento předmět jsme připravili s cílem seznámit studenty s potřebnými teoretickými a praktickými
+                  základy, aby se mohli věnovat výzkumu v této oblasti.
+               
+Výuka probíhá v angličtině.
 
 
-Bleskové zprávy
+Požadavky:
 
- 
+Osnova přednášek:
 
 
+Teorie Her
+1. Sealed-bid combinatorial auctions
+2. Iterative combinatorial auctions
+3. Stable matching
+4. Congestion games. Selfish routing and the price of anarchy
+5. Potential games. Network cost-sharing games
+6. Best response dynamics. No-regret dynamics.
+Úvod do posilovaného učení
+7. Multiarmed Bandit Algorithms.
+8. Finite Markov Decision Processes
+9. Dynamic Programming
+10. Montecarlo methods
+11. Temporal-Difference learning
+12. Multi-step bootstrapping
+13. Planning and learning with tabular methods
 
 
+Osnova cvičení:
 
 
-
-
-
-
-
-
-
-26. 4. 2019, 07.24
-O studijním pobytu v USA hovořil ve  Studiu 6 České televize Jiří Zemánek z Fakulty elektrotechnické. 
-
-16. 4. 2019, 14.13
-Dr. Jiří Zemánek z Fakulty elektrotechnické hovořil o získání Fulbright-Masarykova stipendia v pořadu  Experiment Českého rozhlasu. 
-
-15. 4. 2019, 10.39
-Souboj fakult ve frisbee proběhne 5. května na stadionu SK Střešovice. Registrace je možná zde. 
-
-15. 4. 2019, 08.19
-Aktuální vydání časopisu Pražská technika je zaměřeno na výzkum Fakulty dopravní. 
-
-10. 4. 2019, 15.40
-CTU Toastmasters vyhrál 4. dubna ve veřejné soutěži  první místo v mezinárodních projevech a hodnoceních. 
-
-4. 4. 2019, 07.09
-Tisková konference Výzkumného centra informatiky proběhne 16. dubna v 10.30 v budově FEL na Karlově nám. Registrace nutná. 
-
-4. 4. 2019, 07.00
-Do letních sportovních kurzů ÚTVS se nyní studenti ČVUT mohou  hlásit bez nutnosti zápisu do systému KOS. 
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-© 2015 České vysoké učení technické v Praze
-Vyrobilo a provozuje Výpočetní a informační centrum
-
-
-
-
-
-
-
-2435 2327
-Podrobnější informace
-https://fyzika.fel.cvut.cz/cs/fyzikalni-ctvrtky/
-
-
-
-
-
-
-
-
-
-
-Provozuje Výpočetní a informační centrum
-© 2005 České vysoké učení technické v Praze
-
- 
+Teorie Her
+1. Mechanism design basics.  Auctions of physical goods.
+2. Sponsored search auctions (online advertising).
+3. Congestion games. Selfish routing and the price of anarchy
+4. Traffic assignment in networks.
+5. Best response dynamics. No-regret dynamics.
+6. Rock, paper, scissors.
+Úvod do posilovaného učení
+7. Multiarmed Bandit Algorithms.
+8. Markov chains and MDP's.
+9. Algorithms: Q-learning, TD
+10. Playing tic-tac-toe, checkers.
+11. Tensorflow introduction.
+12. Case studies: TD-gammon, Atari games, Go playing.
+13. OpenAI  Gym. Policy gradient algorithm.
+
+
+Cíle studia:
+
+
+Naučit studenty základy teorie her a posilovaného učení. Jak teoreticky, tak prakticky.
+
+
+Studijní materiály:
+
+
+Reinforcement Learning: An introduction, Sutton and Barto, 2nd edition draft, 2017.
+Algorithmic Game Theory, Roughgarden, Tardos, Vazirani and Nisan, 2007.
+
+
+Poznámka:
+
+Další informace:
+Pro tento předmět se rozvrh nepřipravuje
+Předmět je součástí následujících studijních plánů:
+
+
+Informační technologie - verze pro ty, kteří se zapsali v roce 2012 (volitelný předmět)
+                  
+Informatika, plán pro fázi studia bez oboru - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Web a multimedia - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Teoretická informatika - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Informační technologie - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Softwarové inženýrství - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Informační systémy a management - verze pro ty, kteří se zapsali v roce 2013 (volitelný předmět)
+                  
+Informatika, plán pro fázi studia bez oboru - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Web a multimedia - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Teoretická informatika - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Informační technologie - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Počítačové inženýrství - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Softwarové inženýrství - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Informační systémy a management - verze pro ty, kteří se zapsali v roce 2014 (volitelný předmět)
+                  
+Zaměření Systémové programování, verze 2014, 2015 (volitelný předmět)
+                  
+Zaměření Webové inženýrství - verze pro ty, kteří se zapsali v roce 2014 a 2015 (volitelný předmět)
+                  
+Computer Systems and Networks, Presented in English - for Students who Enrolled in 2014 and 2015 (volitelný předmět)
+                  
+Bc. obor Bezpečnost a informační technologie, verze 2015, 2016, 2017 a 2018 (volitelný předmět)
+                  
+Znalostní inženýrství - verze pro ty, kteří se zapsali v roce 2015 (volitelný předmět)
+                  
+Společný plán před přiřazením do oboru, verze pro ty, kteří se zapsali v letech 2015 (volitelný předmět)
+                  
+Znalostní inženýrství, verze 2016 a 2017 (volitelný předmět)
+                  
+Počítačová bezpečnost, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Počítačové systémy a sítě, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Návrh a programování vestavných systémů, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Informační systémy a management, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Softwarové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Webové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Společný magisterský plán před přiřazením do oboru, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Systémové programování, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Teoretická informatika, verze 2016-2017 (volitelný předmět)
+                  
+Computer Security, Presented in English, Version 2016, 2017 and 2018 (volitelný předmět)
+                  
+Computer Systems and Networks, Presented in English, Version 2016, 2017 and 2018 (volitelný předmět)
+                  
+Design and Programming of Embedded Systems, in English,  Version 2016, 2017 and 2018 (volitelný předmět)
+                  
+Specialization Software Engineering, in English, Version 2016, 2017 and 2018 (volitelný předmět)
+                  
+Specializace Teoretická informatika, verze 2018 (volitelný předmět)
+                  
+Znalostní inženýrství, verze 2018 (volitelný předmět)
+                  
+
+
+
+
+
+Platnost dat k 28. 4. 2019
+
+
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Provozuje Výpočetní a informační centrum ČVUT
+Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
+
+
+Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet5107306.html
+
+ Zobrazovat kódy skupin předmětů
+         
 

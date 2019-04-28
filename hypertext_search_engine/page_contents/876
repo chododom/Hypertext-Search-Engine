@@ -1,0 +1,285 @@
+https://fit.cvut.cz/informaticky-vecer_2012-03-29
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » LS 2011/2012 » Optimalizace webu pro vysokou zátěž Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Optimalizace webu pro vysokou zátěž 
+
+
+
+
+Přednáška:
+
+				Optimalizace webu pro vysokou zátěž 
+
+
+
+Přednášející:
+
+				Dan Ohnesorg
+
+
+
+Datum a čas:
+
+				29. března 2012, 18–20 hodin
+
+
+
+Místo:
+
+				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:155 (Gočár)
+
+
+
+ 
+Obsah přednášky:
+Přednáška je volně inspirována přípravou aplikace pro spuštění na americkém trhu, kdy jedním z cílů bylo dosáhnout skóre 100 ve Web Page Test. V první části popisuje obecně platné principy pro návrh struktury stránek a logiku aplikace, v druhé specifické tipy pro konfiguraci linuxového serveru. Popíše techniky vedoucí ke snížení počtu požadavků a datového toku, které pomohou jak serveru, tak koncovému uživateli.
+ 
+Stručný životopis přednášejícího:
+Prací i koníčkem D. Ohnesorga je GNU/Linux a všechno co s ním souvisí. Často dělá věci okolo zabezpečení, především v oblasti zdravotnictví. Byl zakládajícím členem CZLUGu a nyní je i jeho předsedou. Současně je členem výboru českého FFII, což je organizace bojující za svobodu lidí v digitálním světě. A do třetice veřejných funkcí je předsedou občanského sdružení Rudná.net, což je projekt, který si vytkl za cíl šířit Internet do míst, která nejsou pro komerční operátory zajímavá, protože výnos v horizontu několika let je v nich nižší než náklady na infrastrukturu.
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 30.1.2019, 10:57      
+           
+                          
+       
+
+
+
+
+
+
+formation systems management]
+
+		Mgr. Ondřej Dvořák (komponentový vývoje sofware) [component software development]
+
+		Ing. Pavel Krejčí (řízení informačních systémů) [information systems management]
+
+		Prof. Dr. Ing. Petr Kroha, CSc. (softwarové inženýrství a ontologie) [software engineering and ontologies]
+
+		Mgr. Martin Podloucký (matematické základy konceptuálního modelování) [mathematical foundations of conceptual modelling]
+
+		Ing. Zdeněk Rybola (OntoUML a softwarové inženýrství) [OntoUML and software engineering]
+
+		Ing. Adam Šenk (databáze) [databases]
+
+		Ing. Petr Špaček, Ph.D. (komponentový vývoje sofware) [component software development]
+
+		Ing. Michal Valenta, Ph.D. (databáze) [databases]
+
+		Ing. Dana Vynikarová, Ph.D. (řízení informačních systémů) [information systems management]
+
+ Výzkumná témata skupiny
+
+
+		konceptuální modelování
+
+		ontologie
+
+		podnikové inženýrství
+
+		information systems management
+
+		formální specifikace
+
+		databázové systémy
+
+		programovací paradigmata a jazyky
+
+ Vyučované předměty - zkratky
+BI-OMO, BI-ZPI, MI-MEP, BI-ADW, BI-SI1, BI-SP1, BI-SI2, BI-SP2, BI-SQL, MI-CIO, BI-DBS, MI-PDB, PI-DIG, PI-IRT, PI-TMN, PI-AWR
+ Odkazy
+
+
+		Stránky skupiny: http://ccmi.fit.cvut.cz
+
+ Oceněné závěrečné práce
+
+
+		Business Process Modeling and Simulation: DEMO, BORM and BPMN (Ing. Zuzana Vejražková, Ing. Robert Pergl, Ph.D., 3. místo v jedné z kategorií Diplomka roku 2013, ACM Spy ocenění),
+
+		Applying OntoUML for structural definitions of Normalized Systems Expanders (Bc. Vincenc Kolařík, Ing. Robert Pergl, Ph.D., Cena děkana červen 2014),
+
+		IT jako součást byznysu v modelu Management of Business Informatics (Ing. Pavel Krejčí, Prof. Ing. Jan Dohnal, Cena za vynikající diplomovou práci červen 2014),
+
+		Latex export pro Dokuwiki (Bc. Adam Kučera, Ing. Robert Pergl, Ph.D., Cena děkana červen 2014)
+
+ Články
+
+
+		Pergl, Robert, Tiago Prince Sales, and Zdeněk Rybola. 2013. “Towards OntoUML for Software Engineering: From Domain Ontology to Implementation Model.” In Proceedings of MEDI 2013, 3rd:249–63. Amantea, Italy: Springer. doi:10.1007/978-3-642-41366-7.
+
+		Podloucký, Martin, and Robert. Pergl. 2014. “Towards Formal Foundation for the BORM OR Diagrams Validation and Simulation.” In ICEIS 2014 Proceedings (in Print). Springer Berlin Heidelberg.
+
+		Pergl, Robert, Tiago Prince Sales, and Zdeněk Rybola. 2013. “Instance-Level Modelling and Simulation Revisited.” In Enterprise and Organizational Modeling and Simulation, 85 – 100. Valencia, Spain: Springer. doi:10.1007/978-3-642-41638-5_6.
+
+		Pergl, Robert. 2011. “Supporting Enterprise IS Modelling Using Ontological Analysis.” Lecture Notes in Business Information Processing 88 LNBIP: 130–44.
+
+		Adam Šenk, Michal Valenta, Wolfgang Benn: Distributed Evaluation of XPath Axes Queries over Large XML Documents Stored in MapReduce Clusters. In Wokshop on NoSQL Databases and Linked Data Applications on DEXA 2014, Munich, Germany.
+
+		Pokroný, J. - Valenta, M.: Database Systems (in Czech). Česká technika - nakladatelství ČVUT. Praha. 2013. ISBN 978-80-01-05212-9.
+
+		Strnad, P. - Valenta, M.: On Benchmarking Transaction Managers. In Database Systems for Advanced Applications DASFAA 2009 International Workshops: BenchmarX, MCIS, WDPP, PPDA, MBC, PhD, Brisbane, Australia, April 20 - 23, 2009. Berlin: Springer, 2009, p. 79-92. ISSN 0302-9743.ISBN 978-3-642-04204-1.
+
+		Rybola, Z. - Richta, K.: Possible Realizations of Multiplicity Constraints. COMSIS - Computer Science and Information Systems. 2013, vol. 10, no. 4, p. 1621-1646. ISSN 1820-0214.
+
+		Rybola, Z. - Richta, K.: Transformation of Special Multiplicity Constraints-Comparison of Possible Realizations. In Federated Conference on Computer Science and Information Systems (FedCSIS 2012). New York: IEEE, 2012, p. 1357-1364. ISBN 978-83-60810-48-4.
+
+		Dohnal, J. - Příklenk O,: CIO a podpora byznysu s případovými studiemi CIO v ČR a SR, 1. vyd. Praha: GRADA PUBLISHING, 2011. 176 s. ISBN 978-80-247-4050-8.
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 27.4.2017, 9:39      
+           
+                          
+       
+
+
+
+
+
+

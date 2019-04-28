@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2013-10-14
+https://fit.cvut.cz/fakulta/pravidelne_akce/prednaskovy-cyklus-prof-svobody/Wong/prednaska
 
 
 
@@ -62,7 +62,7 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2013/2014 » Bitcoin – digitální měna budoucnosti nebo nafouklá bublina? Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Přednáškový cyklus prof. Svobody » W. Eric Wong » Přednáška Novinky    News
 
 
 
@@ -88,57 +88,38 @@ Ostatní akce
 
 
 
-Bitcoin – digitální měna budoucnosti nebo nafouklá bublina? 
+Kombinatorické testování a jeho použití 
 
 
 
 
-Přednáška:
-
-				Bitcoin – digitální měna budoucnosti nebo nafouklá bublina?
 
 
-
-Přednášející:
-
-				Jaroslav Brychta, Jan Skalický
-
-
-
-Datum a čas:
-
-				14. října 2013, 18–19:30 hodin
+Kombinatorické testování a jeho použití
+Řada studií ukázala, že kombinatorické testování může pomoci při odhalení těžko detekovatelných softwarových chyb, které se nepodaří zjistit pomocí testů generovaných s použitím jiných testovacích metod. První část přednášky se zaměří na tradiční black-box kombinatorické testování založené na požadavcích. Pozornost bude věnována především rozboru výsledků a poučení, které vyplynuly ze dvou praktických aplikací, jmenovitě jde o řídicí panel železničního systému a Linux systém. Druhá část přednášky rozšíří koncept kombinatorického testování na white-box zadání založené na znalosti struktury. Bude představeno pokročilé kritérium pokrytí – Combinatorial Decision Coverage – spojené se symbolickým výpočtem, díky němuž lze dosáhnout vysokého pokrytí s malými náklady, které nebudou degradovány možným prohledáváním stavového prostoru. V závěru přednášky bude vysvětleno, jak lze kombinatorické testování použít v metodologii testování IoT (Internet of Things) založené na grafech.
+O akci
+Vstup je zdarma, registrace není nutná.
 
 
-
-Místo:
-
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
+Typ akce
+Přednáška
+Přednášející
+Prof. W. Eric Wong
+Termín
+4. května 2017, 18:00
+Místo
+posluchárna T9:107, Nová budova ČVUT
+Thákurova 9, Praha 6
+Jazyk
+angličtina
 
 
 
-Jazyk:
+Osoba zodpovědná za obsah této stránky
 
-				Čeština
-
-
-
-Obsah přednášky:
-Decentralizovaná internetová kryptoměna bitcoin je rychle rostoucím fenoménem dnešního světa. Jako mnoho moderních IT technologií má potenciál měnit ekonomické a politické reálie, a výrazně zasáhnout do našich životů. Velká vlna zájmu o něj se zvedla zejména ve spojitosti s finanční a hospodářskou krizí posledních let. Jaké technologie za ním stojí? Čím se liší od zlata a běžných papírových peněz? Proč je zajímavý pro ekonomy ale i obyčejné občany? Může přispět k eliminaci finančních krizí, a budou vlády jen přihlížet, nebo se jej pokusí regulovat? Na to všechno, i mnoho dalšího, se Vám pokusí odpovědět naše dvojice fundovaných přednášejících.
- 
-Stručný životopis přednášejících:
-Jaroslav Brychta vystudoval hospodářskou politiku na Slezské univerzitě. Od roku 2007 pracuje ve společnosti X-Trade Brokers, kde nyní zastává pozici hlavního analytika. Věnuje se finančním trhům, devizové problematice a makroekonomii. Publikuje a vystupuje v předních českých médiích.
-Jan Skalický vystudoval systémové programování na FEL ČVUT. Pracoval v různých společnostech jako aplikační inženýr, a působil na pozici operátora blokové dozorovny v JE Temelín. O bitcoin se zajímá od roku 2010.
-Students for Liberty CZ je součást celosvětové organizace zastřešující studenty, kteří se zajímají o svobodu ve všech její aspektech. Jejím cílem je šířit myšlenky svobody a spojovat podobně smýšlející lidi.
-Ludwig von Mises Institut ČR&SR je nezávislé neziskové sdružení hlásící se k ideám svobody a dobrovolné spolupráce. Našim cílem je vzdělávání společnosti v otázkách ekonomie, politické filosofie a společenské harmonie.
- 
-Záznam přednášky:
+Veronika Dvořáková, veronika.dvorakova@fit.cvut.cz
 
 
-avc.fit.cvut.cz (po přihlášení ČVUT údaji) – přednáška není veřejně publikována
-
- 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
 
 
  
@@ -170,7 +151,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 31.1.2019, 11:04      
+      Poslední změna: 2.5.2017, 16:43      
            
                           
        

@@ -1,0 +1,271 @@
+http://datalab.fit.cvut.cz/research/projects/73-improving-neural-turing-machine-and-applying-it-to-human-behaviour-pattern-prediction
+
+
+
+
+
+
+
+
+
+
+LOGO
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+HomeNewsEventsEducationResearchProjectsPartners & SponsorsPeopleCompany LabsContact us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+			Golem Chatbots
+
+
+
+			DataLab birds places third at annual Angry Birds AI Competition
+
+
+
+			Improving Neural Turing Machine and applying it to human behaviour pattern prediction
+
+
+
+			Datalab Birds mine another victory at the Angry Birds AI Competition
+
+
+
+			Using Ruby on top of Apache Spark
+
+
+Events
+
+
+			[13. December, 11:00] Let's Talk ML
+
+
+
+			[29. November, 11:00] Let's Talk ML
+
+
+
+			[22. November, 11:00] Let's Talk ML
+
+
+
+			[1. November, 11:00] Let's Talk ML
+
+
+
+			[18 October, 11:00] Let's Talk ML
+
+
+Log in×Login
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+Log in
+
+
+
+
+                                Remember me                            
+
+
+
+
+
+
+
+
+
+
+
+
+			Improving Neural Turing Machine and applying it to human behaviour pattern prediction		
+
+
+
+				
+							Kordík Pavel				
+
+
+
+Our recent research article which was accepted for publication in the proceedings of World Congress of Computational Intelligence (WCCI 2016) presents our experiments with Neural Turing Machine (NTM), recently proposed by Google researchers.
+We published one of the first NTM open source implementation which was able to repeat experiments in the paper.
+
+Recently, we work on improvements that enable faster and more stable NTM learning. 
+NTM proved that it is very powerful in learning and generalizing long sequences. It can outperform standard recurrent neural networks as well as popular gating recurrent nets (LSTM).
+We extended NTM to be able to efficiently predict sequential patterns. First, we clustered GPS data.
+
+And then we trained NTM on historical data (sequence of cluster ids) to predict how people move along clusters. 
+
+We cooperate with Czech police and applied this method to model behavior of suspects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Follow Us                            
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Copyright (c) Data Science Laboratory @ FIT CTU 2014–2016. All rights reserved.
+
+
+
+
+
+JavaScript is currently disabled.Please enable it for a better experience of Jumi.
+� a prověřené IT profesionály, kteří ve svých kariérách nechtějí stát na místě.  
+
+
+Typ akce
+Přednáška
+Přednášející
+Víťa Šmíd – dreamBIG
+Termín
+15. října 2018, 18:00–19:30
+Místo
+Posluchárna T9:107, Nová budova ČVUT
+Thákurova 9, Praha 6
+Jazyk
+Čeština
+Záznam
+YouTube
+AVC FIT (přístupný pouze studentům a zaměstnancům ČVUT)
+
+
+O přednášejícím
+Víťa Šmíd vystudoval matematiku na Matematicko-fyzikální fakultě UK, ale vždy se živil jako programátor. Po letech freelancování v různých koutech světa se vrátil do Prahy a spoluzaložil technologickou firmu Quantlane, která obchoduje na finančních trzích za pomoci Pythonu, matematiky a zkušeností pokerových profesionálů. Kromě toho rád ochutnává whisky a jezdí na motorce (ne v tomto pořadí).
+Související obsah
+
+Témata
+Cyklus přednášek: Informatické večery FIT
+Předchozí přednáška: Kdysi dávno v předaleké Apakrychli
+Následující přednáška: Představení Bezpečnostní informační služby a možností uplatnění v oblasti IT
+Lidé
+Přednášející: Víťa Šmíd
+Záznam akce: Audiovizuální centrum studentů ČVUT
+Místa
+T9:107
+
+
+Osoba zodpovědná za obsah této stránky
+
+Bc. Veronika Dvořáková, veronika.dvorakova@fit.cvut.czPR referentka
+
+
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 15.4.2019, 15:56      
+           
+                          
+       
+
+
+
+
+
+

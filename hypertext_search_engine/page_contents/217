@@ -1,0 +1,219 @@
+http://bilakniha.cvut.cz/cs/predmet4656806.html
+
+
+
+
+
+Loading...
+ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
+Výběr období:
+Následující ak. rok
+Aktuální období
+Fakulty |
+         Celoškolská nabídka volitelných předmětů |
+         Katalog předmětů ECTS
+         | Nastavení
+         | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English version
+Úvodní stránka >
+         Fakulta informačních technologií >
+         katedra informační bezpečnosti >
+         Síťová bezpečnost
+
+
+Síťová bezpečnost
+Přihlášení do KOSu pro zápis předmětu Zobrazit rozvrh
+
+
+Kód
+Zakončení
+Kredity
+Rozsah
+Jazyk výuky
+
+
+MI-SIB.16
+Z,ZK
+5
+2P+1C
+česky
+
+
+
+Přednášející:
+Tomáš Čejka (gar.), Simona Buchovecká
+Cvičící:
+Tomáš Čejka (gar.), Simona Buchovecká
+Předmět zajišťuje:
+katedra informační bezpečnosti
+Anotace:
+
+
+Studenti získají teoretické i praktické znalosti a zkušenosti v oblasti současných bezpečnostních hrozeb v počítačových sítích,
+                  konkrétně kolem detekce a obrany proti nim.  Předmět vysvětluje základní principy bezpečnostního monitorování, paketové analýzy
+                  a analýzy síťových toků za účelem detekce anomálií a podezřelého síťového provozu.  Důraz je kladen na vysvětlení a praktické
+                  ukázky různých mechanismů zabezpečení síťové infrastruktury a detekce v reálném čase. Předmět dále pokrývá obecné principy
+                  řešení detekovaných bezpečnostních událostí (tzv. incident handling a incident response).
+               
+
+
+Požadavky:
+
+
+Základní povědomí o fungování počítačových sítí a počítačových systémů. Základní znalosti programování.
+
+
+Osnova přednášek:
+
+
+1. Úvod, Vybrané síťové protokoly a jejich bezpečnostní slabiny
+2. Síťové útoky 1 (Introduction)
+3. Síťové útoky 2 ((D)DoS, Scanning, Brute-Force)
+4. Síťové útoky 3 (Covert Channels, MitM, Poisoning, L7 hrozby)
+5. Vzdálený přístup
+6. Aktivní obrana, „Kyber klamání“ (Active Defense, Cyber Deception)
+7. Data mining
+8. Statistické metody pro detekci anomálií
+9. Intrusion Detection Systems
+10. Incident response
+11. Penetrační testování
+12. Rezerva (Sociální inženýrství)
+
+
+Osnova cvičení:
+
+
+1. ARP Man-in-the-Middle (MitM) and Scapy
+2. (Distributed) Denial of Service
+3. Paketová analýza
+4. Analýza síťových toků
+5. Síťové skenování a testování zranitelností
+
+
+Cíle studia:
+
+
+Cílem tohoto předmětu je seznámit studenty s bezpečnostními aspekty komunikačních protokolů v drátových, optických a bezdrátových
+                  informačních sítích. Důraz je kladen na detekci a prevenci útoků.
+               
+
+
+Studijní materiály:
+
+
+Kaufman, Perlman &amp; Speciner, ''Network Security, Private Communication in a Public World'', 2nd Edition. Prentice Hall,
+                  2002, ISBN: 0130460192.
+               
+Stallings, ''Cryptography and Network Security: Principles and Practice'', 5th Edition. Prentice Hall, 2010, ISBN: 0-13-869017-0.
+Anderson, ''Security Engineering: A Guide to Building Dependable Distributed Systems'', Wiley Publishing, 2008, ISBN: 0470068523.
+Mitnick, Simon, Wozniak, ''The Art of Deception: Controlling the Human Element of Security'', Wiley, 2003, ISBN: 076454280X.
+
+
+Poznámka:
+
+Další informace:
+ https://courses.fit.cvut.cz/MI-SIB/Rozvrh na zimní semestr 2018/2019:
+
+
+
+
+
+
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
+
+
+
+Po
+
+místnost T9:347Čejka T.11:00–12:30(přednášková par. 1)DejviceNBFIT učebnamístnost T9:345Čejka T.12:45–14:15SUDÝ TÝDEN(přednášková par. 1paralelka 101)DejviceNBFIT BOU ucebna
+
+
+
+Út
+
+
+
+
+
+St
+
+
+
+
+
+Čt
+
+
+
+
+
+Pá
+
+
+
+
+
+
+
+Rozvrh na letní semestr 2018/2019:
+Rozvrh není připraven
+Předmět je součástí následujících studijních plánů:
+
+
+Znalostní inženýrství, verze 2016 a 2017 (volitelný předmět)
+                  
+Počítačová bezpečnost, verze 2016, 2017 a 2018 (povinný předmět oboru)
+                  
+Počítačové systémy a sítě, verze 2016, 2017 a 2018 (povinný předmět oboru)
+                  
+Návrh a programování vestavných systémů, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Informační systémy a management, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Softwarové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Webové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Společný magisterský plán před přiřazením do oboru, verze 2016, 2017 a 2018 (VO)
+                  
+Zaměření Systémové programování, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Teoretická informatika, verze 2016-2017 (volitelný předmět)
+                  
+Specializace Teoretická informatika, verze 2018 (volitelný předmět)
+                  
+Znalostní inženýrství, verze 2018 (volitelný předmět)
+                  
+
+
+
+
+
+Platnost dat k 28. 4. 2019
+
+
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Provozuje Výpočetní a informační centrum ČVUT
+Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
+
+
+Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet4656806.html
+
+ Zobrazovat kódy skupin předmětů
+         
+

@@ -1,19 +1,9 @@
-http://bilakniha.cvut.cz/cs/predmet2967806.html
+http://cmp.felk.cvut.cz/~kybic/
 
 
 
 
 
-Loading...
-ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
-Výběr období:
-Následující ak. rok
-Aktuální období
-Fakulty |
-         Celoškolská nabídka volitelných předmětů |
-         Katalog předmětů ECTS
-         | Nastavení
-         | 
 
 
 
@@ -22,201 +12,90 @@ Fakulty |
 
 
 
+Jan Kybic
+Home page
 
 
+ 
 
 
 
 
-English version
-Úvodní stránka >
-         Fakulta informačních technologií >
-         katedra číslicového návrhu >
-         Inteligentní vestavné systémy
+Home
+Available positions
+CV
+Contacts & agenda
+Funding
+Personal
+Publications
+Research
+Students & Collaborators
+Teaching
 
+ 
 
-Inteligentní vestavné systémy
-Přihlášení do KOSu pro zápis předmětu Zobrazit rozvrh
 
 
-Kód
-Zakončení
-Kredity
-Rozsah
 
+I am a Full Professor in the Department of
+Cybernetics of the Faculty of Electrical Engineering
+of the Czech Technical University. I am a head
+of a small Biomedical Imaging Algorithms (BIA) group, which is a
+part of the
+Center for Machine Perception.
+My research mainly involves algorithms for medical and biological image processing. I am always looking for new collaborations and new projects, so if you have some interesting image data you need to analyze, feel free to contact me. I am also a member of the Academic Senate  of CTU of CTU and of the
+Academic Senate of FEE CTU.
 
-MI-IVS
-KZ
-4
-1P+3C
 
 
 
-Přednášející:
-Miroslav Skrbek (gar.)
-            
-Cvičící:
-Miroslav Skrbek (gar.), Marek Danel
-Předmět zajišťuje:
-katedra číslicového návrhu
-Anotace:
+News and messages
 
+I was elected into the Academic Senate of FEE CTU. (22-Mar-2018)
+We are organizing the ANHIR image registration challenge, a part of the ISBI 2019 conference. (14-Jan-2019)
+Jirka Borovec has successfully defended his PhD thesis Automatic analysis of gene expressions in Drosophila microscopy images. Congratulations! (1-Jul-2018)
+Our article Dvořák et al.: Volume estimation from single images: an application to pancreatic islets was accepted to Image Analysis & Stereology. Congratulations to everybody! (27-Jun-2018)
+My lecture about magnetic resonance imaging (in Czech) is available. (1-Jun-2018)
+Out article Kybic, Borovec: Fast registration by boundary sampling and linear programming was accepted to the prestigious MICCAI conference.  (25-May-2018)
+Research Center for Informatics, a large project (30+ FTE) involving several Faculties of the CTU seems to be approved. We will be hiring soon. (9-May-2018)
+Our article Borovec, Munoz, Kybic: Benchmarking of image registration methods for differently stained histological slides was accepted to the ICIP 2018 conference. Congratulations to Jirka! (4-May-2018)
+Our new biomedical study program [only in Czech, sorry] was approved by the National Accreditation Bureau for Higher Education. (16-Apr-2018)
+COST action Action COMULIS (Correlated Multimodal Imaging in Life Sciences) in which I participate, was accepted. (15-Apr-2018)
+Our paper Pinheiro, Kybic: Incremental B-spline deformation model for geometric graph matching was accepted to ISBI 2018. (21-Dec-2017)
+Our new biomedical study program [only in Czech, sorry] was approved by the CTU Scientific Council. (21-Nov-2017)
+Two articles by my PhD student Jirka Borovec accepted to Journal of Electronic Imaging. Congratulations. (24-Oct-2017)
+I have taught at the AMBIA summer school on advanced methods in biomedical image analysis. (5-Sep-2017)
+I am stepping down from my function as a Head of the Department. Good luck to my successor, Tomáš Svoboda. (1-Aug-2017)
+My PhD student Miguel Pinheiro has succesfully defended his thesis Graph and Point Cloud Matching for Image Registration. Congratulations! (27-06-2017)
+Our article Glowacki et al: Reconstructing  Evolving Tree Structures in Time Lapse Sequences by Enforcing  Time-Consistency was accepted to IEEE PAMI. Congratulations to Przemek, Miguel, and all coauthors! (24-2-2017)
+I am again a member of one of the evaluation committees (P202 - Informatics) of the Czech Science Foundation (GAČR). (24-2-2017)
+Job offer: I am looking for new PhD students, post-docs, or experienced independent programmers for various projects concerning analysis of images in biology and medicine, for example histology slice registration or perfusion CT data processing. The candidates should have very good knowledge of programming, mathematics, and image processing.  If you are interested, please send me your CV, recommendation letters, sample publications, study result reports and other relevant documents. The positions are open until filled.
 
-Předmět Inteligentní vestavné systémy pro magisterské studium  reflektuje současné trendy vývoje a aplikace složitých vestavných
-                  systémů s prvky umělé inteligence. Je pokročilou verzí předmětu Základy inteligentních vestavných systémů pro bakalářskou
-                  etapu. Cílem předmětu je seznámit studenty s moderním robotem humanoidního typu a naučit je vyvíjet pro něj pokročilejší aplikace.
-                  V přednáškách se studenti seznámí s principy ovládání a navigace robota, aplikačními rozhraními a nástroji pro vývoj aplikací
-                  v programovacích jazycích. Hlavní důraz je kladen na cvičení, kde studenti budou po dobu semestru vyvíjet  vlastní pokročilejší
-                  aplikace, ve kterých mohou kombinovat znalosti získané v jiných předmětech například přírodou inspirované algoritmy, algoritmy
-                  data miningu, rozpoznávání obrazu a webových technologií.
-               
+Older news
+I am also on Twitter as @JanKybic.
 
 
-Požadavky:
+ 
+ 
 
 
-Znalost programovnání v některém z programovacích jazyků C++, Java, Python.
 
+                Page last modified Fri Mar 22 11:21:43 2019.
+                
 
-Osnova přednášek:
+                Created by rest2web.
+Website
+                    template
+                  by Arcsin (modified)
 
+ 
+ 
+ 
 
-1. Úvod do předmětu, základní vlastnosti robota
-2. Aplikační programátorská rozhraní a simulátor robota
-3. Programové řízení pohybu a rovnováhy
-4. Manipulace s předměty
-5. Události ze senzorů a jejich zpracování
-6. Komunikační rozhraní, využití webovských zdrojů informace
-7. Aplikace neuronových sítí a metod výpočetní inteligence
-8. Navigace hlasovými povely, lokalizace zdroje zvuku
-9. Rozpoznávání jednoduchých předmětů
-10. Jednoduché metody vizuální navigace
-11. Kooperativní robotika
-12. Prezentace projektů
-13. Zápočet
 
 
-Osnova cvičení:
 
 
-V průběhu semestru budou studenti pracovat na projektu, který budou na závěr prezentovat. Projekty budou zahrnovat pokročilejší
-                  metody jako je navigace, rozpoznávání obrazu, neuronové sítě a algoritmy výpočetní inteligence, kombinace s webovskými zdroji
-                  informace apod.
-               
 
 
-Cíle studia:
-
-
-Cílem předmětu je rozvinout znalosti studentů v oblasti inteligentních vestavných systémů a poskytnout jim platformu pro uplatnění
-                  širokého spektra znalostí z jiných předmětů pro řešení komplexních problémů.
-               
-
-
-Studijní materiály:
-
-Poznámka:
-
-
-Rozsah=prednasky+proseminare+cviceni:1p+3c
-
-Rozvrh na zimní semestr 2018/2019:
-Rozvrh není připraven
-Rozvrh na letní semestr 2018/2019:
-
-
-
-
-
-
-06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
-
-
-
-Po
-
-
-
-
-
-Út
-
-
-
-
-
-St
-
-
-
-
-
-Čt
-
-
-
-
-
-Pá
-
-místnost TH:A-1048Skrbek M.12:45–14:15SUDÝ TÝDEN(přednášková par. 1)Thákurova 7 (FSv-budova A)Servitova laborkamístnost TH:A-1048Skrbek M.14:30–16:00SUDÝ TÝDEN(přednášková par. 1paralelka 101)Thákurova 7 (FSv-budova A)Servitova laborka
-místnost TH:A-1048Skrbek M.12:45–16:00LICHÝ TÝDEN(přednášková par. 1paralelka 101)Thákurova 7 (FSv-budova A)Servitova laborka
-
-
-
-
-
-Předmět je součástí následujících studijních plánů:
-
-
-Zaměření Systémové programování, verze 2014, 2015 (volitelný předmět)
-                  
-Zaměření Webové inženýrství - verze pro ty, kteří se zapsali v roce 2014 a 2015 (volitelný předmět)
-                  
-Znalostní inženýrství - verze pro ty, kteří se zapsali v roce 2015 (volitelný předmět)
-                  
-Společný plán před přiřazením do oboru, verze pro ty, kteří se zapsali v letech 2015 (volitelný předmět)
-                  
-Znalostní inženýrství, verze 2016 a 2017 (volitelný předmět)
-                  
-Počítačová bezpečnost, verze 2016, 2017 a 2018 (volitelný předmět)
-                  
-Počítačové systémy a sítě, verze 2016, 2017 a 2018 (volitelný předmět)
-                  
-Návrh a programování vestavných systémů, verze 2016, 2017 a 2018 (volitelný předmět)
-                  
-Zaměření Informační systémy a management, verze 2016, 2017 a 2018 (volitelný předmět)
-                  
-Zaměření Softwarové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
-                  
-Zaměření Webové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
-                  
-Společný magisterský plán před přiřazením do oboru, verze 2016, 2017 a 2018 (volitelný předmět)
-                  
-Zaměření Systémové programování, verze 2016, 2017 a 2018 (volitelný předmět)
-                  
-Zaměření Teoretická informatika, verze 2016-2017 (volitelný předmět)
-                  
-Specializace Teoretická informatika, verze 2018 (volitelný předmět)
-                  
-Znalostní inženýrství, verze 2018 (volitelný předmět)
-                  
-
-
-
-
-
-Platnost dat k 27. 4. 2019
-
-
-            Copyright © Jiří Kosek, 2010–2012 | 
-            Copyright © ČVUT, 2010–2012
-            Provozuje Výpočetní a informační centrum ČVUT
-Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
-
-
-Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet2967806.html
-
- Zobrazovat kódy skupin předmětů
-         
 

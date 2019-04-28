@@ -1,0 +1,184 @@
+https://fit.cvut.cz/aktualne/jednorazove-akce/2013-06-12
+
+
+
+
+
+
+
+česky
+english
+
+
+
+České vysoké učení technické v Praze
+
+
+
+Fakulta informačních technologií
+
+
+
+
+
+
+Hledání
+
+Hledání: 
+
+
+
+
+
+
+
+
+
+
+
+
+Fakulta
+Aktuálně
+Zájemci o studium
+Student
+Zaměstnanec
+Média
+
+
+
+
+
+Kalendář
+Akce a události
+Soutěže
+Projekty
+
+
+
+
+
+
+
+
+
+ 
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Jednorázové akce » Memory Controllers for Real-Time Embedded Systems Novinky    News
+
+
+
+
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
+
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
+
+
+
+
+
+Memory Controllers for Real-Time Embedded Systems 
+
+
+
+
+Přednáška:  
+
+				Memory Controllers for Real-Time Embedded Systems
+
+
+
+Přednášející:
+
+				Benny Åkesson
+
+
+
+Datum a čas:
+
+				12. červen 2013, od 17 hodin
+
+
+
+Místo:      
+
+				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, místnost T9:364
+
+
+
+Prezentace:
+
+ke stažení [pdf]
+
+
+
+
+
+	Designing multi-processor systems-on-chips becomes increasingly complex, as more applications with real-time requirements execute in parallel. System resources, such as memories, are shared between applications to reduce cost, causing their timing behavior to become inter-dependent. Using conventional simulation-based verification, this requires all concurrently executing applications to be verified together, resulting in a rapidly increasing verification complexity. Predictable and composable systems have been proposed to address this problem. Predictable systems provide bounds on performance, enabling formal analysis to be used as an alternative to simulation. Composable systems isolate applications temporally, enabling them to be verified independently.
+
+	 
+
+	Predictable and composable systems are built from predictable and composable resources. This presentation discusses concepts, architecture, configuration, and modeling of a predictable and composable memory controller. The controller design is general and supports both SRAM and SDRAM and a wide range of arbiters, making it suitable for many predictable and composable systems. The memory controller is supported by a configuration tool that automatically computes appropriate configuration settings, given bandwidth and latency requirements of the memory clients. The modeling approach is based on a shared-resource abstraction that covers any combination of supported memory and arbiter and enables system-level performance analysis with a variety of well-known frameworks, such as network calculus or data-flow analysis.
+
+	 
+
+	The memory controller is positioned with respect to existing work, targeting either firm real-time (FRT) systems or soft/no real-time (SRT/NRT) systems. The requirements of complex mixed real-time (MRT) systems, which contain a combination of FRT, SRT, and NRT memory clients, are presented and we explain why current controllers are unable to satisfy these requirements. As a direction for future research, we discuss how current FRT and SRT/NRT memory controllers may evolve into MRT controllers, suitable for complex systems-on-chips. 
+
+	 
+
+Biography:
+
+	Benny Åkesson was born in Landskrona, Sweden in 1977. He earned a M.Sc. degree in Computer Science and Engineering at Lund Institute of Technology, Sweden in 2005. In 2010, Dr. Åkesson received his Ph.D. degree in Electrical Engineering at Eindhoven University of Technology, the Netherlands, on the topic of "Predictable and Composable SoC Memory Controllers". This research was conducted in collaboration with NXP Semiconductors. Dr. Åkesson is currently working as a Postdoctoral Researcher at Eindhoven University of Technology, where he is leading the Memory Team in the Electronic Systems group at the faculty of Electrical Engineering. In 2012, he spent six months as a Research Associate at the CISTER Real-Time Research Unit in Porto, Portugal. His research interests include memory controller architectures, real-time resource scheduling, performance modeling, and virtualization. He is the author of a book about memory controllers for real-time embedded systems.
+ 
+
+
+ 
+
+
+Důležité odkazy
+Mapa stránek
+Kontakty
+Partneři
+Časopis Buď FIT
+
+
+
+Facebook
+Twitter
+Instagram
+YouTube
+
+
+
+Připomínky a náměty
+webmaster@fit.cvut.cz
+
+
+
+ 
+
+ 
+
+
+
+      Poslední změna: 17.6.2013, 13:35      
+           
+                          
+       
+
+
+
+
+
+

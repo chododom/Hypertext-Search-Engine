@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2010-03-03
+https://fit.cvut.cz/fakulta/pravidelne-akce/microsoft-student-partner/archiv
 
 
 
@@ -62,7 +62,7 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » LS 2009/2010 » iBatis 3.0 Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Microsoft Student Partner » Archiv přednášek Novinky    News
 
 
 
@@ -88,48 +88,30 @@ Ostatní akce
 
 
 
-iBatis 3.0 
+Archiv přednášek 
+Letní semestr 2010/11
+Všechny přednášky se odehrávají v místnosti T2:C3-54 od 18:00 (Dejvice,budova FEL, přízemí, od vchodu do leva).
 
 
+		27.4. SQL Server 2008 Reporting a Analysis Services - Silvie Pavlosková (studentpartnerka@gmail.com) Představení služeb a praktické ukázky použití. Pro hlubší proniknutí do problematiky budou poskytnuty materiály pro e-learning. Přednáška je určená pro mírně až středně pokročilé analytiky.
+
+		13.4. Vývoj na Windows Phone 7 a Microsoft Translator API - Zdeněk Žák (zdenda_z@msn.com) V přednášce si představíme operační systém Windows Phone 7 a vývoj pro něj, seznámíme se s Microsoft Translator API a na příkladu si ukážeme, jak ho využít v mobilní aplikaci. Přednáška je zaměřená na vývojáře začátečníky.
+
+		30.3. Code-First Entity Framework a Model-View-ViewModel - Václav Dajbych (vaclav@dajbych.net) Přednáška obsáhne podrobnější popis nového Entity Frameworku označovaného jako Code-First, který je schopný jen s pomocí tříd jazyka C# vytvořit a pracovat s databází bez jakýkoliv XML konfiguračních souborů. Po předvedení relací 1:1, 1:N a M:N a manipulací s daty z kódu bude model zasazen do WPF aplikace, což umožní manipulovat s daty z uživatelského rozhraní. Jak to udělat co nejjednodušeji si ukážeme na implementaci návrhového vzoru Model-View-ViewModel. Přednáška je zaměřená na vývojáře začátečníky.
+
+		16.3. Sharepoint 2010 - Ondřej Šťastný (mail@ondrejstastny.cz) Přednáška seznámí posluchače se současnou podobou plafrormy Sharepoint a jaké výhody přináší pro business. Na příkladech si ukážeme možnosti rozšíření této platformy a základy technického řešení vývoje vlastní funkcionality. Přednáška je určena pro ne-programátory a vývojáře, kteří nemají se Sharepointem zkušenosti.
+
+Zimní semestr 2010/11
 
 
-Přednáška:
+		15.12. Jak na rychlé ASP.NET stránky? - Petr Carda (p.carda@seznam.cz) místo a čas: T2:C3-132 18:00 Optimalizace ASP.NET. Tipy a triky, které zmíníme se nebudou týkat jen ASP.NET, podíváme se i na přenosy, databázi, triky na uživatelském rozhraní atd.
 
-				iBatis 3.0
+		1.12. WebMatrix - Ondřej Šťastný (mail@ondrejstastny.cz) místo a čas: T2:C3-132 18:00 Vše o novém vývojovém prostředí pro ASP.NET, spřízněných technologiích a vývojových metodách. Vyvíjejte rychle, jednoduše a bezproblémově.
 
+		10.11. Novinky v Internet Explorer 9 - Václav Dajbych (vaclav@dajbych.net) místo a čas: T2:C3-132 18:00 Přednáška shrnuje mladé technologie, které Internet Explorer 9 implementuje. Mimo jiné budou zmíněny hlavní tagy HTML5 nebo javascriptové API.
 
+		3.11. Bing a Windows Live API - Zdeněk Žák (zdenda_z@msn.com) místo a čas: T2:C3-132, 18:00 Přednáška zaměřená na Windows Live API a Bing Maps API. Seznámíme se s tím, co tyto technologie nabízejí a na praktických příkladech si ukážeme, jak je použít.
 
-Přednášející:
-
-				Ing. Jan Novotný, Senior Java Developer, FG Forrest a.s.
-
-
-
-Datum a čas:
-
-				3. března 2010, 18–20 hodin
-
-
-
-Místo:
-
-				Ballingův sál, NTK, Praha
-
-
-
-Jazyk:
-
-				Čeština
-
-
-
- 
-Anotace přednášky: iBatis je framework pro mapování dat uložených v relační databázi na Java objekty. iBatis je už po několik let zajímavou alternativou k ORM frameworkům postaveným na JPA (jehož typickým představitelem je Hibernate). Mottem iBatisu je zjednodušit vývojářům práci s databází a přitom zůstat tak jednoduchý, jak jen to je možné. Právě jednoduchostí a nízkoúrovňovým přístupem k databázi poráží v řadě případů daleko silnější frameworky.
-Na workshopu si budete moci sami vyzkoušet práci s iBatisem 3, který právě spatřil světlo světa. Kromě novinek v iBatisu bude k vyzkoušení jeho integrace do Spring Frameworku 3.1. Obě dvě záležitosti ještě nemají své stabilní verze, takže budou k vyzkoušení opravdu žhavé novinky. V průběhu bude vyhlášena soutěž o jednu licenci vývojového prostředí IntelliJ Idea 9 Ultimate Edition.
- 
-Vstupní předpoklady: Stačí běžná znalost Javy, SQL a JUnit knihovny pro testování. Každý účastník by měl mít vlastní notebook s instalovaným libovolným Java IDE (doporučuji IntelliJ IDEA), JDK 1.6 a Mavenem. Přestože budou materiály k dispozici i na workshopu, doporučuji si je stáhnout z adresy přes GIT klienta (git://github.com/novoj/iBatisWorkShop.git) nebo jako ZIP archiv (v menu vyberte Download sources). Další detaily budou zveřejněny na blogu.
- 
-Anotace přednášejícího: Ing. Jan Novotný je absolventem Univerzity Hradec Králové v oboru Informační management a nyní pracuje jako Senior Java Developer ve společnosti FG Forrest, a.s. V prostředí vývoje webových aplikací se pohybuje více jak 8 let a své zkušenosti se s Java komunitou snaží sdílet prostřednictvím odborného blogu „Myšlenky Otce Fura“. Od roku 2009 je členem Jetbrains Java Academy.
 
 
  
@@ -161,7 +143,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 23.4.2019, 10:24      
+      Poslední změna: 16.1.2019, 10:53      
            
                           
        

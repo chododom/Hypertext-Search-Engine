@@ -1,4 +1,4 @@
-https://fit.cvut.cz/vyzkum/cig
+https://www.fit.cvut.cz/en
 
 
 
@@ -11,24 +11,20 @@ english
 
 
 
-České vysoké učení technické v Praze
+Czech Technical University in Prague
 
 
 
-Fakulta informačních technologií
-
-
-
-
-
-
-Hledání
-
-Hledání: 
+Faculty of Information Technology
 
 
 
 
+
+
+Search this site
+
+Search this site: 
 
 
 
@@ -37,171 +33,194 @@ Hledání:
 
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
+
+
+
+
+Faculty
+Prospective Students
+Partners
 Student
-Zaměstnanec
-Média
+Employees
+Media
 
 
 
 
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
-
-
-
-
-
-
-
-
-
- 
- › ČVUT » FIT  » Fakulta » Věda » Výzkumné skupiny a laboratoře » Výpočetní inteligence a strojové učení Novinky    News
-
-
-
-
-AktualityObhajoby DP
-
-Kontakt
-Granty
-Patenty
-DoktorandiZájemce o studium
-Harmonogram
-DSP Informatika Základní informace
-Informace pro nové doktorandy
-Legislativa a formuláře
-Oborová rada - ORP
-Studijní předměty
-Státní doktorská zkouška
-Témata dizertačních prací
-Obhájené dizertační práce
-Zápis do DSP Informatika
-
-Habilitační a jmenovací řízeníObhájené habilitační práce
-
-Vědecká rada
-Výzkumné skupiny a laboratořeAplikovaná numerika a kryptologie
-Arbologie
-Centrum pro konceptuální modelování a implementace
-Číslicový návrh a spolehlivost
-Inteligentní web
-Počítačové sítě
-Paralelní a distribuované výpočty
-Pražský stringologický klub
-Výpočetní inteligence a strojové učení
-Laboratoř 3D tisku
-Laboratoř etického hackování
-Laboratoř inteligentních vestavných systémů
-Laboratoř otevřených dat
-Laboratoř zpracování obrazu
-GPU laboratoř
-Síťová a multimediální laboratoř
-Laboratoř s firmou UNICO.AI
+Structure
+Official notice board
+Int. relations
+Research
+History
+Academic Senate
+Contacts
+Events
 
 
 
 
 
 
-Výpočetní inteligence a strojové učení 
-Vyvíjíme přírodou inspirované algoritmy řešící složité problémy v data miningu a umělé inteligenci.
- 
-Skupina sdružuje akademické pracovníky a studenty několika pracovišť ČVUT zabívající se výzkumem algoritmů výpočetní inteligence, tedy přírodou inspirovanými algoritmy, strojovým učením, umělou inteligencí a jejím použitím v různých doménách, zejména pak v data miningu. Pomáháme firmám řešit problémy jako je predikce, klasifikace, doporučovací systémy nebo segmentace inteligentním způsobem, který díky přírodou inspirovaným metodám využívá strojového učení k vysoké míře automatizace řešení.
- Vedoucí
-Ing. Pavel Kordík, Ph.D., pavel.kordik@fit.cvut.cz
- Výzkumná témata vedoucího
-Prediktivní modely, meta-učení, optimalizace, vizualizace informace
- Další členové
-
-
-		doc. RNDr. Ing. Marcel Jiřina, Ph.D.(Data mining, Text mining, zpracování obrazu)
-
-		Ing. Tomáš Borovička (Aktivní učení)
-
-		Ing. Tomáš Řehořek (Doporučovací systémy)
-
-		Ing. Jan Černý (Prediktivní modelování)
-
-		Ing. Tomáš Bartoň (Shlukování dat)
-
-		Ing. Stanislav Kuznetsov (Velká data)
-
-		Ing. Jan Motl (Předzpracování dat)
-
- Výzkumná témata skupiny
-
-
-		genetické algoritmy a programování
-
-		meta učení, posilované učení
-
-		spojitá optimalizace
-
-		data mining
-
-		text mining
-
-		prediktivní modelování
-
-		doporučovací systémy
-
-		segmentace
-
-		big data
-
-		vizualizace informace
-
- Vyučované předměty
-MI-MVI, MI-PDD, MI-ADM, BI-VZD, BI-ZUM.
- Oceněné závěrečné práce
-
-
-		Selecting representative data sets (Ing. Tomáš Borovička, Ing. Pavel Kordík, PhD., 3. místo ACM Spy)
-
- Články
-
-
-		KORDÍK, P. and J. ČERNÝ. On performance of Meta-learning Templates on Different Datasets. In: The 2012 International Joint Conference on Neural Networks (IJCNN), Brisbane, Australia, June 10-15, 2012. World Congress of Computational Intelligence, Brisbane, 2012-06-10/2012-06-15. New York: IEEE, 2012, pp. 1-7. ISSN 1098-7576. ISBN 978-1-4673-1490-9.
-
-		KORDÍK, P., J. KOUTNÍK, J. DRCHAL, O. KOVÁŘÍK, M. ČEPEK, and M. ŠNOREK. Meta-learning approach to neural network optimization. Neural Networks. 2010, 2010 (23)(4), 568-582. ISSN 0893-6080. Available from: https://www.sciencedirect.com/science/article/pii/S0893608010000456
-
-		KORDÍK, P. and J. ČERNÝ. Self-organization of Supervised Models. In: DUCH, W., N. JANKOWSKI, and K. GRĄBCZEWSKI, eds. Meta-Learning in Computational Intelligence. London: Springer, 2011, vol. 1, pp. 179-223. Studies in Computational Intelligence. vol. 358. ISSN 1860-949X. ISBN 978-3-642-20979-6. Available from: http://www.springerlink.com/content/h607237h77uq7215/
-
-		JIŘINA, M. Utilization of singularity exponent in nearest neighbor based classifier. Journal of Classification. 2013, 1(30), 3-29. ISSN 0176-4268.
-
-		BOROVIČKA, T., M. JIŘINA, P. KORDÍK, and M. JIŘINA. Selecting Representative Data Sets [online]. In: Advances in Data Mining Knowledge Discovery and Applications. Rijeka: InTech - Open Access Company (InTech Europe), 2012, pp. 43-66. ISBN 978-953-51-0748-4. Available from: http://www.intechopen.com/books/advances-in-data-mining-knowledge-discov...
-
-		KOVÁŘÍK, O. and P. KORDÍK. Max-min ant system with linear memory complexity. In:Proceedings of the IEEE Congress on Evolutionary Computation, CEC 2012, Brisbane, Australia, June 10-15, 2012. World Congress of Computational Intelligence, Brisbane, 2012-06-10/2012-06-15. New York: IEEE, 2012, pp. 1-5. http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6241678. vol. 1. ISBN 978-1-4673-1509-8. Available from: http://dblp.uni-trier.de/rec/bibtex/conf/cec/KovarikK12
-
-		HÁVA, O., M. SKRBEK, and P. KORDÍK. Document Classification with Supervised Latent Feature Selection. In: BURDESCU, D.D.B. and R.A. AKERKAR, and C.B. BĂDICĂ, eds. Proceedings of the 2nd International Conference on Web Intelligence, Mining and Semantics. International Conference on Web Intelligence, Mining and Semantics, Craiova, 2012-07-13/2012-07-15. New York: ACM, 2012, pp. 70-74. ISBN 978-1-4503-0915-8.
-
-		ŘEHOŘEK, T. and P. KORDÍK. A Soft Computing Approach to Knowledge Flow Synthesis and Optimization. In: Soft Computing Models in Industrial and Environmental Applications. 7th International Conference on Soft Computing Models in Industrial and Environmental Applications, Ostrava, 2012-09-05/2012-09-07. Heidelberg: Springer, 2013, pp. 23-32. ISSN 2194-5357. ISBN 978-3-642-32921-0. Available from: http://link.springer.com/chapter/10.1007/978-3-642-32922-7_3
-
-		BARTOŇ, T. and P. KORDÍK. Encoding time series data for better clustering results. In: INTERNATIONAL JOINT CONFERENCE CISIS'12 - ICEUTE'12 - SOCO'12 SPECIAL SESSIONS. 7th International Conference on Soft Computing Models in Industrial and Environmental Applications, Ostrava, 2012-09-05/2012-09-07. Berlin: Springer, 2013, pp. 467-475. Advances in Intelligent Systems and Computing. vol. 189. ISSN 2194-5357. ISBN 978-3-642-33017-9. Available from: http://link.springer.com/chapter/10.1007/978-3-642-33018-6_48
-
-		KORDÍK, P. and J. ČERNÝ, Building Predictive Models in Two Stages with Meta-Learning Templates optimized by Genetic Programming; accepted for publication; proceedings of SSCI 2014, US
 
 
 
  
+ › CTU » FIT  » Faculty Novinky    News
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
+
+
+
+
+
+News
+
+
+
+
+Clash of Faculties—Frisbee
+
+       -   
+  
+05.05.2019
+
+
+On May 5, the seventh tournament of the Clash of Faculties, this time in the frisbee, takes place on the SK Střešovice field. Sign in and come to support the Faculty of Information Technology, which is only one point behind the first place after the fifth tournament in the interim results.
+
+
+
+
+
+
+
+International Day
+
+       -   
+  
+16.04.2019
+
+
+The International Day is held on Apr. 16 in Dejvice Campus. This fair is an excellent opportunity to get useful information about travelling abroad. You can meet international students who will answer your questions and inform you about their culture. You can look forward to traditional food, customs, and student bands.
+
+
+
+
+
+
+
+R. Pergl Appointed a Docent
+
+       -   
+  
+01.04.2019
+
+
+Ing. Robert Pergl, Ph.D., defended his habilitation thesis “Conceptualisation: Chapters from Harmonizing Enterprise and Software Engineering” and was appointed a docent (associate professor) on Apr. 1. R. Pergl works at the Department of Software Engineering and the Centre for Conceptual Modeling and Implementation. His research focus is conceptual modelling, software engineering, and programming languages.
+
+
+
+
+
+
+
+Lesamáj
+
+       -   
+  
+30.04.2019
+
+
+Lesamáj or Technically Majáles of Dejvice takes place on Apr. 30 in Dejvice Campus. The multi-genre festival in the spirit of student cooperation and belonging starts at 11:00. You can look forward to musical and theatrical performances or the announcement of Her/His Majesty of Lesamáj.
+
+
+
+
+
+
+
+SHOW Festival
+
+       -   
+  
+24.04.2019
+
+
+On Apr. 24, Silicon Hill club hosts the eleventh year of Silicon Hill Open Wednesday (SHOW) on the premises of Strahov Dormitory. There are four stages program of the best performers and rich accompanying program. The main star of the evening will be pop-punk band Vypsaná fiXa. Entry is free of charge.
+
+
+
+
+
+
+
+FIT LAN Party
+
+       -   
+  
+13.04.2019
+
+
+On Apr. 13, the FIT++ club prepared for all gaming enthusiasts in the room TH:A-1455 another FIT LAN Party. You can play old game titles like Counter-Strike 1.6 or Warcraft 3. But do not forget to bring your gaming device.
+
+
+
+
+
+
+
+Summer Sports Courses
+
+       -   
+  
+08.04.2019
+
+
+The Institute of Physical Education and Sport, CTU, has prepared a wide range of summer courses for students. There is a choice of more than twelve kinds of sports, the courses are organised both in the Czech Republic and abroad. You can register directly on their website without registration of the course in the KOS system.
+
+
+
+ page 1 / 24
+
+ 
+
+
+
+
+       
+Supercomputer With the Highest Performance for AI
+
+
+The computer cluster with the highest performance for artificial intelligence research in the Czech Republic was built as part of the Research Center for Informatics (RCI) project of the Faculty of Information Technology and the Faculty of Electrical Engineering. This supercomputer worth CZK 41.6 million is located in the underground of the FEE building on Karlovo náměstí. With its 6 PetaFLOPS performance, scientists can research deep learning methods such as robotics and bioinformatics applications, developing computer security applications, or managing autonomous cars.
+Press release on the new computer cluster (only in Czech)
+
+We Opened the Department of Information Security
+
+
+The Faculty of Information Technology, CTU became the first faculty in the Czech Republic, which founded the Department of Information Security—a specialised workplace for the study of IT security. The department specialises in network and system security, cryptology, hardware and software security. At present, the new department also offers four professional laboratories—Hardware Laboratory, RFID Laboratory, Forensic Analysis Laboratory, and Ethical Hacking Laboratory. The head of the department is prof. Róbert Lórencz.
+Read more about the Department of Information Security
+Press release on the opening of the Department of Information Security (only in Czech)
+
+InstallFest 2019
+
+
+The eleventh year of the InstallFest conference takes place on March 2–3 at the Faculty of Electrical Engineering, CTU, at Karlovo náměstí. The Linux community meeting offers a rich program with lectures and workshops not only on topics of computer security and the Internet. Among the lecturers, there are traditionally employees and students of our faculty, e.g. Lukáš Bařinka, Tomáš Čejka, Martin Bílý, and Karel Jílek. In addition to the open technologies, the conference also offers open food—OpenCola. The event is free of charge, but registration is required.
+Read more about InstallFest 2019
+
+Prague PostgreSQL Developers Day 2019
+
+
+The twelveth year of the Prague PostgreSQL Developers Day conference takes place on February 13–14 at the Faculty of Information Technology. The two-day event will offer workshops and lectures about the PostgreSQL open-source database. Magnus Hagander, PostgreSQL Core Team Member and Major Developer, also lectures at the conference. The event is paid and registration is required. The faculty has several free tickets for students available for both Wednesday and Thursday program. For more information, contact Michal Valenta.
+Read more about the Prague PostgreSQL Developers Day 2019
+
+
+
+ 
+
+
+Important Links
+Sitemap
+Contacts
 
 
 
@@ -212,7 +231,7 @@ YouTube
 
 
 
-Připomínky a náměty
+Questions and comments
 webmaster@fit.cvut.cz
 
 
@@ -223,7 +242,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 21.1.2019, 16:13      
+      Last modified: 24.4.2019, 15:32      
            
                           
        

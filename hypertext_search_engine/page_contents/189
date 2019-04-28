@@ -1,4 +1,4 @@
-http://cmp.felk.cvut.cz/~kybic/proposed.html
+https://is.fit.cvut.cz/group/ssp
 
 
 
@@ -12,121 +12,24 @@ http://cmp.felk.cvut.cz/~kybic/proposed.html
 
 
 
-Jan Kybic
-Available positions
+
+                Login to liferay.is.fit.cvut.cz
 
 
- 
+Username
 
 
 
-
-Home
-Available positions
-CV
-Contacts & agenda
-Funding
-Personal
-Publications
-Research
-Students & Collaborators
-Teaching
-
- 
+Password
 
 
 
 
-If you are interested by any of the positions advertised below, please send me your CV, recommendation letters, sample publications, study result reports and other relevant documents.
-Here are examples
-of semestral, bachelor, and master thesis projects I am offering.
+
+Login
 
 
-Multimodal digital pathology
-The current methods in digital pathology try to model the human expert
-approach for understanding the histopathology images and to propose a number
-of quantitative descriptors of the images. However, this approach provides a
-limited view on the underlying biology and will likely lag behind the human
-expertise in interpreting the histopathology image data for the foreseeable
-future.
-On the other hand, nowadays a biological sample is characterized by a richer
-set of features raging from clinical to molecular information. It is not
-uncommon to have whole-genome expression data, mutational and clinical data
-available for analysis.
-In this context, the present project aims at combining gene expression,
-clinical and imaging features to provide a more comprehensive description of
-the pathology slides, description that will rather complement than replace
-the usual pathologist assessment. This represents a paradigm shift in
-digital pathology and is expected to advance the current state of the art.
-Using gene expression data to guide the development, the project will create
-and implement novel software tools for histopathology image analysis. The
-utility of the resulting methods will be evaluated in collaboration with an
-expert pathologist. In collaboration with  Vlad Popovici
-Requirements: image processing; Java/Python; pattern recognition
-
-
-Identification of tumor cells in microscope images
-(PhD or master thesis topic) A typical histopathology slide contains not only tumor cells but also normal
-tissue cells and other regions of less interest from a diagnostic
-perspective. Thus, one of the tasks a pathologists performs routinely is the
-identification of tumor regions in the microscope slide (if there are any)
-and eventually delineating them for further analysis.
-The purpose of the project is to produce the software tools that would
-automate the identification of tumor cells in digital images of H&E-stained
-microscope slides. These tools will be applied to high resolution images of
-colon cancer samples and they will need to demonstrate high performance
-(detection rate and computation time) in order to be accepted by the
-pathologists. In collaboration with  Vlad Popovici
-Requirements: image processing; Java/Python; pattern recognition
-
-
-Nuclear morphology in digital pathology
-(Part of a PhD thesis or a master thesis topic) The type of cells and the morphology of their nuclei are key variables
-that are considered by the pathologist when assessing a tissue
-sample. The standard staining of the histopathology slides reveals the
-regions containing nuclei, but precisely segmenting their contours
-remains a non-trivial task.
-The purpose of the project is to produce the software tools that would
-automatically segment and identify the nuclei in digital pathology images.
-The identified nuclei will be then characterized in terms of shape,
-orientation, budding, etc, to help the human expert in assessing the tumor
-sample. These tools will be applied to high resolution images of colon
-cancer samples and they will need to demonstrate high performance (detection
-rate and computation time) in order to be accepted by the
-pathologists. In collaboration with  Vlad Popovici.
-Requirements: image processing; Java/Python; pattern recognition
-
-
-Fast and precise motion estimation
-We are looking for a PhD or postdoc candidate for a joint project  with Prof. Rudolf Mester.
-
-
-Analysis of images in biology and medicine
-I am constantly looking for new PhD students, post-docs, or
-experienced independent programmers for various projects
-concerning analysis of images in biology and medicine, for example
-histology slice registration or perfusion CT data processing. The
-candidates should have excellent knowledge of programming, mathematics, and
-image processing.
-
-
- 
- 
-
-
-
-                Page last modified Tue May 29 00:40:32 2018.
-                
-
-                Created by rest2web.
-Website
-                    template
-                  by Arcsin (modified)
-
- 
- 
- 
-
+help
 
 
 

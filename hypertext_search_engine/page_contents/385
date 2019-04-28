@@ -1,4 +1,19 @@
-https://fit.cvut.cz/node/3373
+http://bilakniha.cvut.cz/cs/predmet4657006.html
+
+
+
+
+
+Loading...
+ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
+Výběr období:
+Následující ak. rok
+Aktuální období
+Fakulty |
+         Celoškolská nabídka volitelných předmětů |
+         Katalog předmětů ECTS
+         | Nastavení
+         | 
 
 
 
@@ -6,108 +21,190 @@ https://fit.cvut.cz/node/3373
 
 
 
+
+
+
+
+
+
+
+English version
+Úvodní stránka >
+         Fakulta informačních technologií >
+         katedra informační bezpečnosti >
+         Systémová bezpečnost
+
+
+Systémová bezpečnost
+Přihlášení do KOSu pro zápis předmětu Zobrazit rozvrh
+
+
+Kód
+Zakončení
+Kredity
+Rozsah
+Jazyk výuky
+
+
+MI-SYB.16
+Z,ZK
+5
+2P+2C
 česky
-english
 
 
 
-České vysoké učení technické v Praze
+Přednášející:
+Simona Buchovecká, Róbert Lórencz (gar.), Jiří Buček
+Cvičící:
+Simona Buchovecká, Róbert Lórencz (gar.), Jiří Buček, Jiří Smítka
+Předmět zajišťuje:
+katedra informační bezpečnosti
+Anotace:
 
 
+Studenti se seznámí s principy systémové bezpečnosti. Získají znalosti z oblasti pravidel a politik pro zabezpečení informačních
+                  systémů. Budou mít přehled o bezpečné správě a použití nízkoúrovňových vrstev operačních systémů a síťových struktur. Seznámí
+                  se s bezpečnostními aspekty moderních trendů v poskytování distribuovaných síťových služeb: cloud, mobilní a smart zařízení,
+                  Internet of Things.
+               
 
-Fakulta informačních technologií
 
+Požadavky:
 
 
+Základní teorie a algoritmy počítačové bezpečnosti.
 
 
+Osnova přednášek:
 
-Hledání
 
-Hledání: 
+1. Bezpečnost a certifikace OS, bezpečnost procesů, role uživatelů.
+2. Zabezpečení souborových systémů.
+3. Síťová bezpečnost na globální úrovni.
+4. Bezpečnost na úrovni síťové infrastruktury.
+5. Síťové služby: ISO/OSI model, aplikační úroveň, autentizace, autorizace.
+6. Komplexní nasazení antivirových a antispamových řešení.
+7. Firewall, IPS.
+8. Endpoint security.
+9. Content filtering.
+10. Bezpečnost WiFi.
+11. Metody útoků.
 
 
+Osnova cvičení:
 
+Cíle studia:
 
 
+Studenti se seznámí s principy systémové bezpečnosti. Získají znalosti z oblasti pravidel a politik pro zabezpečení informačních
+                  systémů. Budou mít přehled o bezpečné správě a použití nízkoúrovňových vrstev operačních systémů a síťových struktur. Seznámí
+                  se s bezpečnostními aspekty moderních trendů v poskytování distribuovaných síťových služeb: cloud, mobilní a smart zařízení,
+                  Internet of Things.
+               
 
 
+Studijní materiály:
 
 
+Howard, M., LeBlanc, D. ''Writing Secure Code (2nd Edition)''. Microsoft Press, 2003. ISBN 0735617228.
+Kaeo, M. ''Designing Network Security (2nd Edition)''. Cisco Press, 2004. ISBN 1587051176.
+Lam, K., LeBlanc, D., Smith, B. ''Assessing Network Security''. Microsoft Press, 2004. ISBN 0735620334.
 
 
+Poznámka:
 
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
 
+Rozsah=2p+1c
 
+Rozvrh na zimní semestr 2018/2019:
+Rozvrh není připraven
+Rozvrh na letní semestr 2018/2019:
 
 
 
 
 
 
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
 
- 
- › ČVUT » FIT  » Veletrh iKariéra Novinky    News
 
 
-Veletrh iKariéra
+Po
 
-Veletrh iKariéra
-  -
-  
-  1.4.19  
 
-Datum konání: 
 
 
-                    09.04.2019        
 
+Út
 
-Ve dnech 9.–10. 4. se bude v prostorách fakult ČVUT v Kampusu Dejvice konat další ročník pracovního veletrhu iKariéra. Akce se zúčastní až 190 firem a v rámci doprovodného programu je pro vás připravena také přednáška od TEDx řečníka Marcuse Orlovského. Akci pořádá klub IAESTE ČVUT Praha.
 
 
- 
 
 
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
+St
 
+místnost T9:349Buchovecká S.16:15–17:45(přednášková par. 1)DejviceNBFIT PC učebna
 
 
-Facebook
-Twitter
-Instagram
-YouTube
 
+Čt
 
+místnost T9:345Smítka J.09:15–10:45(přednášková par. 1paralelka 101)DejviceNBFIT BOU ucebnamístnost T9:345Smítka J.12:45–14:15(přednášková par. 1paralelka 102)DejviceNBFIT BOU ucebna
 
-Připomínky a náměty
-webmaster@fit.cvut.cz
 
 
+Pá
 
- 
 
- 
 
 
 
-      Poslední změna: 1.1.1970, 2:00      
-           
-                          
-       
 
 
+Předmět je součástí následujících studijních plánů:
 
 
+Znalostní inženýrství, verze 2016 a 2017 (volitelný předmět)
+                  
+Počítačová bezpečnost, verze 2016, 2017 a 2018 (povinný předmět oboru)
+                  
+Počítačové systémy a sítě, verze 2016, 2017 a 2018 (povinný předmět oboru)
+                  
+Návrh a programování vestavných systémů, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Informační systémy a management, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Softwarové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Webové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Společný magisterský plán před přiřazením do oboru, verze 2016, 2017 a 2018 (VO)
+                  
+Zaměření Systémové programování, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Teoretická informatika, verze 2016-2017 (volitelný předmět)
+                  
+Specializace Teoretická informatika, verze 2018 (volitelný předmět)
+                  
+Znalostní inženýrství, verze 2018 (volitelný předmět)
+                  
 
+
+
+
+
+Platnost dat k 28. 4. 2019
+
+
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Provozuje Výpočetní a informační centrum ČVUT
+Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
+
+
+Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet4657006.html
+
+ Zobrazovat kódy skupin předmětů
+         
 

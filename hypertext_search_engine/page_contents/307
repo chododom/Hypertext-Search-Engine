@@ -1,57 +1,24 @@
-https://fit.cvut.cz/fakulta/pravidelne-akce/scala
+http://3dprint.fit.cvut.cz/
 
 
 
 
 
-
-
-česky
-english
-
-
-
-České vysoké učení technické v Praze
-
-
-
-Fakulta informačních technologií
+ 3D tisk na FIT ČVUT
+Laboratoř 3D tisku
 
 
 
 
+Úvod
+Akce
+Lidé
+Galerie
+Aplikace
 
-
-Hledání
-
-Hledání: 
-
-
-
-
-
-
-
-
-
-
-
-
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
-
-
-
-
-
+Výuka
 Kalendář
-Akce a události
-Soutěže
-Projekty
+Kontakt
 
 
 
@@ -61,244 +28,123 @@ Projekty
 
 
 
- 
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Czech Scala Enthusiasts Novinky    News
 
 
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+Fakulta informačních technologií Českého vysokého učení technického v Praze nabízí studentům jedinečnou možnost zapojit se do aktivit laboratoře 3D tisku, kde tiskneme na tiskárnách RepRap, vytváříme vlastní projekty a trávíme (téměř veškerý) svůj volný čas.
+3D tiskárny RepRap
+Představte si stroj, do kterého pošlete počítačový 3D model navržený například v CADu, v Blenderu, nebo v jiném modelovacím nástroji, chvíli počkáte a dostanete skutečný objekt, který si můžete osahat v ruce.
+Představte si, že tento stroj se vám vejde na stůl, že si ho můžete sami postavit za několik tisíc korun a že je kompletně open source – od firmwaru přes ovládací software až k hardwaru. Navíc tento stroj umí vyrobit části sama sebe. Není to sci-fi, je to realita.
+3D tiskáren je celá řada, jsou postaveny na různých principech a technologiích. Některé stojí miliony, některé si postavíte v pracovně po večerech za zlomek této částky. My se zajímáme hlavně, ale ne výhradně, o tiskárny RepRap - protože jde o svobodný projekt, do kterého může každý přispět, ale ze kterého může i každý těžit.
+ Více se dozvíte v článku na LinuxEXPRES.cz
 
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
 
+Content © 3DprintFIT. Social networks icons © DarKobra. Layout © mattgraham.
+Creative Commons BY-SA. Hosted on GitHub Pages.
 
 
 
 
-Czech Scala Enthusiasts 
+laboratoř
+Laboratoř s firmou UNICO.AI
 
-Jsme největší komunita Scala programátorů v České republice. Pravidelně organizujeme setkání jako technologické přednášky nebo coding dojos, pro začátečníky i pokročilé programátory. Zajímáme se o vše kolem Scaly - o jazyk samotný, různé knihovny nebo třeba funkcionální programování. Rádi mezi sebou uvítáme jak nováčky ve Scale, tak příležitostné i profesionální programátory. Jsme mezinárodní skupina programátorů a proto je naším oficiálním jazykem angličtina. Přidej se k nám již dnes.
 
-	 
 
-	Přednášky se konají pravidelně ve večerních hodinách na půdě FIT ČVUT. Aktuální informace naleznete na serveru Meetup.com. Z přednášek jsou pořizovány záznamy Audiovizuálním centrem ČVUT. Tyto záznamy jsou k dispozici ve videoarchivu přednášek na stránkách AVC a také na našem YouTube kanálu. Slajdy z přednášek jsou k dispozici pod naším SlideShare účtem.
 
-	 
 
-	Chceš-li nás sledovat, můžeš pro to využít Facebooku nebo Twitteru. Pokud tě zajímá cokoliv jiného, napiš nám na czechscala@gmail.com.
 
-	 
-
-Aktuální semestr
-
-	Připravujeme...
-
-	 
-Archiv
-Zimní semestr 2015/2016
-
-
-
-
-
-Datum
-
-Název přednášky
-
-Přednášející
-
-
-
-
-
-					8. prosince
-
-Coding dojo: Scala.js & React
-
-
-					 
-
-
-
-					10. října
-
-Event Sourcing & Functional Programming: A Pair Made in Heaven
-
-					 
-
-
-
-
-Letní semestr 2014/2015
-
-
-
-
-Datum
-
-Název přednášky
-
-Přednášející
-
-
-
-
-
-				12. května 2015
-
-Coding dojo + SimpleFX + quiz for a Scala Days ticket
-
-Hans-Henry Sandbaek, Florian Kirmaier (SANDEC)
-
-
-
-Zimní semestr 2014/2015
-
-
-
-
-Datum
-
-Název přednášky
-
-Přednášející
-
-
-
-
-
-				29. října 2014
-
-Akka Coding dojo
-
-				Jan Macháček
-
-
-
-				7. října 2014
-
-Rapture I/O + Apache Spark
-
-				Jon Pretty, DB Tsai
-				 
-
-
-
-Letní semestr 2013/2014
-
-
-
-
-Datum
-
-Název přednášky
-
-Přednášející
-
-
-
-
-
-				25. února 2014
-
-ScalaZ-stream
-
-				Milan Raulím, Pavel Chlupáček (Spinoco)
-
-
-
-Zimní semestr 2013/2014
-
-
-
-
-Datum
-
-Název přednášky
-
-Přednášející
-
-
-
-
-
-				26. listopad 2013
-
-StepDance – Functional Iterators in Scala
-
-				Zbyněk Šlajchrt
-
-
-
-				29. říjen 2013
-
-Scala v české praxi
-
-				Vlastimil Menčík, Zbyněk Šlajchrt, Milan Raulím a Pavel Chlupáček 
-				 
-
-
-
-Letní semestr 2012/2013
-
-
-
-
-Datum
-
-Název přednášky
-
-Přednášející
-
-
-
-
-
-				28. květen 2013
-
-Java 8: Under the Hood and New Features in Scala 2.10
-
-Vlastimil Menčík, Jakub Janeček
-
-
-
-				14. květen 2013
-
-Scala Coding Dojo
-
-				---
-
-
-
-				23. duben 2013
-
-Scala Essentials: Pattern matching and case classes + coding session
-
-				Karel Smutný
-				 
-
-
-
+Centrum pro konceptuální modelování a implementace 
+Rozvíjíme a aplikujeme metody zlepšující propojení firemní praxe s potenciálem moderních informačních technologií. 
  
+Uživatelé si často stěžují, že software nedělá to, co opravdu chtějí. Programátoři tvrdí, že uživatelé nevědí, co chtějí. Manažeři naříkají nad cenami vývoje software. Instituce s mnoha složitými procesy stojí spoustu peněz, času i energie. V našem centru studujeme a aplikujeme metody, které pomáhají propojení firemní praxe se světem moderních informačních technologií. Naším výzkumem pomáháme firmám, manažerům, uživatelům software, programátorům a softwarovým architektům.
+ 
+ Vedoucí
+Ing. Robert Pergl, Ph.D., robert.pergl@fit.cvut.cz
+ Výzkumná témata vedoucího
+konceptuální modelování, ontologie, podnikové inženýrství, implementace konceptuálních modelů, programovací paradigmata a jazyky
+ Další členové
 
-Osoba zodpovědná za obsah této stránky: 
+
+		Ing. David Buchtela, Ph.D. (řízení informačních systémů) [information systems management]
+
+		Prof. Ing. Jan Dohnal, CSc. (řízení informačních systémů) [information systems management]
+
+		Mgr. Ondřej Dvořák (komponentový vývoje sofware) [component software development]
+
+		Ing. Pavel Krejčí (řízení informačních systémů) [information systems management]
+
+		Prof. Dr. Ing. Petr Kroha, CSc. (softwarové inženýrství a ontologie) [software engineering and ontologies]
+
+		Mgr. Martin Podloucký (matematické základy konceptuálního modelování) [mathematical foundations of conceptual modelling]
+
+		Ing. Zdeněk Rybola (OntoUML a softwarové inženýrství) [OntoUML and software engineering]
+
+		Ing. Adam Šenk (databáze) [databases]
+
+		Ing. Petr Špaček, Ph.D. (komponentový vývoje sofware) [component software development]
+
+		Ing. Michal Valenta, Ph.D. (databáze) [databases]
+
+		Ing. Dana Vynikarová, Ph.D. (řízení informačních systémů) [information systems management]
+
+ Výzkumná témata skupiny
 
 
-                    Veronika Dvořáková, veronika.dvorakova@fit.cvut.cz 
+		konceptuální modelování
 
+		ontologie
+
+		podnikové inženýrství
+
+		information systems management
+
+		formální specifikace
+
+		databázové systémy
+
+		programovací paradigmata a jazyky
+
+ Vyučované předměty - zkratky
+BI-OMO, BI-ZPI, MI-MEP, BI-ADW, BI-SI1, BI-SP1, BI-SI2, BI-SP2, BI-SQL, MI-CIO, BI-DBS, MI-PDB, PI-DIG, PI-IRT, PI-TMN, PI-AWR
+ Odkazy
+
+
+		Stránky skupiny: http://ccmi.fit.cvut.cz
+
+ Oceněné závěrečné práce
+
+
+		Business Process Modeling and Simulation: DEMO, BORM and BPMN (Ing. Zuzana Vejražková, Ing. Robert Pergl, Ph.D., 3. místo v jedné z kategorií Diplomka roku 2013, ACM Spy ocenění),
+
+		Applying OntoUML for structural definitions of Normalized Systems Expanders (Bc. Vincenc Kolařík, Ing. Robert Pergl, Ph.D., Cena děkana červen 2014),
+
+		IT jako součást byznysu v modelu Management of Business Informatics (Ing. Pavel Krejčí, Prof. Ing. Jan Dohnal, Cena za vynikající diplomovou práci červen 2014),
+
+		Latex export pro Dokuwiki (Bc. Adam Kučera, Ing. Robert Pergl, Ph.D., Cena děkana červen 2014)
+
+ Články
+
+
+		Pergl, Robert, Tiago Prince Sales, and Zdeněk Rybola. 2013. “Towards OntoUML for Software Engineering: From Domain Ontology to Implementation Model.” In Proceedings of MEDI 2013, 3rd:249–63. Amantea, Italy: Springer. doi:10.1007/978-3-642-41366-7.
+
+		Podloucký, Martin, and Robert. Pergl. 2014. “Towards Formal Foundation for the BORM OR Diagrams Validation and Simulation.” In ICEIS 2014 Proceedings (in Print). Springer Berlin Heidelberg.
+
+		Pergl, Robert, Tiago Prince Sales, and Zdeněk Rybola. 2013. “Instance-Level Modelling and Simulation Revisited.” In Enterprise and Organizational Modeling and Simulation, 85 – 100. Valencia, Spain: Springer. doi:10.1007/978-3-642-41638-5_6.
+
+		Pergl, Robert. 2011. “Supporting Enterprise IS Modelling Using Ontological Analysis.” Lecture Notes in Business Information Processing 88 LNBIP: 130–44.
+
+		Adam Šenk, Michal Valenta, Wolfgang Benn: Distributed Evaluation of XPath Axes Queries over Large XML Documents Stored in MapReduce Clusters. In Wokshop on NoSQL Databases and Linked Data Applications on DEXA 2014, Munich, Germany.
+
+		Pokroný, J. - Valenta, M.: Database Systems (in Czech). Česká technika - nakladatelství ČVUT. Praha. 2013. ISBN 978-80-01-05212-9.
+
+		Strnad, P. - Valenta, M.: On Benchmarking Transaction Managers. In Database Systems for Advanced Applications DASFAA 2009 International Workshops: BenchmarX, MCIS, WDPP, PPDA, MBC, PhD, Brisbane, Australia, April 20 - 23, 2009. Berlin: Springer, 2009, p. 79-92. ISSN 0302-9743.ISBN 978-3-642-04204-1.
+
+		Rybola, Z. - Richta, K.: Possible Realizations of Multiplicity Constraints. COMSIS - Computer Science and Information Systems. 2013, vol. 10, no. 4, p. 1621-1646. ISSN 1820-0214.
+
+		Rybola, Z. - Richta, K.: Transformation of Special Multiplicity Constraints-Comparison of Possible Realizations. In Federated Conference on Computer Science and Information Systems (FedCSIS 2012). New York: IEEE, 2012, p. 1357-1364. ISBN 978-83-60810-48-4.
+
+		Dohnal, J. - Příklenk O,: CIO a podpora byznysu s případovými studiemi CIO v ČR a SR, 1. vyd. Praha: GRADA PUBLISHING, 2011. 176 s. ISBN 978-80-247-4050-8.
 
 
 
@@ -331,7 +177,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 12.4.2017, 14:08      
+      Poslední změna: 27.4.2017, 9:39      
            
                           
        

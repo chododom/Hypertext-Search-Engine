@@ -1,30 +1,4 @@
-https://fit.cvut.cz/en/node/350
-
-
-
-
-
-
-
-česky
-english
-
-
-
-Czech Technical University in Prague
-
-
-
-Faculty of Information Technology
-
-
-
-
-
-
-Search this site
-
-Search this site: 
+http://ccmi.fit.cvut.cz
 
 
 
@@ -37,621 +11,431 @@ Search this site:
 
 
 
-Faculty
-Prospective Students
-Partners
-Student
-Employees
-Media
 
 
 
+Centrum pro konceptuální modelování a implementace
+Research Group
 
 
-Structure
-Official notice board
-Int. relations
-Research
-History
-Academic Senate
-Contacts
-Events
+Menu
+Přejít k obsahu webu
+Úvod
+Novinky
+Pro průmysl
+Pro výzkum
+
+Výzkum konceptuálního modelování
+Podpora ostatního výzkumu
 
 
+Pro studenty
+
+Nabídka závěrečných prací
+Obhájené práce
+Doktorské studium
 
 
-
-
-
-
-
+O nás
+Naši partneři
+Naše projekty
+Kontaktujte nás
  
- › CTU » FIT  » Fakulta » Int. relations Novinky    News
+
+Knowhow Menu
+Přejít k obsahu webu
+Konceptuální modelování
+Metodiky
+
+Metodika komplexní konceptuální analýzy
+BORM
+BPMN
+DEMO
+OntoUML
+UML
 
 
-International relations 
-Thanks to a wide range of professional activities, participation in international conferences and projects, and study or work stays abroad, FIT academic staff has been able to establish close contacts with universities and research institutions abroad. Such contacts give rise to professional cooperation and mutual student exchanges.
-Every year plenty of students are coming to our faculty to study ICT. We have exchange programmes with universities all over the word, so our teachers have experiences with teaching in English and working with foreign students. Our study programs are available both in English and Czech.
-For over 20 years, FIT professors have offered courses in English at their previous workplace and have experience teaching foreign students. In order to participate in international university cooperation and foreign student exchanges, FIT has an accredited and established English track. 
-The following list presents an overview of FIT's most important international partners and cooperating organizations. It includes universities that have received or sent exchange students specializing in informatics, as well as institutions with whom FIT professors have established professional contacts and cooperation.
+Programovací jazyky
+
+Clojure
+Haskell
+Smalltalk
+
+
+Nástroje
+
+OpenPonk
+OpenCABE / OpenCASE
+
+
+Naše publikace
+ELIXIR
+ 
+
+
+CCMi		
+
+
+
+
+
+
+
+OpenPonk Success Story
+
+
+
+http://pharo.org/success/openPonk
+
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 13/04/2019 | Rubrika: Programování, Projekty, Smalltalk | Autor: Robert Pergl.								
+
+
+
+
+Hledáme kolegy pro projekt konceptuálního modelování
+
+
+
+Ve spolupráci s kolegy z FEL hledáme kolegy na částečný úvazek pro 3,5letý projekt připravovaný na MVČR s (kódovým) označením OpenData III zaměřující se na otvírání dat veřejné správy ČR.
+Budovaný tým bude mít v rámci projektu za úkol vytvořit „výrobní linku“ (sadu SW nástrojů) pro tvorbu konceptuálních modelů agend veřejné správy ČR, tuto výrobní linku ověřit na stávajících agendách veřejné správy ČR, a pomoci pracovníkům MVČR s jejím zavedením do praxe. Vytvářené konceptuální modely budou vyjádřeny pomocí formálních ontologií a budou mít za cíl přispět k lepšímu sdílení dat a jejich významu mezi informačními systémy veřejné správy, resp. informačními systémy veřejné správy a občany. Od zájemců očekáváme analytické myšlení, schopnost týmové práce, zkušenosti s ontologickým konceptuálním modelováním (UFO, OntoUML), datovými transformacemi, a zkušenosti s technologiemi sémantického webu (zejména jazyky RDF(S), OWL), nebo aktivní zájem o ně.
+Vhodné pro zkušené matadory i studenty všech typů studia a ročníků se zájmem o konceptuální modelování. Je též možné spojit s bakalářskou/diplomovou prací. V případě zájmu pište na <perglr@fit.cvut.cz>.
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 02/01/2019 | Rubrika: Nabídky, OntoUML, Spolupráce, Studenti | Autor: Robert Pergl.								
+
+
+
+
+TEMOS na ICSOFT 2018
+
+
+
+Na 13. ročníku mezinárodní konference ICSOFT konané 26.–28. 7. 2018 v Portu (Portugalsko) David Šenkýř prezentoval článek Patterns in Textual Requirements Specification (autoři: David a prof. Kroha). Během prezentace byly představeny výhody nástroj TEMOS (Textual Modelling System) při zpracování textových požadavků na softwarový systém s ohledem na generování UML diagramu tříd a upozornění uživatele na víceznačnosti a nekonzistence v požadavcích.
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 29/07/2018 | Rubrika: Projekty, Události, Věda a výzkum | Autor: Marek Suchánek.								
+
+
+
+
+DS Wizard na ELIXIR All Hands 2018
+
+
+
+
+Během ELIXIR All Hands 2018 meting jsme (Robert & Marek) představili novinky v Data Stewardship Wizard formou flash talku a posteru. Pokrok byl značný, náš fakultní tým vyvinul nové portálové řešení v jazycích Haskell a Elm. Nový DSW je volně dostupný a již máme pozitivní feedback i spoustu nových návrhů na další funkcionality: https://dsw.fairdata.solutions
+
+
+
+
+
+
+
+				ELIXIR All Hands 2018
+				
+
+
+
+
+				Poster session
+				
+
+
+
+
+				DSW Flash Talk
+				
+
+
+Pokud se chcete dozvědět více o naší práci, navštivte https://github.com/DataStewardshipWizard.
+Náš poster:
+DSW Poster - ELIXIR All Hands 2018
+ 
+*některé fotografie jsou převzaty z oficiálního ELIXIR Europe Flickr
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 21/06/2018 | Rubrika: Projekty, Spolupráce, Události | Autor: Marek Suchánek.								
+
+
+
+
+Studenti FIT krotí zdivočelé diagramy
+
+
+
+Někteří z vás možná viděli pověstný „Trumpův flowchart„. Pak vězte,  že studenti MI-MEP se tohoto procesního monstra nezalekli a v rámci semestrální práce jej zkrotili do esenciální podoby na jednu stranu A4 s použitím metody DEMO. Další týmy pak podobným způsobem zkrotily např. legislativní procesy ČR a EU.
+
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 14/02/2018 | Rubrika: Nezařazené | Autor: Robert Pergl.								
+
+
+Odkaz
+
+Skvělý článek: The 5 Problem – Solving Skills of Great Software Developers
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+02/12/2017
+
+
+
+
+
+ELIXIR-CZ – výroční konference 2017
+
+
+
+I letos jsme se zúčastnili výroční konference ELIXIR CZ v Třešti. Prezentovali jsme naše působení v platformě Interoperability, kde pracujeme mimo mezinárodního projektu Data Stewardship Portal i na dalších projektech jako je například tvorba ontologií a uplatnění UFO (A a B) v doméně dárcovství kostní dřeně. Naši prezentaci si můžete prohlédnout níže společně s fotografiemi z akce.
+Pokud Vás naše práce v ELIXIR zajímá, podívejte se na vypsané závěrečné práce nebo nás kontaktujte…
+elixir_cz_annual_conference-2017_DSP
+
+
+
+
+
+
+
+				ELIXIR-CZ 2017
+				
+
+
+
+
+				Robert Pergl
+				
+
+
+
+
+				Marek, Robert & Barend Mons
+				
+
+
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 28/11/2017 | Rubrika: Nezařazené, Projekty, Spolupráce, Události, Věda a výzkum | Autor: Marek Suchánek.								
+
+
+
+
+CCMi poster pro studenty
+
+
+
+CCMi_poster_CTU_B171
+ 
+Pro studenty naší fakulty jsme připravili motivační poster pro zapojení se do aktivit CCMi. Členové i další naši příznivci mohou poster volně šířit…
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 27/10/2017 | Rubrika: Nezařazené | Autor: Marek Suchánek.								
+
+
+
+
+4. výroční setkání CCMi
+
+
+
+Dne 24. 10. 2017 proběhlo 4. výroční setkání Centra pro konceptuální modelování a implementace.  Již tradičně každý účastník a člen CCMi ve formální části setkání prezentoval o sobě, své aktivitě v minulém akademickém roce i plány pro rok současný. Poté jsme se seznamovali s novými členy a neformálně diskutovali nad různými tématy z oblasti konceptuálního modelování, softwarového inženýrství, spolupráce s ostatními subjekty, výzkumu a výuky studentů…
+
+Prezentace ze setkání si můžete prohlédnout zde.
+
+CCMi 2017
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 25/10/2017 | Rubrika: Události, Věda a výzkum, Zábava | Autor: Marek Suchánek.								
+
+
+
+
+Portál OntoUML.org byl spuštěn
+
+
+
+Dnes, 10. října 2017, přesně  v 10:10 (UTC) je klíčový okamžik pro OntoUML. Společně se zahraničními kolegy jsme spustili dlouho očekávaný komunitní portál OntoUML.org, který je nejen plný užitečných informací o ontologii UFO a jazyku OntoUML (vyučujeme na naší fakultě v předmětu BI-KOM, dříve BI-OMO), ale umožňuje také vyhledávat a sdílet názory, zkušenosti a projekty ostatních uživatelů. Představuje místo, kde by se soustřeďuje veškeré know-how spojené s OntoUML, místo, které velmi dlouho chybělo a nyní doufáme, že pomůže v rozšiřování a vývoji jazyka i základní ontologie, jejíž vývoj byl odstartován publikací dr. Guizzardiho v roce 2005.
+Již nyní máme spoustu nápadů a plánů na rozvoj a zlepšování tohoto portálu a rádi uvítáme všechny, kteří se budou chtít do práce a OntoUML komunity zapojit!
+
+
+Sdílejte:LinkedInFacebookRedditTwitterTelegram 
+
+			Příspěvek byl publikován 10/10/2017 | Rubrika: Projekty, Spolupráce, Události | Autor: Marek Suchánek.								
+
+
+Navigace pro příspěvky
+← Starší příspěvky
+
+
+
+
+
+
+
+Vyhledávání
+
+
+
+Jazyk
+Čeština
+English
+
+  Nejnovější příspěvky 
+
+OpenPonk Success Story
+
+
+Hledáme kolegy pro projekt konceptuálního modelování
+
+
+TEMOS na ICSOFT 2018
+
+
+DS Wizard na ELIXIR All Hands 2018
+
+
+Studenti FIT krotí zdivočelé diagramy
+
+
+Kalendář příspěvků
+Duben 2019
+
+
+Po
+Út
+St
+Čt
+Pá
+So
+Ne
+
+
+
+
+« Led
  
  
 
 
 
+1234567
 
-				Technische Universität Wien
 
-				Wien
+891011121314
 
-				AT
 
+15161718192021
 
 
-				Universiteit Antwerpen
+22232425262728
 
-				Antwerpen
 
-				BE
-
-
-
-				Université catholique de Louvain
-
-				Louvain
-
-				BE
-
-
-
-				Katholieke Universiteit Leuvenn
-
-				Leuven
-
-				BE
-
-
-
-Universidade de Sao Paulo (USP)
-
-				Sao Paolo
-
-				BR
-
-
-
-Universidade Federal do Rio de Janeiro (UFRJ)
-
-				Rio de Janeiro
-
-				BR
-
-
-
-Universidade Federal do Rio Grande do Sul (UFRGS)
-
-				Porto Alegre
-
-				BR
-
-
-
-				University of Nicosia
-
-				Nicosia
-
-				CY
-
-
-
-				RWTH Aachen University
-
-				Aachen
-
-				DE
-
-
-
-				Ruhr-Universität Bochum
-
-				Bochum
-
-				DE
-
-
-
-				Brandenburg University of Technology Cottbus - Senftenberg
-
-				Cottbus
-
-				DE
-
-
-
-				Technische Universität Dresden
-
-				Dresden
-
-				DE
-
-
-
-				Technische Universität Chemnitz
-
-				Chemnitz
-
-				DE
-
-
-
-				Christian-Albrechts-Universität Kiel
-
-				Kiel
-
-				DE
-
-
-
-				Johannes Gutenberg-Universität Mainz
-
-				Mainz
-
-				DE
-
-
-
-Pontificia Universidad Catolica Madre y Maestra
-
-				Santo Domingo
-
-				DO
-
-
-
-				Universidad de Alicante
-
-				Alicante
-
-				ES
-
-
-
-				Universitat Politécnica de Catalunya - Barcelona
-
-				Barcelona
-
-				ES
-
-
-
-				Unversity dei Deusto
-
-				Bilbao
-
-				ES
-
-
-
-				Universidad Pontificia Comillas Madrid
-
-				Madrid
-
-				ES
-
-
-
-				Universidad Politécnica de Madrid
-
-				Madrid
-
-				ES
-
-
-
-				Universidad de Sevilla
-
-				Sevilla
-
-				ES
-
-
-
-				Universidad Politécnica de Valencia
-
-				Valencia
-
-				ES
-
-
-
-				Tallinn University of Technology
-
-				Tallinn
-
-				EE
-
-
-
-				University of Helsinki
-
-				Helsinki
-
-				FI
-
-
-
-				Helsinki Metropolia University of Applied Sciences
-
-				Helsinki
-
-				FI
-
-
-
-				Aalto University
-
-				Aalto
-
-				FI
-
-
-
-				Ecole Nationale Supérieure des Mines d´Albi Carmaux
-
-				Albi
-
-				FR
-
-
-
-				Ecole pour l´Informatique et les Techniques Avanceés Paris
-
-				Paris
-
-				FR
-
-
-
-				INSA Centre Val de Loire Blois
-
-				Blois
-
-				FR
-
-
-
-				Université de La Rochelle
-
-				La Rochelle
-
-				FR
-
-
-
-				Pole Universitaire Léonard de Vinci Paris
-
-				Paris
-
-				FR
-
-
-
-				Institut Superieur d´Electronique de Paris
-
-				Paris
-
-				FR
-
-
-
-				Université de Rouen
-
-				Rouen
-
-				FR
-
-
-
-				Université Jean Monnet Telecom Saint Etienne
-
-				Saint-Etiénne
-
-				FR
-
-
-
-				University of Hull
-
-				Hull
-
-				GB
-
-
-
-				Visoko učilište Algebra Zagreb
-
-				Zagreb
-
-				HR
-
-
-
-				Eötvös Loránd University Budapest
-
-				Budapest
-
-				HU
-
-
-
-				University of Debrecen
-
-				Debrecen
-
-				HU
-
-
-
-				HES-SO Delémont
-
-				Geneve
-
-				CH
-
-
-
-				Universitá della Swizzera Italiana
-
-				Lugano
-
-				C
-
-
-
-				IT ETH Zürich
-
-				Zürich
-
-				CH
-
-
-
-				Sapienza – Universita di RomaBenevento
-				Universita degli Studi del Sannio Benevento
-
-				Roma
-
-				IT
-
-
-
-				VIKO Vilnius
-
-				Vilnius
-
-				LT
-
-
-
-				University of Inf. Science and Technology „Saint Paul de Apostle“ Ohrid
-
-				Ohrid
-
-				MK
-
-
-
-Instituto Politécnico Nacional (IPN)
-
-				Mexico City
-
-				MX
-
-
-
-Universidad Nacional Autónoma de México (UNAM)
-
-				Mexico City
-
-				MX
-
-
-
-				HS Bergen
-
-				Bergen
-
-				NO
-
-
-
-				Delft University of Technology
-
-				Delft
-
-				NL
-
-
-
-				Universiteit Utrecht
-
-				Utrecht
-
-				NL
-
-
-
-				University of Stavanger
-
-				Stavanger
-
-				NO
-
-
-
-Universidad Tecnológica de Panamá (UTP)
-
-				Panama City
-
-				PA
-
-
-
-Pontificia Universidad Católica del Perú (PUCP)
-
-				Lima
-
-				PE
-
-
-
-				Polytechnic Institute of Coimbra
-
-				Coimbra
-
-				PT
-
-
-
-				Tecnico Lisboa
-
-				Lisboa
-
-				PT
-
-
-
-				UTAD Vila Real
-
-				Vila Real
-
-				PT
-
-
-
-				Zachodniopomorski Uniwersytet Technologiczny w Szczecinie
-
-				Szczecin
-
-				PO
-
-
-
-				University of Zielona Góra
-
-				Zielona Góra
-
-				PO
-
-
-
-				Universitatea Tehnica din Cluj-Napoca
-
-				Cluj-Napoca
-
-				RO
-
-
-
-				ChU Goeteborg
-
-				Goeteborg
-
-				SE
-
-
-
-				University of Ljubljana
-
-				Ljubljana
-
-				SI
-
-
-
-				Suleyman Demirel University
-
-				Isparta
-
-				TU
-
-
-
-				Yeditepe University
-
-				Istanbul
-
-				TU
-
-
-
-				Istanbul Sehir University
-
-				Istanbul
-
-				TU
-
-
-
-				Izmir University of Economics
-
-				Izmir
-
-				TU
-
-
-
-				Sakarya University
-
-				Sakarya
-
-				TU
-
-
-
-Universidad Simón Bolívar (USB)
-
-				Caracas
-
-				VE
-
-
-
- 
+2930
  
 
 
+Rubriky 
+BORM
+
+BPMN
+
+DEMO
+
+Média
+
+Metodiky
+
+Nabídky
+
+Nezařazené
+
+OntoUML
+
+Programování
+
+Projekty
+
+Smalltalk
+
+Spolupráce
+
+Studenti
+
+Události
+
+Věda a výzkum
+
+Výuka
+
+Web
+
+Zábava
+
+
+Základní informace 
+Přihlásit se
+RSS (příspěvky)
+RSS (komentáře)
+Čeština pro WordPress 
+
+
+
+
+
+	Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:
+	
+		Cookie Policy	
+
  
 
 
-Important Links
-Sitemap
-Contacts
+
+Používáme WordPress (v češtině).
+
+
+			CCMi © 2016
+		
 
 
 
-Facebook
-Twitter
-Instagram
-YouTube
 
 
 
-Questions and comments
-webmaster@fit.cvut.cz
 
 
 
- 
-
- 
 
 
 
-      Last modified: 24.1.2016, 11:08      
-           
-                          
-       
+
+
+
+
+
+
+
+
+
+
 
 
 

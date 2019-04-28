@@ -11,7 +11,9 @@ from hypertext_search_engine.src.config import *
 class Result:
     page_url = ""
     page_rank = 0
+    normalized_page_rank = 0
     content_rank = 0
+    normalized_content_rank = 0
     combined_rank = 0
     
     def __init__(self, url, rank):

@@ -1,4 +1,4 @@
-https://fit.cvut.cz/fiks_2018
+https://fit.cvut.cz/fakulta/pravidelne-akce/jsdevmeetups/2018-04-10
 
 
 
@@ -62,78 +62,80 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Soutěže » Fiťácký informatický korespondenční seminář » FIKS 2018/2019 Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » jsDev Meetups » Moderní webová architektura založená na JS a API Novinky    News
 
 
 
 
-Fiťácký informatický korespondenční seminářFIKS 2018/2019
-FIKS 2017/2018
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
 
-Ocenění pro závěrečné práce
-Fakultní soutěže
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
 
 
 
 
 
-Fiťácký informatický korespondenční seminář 2018/2019 
+Moderní webová architektura založená na JavaScriptu a API  
 
-Fiťácký informatický korespondenční seminář nabízí středoškolákům možnost zdokonalit se v algoritmických úlohách a změřit síly se svými vrstevníky. Dějištěm letošního ročníku je imaginarní postapokalyptický svět, v němž byl nastolen režim povolující pouze naivní algoritmy. Řešitelé spolu s hlavní hrdinkou Eleanor bojují proti tomuto zvrácenému režimu tím, že úlohy programují efektivně. Nejlepší řešitelé semináře mají možnost být přijati na FIT bez přijímacích zkoušek. Do 31. 1. 2019 probíhá první kolo soutěže.
+
+
+
+
+
+Moderní webová architektura založená na JavaScriptu a API
+Přijďte 10. 4. na přednášku s názvem Moderní webová architektura založená na JavaScriptu a API. Zmíněnou architekturou je JAMstack, Ladislav Prskavec představí její výhody, nevýhody a možnosti využití. Další přednáška z cyklu jsDev Meetups se koná od 18:30 v posluchárně T9:111. Na akci je nutné se zaregistrovat.
 Téma
-Dějištěm letošního ročníku je imaginarní postapokalyptický svět, v němž byl nastolen režim povolující pouze naivní algoritmy. Řešitelé spolu s hlavní hrdinkou Eleanor bojují proti tomuto zvrácenému režimu tím, že úlohy programují efektivně. Těm nejúspěšnějším řešitelům nabízíme kromě nabytých znalostí a dovedností i přijetí na Fakultu informačních technologií ČVUT bez přijímací zkoušky.
-Harmonogram
-Letošní ročník se sestává ze tří kol a pro nejlepší řešitele je připraveno tradiční soustředění. To nabídne týden nabitý odbornými přednáškami nejen z informatiky. Dále budou na programu netradiční hry a celá akce bude zakončena programátorskou soutěží.
-
-
-Soutěžící řešící úkoly na soustředění
-
-
-První kolo
-1. 10. 2018 – 31. 1. 2019
-Druhé kolo
-7. 1. 2019
-Třetí kolo
-2. 2. 2019
-Jarní soustředění
-Duben 2019
-
+Jistě znáte platformu LAMP stack. Víte, že současnou stoupající hvězdou je JAMstack? Vyzkoušejte si kombinaci JavaScriptu, API a Markup na platformách Jekyll, Netlify nebo Hugo a budete nadšeni stejně jako mnoho ostatních.
+V přednášce si ukážeme moderní webovou architekturu JAMstack, její výhody a nevýhody a její možnosti ovlivnit vývoj. Součástí přednášky bude také navržení aplikace s použitím javascriptového frameworku Gatsby.js. Dále si ukážeme řešení problémů, která pomohou nahradit redakční systém WordPress nebo jiný CMS systém s pomocí API.
 O akci
-Korespondenční seminář je určen pro studenty středních škol a gymnázií 1.–4. ročníku. Účastníci řeší různé algoritmické úlohy a elektronicky je odevzdávají. Mohou tak změřit síly se svými vrstevníky a také si udělat představu, co čeká budoucí studenty FIT. Do semináře je možné se zapojit kdykoliv v jeho průběhu. Další informace a zadání úloh najdete na stránkách FIKS.
-
-
-
+Akce je zdarma, ale je nutné se zaregistrovat na . Přednáška je určena pro posluchače se základní znalostí programovacího jazyka JavaScript.
 
 
 Typ akce
-Soutěž
-Organizátoři
-RNDr. Tomáš Valla, Ph.D., Katedra teoretické informatiky
-RNDr. Ondřej Suchý, Ph.D., Katedra teoretické informatiky
-Studenti FIT
+Přednáška
+Přednášející
+Ladislav Prskavec – Oracle
+Termín
+10. dubna 2018, 18:30–20:30
+Místo
+posluchárna T9:111, Nová budova ČVUT
+Thákurova 9, Praha 6
 Jazyk
-Čeština
-Web akce
-Fiťácký informatický korespondenční seminář
+čeština
+Záznam
+nebude pořízen
 
 
-Kontakt
-Seminář organizují studenti a vyučující z Katedry teoretické informatiky. Členy FIKS můžete kontaktovat na e-mailu kontakt@fiks.fit.cvut.cz nebo využít diskuzní fórum semináře.
+O přednášejícím
+Ladislav Prskavec absolvoval Fakultu elektrotechnickou ČVUT a nyní pracuje jako Site Reliability Engineer (SRE) ve společnosti Oracle, dříve Apiary. V současné době ho kromě programování v Node.js a Ruby baví především další jazyky jako je Go Lang a nástroje pro monitorování a automatizaci infrastruktury jako Ansible, Kubernetes a Docker. Sledovat Ladislava můžete také na jeho blogu.
+Související obsah
 
-
-RNDr. Tomáš Valla, Ph.D.
-Organizátor FIKS
-Odborný asistent na Katedře teoretické informatiky
-
- kontakt@fiks.fit.cvut.cz, tomas.valla@fit.cvut.cz
- +420 22435 9877
- TH:A-1229
-
+Témata
+Cyklus přednášek: JavaScript Developer Meetups
+Předchozí přednáška: Async/await v praxi
+Následující přednáška: Google Apps Script = G Suite (automatizace || integrace || rozšíření)
+Lidé
+Přednášející: Ladislav Prskavec
+Místa
+T9:111
 
 
 Osoba zodpovědná za obsah této stránky
 
-RNDr. Tomáš Valla, Ph.D., tomas.valla@fit.cvut.cz@fit.cvut.czOrganizátor FIKS
+Ing. Lukáš Janeček, lukas.janecek@fit.cvut.czOrganizátor jsDev Meetups
 
 
 
@@ -167,7 +169,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 11.10.2018, 13:27      
+      Poslední změna: 23.4.2019, 12:52      
            
                           
        

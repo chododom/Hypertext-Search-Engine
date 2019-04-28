@@ -1,4 +1,4 @@
-https://fit.cvut.cz/kandidati-2013
+https://fit.cvut.cz/phd_skolitel_haindl
 
 
 
@@ -66,51 +66,113 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Struktura » Děkan » Volba děkana » Volba děkana 2013 Novinky    News
+ › ČVUT » FIT  » Fakulta » Věda » Doktorandi » Témata dizertačních prací » Michal Haindl Novinky    News
 
 
 
 
-Katedry
-Vědecká rada
-Disciplinární komise
-DěkanPoradní orgány děkana
-Děkani FIT
-Volba děkana
-Inaugurace děkana
+AktualityObhajoby DP
+
 Kontakt
+Granty
+Patenty
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
 
-Děkanát
-Rada studijního programu
+Habilitační a jmenovací řízeníObhájené habilitační práce
 
-
-
-
-
-Volba kandidáta na děkana FIT ČVUT pro funkční období 2013–2017 
-Kandidáti na děkana a jejich děkanské projekty:
-
-
-		prof. Ing. Róbert Lórencz, CSc.
-
-
-Děkanský projekt
-
-Zkrácená verze děkanského projektu
-
-
-
-		prof. Ing. Pavel Tvrdík, CSc.
-
-
-Děkanský projekt
-
-Zkrácená verze děkanského projektu
+Vědecká rada
+Výzkumné skupiny a laboratoře
 
 
 
-	 
- 
+
+
+prof. Ing. Michal Haindl, DrSc. 
+
+Pracoviště
+ČVUT FIT, Katedra teoretické informatiky
+Osobní stránky
+http://staff.utia.cas.cz/haindl/PR/mha.html
+E-mail
+haindl@utia.cas.cz
+Telefon
++420 266 052 350
+
+
+Modelování vizuálních vlastností povrchu materiálů
+Analýza vizuálních vlastností materiálů
+Neřízená segmentace dynamických obrazů
+Automatické odhadování tvaru z videa
+Měření vzhledu materiálu na reálných objektech
+Modelování osvětlení z naměřené vizuální scény
+Rozpoznávání rakoviny kůže a monitorování pokroku léčby
+
+Modelování vizuálních vlastností povrchu materiálů
+Modelling of visual surface material properties
+
+Vzhled reálných materiálů se významně mění se změnou osvětlení a pohledu. Proto současné nejvyspělejší texturní reprezentace vyžadují modelovat odrazivost v širokém rozsahu parametrů osvětlení a umístění kamery pomocí složitých matematických modelů. Cílem práce bude vyvinout a ověřit nový BTF model založený na teorii markovských náhodných polí, který zlepší současný stav fyzikálně správného modelování povrchů materiálů.
+
+
+The appearance of real materials dramatically changes with illumination and viewing variantions. Thus the recent most advanced texture representation requires to model surface reflectance in a wide range of light and camera positions using non-trivial mathematical models. The theisis objective will be to develop and verify a new markov random field based BTF model which will further advance the BTF modelling accuracy.
+
+Analýza vizuálních vlastností materiálů
+Analysis of visual materials properties
+
+Cílem práce je analyzovat vnímání materiálů za proměnných světelných a pozorovacích podmínek. Práce bude mít za úkol nalezení vhodných statických i dynamických vizuálních stimulů a jejich realtivního významu pro lidské vnímání a rozpoznávání odlišných materiálů.
+
+
+The objective is to analyse human visual sensing of materials in variable illumination and observation conditions. The work will aim at discovery of adequate static and dynamic visual stimuli and their relative weight responsible for human perception and recognition of various surface materials.
+
+Neřízená segmentace dynamických obrazů
+Unsupervised dynamic image sgmentation
+
+Cílem práce je kriticky zhodnotit současný stav neřízené segmentace obrazových dat a vyvinutí algoritmu pro neřízenou segmentaci dynamických barevných / multispektrálních / hloubkových obrazů do jednotlivých homogenních oblastí. Algoritmus bude založen na vícerozměrných markovských modelech a testován na PTSB benchmarku.
+
+
+The objective is to survey recent state-of-the-art of unsupervised image segmentation and to develop an unsupervised segmenter for dynamic colour, multispectral, or range data into homogenous regions. The method will be based on the underlying multidimensional Markovian models and verified on the PTSB benchmark.
+
+Automatické odhadování tvaru z videa
+Automatic shape estimation from video
+
+Práce je zaměřena na studium metod rozpoznávání a modelování tvaru těles z videozáznamu pro aplikace virtuální reality. Navrhněte a implementujte v programovacím jazyce C++ vhodnou metodu automatického odhadování 3D modelu z naměřených dat pomocí videokamery. Ověřte metodu na vybraných modelech budov.
+
+
+The thesis objedtive is to study shape recognition and modelling methods from hand held video sequences targeted for virtual reality application.s Propose and implement (in C++) and appropriate method for automatic 3D shape inference from hand held video sequences. Verify this method on selected budildings models.
+
+Měření vzhledu materiálu na reálných objektech
+Material appearance measuring on real objects
+
+Práce je zaměřena na studium metod odhadu pokročilých reprezentací vizuálních vlastností povrchových materiálů (BTF, SVBRDF) přímo měřením 3D objektu v přirozeném osvětlení. Navrhněte a implementujte v programovacím jazyce C++ vhodnou metodu automatického odhadování vizuální reprezentace povrchového materiálu z naměřených dat pomocí videokamery. Ověřte metodu na vybraných povrchových materiálech.
+
+
+The thesis objective is to propose acquisition methods, capable to estimate advanced visual material representations (BTF, SVBRDF) directly from a real 3D object in natural lighting environment. Propose and implement (in C++) an appropriate method for automatic visual surface material inference from hand held video sequences. Verify this method on the selected surface materials.
+
+Modelování osvětlení z naměřené vizuální scény
+Light field estimation from visual scene
+
+Práce je zaměřena na studium metod modelování osvětlení z naměřené obrazové informace pro aplikace modelování BTF textur v modelech virtuální reality. Navrhněte a implementujte v programovacím jazyce C++ vhodnou metodu tvorby osvětlení z naměřených obrazových dat. Ověřte metodu na modelu osvětlení interiéru a exteriéru při proměnném osvětlení
+
+
+The thesis objective is to study environmental light field modelling methods from measured visual scenes applied to correct BTF illumination in virtual reality application. Propose and implement (in C++) an appropriate method for realistic illumination model estimated from real measured visual scenes. Verify this method on interior and exterior virtual reality models with variable illumination.
+
+Rozpoznávání rakoviny kůže a monitorování pokroku léčby
+Skin Cancer Detection and Treatment Progress Monitoring
+
+Melanom kůže, jako nejnebezpečnější forma rakoviny kůže, je rostoucím nebezpečím v posledních desetiletích díky svému stále zvyšujícímu se výskytu. Jeho efektivní léčba vyžaduje jeho rozpoznání a chirurgické odstranění v co nejranější fázi. Cílem práce je nalezení diskriminativních obrazových příznaků a vhodného klasifikátoru, který umožní rozpoznání rakoviny kůže z barevných obrazů kůže a zároveň umožní monitorování pokroku léčby ze sekvence časově proměnných obrazů nádoru.
+
+
+Malignant melanoma, as the most dangerous form of skin cancer, has been a rapidly growing threat over the past decades. The effective treatment requires its early diagnoses and surgical excision. The thesis objective is to find discriminative image features and a robust classifier which will allow to recognize skin cancer on colour skin images and to evaluate a treatment progress between several mutitemporal skin images.
+
 
 
  
@@ -142,7 +204,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 22.11.2017, 17:24      
+      Poslední změna: 26.4.2019, 10:06      
            
                           
        

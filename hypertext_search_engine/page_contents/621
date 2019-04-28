@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2012-04-19
+https://fit.cvut.cz/fakulta/veda/patenty/257355
 
 
 
@@ -48,10 +48,14 @@ Média
 
 
 
-Kalendář
-Akce a události
-Soutěže
-Projekty
+Struktura
+Úřední deska
+Zahraniční styky
+Věda
+Historie
+Akademický senát FIT
+Partneři
+Kontakty
 
 
 
@@ -62,73 +66,76 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » LS 2011/2012 » Počítačová síť FITu Novinky    News
+ › ČVUT » FIT  » Fakulta » Věda » Patenty » Zapojenie procesorovej jednotky Novinky    News
 
 
 
 
-Přehled pravidelných akcí
-Konference pořádané a spolupořádané FIT
-Přednášky a seminářeInformatické večery
-Přednáškový cyklus prof. Svobody
-jsDev Meetups
-SEDMA
-aDev Meetups
-Grafické čtvrtky
-Czech Scala Enthusiasts
-SKAMATI
-Microsoft Student Partner
-Jednorázové akce
+AktualityObhajoby DP
 
-Akce pro zájemce o studium
-Sportovní akce
-Ostatní akce
+Kontakt
+Granty
+PatentyZařízení pro řízení a správu inteligentních budov a bytů
+Systém pro realizaci rozptylovací tabulky
+Zapojení pro řízení a správu inteligentních budov
+Generování multiplikativní inverze
+Zapojenie procesorovej jednotky
 
+DoktorandiZájemce o studium
+Harmonogram
+DSP Informatika Základní informace
+Informace pro nové doktorandy
+Legislativa a formuláře
+Oborová rada - ORP
+Studijní předměty
+Státní doktorská zkouška
+Témata dizertačních prací
+Obhájené dizertační práce
+Zápis do DSP Informatika
 
+Habilitační a jmenovací řízeníObhájené habilitační práce
 
-
-
-Počítačová síť FITu 
-
-
-
-
-Přednáška:
-
-				Počítačová síť FITu
+Vědecká rada
+Výzkumné skupiny a laboratoře
 
 
 
-Přednášející:
-
-				Ing. Martin Bílý, FIT ČVUT
 
 
-
-Datum a čas:
-
-				19. dubna 2012, 18–20 hodin
+Zapojenie procesorovej jednotky 
+V roce 1987 získali Ing. Róbert Lórencz a Ing. Miroslav Morháč, CSc., patent na zapojení speciální procesorové jednotky. Účelem tohoto zapojení je přesné řešení soustavy lineárních rovnic v oblasti zvolené zbytkové třídy. Majitelem patentu je Fyzikálny ústav Slovenskej akadémie vied.
 
 
+Autor
+Ing. Miroslav Morháč, CSc.
+Ing. Róbert Lórencz
+Přihlašovatel/Majitel
+Fyzikálny ústav CEFV SAV, Bratislava
+Druh PV
+Československý národní patent
+Informace ÚPV
+Zapojenie procesorovej jednotky
+Dokumentace
+Patentový spis č. 257 355
+Číslo přihlášky
+1986-5867
+Číslo dokumentu
+257 355
+Datum podání přihlášky
+6. 8. 1986
+Datum udělení patentu
+30. 12. 1987
+Datum publikace patentu
+15. 12. 1988
 
-Místo:
+Anotace
+Účelom zapojenia procesorovej jednotky je presné riešenie sústavy lineárnych rovníc v oblasti zvolenej zvyškovej triedy. Uvedeného účelu sa dosiahne výpočtom inverznej matice v modulovej aritmetike, ktorý sa vykonáva v aritmetickej jednotke (A) v spolupráci s pamäťovým maticovým polom (M), blokom (I) tvorby modulových inverzných a negovaných čísel a blokom (C) riadiacej logiky. K riešeniu sústavy lineárnych rovníc v obore reálnych čísel je potrebných viacero procesorových jednotiek (P1 až Pm), ktoré pracujú synchrónne v súčinnosti s riadiacou jednotkou (R) a hositeľským počítačom (H). Zapojenie procesorovej jednotky môže nájsť široké uplatnenie pri riešení sústav lineárnych rovníc vo všetkých oblastiach vedy a techniky.
 
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:155 (Gočár)
+Osoba zodpovědná za obsah této stránky
 
-
-
-Jazyk:
-
-				čeština
+doc. Ing. Štěpán Starosta, Ph.D., stepan.starosta@fit.cvut.czProděkan pro vědu a výzkum
 
 
-
- 
-Obsah přednášky:
-Posluchači se během přednášky seznámí s počítačovou sítí FITu a Nové budovy ČVUT. Počínaje základní topologií sítě, správou fyzické kabeláže, přehledem aktivních prvků, serverů, virtualizačních technologií až po poskytování základních služeb sítě jako jsou například DNS, autentikační služby nebo elektronická pošta. Představeny budou i možnosti dohledu nad provozem sítě a služeb.
- 
-Stručný životopis přednášejícího:
-Martin Bílý pracuje na FITu jako správce počítačové sítě a některých služeb tvořících základní infrastrukturu FITu. Vystudoval obor elektronické počítače na Katedře počítačů FEL ČVUT. Začátek jeho profesní kariéry je spjat s programováním počítačových sítí pro legendární tuzemské stroje IQ151 a Honza. Od příchodu internetu se zabývá zajišťováním provozu a rozvoje sítě i základních služeb pro akademickou komunitu. Kromě toho umí realizovat kabeláž, administrovat OpenVMS clustery, stěhovat serverovny, či otevírat okna Nové budovy. Jeho koníčkem je námořní jachting.
 
 
  
@@ -160,7 +167,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 30.1.2019, 11:13      
+      Poslední změna: 19.3.2018, 12:37      
            
                           
        

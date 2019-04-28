@@ -1,4 +1,4 @@
-https://fit.cvut.cz/informaticky-vecer_2015-10-19
+https://fit.cvut.cz/android/2013-12-09
 
 
 
@@ -62,7 +62,7 @@ Projekty
 
 
  
- › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » Informatické večery » Archiv » ZS 2015/2016 » Příběhy z vývoje nejrychlejšího virtuálního stroje Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » aDev Meetups » Jedenáctý aDev Meetup Novinky    News
 
 
 
@@ -88,66 +88,38 @@ Ostatní akce
 
 
 
-Příběhy z vývoje nejrychlejšího virtuálního stroje (nejen pro Javu) na světě 
+Jedenáctý aDev Meetup 
 
 
 
 
-Přednáška:
+Přednáška:  
 
-				Příběhy z vývoje nejrychlejšího virtuálního stroje (nejen pro Javu) na světě
-
-
-
-Přednášející:
-
-				Jaroslav Tulach
+				Vývoj pro Google Glass pomocí Android GDK
 
 
 
-Datum a čas:
+Přednášející:    
 
-				19. října 2015, 18–19:30 hodin
-
-
-
-Místo:
-
-				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:107
+				David Vávra
 
 
 
-Jazyk:
+Datum a čas:
 
-				čeština
-
-
-
-Přidejte se k nám a sdílejte pozvánku na  Facebooku! #ITvecer
- 
-Obsah přednášky:
-Každých čtrnáct dní vzniká nový programovací jazyk. Obvykle se začne vytvořením interpretru syntaktického stromu a jazyk se ukáže potencionálním uživatelům. Ti zjistí, že je to úplně skvělý nápad, jen trochu pomalý. Tak se navrhne bajtkód a jazyk se do něj před spuštěním přeloží. To sice pomůže, ale stále se to nějak moc vleče…
-Projekt Truffle chce tento zažitý způsob změnit. Napište si svůj interpret syntaktického stromu pomocí Truffle API a my zařídíme, aby vše bylo rychlé! Abychom ukázali, že je to reálné, tak převedeme, že naše implementace Ruby je desetkrát rychlejší než jakákoli jiná. Přijďte se podívat jak vytvořit nejrychlejší prostředí pro běh vašeho oblíbeného jazyka!
- 
-Stručný životopis přednášejícího:
-Ještě při studiu na univerzitě Jaroslav založil a navrhl NetBeans, což není jen vývojové prostředí, ale především první modulární platforma pro psaní desktopových aplikací v Javě. Při návrhu NetBeans API Jaroslav viděl, udělal a pomohl napravit více chyb než by se dalo spočítat – to jej kvalifikovalo k tomu, aby napsal knihu „Practical API Design“. V současné době Jaroslav pomáhá OracleLabs navrhovat API pro Truffle, což je, společně Graalem, nejrychlejší virtuální stroj na celé planetě.
-Kontakt na přednášejícího pro dotazy: jaroslav.tulach@oracle.com
- 
-Slajdy přednášky:
+				10. prosinec 2013, 18–19:30 hodin
 
 
-Příběhy z vývoje nejrychlejšího virtuálního stroje (nejen pro Javu) na světě
 
- 
-Záznam přednášky:
+Místo:      
 
-
-avc.fit.cvut.cz (po přihlášení ČVUT údaji)
-
-YouTube kanál FIT
+				FIT ČVUT v Praze, Thákurova 9, NB ČVUT, posluchárna T9:111
 
 
-Informatické večery FIT je cyklus přednášek a workshopů určený studentům a pracovníkům FIT ČVUT i ostatních fakult a široké odborné veřejnosti. Vstup je zdarma.
+
+Donedávna bylo možné pro Google Glass vyvíjet jenom pomocí REST API bez přístupu k hardware. To se ale teď mění, již je k dispozici první verze GDK, pomocí kterého můžeme konečně brýle plně ovládnout :) Glass Explorer +David Vávra vám představí GDK, popíše jeho možnosti a omezení a podělí se o zkušenosti s vývojem reálného glassware. A na afterparty si budete moci brýle vyzkoušet.
+Vstup je zdarma, registrujte se prosim na webu akce nebo na G+eventu. Počet účastníků je omezen.﻿
+Těšíme se na vás, GDG ČVUT
 
 
  
@@ -179,61 +151,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 12.2.2019, 16:52      
-           
-                          
-       
-
-
-
-
-
-
-rového inženýrství
-
- jiri.chludil@fit.cvut.cz
- +420 22435 7968
- TH:A-937
-
-
-
-Osoba zodpovědná za obsah této stránky
-
-Ing. Michal Valenta, Ph.D., michal.valenta@fit.cvut.czVedoucí Katedry softwarového inženýrství
-
-
-
-
- 
-
-
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
-
-
-
-Facebook
-Twitter
-Instagram
-YouTube
-
-
-
-Připomínky a náměty
-webmaster@fit.cvut.cz
-
-
-
- 
-
- 
-
-
-
-      Poslední změna: 17.9.2018, 10:51      
+      Poslední změna: 21.1.2019, 11:25      
            
                           
        

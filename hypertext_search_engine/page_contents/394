@@ -1,4 +1,14 @@
-https://fit.cvut.cz/node
+https://fit.cvut.cz/sites/default/files/PR/TZ_LAWFIT_15.pdf
+ading...
+ČESKÉ VYSOKÉ UČENÍ TECHNICKÉ V PRAZESTUDIJNÍ PLÁNY2018/2019 
+Výběr období:
+Následující ak. rok
+Aktuální období
+Fakulty |
+         Celoškolská nabídka volitelných předmětů |
+         Katalog předmětů ECTS
+         | Nastavení
+         | 
 
 
 
@@ -6,256 +16,196 @@ https://fit.cvut.cz/node
 
 
 
+
+
+
+
+
+
+
+English version
+Úvodní stránka >
+         Fakulta informačních technologií >
+         katedra aplikované matematiky >
+         Algoritmy data miningu
+
+
+Algoritmy data miningu
+Přihlášení do KOSu pro zápis předmětu Zobrazit rozvrh
+
+
+Kód
+Zakončení
+Kredity
+Rozsah
+Jazyk výuky
+
+
+MI-ADM.16
+Z,ZK
+5
+2P+1C
 česky
-english
 
 
 
-České vysoké učení technické v Praze
+Přednášející:
+Daniel Vašata, Pavel Kordík (gar.), Karel Klouda
+Cvičící:
+Daniel Vašata, Pavel Kordík (gar.), Karel Klouda
+Předmět zajišťuje:
+katedra aplikované matematiky
+Anotace:
 
 
+Předmět je vhodný pro studenty, kteří se chtějí seznámit s disciplínou vytěžování znalostí z dat (data mining). Pokrývá nejužitečnější
+                  algoritmy, které lze snadno využít v kterékoli oblasti informatiky.
+               
 
-Fakulta informačních technologií
 
+Požadavky:
 
 
+základy statistiky, algoritmizace
 
 
+Osnova přednášek:
 
-Hledání
 
-Hledání: 
+1) Úvod a základní úlohy data miningu, klasifikace, predikce, algoritmus nejbližších sousedů a jeho varianty
+2) Model, hodnocení modelu, plasticita, regularizace
+3) Úvod do klasifikace a regrese
+4) Rozhodovací stromy (algoritmy C4.5, CART, MARS)
+5) Klasifikace pomocí perceptronů a její zobecnění
+6) Lineární, polynomiální a logistická regrese, algoritmy LMS, MLE
+7) Nelineární SVM-klasifikátory a SV-regrese
+8) Induktivní modelování - algoritmy GMDH MIA, COMBI
+9) Nelineární regrese pomocí vícevrstvých perceptronů
+10) Kombinování modelů (algoritmus Adaboost)
+11) Statistický přístup k umělým neuronovým sítím
+12) Shluková analýza (algoritmy K-středů, hierarchické shlukování, neuronový plyn, SOM)
+13) Využití statistického přístupu při volbě počtu skrytých neuronů
 
 
+Osnova cvičení:
 
 
+Seznámení s nástroji Rapidminer, Matlab
+Zadání semestrální práce
+Konzultace
+Prezentace
+Zápočet
 
 
+Cíle studia:
 
 
+Předmět je vhodný pro studenty, kteří se chtějí seznámit s disciplínou vytěžování znalostí z dat (data mining). Pokrývá nejužitečnější
+                  algoritmy, které lze snadno využít v kterékoli oblasti informatiky.
+               
 
 
+Studijní materiály:
 
 
-Fakulta
-Aktuálně
-Zájemci o studium
-Student
-Zaměstnanec
-Média
+Hastie T.,Tibshirani R.,Friedman J., The Elements of Statistical Learning, Data Mining, Inference and Prediction, Springer,
+                  2011
+               
 
 
+Poznámka:
 
 
+Rozsah: 2p+1c
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Rozvrh na zimní semestr 2018/2019:
+Rozvrh není připraven
+Rozvrh na letní semestr 2018/2019:
 
 
 
 
 
 
+06:00–08:0008:00–10:0010:00–12:0012:00–14:0014:00–16:0016:00–18:0018:00–20:0020:00–22:0022:00–24:00
 
 
 
- 
- › ČVUT » FIT  » Fakulta Novinky    News
+Po
 
 
 
 
 
+Út
 
 
-Novinky
 
 
 
+St
 
-Souboj fakult – Frisbee
+místnost TH:A-s135Klouda K.Vašata D.14:30–16:00(přednášková par. 1)Thákurova 7 (FSv-budova A)As135
 
-       -   
-  
-05.05.2019
 
 
-Sedmý turnaj Souboje fakult, tentokrát ve frisbee, se uskuteční 5. 5. na hřišti SK Střešovice. Přihlaste se a přijďte podpořit Fakultu informačních technologií, která je v průběžných výsledcích celé soutěže po pátém turnaji pouze o jeden bod na druhém místě.
+Čt
 
+místnost T9:348Klouda K.Vašata D.12:45–14:15SUDÝ TÝDEN(přednášková par. 1paralelka 101)DejviceNBFIT PC ucebnamístnost T9:351Klouda K.Vašata D.14:30–16:00LICHÝ TÝDEN(přednášková par. 1paralelka 102)DejviceNBFIT PC ucebnamístnost T9:351Klouda K.Vašata D.16:15–17:45LICHÝ TÝDEN(přednášková par. 1paralelka 103)DejviceNBFIT PC ucebna
 
 
 
+Pá
 
 
 
-International Day
 
-       -   
-  
-16.04.2019
 
 
-V Kampusu Dejvice se 16. 4. uskuteční pravidelná akce International Day. Tento veletrh je skvělou příležitostí pro získání užitečných informací o cestě do zahraničí. Budete mít možnost potkat zahraniční studenty, kteří odpoví na vaše dotazy a seznámí vás se svou kulturou. Těšit se můžete např. na tradiční jídlo, zvyky či vystoupení studentských kapel.
 
+Předmět je součástí následujících studijních plánů:
 
 
+Znalostní inženýrství, verze 2016 a 2017 (povinný předmět oboru)
+                  
+Počítačová bezpečnost, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Počítačové systémy a sítě, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Návrh a programování vestavných systémů, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Informační systémy a management, verze 2016, 2017 a 2018 (povinný předmět zaměření)
+                  
+Zaměření Softwarové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Webové inženýrství, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Společný magisterský plán před přiřazením do oboru, verze 2016, 2017 a 2018 (VO)
+                  
+Zaměření Systémové programování, verze 2016, 2017 a 2018 (volitelný předmět)
+                  
+Zaměření Teoretická informatika, verze 2016-2017 (volitelný předmět)
+                  
+Specializace Teoretická informatika, verze 2018 (povinný předmět zaměření, volitelný předmět)
+                  
+Znalostní inženýrství, verze 2018 (povinný předmět oboru)
+                  
 
 
 
 
-R. Pergl jmenován docentem
 
-       -   
-  
-01.04.2019
+Platnost dat k 28. 4. 2019
 
 
-Ing. Robert Pergl, Ph.D., obhájil na fakultě habilitační práci „Conceptualisation: Chapters from Harmonising Enterprise and Software Engineering“ a dne 1. 4. byl jmenován docentem. R. Pergl působí na Katedře softwarového inženýrství a v Centru pro konceptuální modelování a implementace. Jeho odborným zaměřením je konceptuální modelování, softwarové a podnikové inženýrství a programovací jazyky.
+            Copyright © Jiří Kosek, 2010–2012 | 
+            Copyright © ČVUT, 2010–2012
+            Provozuje Výpočetní a informační centrum ČVUT
+Dotazy a připomínky zasílejte na HelpDesk ČVUT nebo na spravcekos@cvut.cz
 
 
+Aktualizace výše uvedených informací naleznete na adrese http://bilakniha.cvut.cz/cs/predmet4663206.html
 
-
-
-
-
-Lesamáj
-
-       -   
-  
-30.04.2019
-
-
-Lesamáj aneb technický dejvický majáles proběhne 30. 4. v Kampusu Dejvice. Multižánrový festival v duchu studentské spolupráce a sounáležitosti začíná v 11:00. Můžete se těšit na hudební a divadelní představení nebo na vyhlášení Veličenstva Lesamáje.
-
-
-
-
-
-
-
-Festival SHOW
-
-       -   
-  
-24.04.2019
-
-
-Kolejní klub Silicon Hill pořádá 24. 4. na strahovských kolejích již jedenáctý ročník Silicon Hill Open Wednesday (SHOW). Na čtyřech podiích je připraven nabitý program těch nejlepších interpretů a také bohatý doprovodný program. Hlavní hvězdou večera bude pop punková kapela Vypsaná fiXa. Vstup je zdarma.
-
-
-
-
-
-
-
-Workshop OpenStreetMap
-
-       -   
-  
-15.04.2019
-
-
-Pavel Zbytovský vás 15. 4. na workshopu OpenStreetMap seznámí s jejich základní editací i pokročilými technikami. OpenStreetMap jsou celosvětové open-source mapy, které fungují podobně jako Wikipedie na principu editace dobrovolníky. Akce se koná od 18:00 v učebně T9:349. Workshop je zdarma, ale je nutné se registrovat.
-
-
-
-
-
-
-
-FIT LAN Párty
-
-       -   
-  
-13.04.2019
-
-
-Klub FIT++ připravil pro všechny herní nadšence 13. 4. v učebně TH:A-1455 další ročník FIT LAN Párty. Budete si moci zahrát staré herní tituly jako Counter-Strike 1.6 nebo Warcraft 3. Nezapomeňte si však přinést své vlastní herní zařízení.
-
-
-
-
-
-
- stránka 1 / 163
-
- 
-
-
-
-
-                Časopis Buď FIT   Anketa ČVUT
-Letní IT kurz pro studenty středních škol
-
-
-Ve spolupráci se Stanford University pořádáme 8.–19. července intenzivní 14denní kurz programování. Kurz určený středoškolákům s názvem Introduction to Computer Science je jedinou takovou akcí v Evropě. Cílem je vzbudit u studentů zájem o programování a naučit je základy zábavnou formou. Výuka bude probíhat na naší fakultě a povedou ji profesoři a studentští lektoři z obou institucí. Kurz bude v anglickém jazyce a přihlášky je možné podávat do 15. května. Účastníci kurzu platí pouze zápisné 1 000 Kč.
-Celý článek o kurzu ICS 2019
-Tisková zpráva o kurzu ICS 2019
-
-Nejvýkonnější superpočítač pro výzkum AI v ČR
-
-
-V rámci projektu Výzkumného centra informatiky (Research Center for Informatics – RCI) Fakulty informačních technologií a Fakulty elektrotechnické byl vybudován nejvýkonnější počítačový klastr pro výzkum umělé inteligence v ČR. Tento superpočítač v hodnotě 41,6 milionu korun se nachází v podzemí budovy FEL na Karlově náměstí. Vědci díky jeho výkonu 6 PetaFLOPS budou moci provádět výzkum metod hlubokého učení, např. pro aplikace v robotice či bioinformatice, vývoj aplikací pro počítačovou bezpečnost nebo řízení autonomních aut.
-Tisková zpráva o novém počítačovém klastru
-
-Robot Pepper předával diplomy
-
-
-Humanoidní robot Pepper se stal 22. března součástí slavnostního ceremoniálu v Betlémské kapli, kde se aktivně zapojil do promocí bakalářských a magisterských absolventů. Robota pro tuto událost naprogramovali přímo studenti FIT v moderně vybavené Laboratoři inteligentních vestavných systémů. Fakulta je jediná v České republice, která robota Pepper využívá také právě pro výuku.
-Tisková zpráva o předávání diplomů robotem Pepper
-
-LAW FIT 2019: Digitální realita
-
-
-Konference o právu a IT LAW FIT se uskuteční 20. května. Sedmý ročník s tématem Digitální realita se zaměří na stále rostoucí digitální svět. Konference se bude zabývat mj. tématy, jak v tomto virtuálním světe budeme v budoucnosti fungovat nebo zda má tato realita také nějaká pravidla. Pro účast je požadována registrace. Akce se koná na Fakultě informačních technologií od 9:00 v posluchárně T9:105.
-Celý článek o konferenci LAW FIT 2019
-
- 
-Archiv článků
-
-
- 
-
-
-Důležité odkazy
-Mapa stránek
-Kontakty
-Partneři
-Časopis Buď FIT
-
-
-
-Facebook
-Twitter
-Instagram
-YouTube
-
-
-
-Připomínky a náměty
-webmaster@fit.cvut.cz
-
-
-
- 
-
- 
-
-
-
-      Poslední změna: 24.4.2019, 14:40      
-           
-                          
-       
-
-
-
-
-
+ Zobrazovat kódy skupin předmětů
+         
 

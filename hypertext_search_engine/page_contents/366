@@ -1,4 +1,23 @@
-https://usermap.cvut.cz/profile/tufkogis
+http://casopis.fit.cvut.cz/deni-na-fit/umela-inteligence-nejen-na-fit/
+
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+Toggle navigation
 
 
 
@@ -9,7 +28,40 @@ https://usermap.cvut.cz/profile/tufkogis
 
 
 
- Zobrazit/Skrýt navigaci
+Téma 
+
+1/2018 – Historie ČVUT
+3/2017 – Internet of Things
+2/2017 – Sociální sítě
+1/2017 – Historie IT
+Archiv
+
+
+Rubriky 
+
+Aktuální dění na ČVUT
+Aktuální dění na FIT
+Fiťácké projekty
+Osobnost
+Pozvánky
+Partneři FIT
+Technologie
+Téma
+Tvorba
+Volný čas
+
+Filmové tipy
+Herní tipy
+Knižní tipy
+Mensa úlohy
+Sport
+Ostatní
+
+
+
+
+O časopisu
+ 
 
 
 
@@ -18,37 +70,125 @@ https://usermap.cvut.cz/profile/tufkogis
 
 
 
-                USERMAP
-            
+
+
+
+
+
+ 
+
+Umělá inteligence (nejen) na FIT
+
+ 29. 1. 201720. 3. 2018  Externí autor
+
+Aktuální dění na FIT 
+
+
+
+Asi jste si všimli, že umělá inteligence posledních pár let hýbe světem. Navíc už není tak umělá, jako dříve. Místo tradičních pravidlových systémů se stále více prosazují přírodou inspirované algoritmy strojového učení, jako jsou například umělé neuronové sítě.
+A právě úspěšné nasazení umělých neuronových sítí v řadě oblastí vede k obrovské popularitě celého tohoto odvětví. Umělá inteligence a strojové učení je trendy nejen ve výzkumu (na loňskou konferenci NIPS v Barceloně přijelo přes pět tisíc vědců a další už se nevešli), ale i v průmyslu. Třeba takový Google si dokonce začal říkat “machine learning first” company. Podobně je na tom třeba Amazon (podívejte se co se letos řešilo na Reinventu, kam přišlo téměř 30 tis. lidí) nebo Microsoft, který na umělou inteligenci shání shání 5000 vědců. Snaží se ale i menší inovativní společnosti a startupy. Investoři se totiž nebojí do této oblasti vložit své peníze, protože to ani po dvou letech boomu nevypadá, že by to byla jen prázdná bublina. Mnoho z AI firem totiž plní očekávaní, přenášejí inovace do praxe a zásadním způsobem mění zaběhnuté pořádky.
+AI všude kolem nás
+Používáte Google překladač? Ten třeba pro překlad hlavních světových jazyků používá něco, čemu se říká Neural Machine Translation, a je to vlastně taková umělá neuronová síť naučená na větších datech.
+Podobně se neuronovým sítím daří třeba v rozpoznávání obrazu, řeči, ale i spoustě generativních úloh, jako je syntéza řeči, textu či hudby. Jde to tak daleko, že už si například můžete naučit neuronovou síť na konverzacích s vaším kamarádem, což se v extrémním případě dá udělat i v situaci, kdy už dotyčný není mezi námi. Pomocí rekurentních neuronových sítí se zatím nepříliš úspěšně dají generovat básně, tweety Jiřího Ovčáčka nebo hudba na motivy Mozarta. Umělá inteligence je prostě stále kreativnější a užitečnější.
+
+Určitě jste si všimli, že začala jezdit samo-řiditelná auta, inteligentní asistenti dobývají obýváky a počítač drtí šampióny ve hře Go nebo úspěšně ovládá hry pouze pomocí visuálního vstupu. Za toto všechno vděčíme pokroku v umělé inteligenci a také lepším a rychlejším strojům.
+AI předměty FITu
+Na FITu můžete umělou inteligenci studovat v oboru Znalostní inženýrství. Začněte předmětem Základy umělé inteligence (BI-ZUM). Pokud jste orientovaní do praxe a chcete se strojovým učením živit, nejlepší je studovat oblast data miningu, se kterou se seznámíte v předmětu Vytěžování znalostí z dat (BI-VZD). V magisterském studiu se pak můžete dále zdokonalovat v Matematice pro znalostní inženýry (MI-MZI), Algoritmech data miningu (MI-ADM), Předzpracování dat (MI-PDD), Rozpoznávání (MI-ROZ), Metodách výpočetní inteligence (MI-MVI) a dalších kurzech.
+Nově, od letního semestru 2016/2017, otvíráme předmět Games and reinforcement learning (MI-GLR) o posilovaném učení ve hrách. Předmět bude vyučován v anglickém jazyce a mohou si ho zapsat studenti všech programů.
+AI a Spolupráce s průmyslem
+Nejlépe ale uděláte, když začnete pracovat na nějakém zajímavém praktickém nebo vědeckém AI projektu. Jako student FITu je pak můžete odevzdat v podobě semestrálky do výše uvedených předmětů a ještě za to dostanete odměnu. V portálu Spolupráce s průmyslem, který nabízí placenou praxi při studiu, se totiž v nejbližších týdnech objeví desítky projektů se zaměřením na umělou inteligenci a datamining. Studenti, neváhejte se proto registrovat a nebojte se přihlásit, až uvidíte něco zajímavého. Tyto dovednosti v praxi jistě dobře uplatníte.
+V Portálu můžete najít hned několik firem, které se inovacemi v oblasti umělé inteligence dlouhodobě zabývají:
+
+Již několik úspěšných projektů přes portál v posledních letech zadala firma GoodAI, která přichází s ambiciózním programem na výzkum obecné umělé inteligence. 
+Showmax letos naváže na projekt rozpoznávání obsahu videa pomocí hlubokých neuronových sítí a investuje poměrně velké prostředky do dalšího výzkumu a vývoje. 
+Datamole zadává mimo jiné zajímavé projekty pro robotizaci a automatizaci v zemědělství.
+Profinit (Manta tools) a Komerční banka budou pokračovat ve vypisování projektů umělé inteligence ve finančním sektoru.
+Recombee bude přes portál dále vylepšovat svůj doporučovací stroj, a zadá i projekty na porozumění a personalizaci mediálního obsahu. 
+Česká policie pak bude vypisovat další projekty na predikci kriminality a detekci anomalit při ostraze hranic. 
+
+AI a výzkum
+Kromě praktických projektů můžete pracovat na akademických výzkumných projektech, které například v rámci Laboratoře datových věd v oblasti umělé inteligence rozvíjíme. Láká vás výzkum AI Chatbota, vývoj umělé inteligence pro Angry Birds nebo se chcete dozvědět něco více o strojovém učení? Přijďte na let’s talk ML nebo na pravidelné páteční schůzky výzkumné skupiny ML-CIG. Několik zajímavých výzkumných projektů v oblasti umělé inteligence již přes portál realizovala i naše nová laboratoř pro výzkum programovacích jazyků. 
+Jak vidno, příležitostí dělat zajímavé věci v AI je opravdu mnoho a nezdá se, že by jich do budoucna mělo ubývat.
+Autor: Pavel Kordík, proděkan pro rozvoj
+Foto: převzato z časopisu Economist
+SdíletFacebook0Google+0Twitteremail 
+
+
+
+
+
+Navigace pro příspěvek
+ Buď FIT 2.0Oslavte s ČVUT 25 let internetu v ČR 
 
 
 
 
 
 
+aktuální téma 
 
-Lidé na ČVUT
+  Nejnovější příspěvky 
 
-
-
-
-
-Pracoviště
+Seznamovák 2018: Očima Kristýny Klesnilové
 
 
+Seznamovák 2018: Očima Kláry Hoznauerové
+
+
+Bohatství, které zůstává ladem
+
+
+Osvícení mistra robota Peppera při promocích v Betlémské kapli
+
+
+Anketa vypočutá! Študenti sa môžu tešiť na zmeny v systéme ProgTest
+
+
+Newsletter
+
+
+Search for:
 
 
 
 
 
+Téma1/2018 – Historie ČVUT
+3/2017 – Internet of Things
+2/2017 – Sociální sítě
+1/2017 – Historie IT
+Archiv
+RubrikyAktuální dění na ČVUT
+Aktuální dění na FIT
+Fiťácké projekty
+Osobnost
+Pozvánky
+Partneři FIT
+Technologie
+Tvorba
+Volný čas
 
+Filmové tipy
+Herní tipy
+Knižní tipy
+Mensa úlohy
+Sport
+Ostatní
+
+
+OdkazyBuď FIT na Facebooku
+Buď FIT na Twitteru
+FIT ČVUT v Praze
+  Základní informace 
 Přihlásit se
+O časopisu
+RSS (příspěvky)
 
+ 
 
 
 
 
-CZ/EN
 
 
 
@@ -60,7 +200,8 @@ CZ/EN
 
 
 
-Ing. Gisela Tufková
+						Buď FIT – Časopis Fakulty informačních technologií ČVUT
+					
 
 
 
@@ -70,61 +211,6 @@ Ing. Gisela Tufková
 
 
 
-Profil uživatele
-
-
-
-
-Role na ČVUT
-
-Pozice na ČVUT
-
-
-
-
-
-zaměstnanec / studijní oddělení / Fakulta informačních technologií
-
-
-
-
-Kontaktní údaje
-
-Místnost
-
-
-Praha, Thákurova 2700/9, místnost: 312c
-
-
-
-
-Telefon
-
-
-+420-22435-9836
-
-
-
-
-E-mail
-
-
-gisela.tufkova@fit.cvut.cz
-tufkogis@fit.cvut.cz
-
-
-
-
-
-
-
-
-
-
-
-
-    Copyright © 2019 ČVUT v Praze        | provozuje ČVUT - Výpočetní a informační centrum
-        | Hlášení chyb a námětů Helpdesk ČVUT
 
 
 

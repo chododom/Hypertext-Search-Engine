@@ -1,4 +1,4 @@
-https://fit.cvut.cz/fakulta/deska/volba-dekana
+https://fit.cvut.cz/fakulta/pravidelne-akce/jsdevmeetups/2017-11-21
 
 
 
@@ -48,14 +48,10 @@ Média
 
 
 
-Struktura
-Úřední deska
-Zahraniční styky
-Věda
-Historie
-Akademický senát FIT
-Partneři
-Kontakty
+Kalendář
+Akce a události
+Soutěže
+Projekty
 
 
 
@@ -66,70 +62,81 @@ Kontakty
 
 
  
- › ČVUT » FIT  » Fakulta » Struktura » Děkan » Volba děkana » Volba děkana 2009 Novinky    News
+ › ČVUT » FIT  » Aktuálně » Akce a události » Přednášky a semináře » jsDev Meetups » Photopea: vývoj grafického editoru Novinky    News
 
 
 
 
-Katedry
-Vědecká rada
-Disciplinární komise
-DěkanPoradní orgány děkana
-Děkani FIT
-Volba děkana
-Inaugurace děkana
-Kontakt
+Přehled pravidelných akcí
+Konference pořádané a spolupořádané FIT
+Přednášky a seminářeInformatické večery
+Přednáškový cyklus prof. Svobody
+jsDev Meetups
+SEDMA
+aDev Meetups
+Grafické čtvrtky
+Czech Scala Enthusiasts
+SKAMATI
+Microsoft Student Partner
+Jednorázové akce
 
-Děkanát
-Rada studijního programu
-
-
-
-
-
-Volba kandidáta na děkana FIT ČVUT pro funkční období 2009–2013 
-
-Akademický senát Fakulty informačních technologií (AS FIT) ČVUT v Praze vyhlašuje podle § 27 odst. 1 písm. g) zákona č. 111/ Sb. v platném znění volbu děkana fakulty pro čtyřleté funkční období 2009 – 2013.
-Harmonogram volby:
+Akce pro zájemce o studium
+Sportovní akce
+Ostatní akce
 
 
-Registrace kandidátů:
-do 29. 9. 2009 do 12:00 hod.
 
 
-Setkání se členy AS FIT:
-1. 10. 2009 v 9:00
+
+Photopea: vývoj grafického editoru 
 
 
-Setkání s akademickou obcí:
-30. 9. 2009 ve 12:30 v posluchárně NTK
 
 
-Termín volby:
-1. 10. 2009 v 18:00 v zasedací místnosti FIT
+
+Photopea: vývoj grafického editoru
+Ivan Kuckir se 21. 11. od 18:00 ve své přednášce „Photopea: vývoj grafického editoru“ zaměří na tento pokročilý editor fotografií. Přijďte do posluchárny T9:107 na přednášku z cyklu jsDev Meetups si poslechnout nejen o procesu vývoje takového editoru. Na akci je nutné se zaregistrovat.
+Téma
+Photopea je pokročilý editor fotografií. Její složitost je srovnatelná s programy Photoshop nebo GIMP. Je to však webová aplikace a celá běží v prohlížeči návštěvníka. Na přednášce budete moci nahlédnout do procesu vývoje takového editoru. Dozvíte se, jak maximálně využít výpočetní výkon klientova zařízení a co dnes stále brání webovým aplikacím nahradit ty nativní. Podíváme se i na nějaké grafické algoritmy a jejich ukázky, minifikaci PNG obrázků nebo obfuskaci JavaScriptu.
+O akci
+Akce je zdarma, ale je nutné se zaregistrovat na . Přednáška je určena pro posluchače se základní znalostí probírané technologie.
 
 
-Přihláška musí obsahovat:
-a) písemný souhlas s kandidaturou,
-b) děkanský projekt,
-c) zkrácenou verzi děkanského projektu v rozsahu jedné strany formátu A4.
-Uvedené materiály doručte na adresu
+Typ akce
+Přednáška
+Přednášející
+Ivan Kuckir
+Termín
+21. listopadu 2017, 18:00–19:30
+Místo
+posluchárna T9:107, Nová budova ČVUT
+Thákurova 9, Praha 6
+Jazyk
+čeština
+Záznam
+nebude pořízen
 
-Akademický senát Fakulty informačních technologií
-Českého vysokého učení technického v Praze
-k rukám předsedy doc. Ing. Jiřího Douši, CSc.
-Kolejní 550/2
-160 00 Praha 6
 
-v podobě papírového dokumentu s podpisem kandidáta, materiál podle bodu b), c) navíc v elektronické podobě (na CD), vše v zalepené obálce výrazně označené v levém horním rohu nápisem: "Kandidát na děkana – NEOTEVÍRAT!". Z hlediska termínu je rozhodující doručení na sekretariát děkana FIT. Děkanský projekt by měl zahrnovat dosavadní výsledky a zkušenosti kandidáta a jeho názory na důležité aspekty rozvoje FIT ČVUT.
-Po uzavření registrace kandidátů budou zkrácené verze děkanských projektů zveřejněny na úřední desce FIT.
-Funkce děkana fakulty je podmíněna předložením lustračního osvědčení podle zákona 451/1991 Sb. v platném znění. Děkan je veřejným funkcionářem ve smyslu zákona o střetu zájmů 159/2006 Sb.
-Uvedený termín setkání s akademickou obcí může být upraven s ohledem na počet kandidátů a prostorové možnosti.
-Tento text byl schválen AS FIT dne 14. 9. 2009.
-Děkanský projekt prof. Ing. Pavla Tvrdíka, CSc.
 
-Ing. Jan Janoušek, Ph.D.
-předseda volební komise AS FIT pro volbu děkana FIT
+O přednášejícím
+Ivan Kuckir je absolvent teoretické informatiky na Matematicko-fyzikální fakultě Univerzity Karlovy. Před půl rokem ukončil studium a nyní se naplno věnuje projektu Photopea. Ivana dále zajímá počítačová grafika, umělá inteligence, webové technologie a vývoj videoher. Více o Ivanovi a jeho projektech najdete na jeho blogu Algorithms and Stuff.
+Související obsah
+
+Témata
+Cyklus přednášek: JavaScript Developer Meetups
+Předchozí přednáška: Funkcionální architektura ve vodách Angularu
+Následující přednáška: AngularDart
+Lidé
+Přednášející: Ivan Kuckir
+Místa
+T9:107
+
+
+Osoba zodpovědná za obsah této stránky
+
+Ing. Lukáš Janeček, lukas.janecek@fit.cvut.czOrganizátor jsDev Meetups
+
+
 
 
  
@@ -161,7 +168,7 @@ webmaster@fit.cvut.cz
 
 
 
-      Poslední změna: 3.12.2018, 12:17      
+      Poslední změna: 23.4.2019, 12:53      
            
                           
        

@@ -85,7 +85,7 @@ if SEARCH:
 
 for i in range(len(final_res)):
     PageRank.assign_ranks(final_res)
-    print(final_res[i].page_url + "  ---  " + str(final_res[i].page_rank) + "  ---  " + str(final_res[i].content_rank))
+    print(final_res[i].page_url + " -> " + str(final_res[i].combined_rank) + " --- " + str(final_res[i].normalized_page_rank) + " --- " + str(final_res[i].normalized_content_rank))
 
 
 
